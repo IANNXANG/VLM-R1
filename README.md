@@ -1,2 +1,2 @@
-# R1-V: Incentivize the Aha Moment of VLM with Less Than $3
+# R1-V: Reinforce the Generalization of VLM with Less Than $3
 
