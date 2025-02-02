@@ -1,2 +1,2 @@
-# R1-V: Reinforce the Generalization of VLM with Less Than $3
+# R1-V: Reinforce Visual Generalization in VLMs with Less Than $3
 
