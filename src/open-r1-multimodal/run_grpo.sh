@@ -4,21 +4,24 @@ export DEBUG_MODE="true"
 export LOG_PATH="./debug_log_2b.txt"
 
 
+export CUDA_VISIBLE_DEVICES=0
 
-torchrun --nproc_per_node="8" \
+torchrun --nproc_per_node="1" \
     --nnodes="1" \
     --node_rank="0" \
     --master_addr="127.0.0.1" \
     --master_port="12345" \
     src/open_r1/grpo.py \
-    --output_dir <OUTPUT_DIR> \
-    --model_name_or_path <PATH-TO-Qwen2-VL-2B-Instruct> \
-    --dataset_name <PATH-TO-DATASET> \
+    --deepspeed /data9/shz/project/r1v/R1-V/src/open-r1-multimodal/local_scripts/zero2.json \
+    --output_dir /data9/shz/project/r1v/R1-V/output \
+    --model_name_or_path /data9/shz/ckpt/Qwen2-VL-2B-Instruct \
+    --dataset_name /data9/shz/dataset/clevr_cogen_a_train \
     --max_prompt_length 1024 \
     --per_device_train_batch_size 1 \
     --gradient_accumulation_steps 2 \
     --logging_steps 1 \
-    --bf16 \
+    --torch_dtype bfloat16 \
+    --data_seed 42 \
     --report_to wandb \
     --gradient_checkpointing false \
     --attn_implementation flash_attention_2 \

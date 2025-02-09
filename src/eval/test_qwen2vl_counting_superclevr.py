@@ -6,10 +6,10 @@ from tqdm import tqdm
 import re
 
 
-
-MODEL_PATH="Qwen2-VL-2B-GRPO-CLEVR-70k/checkpoint-100" # Qwen2vl-2b-Instruct for original scores
+steps = 200
+MODEL_PATH=f"/data9/shz/project/r1v/R1-V/output/checkpoint-{steps}" # Qwen2vl-2b-Instruct for original scores
 BSZ=64 # reduce it if GPU OOM
-OUTPUT_PATH="./logs/counting_results_superclevr_200_qwen2vl_2b_instruct_grpo_100.json"
+OUTPUT_PATH=f"./logs/counting_results_superclevr_200_qwen2vl_2b_instruct_r1_{steps}.json"
 PROMPT_PATH="./prompts/superclevr_test200_counting_problems.jsonl"
 
 #We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
@@ -17,7 +17,7 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(
     MODEL_PATH,
     torch_dtype=torch.bfloat16,
     attn_implementation="flash_attention_2",
-    device_map="auto",
+    device_map="cuda:0",
 )
 
 # default processer
@@ -69,7 +69,7 @@ for i in tqdm(range(0, len(messages), BSZ)):
         padding=True,
         return_tensors="pt",
     )
-    inputs = inputs.to("cuda")
+    inputs = inputs.to("cuda:0")
 
     # Inference: Generation of the output
     generated_ids = model.generate(**inputs, use_cache=True, max_new_tokens=256, do_sample=False)
