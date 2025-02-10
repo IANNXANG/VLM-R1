@@ -176,9 +176,12 @@ wandb/
 scripts/
 checkpoints/
 .vscode/
+.cursor/
 
 output/
+rec_jsons_processed/
 
 test/
 images_eval/
 *.zip
+*.txt
