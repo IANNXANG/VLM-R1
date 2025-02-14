@@ -141,7 +141,9 @@ class LazySupervisedDataset(Dataset):
                     {"role": "user", "content": example["problem"]},
                 ],
             }
-        QUESTION_TEMPLATE = "{Question}  Output the thinking process in <think> </think> and final answer in <answer> </answer> tags."
+        # FIXME
+        # This is only for Grounding task
+        QUESTION_TEMPLATE = "{Question} First output the thinking process in <think> </think> tags and then output the final answer in <answer> </answer> tags. Output the final answer in JSON format."
         def make_conversation_image(example):
             return {
                 "prompt": [
@@ -160,6 +162,11 @@ class LazySupervisedDataset(Dataset):
         image_root = self.script_args.image_root
         if 'image' in example:
             image_path = os.path.join(image_root, example['image'])
+            # In case the image is not found
+            while not os.path.exists(image_path):
+                new_index = random.randint(0, len(self.list_data_dict))
+                example = self.list_data_dict[new_index]
+                image_path = os.path.join(image_root, example['image'])
             image = Image.open(image_path).convert("RGB")
         else:
             image = None
@@ -173,7 +180,6 @@ class LazySupervisedDataset(Dataset):
         }
 
 '''
-Haozhan comments:
     If the iou of the bbox predicted by the model and the ground truth is greater than 0.5, the reward is 1.0, otherwise 0.0 .
     This is a hard reward, maybe the soft reward is better and could be used in the future .
 '''
@@ -193,7 +199,7 @@ def iou_reward(completions, solution, **kwargs):
     rewards = []
     current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
     answer_tag_pattern = r'<answer>(.*?)</answer>'
-    number_pattern = r'[-+]?\d*\.\d+|\d+'
+    bbox_pattern = r'\[(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*)\]'
     for content, sol in zip(contents, solution):
         reward = 0.0
         # Try symbolic verification first
@@ -201,14 +207,9 @@ def iou_reward(completions, solution, **kwargs):
             content_answer_match = re.search(answer_tag_pattern, content)
             if content_answer_match:
                 content_answer = content_answer_match.group(1).strip()
-                number_match = re.findall(number_pattern, content_answer)
-
-                x1, y1, x2, y2 = [float(number_match[i]) for i in range(4)]
-                bbox = [int(x1), int(y1), int(x2), int(y2)]
-                if iou(bbox, sol) > 0.5:
-                    reward = 1.0
-                if all(bbox[i] <= 1 for i in range(4)):
-                    bbox = [int(x1 * 1000), int(y1 * 1000), int(x2 * 1000), int(y2 * 1000)]
+                bbox_match = re.search(bbox_pattern, content_answer)
+                if bbox_match:
+                    bbox = [int(bbox_match.group(1)), int(bbox_match.group(2)), int(bbox_match.group(3)), int(bbox_match.group(4))]
                     if iou(bbox, sol) > 0.5:
                         reward = 1.0
         except Exception:
@@ -227,7 +228,8 @@ def iou_reward(completions, solution, **kwargs):
 
 def format_reward(completions, **kwargs):
     """Reward function that checks if the completion has a specific format."""
-    pattern = r"<think>.*?</think>\s*<answer>.*?</answer>"
+    # pattern = r"<think>.*?</think>\s*<answer>.*?</answer>"
+    pattern = r"<think>.*?</think>\s*<answer>.*?\{.*\[\d+,\s*\d+,\s*\d+,\s*\d+\].*\}.*?</answer>"
     completion_contents = [completion[0]["content"] for completion in completions]
     matches = [re.fullmatch(pattern, content, re.DOTALL) for content in completion_contents]
     return [1.0 if match else 0.0 for match in matches]
@@ -238,28 +240,15 @@ reward_funcs_registry = {
     "format": format_reward,
 }
 
-# reward_funcs_registry_2_5 = {
-#     "accuracy": iou_reward_2_5,
-#     "format": format_reward,
-# }
-
 
 def main(script_args, training_args, model_args):
-    # Get reward functions
-    # if "Qwen2.5-VL" in model_args.model_name_or_path:
-    #     reward_funcs = [reward_funcs_registry_2_5[func] for func in script_args.reward_funcs]
-    # else:
-    #     reward_funcs = [reward_funcs_registry[func] for func in script_args.reward_funcs]
     reward_funcs = [reward_funcs_registry[func] for func in script_args.reward_funcs]
     print("reward_funcs:", reward_funcs)
 
     # Load the dataset
     dataset = LazySupervisedDataset(script_args.dataset_name, script_args)
 
-    
     trainer_cls = Qwen2VLGRPOTrainer
-
-
     # Initialize the GRPO trainer
     trainer = trainer_cls(
         model=model_args.model_name_or_path,

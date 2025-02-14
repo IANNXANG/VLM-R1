@@ -1,4 +1,0 @@
-datasets:
-    - json_path: /data9/shz/project/r1v/R1-V/src/open-r1-multimodal/data_script/rec_jsons_processed/refcoco_train.json
-    - json_path: /data9/shz/project/r1v/R1-V/src/open-r1-multimodal/data_script/rec_jsons_processed/refcocop_train.json
-    - json_path: /data9/shz/project/r1v/R1-V/src/open-r1-multimodal/data_script/rec_jsons_processed/refcocog_train.json
