@@ -88,10 +88,10 @@ We would like to express our sincere gratitude to [DeepSeek](https://github.com/
 ## Citation
 If you find this project useful, welcome to cite us.
 ```bib
-@misc{,
-  author       = {},
-  title        = {},
-  howpublished = {\url{}},
+@misc{shen2025vlmr1,
+  author       = {Shen, Haozhan and Zhang, Zilun and Zhang, Qianqian and Xu, Ruochen and Zhao, Tiancheng},
+  title        = {VLM-R1: A stable and generalizable R1-style Large Vision-Language Model},
+  howpublished = {\url{https://github.com/om-ai-lab/VLM-R1}},
   note         = {Accessed: 2025-02-15},
   year         = {2025}
 }
