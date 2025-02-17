@@ -1,8 +1,7 @@
 # VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
-<font size=4><div align='center' > [[🍎 Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] [[🤗 Data](https://huggingface.co/datasets/omlab/VLM-R1)] </div></font>
+<font size=4><div align='center' > [[🤗 Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] </div></font>
 
 <img src="./assets/performance.png" width="600"/>
-
 
 Since the introduction of [Deepseek-R1](https://github.com/deepseek-ai/DeepSeek-R1), numerous works have emerged focusing on reproducing and improving upon it. In this project, we propose VLM-R1, a stable and generalizable R1-style Large Vision-Language Model. 
 
@@ -21,7 +20,7 @@ bash setup.sh
 
 ### Referring Expression Comprehension (REC)
 
-> 1. Download the [COCO Train2014 image](http://images.cocodataset.org/zips/train2014.zip) and unzip it, and we refer to the image dir as `<your_image_root>`.
+> 1. Download the [COCO Train2014 image](https://huggingface.co/datasets/omlab/VLM-R1/resolve/main/train2014.zip) and unzip it, and we refer to the image dir as `<your_image_root>`.
 
 > 2. Download the [RefCOCO/+/g Annotation files](https://huggingface.co/datasets/omlab/VLM-R1/resolve/main/rec_jsons_processed.zip) and unzip it.
 
