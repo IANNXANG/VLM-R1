@@ -1,7 +1,7 @@
 # VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
+<font size=4><div align='center' > [[🤗 Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] </div></font
 
 <img src="./assets/performance.png" width="600"/>
-
 
 Since the introduction of [Deepseek-R1](https://github.com/deepseek-ai/DeepSeek-R1), numerous works have emerged focusing on reproducing and improving upon it. In this project, we propose VLM-R1, a stable and generalizable R1-style Large Vision-Language Model. 
 
