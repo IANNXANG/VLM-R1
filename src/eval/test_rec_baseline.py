@@ -12,17 +12,17 @@ import random
 # MODEL_PATH=f"/data/shz/project/llama-factory/LLaMA-Factory/saves/qwen2_5_vl-3b/full/sft/checkpoint-{steps}" 
 # OUTPUT_PATH="./logs/rec_results_{DATASET}_qwen2_5vl_3b_instruct_sft_{STEPS}.json"
 
-MODEL_PATH = "/data/shz/ckpt/Qwen2.5-VL-7B-Instruct"
-OUTPUT_PATH = "./logs/rec_results_{DATASET}_qwen2_5vl_7b_instruct_baseline.json"
+MODEL_PATH = "path/to/Qwen2.5-VL-3B-Instruct"
+OUTPUT_PATH = "./logs/rec_results_{DATASET}_qwen2_5vl_3b_instruct_baseline.json"
 
 BSZ=32
-DATA_ROOT = "/data/shz/project/vlm-r1/VLM-R1/src/data/rec_jsons_processed"
+DATA_ROOT = "path/to/rec_jsons_processed"
 
-# TEST_DATASETS = ['refcoco_val', 'refcocop_val', 'refcocog_val']
-# IMAGE_ROOT = "/data/shz/dataset/coco"
+TEST_DATASETS = ['refcoco_val', 'refcocop_val', 'refcocog_val']
+IMAGE_ROOT = "path/to/coco"
 
-TEST_DATASETS = ['refgta_subsample']
-IMAGE_ROOT = "/data/shz/dataset/refgta"
+# TEST_DATASETS = ['refgta_subsample']
+# IMAGE_ROOT = "path/to/refgta"
 
 random.seed(42)
 
@@ -39,14 +39,15 @@ processor = AutoProcessor.from_pretrained(MODEL_PATH)
 
 def extract_bbox_answer(content):
     bbox_pattern = r'\[(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*)\]'
+    # bbox_pattern = r'\[(-?\d*\.?\d+),\s*(-?\d*\.?\d+),\s*(-?\d*\.?\d+),\s*(-?\d*\.?\d+)\]'
     bbox_match = re.search(bbox_pattern, content)
 
     if bbox_match:
-        bbox = [int(bbox_match.group(1)), int(bbox_match.group(2)), int(bbox_match.group(3)), int(bbox_match.group(4))]
+        bbox = [float(bbox_match.group(1)), float(bbox_match.group(2)), float(bbox_match.group(3)), float(bbox_match.group(4))]
         x1, y1, x2, y2 = bbox
-        # if all(bbox[i] <= 1 for i in range(4)):
-        #     bbox = [int(x1 * 1000), int(y1 * 1000), int(x2 * 1000), int(y2 * 1000)]
-        #     return bbox, True
+        if all(bbox[i] <= 1 for i in range(4)):
+            bbox = [int(x1 * 1000), int(y1 * 1000), int(x2 * 1000), int(y2 * 1000)]
+            return bbox, True
         return bbox, False
     return [0, 0, 0, 0], False
 
@@ -159,6 +160,9 @@ for ds in TEST_DATASETS:
 
     # Save results to a JSON file
     output_path = OUTPUT_PATH.format(DATASET=ds)
+    output_dir = os.path.dirname(output_path)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     with open(output_path, "w") as f:
         json.dump({
             'accuracy': accuracy,
