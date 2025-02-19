@@ -20,6 +20,8 @@ bash setup.sh
 
 ### Referring Expression Comprehension (REC)
 
+#### GRPO
+
 > 1. Download the [COCO Train2014 image](https://huggingface.co/datasets/omlab/VLM-R1/resolve/main/train2014.zip) and unzip it, and we refer to the image dir as `<your_image_root>`.
 
 > 2. Download the [RefCOCO/+/g and RefGTA Annotation files](https://huggingface.co/datasets/omlab/VLM-R1/resolve/main/rec_jsons_processed.zip) and unzip it (RefGTA is used for out-of-domain evaluation).
@@ -67,6 +69,25 @@ torchrun --nproc_per_node="8" \
 ![image](./assets/iou.jpg)
 ![image](./assets/wandb.jpg)
 
+
+#### SFT
+We use [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) to train the SFT model.
+> 1. Clone the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) repository and install the dependencies.
+```bash
+git clone https://github.com/hiyouga/LLaMA-Factory.git
+cd LLaMA-Factory
+pip install -e ".[torch,metrics]"
+```
+
+> 2. Download the dataset_info.json, mllm_rec_json.json, and qwen2_5_vl_full_sft.yaml we provided [here](https://huggingface.co/datasets/omlab/VLM-R1/tree/main/sft_related). Put the json files in the `LLaMA-Factory/data` directory and the yaml file in the `LLaMA-Factory/examples/train_full` directory.
+
+> 3. Run the following command to train the SFT model.
+```bash
+llamafactory-cli train examples/train_full/qwen2_5_vl_full_sft.yaml
+```
+
+
+
 ## Evaluation
 
 ![image](./assets/data.png)
@@ -76,7 +97,8 @@ torchrun --nproc_per_node="8" \
 cd ./src/eval
 
 # Remember to change the model path, image root, and annotation path in the script
-python test_rec_r1.py 
+python test_rec_r1.py # for GRPO
+python test_rec_baseline.py # for SFT
 ```
 
 ## Acknowledgements
