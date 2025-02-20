@@ -364,9 +364,9 @@ class Qwen2VLGRPOTrainer(Trainer):
         images = []
         for x in inputs:
             if "image" in x:
-                images.append(x["image"])
+                img = x["image"]
             else:
-                images.append(PIL.Image.open(x["image_path"]))
+                img = PIL.Image.open(x["image_path"])
 
             # Ensure minimum dimensions of 28 pixels
             w, h = img.size
