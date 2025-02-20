@@ -86,8 +86,54 @@ pip install -e ".[torch,metrics]"
 llamafactory-cli train examples/train_full/qwen2_5_vl_full_sft.yaml
 ```
 
+### For you own data
+We also support data loading the jsonl data of this format in [`src/open-r1-multimodal/src/open_r1/grpo_jsonl.py`](src/open-r1-multimodal/src/open_r1/grpo_jsonl.py). 
 
+The jsonl has the format as follows:
+```json
+{"id": 1, "image": "Clevr_CoGenT_TrainA_R1/data/images/CLEVR_trainA_000001_16885.png", "conversations": [{"from": "human", "value": "<image>What number of purple metallic balls are there?"}, {"from": "gpt", "value": "0"}]}
+```
 
+Note: The image path in the jsonl file should be relative to the image folder specified in `--image_folders`. The absolute path of the input image is constructed as `os.path.join(image_folder, data['image'])`. For example:
+- If your jsonl has `"image": "folder1/image1.jpg"`
+- And you specify `--image_folders "/path/to/images/"`
+- The full image path will be `/path/to/images/folder1/image1.jpg`
+
+Multiple data files and image folders can be specified using ":" as a separator:
+```bash
+--data_file_paths /path/to/data1.jsonl:/path/to/data2.jsonl \
+--image_folders /path/to/images1/:/path/to/images2/
+```
+
+The script can be run like this:
+```bash
+torchrun --nproc_per_node="8" \
+    --nnodes="1" \
+    --node_rank="0" \
+    --master_addr="127.0.0.1" \
+    --master_port="12345" \
+  src/open_r1/grpo_jsonl.py \
+    --output_dir output/$RUN_NAME \
+    --model_name_or_path Qwen/Qwen2.5-VL-3B-Instruct \
+    --deepspeed local_scripts/zero3.json \
+    --dataset_name <your_dataset_name> \
+    --data_file_paths /path/to/your/data.jsonl \ # can be multiple, seperated by ":"
+    --image_folders /path/to/your/image/folder/ \ # can be multiple, seperated by ":"
+    --max_prompt_length 1024 \
+    --per_device_train_batch_size 1 \
+    --gradient_accumulation_steps 2 \
+    --logging_steps 1 \
+    --bf16 \
+    --report_to wandb \
+    --gradient_checkpointing True \
+    --attn_implementation flash_attention_2 \
+    --max_pixels 401408 \
+    --num_train_epochs 2 \
+    --run_name <your_run_name> \
+    --save_steps 100 \
+    --save_only_model true \
+    --num_generations 8 
+```
 ## Evaluation
 
 ![image](./assets/data.png)
