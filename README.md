@@ -119,20 +119,7 @@ torchrun --nproc_per_node="8" \
     --dataset_name <your_dataset_name> \
     --data_file_paths /path/to/your/data.jsonl \ # can be multiple, seperated by ":"
     --image_folders /path/to/your/image/folder/ \ # can be multiple, seperated by ":"
-    --max_prompt_length 1024 \
-    --per_device_train_batch_size 1 \
-    --gradient_accumulation_steps 2 \
-    --logging_steps 1 \
-    --bf16 \
-    --report_to wandb \
-    --gradient_checkpointing True \
-    --attn_implementation flash_attention_2 \
-    --max_pixels 401408 \
-    --num_train_epochs 2 \
-    --run_name <your_run_name> \
-    --save_steps 100 \
-    --save_only_model true \
-    --num_generations 8 
+    ...
 ```
 ## Evaluation
 
