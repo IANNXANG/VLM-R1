@@ -87,7 +87,7 @@ llamafactory-cli train examples/train_full/qwen2_5_vl_full_sft.yaml
 ```
 
 ### For you own data
-We also support data loading the jsonl data of this format in [`src/open-r1-multimodal/src/open_r1/grpo_jsonl.py`](src/open-r1-multimodal/src/open_r1/grpo_jsonl.py). 
+We also support data loading the jsonl data of this format in [`src/open-r1-multimodal/src/open_r1/grpo_jsonl.py`](src/open-r1-multimodal/src/open_r1/grpo_jsonl.py). Please note that you may need to use different reward functions for your specialized tasks. Welcome to PR to add your own reward functions or share any other interesting findings!
 
 The jsonl has the format as follows:
 ```json
