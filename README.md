@@ -86,8 +86,41 @@ pip install -e ".[torch,metrics]"
 llamafactory-cli train examples/train_full/qwen2_5_vl_full_sft.yaml
 ```
 
+### For you own data
+We also support data loading the jsonl data of this format in [`src/open-r1-multimodal/src/open_r1/grpo_jsonl.py`](src/open-r1-multimodal/src/open_r1/grpo_jsonl.py). Please note that you may need to use different reward functions for your specialized tasks. Welcome to PR to add your own reward functions or share any other interesting findings!
 
+The jsonl has the format as follows:
+```json
+{"id": 1, "image": "Clevr_CoGenT_TrainA_R1/data/images/CLEVR_trainA_000001_16885.png", "conversations": [{"from": "human", "value": "<image>What number of purple metallic balls are there?"}, {"from": "gpt", "value": "0"}]}
+```
 
+Note: The image path in the jsonl file should be relative to the image folder specified in `--image_folders`. The absolute path of the input image is constructed as `os.path.join(image_folder, data['image'])`. For example:
+- If your jsonl has `"image": "folder1/image1.jpg"`
+- And you specify `--image_folders "/path/to/images/"`
+- The full image path will be `/path/to/images/folder1/image1.jpg`
+
+Multiple data files and image folders can be specified using ":" as a separator:
+```bash
+--data_file_paths /path/to/data1.jsonl:/path/to/data2.jsonl \
+--image_folders /path/to/images1/:/path/to/images2/
+```
+
+The script can be run like this:
+```bash
+torchrun --nproc_per_node="8" \
+    --nnodes="1" \
+    --node_rank="0" \
+    --master_addr="127.0.0.1" \
+    --master_port="12345" \
+  src/open_r1/grpo_jsonl.py \
+    --output_dir output/$RUN_NAME \
+    --model_name_or_path Qwen/Qwen2.5-VL-3B-Instruct \
+    --deepspeed local_scripts/zero3.json \
+    --dataset_name <your_dataset_name> \
+    --data_file_paths /path/to/your/data.jsonl \ # can be multiple, seperated by ":"
+    --image_folders /path/to/your/image/folder/ \ # can be multiple, seperated by ":"
+    ...
+```
 ## Evaluation
 
 ![image](./assets/data.png)
