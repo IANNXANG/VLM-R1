@@ -1,5 +1,5 @@
 # VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
-<font size=4><div align='center' > [[🤗 Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] </div></font>
+<font size=4><div align='center' > [[🤗 Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] [[🤗 Data](https://huggingface.co/datasets/omlab/VLM-R1)] [[🤗 Checkpoint](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)] </div></font>
 
 <img src="./assets/performance.png" width="600"/>
 
@@ -7,6 +7,13 @@ Since the introduction of [Deepseek-R1](https://github.com/deepseek-ai/DeepSeek-
 
 Specifically, for the task of Referring Expression Comprehension (REC), we trained [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) using both R1 and SFT approaches. The results reveal that, on the in-domain test data, the performance of the SFT model is slightly lower than that of the R1 model (as shown at the top of the figure above). However, on the out-of-domain test data, the SFT model’s performance deteriorates significantly as the number of steps increases, while the R1 model shows a steady improvement (as shown at the bottom of the figure above).
 
+## Update
+
+- 2025-02-21: We release the [checkpoint](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps) of the VLM-R1 REC model.
+- 2025-02-20: We release the script for [general data loading](#for-your-own-data).
+- 2025-02-19: We incorporate an explanation of the [SFT](#sft) method.
+- 2025-02-17: We release the VLM-R1 REC [Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression) on Hugging Face Spaces.
+- 2025-02-15: We release the VLM-R1 repository and [GRPO](#grpo) training script.
 
 ## Setup
 
@@ -86,7 +93,7 @@ pip install -e ".[torch,metrics]"
 llamafactory-cli train examples/train_full/qwen2_5_vl_full_sft.yaml
 ```
 
-### For you own data
+### For your own data
 We also support data loading the jsonl data of this format in [`src/open-r1-multimodal/src/open_r1/grpo_jsonl.py`](src/open-r1-multimodal/src/open_r1/grpo_jsonl.py). Please note that you may need to use different reward functions for your specialized tasks. Welcome to PR to add your own reward functions or share any other interesting findings!
 
 The jsonl has the format as follows:
