@@ -124,8 +124,8 @@ torchrun --nproc_per_node="8" \
     --model_name_or_path Qwen/Qwen2.5-VL-3B-Instruct \
     --deepspeed local_scripts/zero3.json \
     --dataset_name <your_dataset_name> \
-    --data_file_paths /path/to/your/data.jsonl \ # can be multiple, seperated by ":"
-    --image_folders /path/to/your/image/folder/ \ # can be multiple, seperated by ":"
+    --data_file_paths /path/to/your/data.jsonl \ # can be multiple, separated by ":"
+    --image_folders /path/to/your/image/folder/ \ # can be multiple, separated by ":"
     ...
 ```
 ## Evaluation
