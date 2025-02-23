@@ -1,6 +1,6 @@
 # VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
 
-<div align="center">
+<div align="center" style="margin-right: 20%;">
 <img src="./assets/performance.png" width="600"/>
 </div>
 
