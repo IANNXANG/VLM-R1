@@ -244,12 +244,13 @@ def iou_reward(completions, solution, **kwargs):
     rewards = []
     current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
     answer_tag_pattern = r'<answer>(.*?)</answer>'
-    bbox_pattern = r'\[(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*)\]'
+    # bbox_pattern = r'\[(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*),\s*(\s*-?\d*\.?\d+\s*)\]'
+    bbox_pattern = r'\[(\d+),\s*(\d+),\s*(\d+),\s*(\d+)]'
     for content, sol in zip(contents, solution):
         reward = 0.0
         # Try symbolic verification first
         try:
-            content_answer_match = re.search(answer_tag_pattern, content)
+            content_answer_match = re.search(answer_tag_pattern, content, re.DOTALL)
             if content_answer_match:
                 content_answer = content_answer_match.group(1).strip()
                 bbox_match = re.search(bbox_pattern, content_answer)

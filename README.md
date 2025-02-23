@@ -1,7 +1,8 @@
 # VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
-<font size=4><div align='center' > [[🤗 Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] [[🤗 Data](https://huggingface.co/datasets/omlab/VLM-R1)] [[🤗 Checkpoint](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)] </div></font>
 
+<div align="center">
 <img src="./assets/performance.png" width="600"/>
+</div>
 
 Since the introduction of [Deepseek-R1](https://github.com/deepseek-ai/DeepSeek-R1), numerous works have emerged focusing on reproducing and improving upon it. In this project, we propose VLM-R1, a stable and generalizable R1-style Large Vision-Language Model. 
 
@@ -43,6 +44,8 @@ datasets:
 
 > 4. ```bash src/open-r1-multimodal/run_grpo_rec.sh```
 
+> NOTE: If you encounter 'CUDA out of memory' error, you can try to (1) set `gradient_checkpointing` as `true`, (2) reduce the `num_generations`, or (3) use lora (the script will be updated soon).
+
 ```bash
 cd src/open-r1-multimodal
 
@@ -73,8 +76,9 @@ torchrun --nproc_per_node="8" \
     --save_steps 100 \
     --save_only_model true
 ```
+
 ![image](./assets/iou.jpg)
-![image](./assets/wandb.jpg)
+<!-- ![image](./assets/wandb.jpg) -->
 
 
 #### SFT
