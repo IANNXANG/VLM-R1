@@ -1,5 +1,7 @@
 # VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
 
+<font size=4><div align='center' > [[🤗 Demo](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)] [[🤗 Data](https://huggingface.co/datasets/omlab/VLM-R1)] [[🤗 Checkpoint](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)] </div></font>
+
 <div style="margin-left: 5%;">
 <img src="./assets/performance.png" width="600"/>
 </div>
