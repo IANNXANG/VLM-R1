@@ -309,18 +309,7 @@ def main(script_args, training_args, model_args):
         splits['train'] = train_val_split['train']
         splits['validation'] = train_val_split['test']
 
-    # Select trainer class based on vlm_trainer argument
-    if training_args.use_vllm:
-        if script_args.vlm_trainer == "modified":
-            trainer_cls = Qwen2VLGRPOVLLMTrainerModified
-        elif script_args.vlm_trainer == "modified_bf16":
-            trainer_cls = Qwen2VLGRPOVLLMTrainerModifiedBf16
-        elif script_args.vlm_trainer == "modified_optimized_bf16":
-            trainer_cls = Qwen2VLGRPOVLLMTrainerModifiedOptimizedBf16
-        else:  # "default"
-            trainer_cls = Qwen2VLGRPOVLLMTrainer
-    else:
-        trainer_cls = Qwen2VLGRPOTrainer
+    trainer_cls = Qwen2VLGRPOTrainer
     print("using trainer:", trainer_cls.__name__)
 
     # Initialize the GRPO trainer
