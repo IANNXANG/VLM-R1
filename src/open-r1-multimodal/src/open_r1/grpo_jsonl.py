@@ -117,11 +117,58 @@ class GRPOScriptArguments(ScriptArguments):
     )
 
 
+def extract_choice(text):
+    # 1. Clean and normalize text
+    text = text.upper()  # Convert to uppercase
+    text = re.sub(r'\s+', ' ', text)  # Normalize spaces
+
+    # 2. Choice should not have uppercase letters before or after
+    choices = re.findall(r'(?<![A-Z])([A-D])(?![A-Z])', text)
+
+    if not choices:
+        return None
+
+    # 3. If only one choice, return it directly
+    if len(choices) == 1:
+        return choices[0]
+
+    # 4. If multiple choices, use heuristic rules
+    choice_scores = {choice: 0 for choice in choices}
+
+    # 4.1 Keywords around choices get points
+    keywords = [
+        '答案', '选择', '正确', '是', '对',
+        'answer', 'correct', 'choose', 'select', 'right',
+        '认为', '应该', '觉得', 'think', 'believe', 'should'
+    ]
+
+    # Get context for each choice (20 chars before and after)
+    for choice in choices:
+        pos = text.find(choice)
+        context = text[max(0, pos-20):min(len(text), pos+20)]
+
+        # Add points for keywords
+        for keyword in keywords:
+            if keyword.upper() in context:
+                choice_scores[choice] += 1
+
+        # Add points if choice is near the end (usually final answer)
+        if pos > len(text) * 0.7:  # In last 30% of text
+            choice_scores[choice] += 2
+
+        # Add points if followed by punctuation
+        if pos < len(text) - 1 and text[pos+1] in '。.!！,，':
+            choice_scores[choice] += 1
+
+    # Return highest scoring choice
+    return max(choice_scores.items(), key=lambda x: x[1])[0]
+
 def accuracy_reward(completions, solution, **kwargs):
     """Reward function that checks if the completion is correct using symbolic verification, exact string matching, or fuzzy matching."""
     contents = [completion[0]["content"] for completion in completions]
     rewards = []
     current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
+    
     for content, sol in zip(contents, solution):
         reward = 0.0
         # Try symbolic verification first for numeric answers
@@ -143,19 +190,27 @@ def accuracy_reward(completions, solution, **kwargs):
                 content_match = re.search(r'<answer>(.*?)</answer>', content, re.DOTALL)
                 student_answer = content_match.group(1).strip() if content_match else content.strip()
                 
-                # Check if ground truth contains any numbers
+                # Check if ground truth contains numbers
                 has_numbers = bool(re.search(r'\d', ground_truth))
+                # Check if it's a multiple choice question
+                has_choices = re.search(r'Answer:\s*([A-D])', sol, re.IGNORECASE)
                 
                 if has_numbers:
                     # For numeric answers, use exact matching
                     reward = 1.0 if student_answer == ground_truth else 0.0
+                elif has_choices:
+                    # For multiple choice, extract and compare choices
+                    correct_choice = has_choices.group(1).upper()
+                    student_choice = extract_choice(student_answer)
+                    if student_choice:
+                        reward = 1.0 if student_choice == correct_choice else 0.0
                 else:
                     # For text answers, use fuzzy matching
                     reward = ratio(student_answer.lower(), ground_truth.lower())
-                
+                    
             except Exception:
                 pass  # Keep reward as 0.0 if all methods fail
-                
+
         rewards.append(reward)
         if os.getenv("DEBUG_MODE") == "true":
             log_path = os.getenv("LOG_PATH")
