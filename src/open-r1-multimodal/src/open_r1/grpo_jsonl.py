@@ -332,7 +332,7 @@ def main(script_args, training_args, model_args):
                 'role': 'user',
                 'content': [
                     {'type': 'image', 'text': None},
-                    {'type': 'text', 'text': example['problem'] + '  Output the thinking process in <think> </think> and final answer (number) in <answer> </answer> tags.'}
+                    {'type': 'text', 'text': example['problem'] + '  Output the thinking process in <think> </think> and final answer in <answer> </answer> tags.'}
                 ]
             }]
         }
