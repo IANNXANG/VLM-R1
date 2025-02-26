@@ -12,6 +12,7 @@ Specifically, for the task of Referring Expression Comprehension (REC), we train
 
 ## Update
 
+- 2025-02-25: We support multi-node training for GRPO. See [multinode_training_demo.sh](src/open-r1-multimodal/multinode_training_demo.sh) for details.
 - 2025-02-21: We release the [checkpoint](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps) of the VLM-R1 REC model.
 - 2025-02-20: We release the script for [general data loading](#for-your-own-data).
 - 2025-02-19: We incorporate an explanation of the [SFT](#sft) method.
