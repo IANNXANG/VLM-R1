@@ -7,6 +7,7 @@ import re
 import os
 from pprint import pprint
 import random
+import argparse
 
 
 import torch.distributed as dist
@@ -16,6 +17,12 @@ import argparse
 import warnings
 
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers")
+
+# 新增：解析命令行参数
+def parse_args():
+    parser = argparse.ArgumentParser(description="REC模型评估脚本")
+    parser.add_argument("--steps", type=int, default=0, help="检查点步数，0表示原始模型")
+    return parser.parse_args()
 
 def setup_distributed():
     local_rank = int(os.environ.get("LOCAL_RANK", 0))
@@ -32,13 +39,14 @@ local_rank, world_size, rank = setup_distributed()
 device = f"cuda:{local_rank}"
 print(f"Process {rank} using {device}")
 
+# 解析命令行参数
+args = parse_args()
 # 设置评估的检查点步数
 # 0:     原始模型 (Qwen2.5-VL-7B-Instruct)
 # 100:   LoRA微调100步
 # 200:   LoRA微调200步
 # 300:   LoRA微调300步
-# 设置成其他值可以评估不同的检查点
-steps = 0
+steps = args.steps
 if rank == 0:
     print("Steps: ", steps)
 
@@ -46,9 +54,14 @@ RUN_NAME = "Qwen2.5-VL-7B-GRPO-REC-lora"
 
 if steps != 0:
     MODEL_PATH=f"/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output/{RUN_NAME}/checkpoint-{steps}" 
+    # 新增：为log添加子目录
+    MODEL_LOG_DIR = f"checkpoint-{steps}"
 else:
     MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
-OUTPUT_PATH="./logs/rec_results_{DATASET}_{RUN_NAME}_{STEPS}.json"
+    # 新增：为log添加子目录
+    MODEL_LOG_DIR = "original-model"
+# 修改：将日志存储在相应子目录中
+OUTPUT_PATH=f"./logs/{MODEL_LOG_DIR}/rec_results_{{DATASET}}_{{STEPS}}.json"
 
 BSZ=4
 DATA_ROOT = "/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed"
@@ -219,7 +232,7 @@ for ds in TEST_DATASETS:
         print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
 
         # Save results to a JSON file
-        output_path = OUTPUT_PATH.format(DATASET=ds, RUN_NAME=RUN_NAME, STEPS=steps)
+        output_path = OUTPUT_PATH.format(DATASET=ds, STEPS=steps)
         output_dir = os.path.dirname(output_path)
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
