@@ -32,25 +32,34 @@ local_rank, world_size, rank = setup_distributed()
 device = f"cuda:{local_rank}"
 print(f"Process {rank} using {device}")
 
-steps = 600
+# 设置评估的检查点步数
+# 0:     原始模型 (Qwen2.5-VL-7B-Instruct)
+# 100:   LoRA微调100步
+# 200:   LoRA微调200步
+# 300:   LoRA微调300步
+# 设置成其他值可以评估不同的检查点
+steps = 0
 if rank == 0:
     print("Steps: ", steps)
 
-RUN_NAME = "Qwen2.5-VL-3B-GRPO-REC"
+RUN_NAME = "Qwen2.5-VL-7B-GRPO-REC-lora"
 
-MODEL_PATH=f"/data10/shz/project/vlm-r1/VLM-R1-3/src/open-r1-multimodal/output/{RUN_NAME}/checkpoint-{steps}" 
+if steps != 0:
+    MODEL_PATH=f"/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output/{RUN_NAME}/checkpoint-{steps}" 
+else:
+    MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
 OUTPUT_PATH="./logs/rec_results_{DATASET}_{RUN_NAME}_{STEPS}.json"
 
 BSZ=4
-DATA_ROOT = "/data10/shz/dataset/rec/rec_jsons_processed"
+DATA_ROOT = "/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed"
 
+# 正常测试数据集 - RefCOCO系列
 TEST_DATASETS = ['refcoco_val', 'refcocop_val', 'refcocog_val']
-IMAGE_ROOT = "/data10/shz/dataset/coco"
+IMAGE_ROOT = "/c22940/zy/code/VLM-R1/data/images"
 
-
-# TEST_DATASETS = ['lisa_test']
-# IMAGE_ROOT = "/data10/shz/dataset/lisa"
-
+# LISA测试数据集 - 取消注释以测试
+# TEST_DATASETS = ['lisa_test'] 
+# IMAGE_ROOT = "/c22940/zy/code/VLM-R1/test_data/lisa" # 注意：需要下载LISA图像到此目录
 
 #We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
