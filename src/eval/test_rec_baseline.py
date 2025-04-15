@@ -32,18 +32,23 @@ def setup_distributed():
 local_rank, world_size, rank = setup_distributed()
 device = f"cuda:{local_rank}"
 
-steps = 100
-MODEL_PATH=f"/data10/shz/project/LLaMA-Factory/saves/qwen2_5_vl-3b/full/sft/checkpoint-{steps}" 
-OUTPUT_PATH="./logs/rec_results_{DATASET}_qwen2_5vl_3b_instruct_sft_{STEPS}.json"
+# 使用7B-Instruct模型作为基线测试
+MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
+OUTPUT_PATH = "./logs/baseline-7b-instruct/rec_results_{DATASET}_qwen2_5vl_7b_instruct_baseline.json"
+
+# 注释掉原来的3B模型配置
+# steps = 100
+# MODEL_PATH=f"/data10/shz/project/LLaMA-Factory/saves/qwen2_5_vl-3b/full/sft/checkpoint-{steps}" 
+# OUTPUT_PATH="./logs/rec_results_{DATASET}_qwen2_5vl_3b_instruct_sft_{STEPS}.json"
 
 # MODEL_PATH = "/data10/shz/ckpt/vlm-r1-related/Qwen2.5-VL-3B-Instruct"
 # OUTPUT_PATH = "./logs/rec_results_{DATASET}_qwen2_5vl_3b_instruct_baseline_{STEPS}.json"
 
 BSZ=4
-DATA_ROOT = "/data10/shz/dataset/rec/rec_jsons_processed"
+DATA_ROOT = "/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed"
 
 TEST_DATASETS = ['refcoco_val', 'refcocop_val', 'refcocog_val']
-IMAGE_ROOT = "/data10/shz/dataset/coco"
+IMAGE_ROOT = "/c22940/zy/code/VLM-R1/data/images"
 
 # TEST_DATASETS = ['lisa_test']
 # IMAGE_ROOT = "/data10/shz/dataset/lisa"
@@ -203,7 +208,7 @@ for ds in TEST_DATASETS:
         print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
 
         # Save results to a JSON file
-        output_path = OUTPUT_PATH.format(DATASET=ds, STEPS=steps)
+        output_path = OUTPUT_PATH.format(DATASET=ds)
         output_dir = os.path.dirname(output_path)
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
