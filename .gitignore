@@ -165,26 +165,58 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
 
 # PyPI configuration file
 .pypirc
 
-# Temp folders
+# 项目特定文件和目录
+## 数据和模型目录
 data/
 wandb/
 scripts/
 checkpoints/
-.vscode/
-.cursor/
-
 output/
-rec_jsons_processed/
-
 test/
 images_eval/
-*.zip
-*.txt
+test_data/
+rec_jsons_processed/
 runs/
 temps/
+
+## 可视化图像文件
+**/visualized_images/
+*_vis.jpg
+*_vis.png
+
+## ScreenSpot数据集
+otherdata/ScreenSpot*/images/
+otherdata/ScreenSpot*/converted_data/
+otherdata/ScreenSpot*/visualized_images/
+
+## 模型检查点和权重文件
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+## 压缩文件
+*.zip
+
+## 日志和结果文件
+*.log
+*.csv
+*.txt
+
+## 编辑器相关
+.vscode/
+.cursor/
+*.swp
+*.swo
+
+## 系统文件
+.DS_Store
+Thumbs.db
+
+## 特定源文件
 src/open-r1-multimodal/src/open_r1/grpo_jsonl_ocr.py
