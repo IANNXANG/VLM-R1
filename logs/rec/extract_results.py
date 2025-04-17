@@ -7,13 +7,13 @@ import csv
 import re
 
 # 输出CSV文件路径
-OUTPUT_CSV = "logs/accuracy_summary.csv"
+OUTPUT_CSV = "logs/rec/accuracy_summary.csv"
 
 # 定义数据集列表
 DATASETS = ['refcoco_val', 'refcocop_val', 'refcocog_val']
 
 # 定义baseline模型目录
-BASELINE_DIR = "logs/baseline-7b-instruct"
+BASELINE_DIR = "logs/rec/baseline-7b-instruct"
 
 def extract_checkpoint_number(path):
     """从路径中提取检查点数字"""
@@ -35,15 +35,15 @@ def main():
         checkpoint_dirs.append(BASELINE_DIR)
     
     # 添加其他检查点目录
-    for item in os.listdir("logs"):
-        full_path = os.path.join("logs", item)
+    for item in os.listdir("logs/rec"):
+        full_path = os.path.join("logs/rec", item)
         if os.path.isdir(full_path) and (item.startswith("checkpoint-") or item == "original-model"):
             checkpoint_dirs.append(full_path)
     
     # 如果没有找到检查点目录，尝试直接查找结果文件
     if not checkpoint_dirs:
         print("没有找到检查点目录，尝试直接查找结果文件...")
-        result_files = glob.glob("logs/rec_results_*_*.json") + glob.glob("logs/baseline-7b-instruct/rec_results_*.json")
+        result_files = glob.glob("logs/rec/rec_results_*_*.json") + glob.glob("logs/rec/baseline-7b-instruct/rec_results_*.json")
         results = []
         
         for file in result_files:
@@ -173,10 +173,10 @@ def main():
             else:
                 print(f"未找到 checkpoint-{checkpoint_num} 在 {dataset} 上的结果文件")
     
-    # 如果没有找到结果，尝试搜索整个logs目录
+    # 如果没有找到结果，尝试搜索整个logs/rec目录
     if not results:
-        print("在检查点目录中未找到结果文件，尝试搜索整个logs目录...")
-        result_files = glob.glob("logs/**/rec_results_*.json", recursive=True)
+        print("在检查点目录中未找到结果文件，尝试搜索整个logs/rec目录...")
+        result_files = glob.glob("logs/rec/**/rec_results_*.json", recursive=True)
         
         for file in result_files:
             # 检查是否是baseline文件
