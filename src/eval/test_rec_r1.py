@@ -18,10 +18,25 @@ import warnings
 
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers")
 
-# 新增：解析命令行参数
+# 解析命令行参数
 def parse_args():
     parser = argparse.ArgumentParser(description="REC模型评估脚本")
     parser.add_argument("--steps", type=int, default=0, help="检查点步数，0表示原始模型")
+    parser.add_argument("--run_name", type=str, default="Qwen2.5-VL-7B-GRPO-REC-lora",
+                        help="训练运行名称，用于构建检查点路径")
+    parser.add_argument("--model_name", type=str, default=None,
+                        help="模型名称，用于输出结果文件命名。如果不提供，将根据步数自动生成")
+    parser.add_argument("--base_model_path", type=str, default="/c22940/zy/model/Qwen2.5-VL-7B-Instruct",
+                        help="基础模型路径，当steps=0时使用")
+    parser.add_argument("--checkpoint_dir", type=str, default="/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output",
+                        help="检查点目录，会与run_name和steps结合构建完整路径")
+    parser.add_argument("--data_root", type=str, default="/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed",
+                        help="数据集根目录")
+    parser.add_argument("--image_root", type=str, default="/c22940/zy/code/VLM-R1/data/images",
+                        help="图像根目录")
+    parser.add_argument("--datasets", type=str, nargs='+', 
+                        default=['refcoco_val', 'refcocop_val', 'refcocog_val'],
+                        help="要评估的数据集列表")
     return parser.parse_args()
 
 def setup_distributed():
@@ -41,38 +56,42 @@ print(f"Process {rank} using {device}")
 
 # 解析命令行参数
 args = parse_args()
-# 设置评估的检查点步数
-# 0:     原始模型 (Qwen2.5-VL-7B-Instruct)
-# 100:   LoRA微调100步
-# 200:   LoRA微调200步
-# 300:   LoRA微调300步
+# 设置评估的检查点步数和运行名称
 steps = args.steps
+RUN_NAME = args.run_name
+
 if rank == 0:
-    print("Steps: ", steps)
+    print(f"Evaluating {RUN_NAME}, steps: {steps}")
 
-RUN_NAME = "Qwen2.5-VL-7B-GRPO-REC-lora"
-
+# 构建模型路径和日志目录
 if steps != 0:
-    MODEL_PATH=f"/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output/{RUN_NAME}/checkpoint-{steps}" 
-    # 新增：为log添加子目录
-    MODEL_LOG_DIR = f"checkpoint-{steps}"
+    MODEL_PATH = f"{args.checkpoint_dir}/{RUN_NAME}/checkpoint-{steps}" 
+    # 如果未提供模型名称，则根据运行名称和步数自动生成
+    MODEL_NAME = args.model_name if args.model_name else f"{RUN_NAME.lower()}-checkpoint-{steps}"
+    # 为日志设置子目录
+    MODEL_LOG_DIR = f"{MODEL_NAME}"
 else:
-    MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
-    # 新增：为log添加子目录
-    MODEL_LOG_DIR = "original-model"
-# 修改：将日志存储在相应子目录中
-OUTPUT_PATH=f"./logs/{MODEL_LOG_DIR}/rec_results_{{DATASET}}_{{STEPS}}.json"
+    MODEL_PATH = args.base_model_path
+    # 如果未提供模型名称，则设为"original-model"
+    MODEL_NAME = args.model_name if args.model_name else "original-model"
+    # 为日志设置子目录
+    MODEL_LOG_DIR = MODEL_NAME
 
-BSZ=4
-DATA_ROOT = "/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed"
+# 设置输出路径
+OUTPUT_PATH = f"./logs/{MODEL_LOG_DIR}/rec_results_{{DATASET}}.json"
 
-# 正常测试数据集 - RefCOCO系列
-TEST_DATASETS = ['refcoco_val', 'refcocop_val', 'refcocog_val']
-IMAGE_ROOT = "/c22940/zy/code/VLM-R1/data/images"
+# 设置数据集相关参数
+BSZ = 4
+DATA_ROOT = args.data_root
+TEST_DATASETS = args.datasets
+IMAGE_ROOT = args.image_root
 
-# LISA测试数据集 - 取消注释以测试
-# TEST_DATASETS = ['lisa_test'] 
-# IMAGE_ROOT = "/c22940/zy/code/VLM-R1/test_data/lisa" # 注意：需要下载LISA图像到此目录
+if rank == 0:
+    print(f"Model path: {MODEL_PATH}")
+    print(f"Datasets: {TEST_DATASETS}")
+    print(f"Data root: {DATA_ROOT}")
+    print(f"Image root: {IMAGE_ROOT}")
+    print(f"Output will be saved to: {OUTPUT_PATH.format(DATASET='<dataset>')}")
 
 #We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
@@ -232,7 +251,7 @@ for ds in TEST_DATASETS:
         print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
 
         # Save results to a JSON file
-        output_path = OUTPUT_PATH.format(DATASET=ds, STEPS=steps)
+        output_path = OUTPUT_PATH.format(DATASET=ds)
         output_dir = os.path.dirname(output_path)
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)

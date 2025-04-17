@@ -68,6 +68,8 @@ class Qwen2VLModule(VLMBaseModule):
         match task_type:
             case "rec":
                 return "{Question} First output the thinking process in <think> </think> tags and then output the final answer in <answer> </answer> tags. Output the final answer in JSON format."
+            case "click":
+                return "{Question} Look at the image and identify where to click. First reason about the correct location in <think> </think> tags, then provide the exact [x, y] coordinates in <answer> </answer> tags."
             case _:
                 return "{Question} First output the thinking process in <think> </think> tags and then output the final answer in <answer> </answer> tags."
             
@@ -76,6 +78,15 @@ class Qwen2VLModule(VLMBaseModule):
         """Check if the Qwen model output matches a specific format."""
         import re
         pattern = r"<think>.*?</think>\s*<answer>.*?\{.*\[\d+,\s*\d+,\s*\d+,\s*\d+\].*\}.*?</answer>"
+        completion_contents = [completion[0]["content"] for completion in completions]
+        matches = [re.search(pattern, content, re.DOTALL) is not None for content in completion_contents]
+        return [1.0 if match else 0.0 for match in matches]
+    
+    @staticmethod
+    def format_reward_click(completions, **kwargs):
+        """Check if the Qwen model output matches the point coordinate format."""
+        import re
+        pattern = r"<think>.*?</think>\s*<answer>.*?\[\s*\d+\s*,\s*\d+\s*\].*?</answer>"
         completion_contents = [completion[0]["content"] for completion in completions]
         matches = [re.search(pattern, content, re.DOTALL) is not None for content in completion_contents]
         return [1.0 if match else 0.0 for match in matches]
@@ -132,4 +143,46 @@ class Qwen2VLModule(VLMBaseModule):
                     f.write(f"------------- {current_time} Accuracy reward: {reward} -------------\n")
                     f.write(f"Content: {content}\n")
                     f.write(f"Solution: {sol}\n")
+        return rewards
+        
+    @staticmethod
+    def click_reward(completions, solution, **kwargs):
+        """Calculate reward for click coordinates - reward is 1.0 if point is inside the bounding box, 0.0 otherwise."""
+        import re
+        import os
+        from datetime import datetime
+        
+        def point_in_bbox(point, bbox):
+            """Check if point [x, y] is inside bounding box [x1, y1, x2, y2]."""
+            x, y = point
+            x1, y1, x2, y2 = bbox
+            return x1 <= x <= x2 and y1 <= y <= y2
+            
+        contents = [completion[0]["content"] for completion in completions]
+        rewards = []
+        current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
+        answer_tag_pattern = r'<answer>(.*?)</answer>'
+        point_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*\]'
+        
+        for content, sol in zip(contents, solution):
+            reward = 0.0
+            try:
+                content_answer_match = re.search(answer_tag_pattern, content, re.DOTALL)
+                if content_answer_match:
+                    content_answer = content_answer_match.group(1).strip()
+                    point_match = re.search(point_pattern, content_answer)
+                    if point_match:
+                        point = [int(point_match.group(1)), int(point_match.group(2))]
+                        if point_in_bbox(point, sol):
+                            reward = 1.0
+            except Exception as e:
+                pass  # Continue if this fails
+                    
+            rewards.append(reward)
+            if os.getenv("DEBUG_MODE") == "true":
+                log_path = os.getenv("LOG_PATH")
+                with open(log_path, "a", encoding='utf-8') as f:
+                    f.write(f"------------- {current_time} Click Accuracy reward: {reward} -------------\n")
+                    f.write(f"Content: {content}\n")
+                    f.write(f"Solution (bbox): {sol}\n")
         return rewards

@@ -17,6 +17,22 @@ import warnings
 
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers")
 
+# 添加命令行参数解析
+def parse_args():
+    parser = argparse.ArgumentParser(description="REC模型基线评估脚本")
+    parser.add_argument("--model_path", type=str, default="/c22940/zy/model/Qwen2.5-VL-7B-Instruct", 
+                        help="模型路径")
+    parser.add_argument("--model_name", type=str, default="qwen2_5vl_7b_instruct_baseline",
+                        help="模型名称，用于输出结果文件命名")
+    parser.add_argument("--data_root", type=str, default="/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed",
+                        help="数据集根目录")
+    parser.add_argument("--image_root", type=str, default="/c22940/zy/code/VLM-R1/data/images",
+                        help="图像根目录")
+    parser.add_argument("--datasets", type=str, nargs='+', 
+                        default=['refcoco_val', 'refcocop_val', 'refcocog_val'],
+                        help="要评估的数据集列表")
+    return parser.parse_args()
+
 def setup_distributed():
     local_rank = int(os.environ.get("LOCAL_RANK", 0))
     torch.cuda.set_device(local_rank) 
@@ -32,26 +48,20 @@ def setup_distributed():
 local_rank, world_size, rank = setup_distributed()
 device = f"cuda:{local_rank}"
 
-# 使用7B-Instruct模型作为基线测试
-MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
-OUTPUT_PATH = "./logs/baseline-7b-instruct/rec_results_{DATASET}_qwen2_5vl_7b_instruct_baseline.json"
+# 解析命令行参数
+args = parse_args()
 
-# 注释掉原来的3B模型配置
-# steps = 100
-# MODEL_PATH=f"/data10/shz/project/LLaMA-Factory/saves/qwen2_5_vl-3b/full/sft/checkpoint-{steps}" 
-# OUTPUT_PATH="./logs/rec_results_{DATASET}_qwen2_5vl_3b_instruct_sft_{STEPS}.json"
+# 使用命令行参数
+MODEL_PATH = args.model_path
+MODEL_NAME = args.model_name
+DATA_ROOT = args.data_root
+IMAGE_ROOT = args.image_root
+TEST_DATASETS = args.datasets
 
-# MODEL_PATH = "/data10/shz/ckpt/vlm-r1-related/Qwen2.5-VL-3B-Instruct"
-# OUTPUT_PATH = "./logs/rec_results_{DATASET}_qwen2_5vl_3b_instruct_baseline_{STEPS}.json"
+# 设置输出路径
+OUTPUT_PATH = f"./logs/baseline/{MODEL_NAME}/rec_results_{{DATASET}}_{MODEL_NAME}.json"
 
 BSZ=4
-DATA_ROOT = "/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed"
-
-TEST_DATASETS = ['refcoco_val', 'refcocop_val', 'refcocog_val']
-IMAGE_ROOT = "/c22940/zy/code/VLM-R1/data/images"
-
-# TEST_DATASETS = ['lisa_test']
-# IMAGE_ROOT = "/data10/shz/dataset/lisa"
 
 #We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
@@ -95,7 +105,6 @@ for ds in TEST_DATASETS:
     random.seed(42)
     random.shuffle(data)
     data = data[:num_samples]
-    # QUESTION_TEMPLATE = "{Question}" if steps > 0 else "{Question} Please provide the bounding box coordinate in JSON format."
     QUESTION_TEMPLATE = "{Question} Please provide the bounding box coordinate in JSON format."
     
     # Split data for distributed evaluation

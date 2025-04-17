@@ -1,0 +1,10 @@
+# 训练配置文件 - 使用ScreenSpot-v2桌面数据集
+datasets:
+  # 原始RefCOCO数据集(已注释)
+  # - json_path: /c22940/zy/code/VLM-R1/data/annotations/rec_jsons_processed/refcoco_train.json
+  # - json_path: /c22940/zy/code/VLM-R1/data/annotations/rec_jsons_processed/refcocop_train.json
+  # - json_path: /c22940/zy/code/VLM-R1/data/annotations/rec_jsons_processed/refcocog_train.json
+  
+  # ScreenSpot-v2桌面数据集
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click/screenspot_desktop.json
+    sampling_strategy: all 
