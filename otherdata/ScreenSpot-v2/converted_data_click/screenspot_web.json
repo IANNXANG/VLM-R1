@@ -1,0 +1,9179 @@
+[
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the button to create a new project",
+    "image": "images/screenspotv2_image/web_213f816e-8e80-4d13-970d-1347bbc7a2a8.png",
+    "problem": "click the button to create a new project",
+    "solution": [
+      2321,
+      129,
+      2529,
+      199
+    ],
+    "normalized_solution": [
+      906,
+      89,
+      987,
+      138
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view my account profile",
+    "image": "images/screenspotv2_image/web_213f816e-8e80-4d13-970d-1347bbc7a2a8.png",
+    "problem": "view my account profile",
+    "solution": [
+      2401,
+      14,
+      2512,
+      82
+    ],
+    "normalized_solution": [
+      937,
+      9,
+      981,
+      56
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search in gitlab",
+    "image": "images/screenspotv2_image/web_e40f1b3f-0f26-4313-a6a2-d79e1047951b.png",
+    "problem": "search in gitlab",
+    "solution": [
+      194,
+      15,
+      839,
+      81
+    ],
+    "normalized_solution": [
+      75,
+      10,
+      327,
+      56
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a new one",
+    "image": "images/screenspotv2_image/web_e40f1b3f-0f26-4313-a6a2-d79e1047951b.png",
+    "problem": "add a new one",
+    "solution": [
+      1762,
+      10,
+      1849,
+      82
+    ],
+    "normalized_solution": [
+      688,
+      6,
+      722,
+      56
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to personal homepage",
+    "image": "images/screenspotv2_image/web_fd8d71f6-4229-4458-a77e-7d8a6347c8e9.png",
+    "problem": "go to personal homepage",
+    "solution": [
+      2044,
+      96,
+      2525,
+      283
+    ],
+    "normalized_solution": [
+      798,
+      66,
+      986,
+      196
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sign out",
+    "image": "images/screenspotv2_image/web_fd8d71f6-4229-4458-a77e-7d8a6347c8e9.png",
+    "problem": "sign out",
+    "solution": [
+      2043,
+      492,
+      2526,
+      581
+    ],
+    "normalized_solution": [
+      798,
+      341,
+      986,
+      403
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to explore projects",
+    "image": "images/screenspotv2_image/web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "problem": "switch to explore projects",
+    "solution": [
+      427,
+      234,
+      577,
+      330
+    ],
+    "normalized_solution": [
+      166,
+      162,
+      225,
+      229
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "star the project with 56 stars",
+    "image": "images/screenspotv2_image/web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "problem": "star the project with 56 stars",
+    "solution": [
+      1601,
+      350,
+      1717,
+      416
+    ],
+    "normalized_solution": [
+      625,
+      243,
+      670,
+      288
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "fork the a11y project",
+    "image": "images/screenspotv2_image/web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "problem": "fork the a11y project",
+    "solution": [
+      1704,
+      678,
+      1787,
+      737
+    ],
+    "normalized_solution": [
+      665,
+      470,
+      698,
+      511
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view issues i've created",
+    "image": "images/screenspotv2_image/web_bcce7aec-b36a-42c5-8beb-ead23f5ada2c.png",
+    "problem": "view issues i've created",
+    "solution": [
+      197,
+      232,
+      1476,
+      300
+    ],
+    "normalized_solution": [
+      76,
+      161,
+      576,
+      208
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "goto homepage",
+    "image": "images/screenspotv2_image/web_bcce7aec-b36a-42c5-8beb-ead23f5ada2c.png",
+    "problem": "goto homepage",
+    "solution": [
+      0,
+      0,
+      107,
+      94
+    ],
+    "normalized_solution": [
+      0,
+      0,
+      41,
+      65
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set reminder",
+    "image": "images/screenspotv2_image/web_7a5f6ad5-ec34-4693-ac45-136547757893.png",
+    "problem": "set reminder",
+    "solution": [
+      1883,
+      451,
+      2002,
+      522
+    ],
+    "normalized_solution": [
+      735,
+      313,
+      782,
+      362
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "clone this project",
+    "image": "images/screenspotv2_image/web_7a5f6ad5-ec34-4693-ac45-136547757893.png",
+    "problem": "clone this project",
+    "solution": [
+      2330,
+      959,
+      2497,
+      1029
+    ],
+    "normalized_solution": [
+      910,
+      665,
+      975,
+      714
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create a new issue",
+    "image": "images/screenspotv2_image/web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "problem": "create a new issue",
+    "solution": [
+      2344,
+      204,
+      2534,
+      274
+    ],
+    "normalized_solution": [
+      915,
+      141,
+      989,
+      190
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "download",
+    "image": "images/screenspotv2_image/web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "problem": "download",
+    "solution": [
+      2018,
+      202,
+      2129,
+      269
+    ],
+    "normalized_solution": [
+      788,
+      140,
+      831,
+      186
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search or filter results",
+    "image": "images/screenspotv2_image/web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "problem": "search or filter results",
+    "solution": [
+      677,
+      319,
+      2158,
+      385
+    ],
+    "normalized_solution": [
+      264,
+      221,
+      842,
+      267
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose type of issue",
+    "image": "images/screenspotv2_image/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "problem": "choose type of issue",
+    "solution": [
+      537,
+      606,
+      1046,
+      683
+    ],
+    "normalized_solution": [
+      209,
+      420,
+      408,
+      474
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "bold lettering",
+    "image": "images/screenspotv2_image/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "problem": "bold lettering",
+    "solution": [
+      1566,
+      775,
+      1640,
+      843
+    ],
+    "normalized_solution": [
+      611,
+      538,
+      640,
+      585
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "full screen display",
+    "image": "images/screenspotv2_image/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "problem": "full screen display",
+    "solution": [
+      2429,
+      778,
+      2503,
+      844
+    ],
+    "normalized_solution": [
+      948,
+      540,
+      977,
+      586
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert tables",
+    "image": "images/screenspotv2_image/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "problem": "insert tables",
+    "solution": [
+      2282,
+      775,
+      2357,
+      843
+    ],
+    "normalized_solution": [
+      891,
+      538,
+      920,
+      585
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "write a description",
+    "image": "images/screenspotv2_image/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "problem": "write a description",
+    "solution": [
+      543,
+      853,
+      2529,
+      1135
+    ],
+    "normalized_solution": [
+      212,
+      592,
+      987,
+      788
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the icon to sort by created date",
+    "image": "images/screenspotv2_image/web_9443f61f-7d14-4e60-8297-29df73b7cbdd.png",
+    "problem": "click the icon to sort by created date",
+    "solution": [
+      2430,
+      317,
+      2497,
+      385
+    ],
+    "normalized_solution": [
+      949,
+      220,
+      975,
+      267
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the debug build time",
+    "image": "images/screenspotv2_image/web_9443f61f-7d14-4e60-8297-29df73b7cbdd.png",
+    "problem": "view the debug build time",
+    "solution": [
+      543,
+      551,
+      2525,
+      684
+    ],
+    "normalized_solution": [
+      212,
+      382,
+      986,
+      475
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search my projects",
+    "image": "images/screenspotv2_image/web_af76d21a-0a23-49c3-bc5b-842073bf28af.png",
+    "problem": "search my projects",
+    "solution": [
+      610,
+      109,
+      1220,
+      177
+    ],
+    "normalized_solution": [
+      238,
+      75,
+      476,
+      122
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to activity",
+    "image": "images/screenspotv2_image/web_af76d21a-0a23-49c3-bc5b-842073bf28af.png",
+    "problem": "switch to activity",
+    "solution": [
+      118,
+      502,
+      591,
+      581
+    ],
+    "normalized_solution": [
+      46,
+      348,
+      230,
+      403
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "delete the byte blaze assignee",
+    "image": "images/screenspotv2_image/web_6b685114-53fc-40a1-ac42-3b8fbdd27fdd.png",
+    "problem": "delete the byte blaze assignee",
+    "solution": [
+      782,
+      372,
+      846,
+      423
+    ],
+    "normalized_solution": [
+      305,
+      258,
+      330,
+      293
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "subscribe to rss feed",
+    "image": "images/screenspotv2_image/web_6b685114-53fc-40a1-ac42-3b8fbdd27fdd.png",
+    "problem": "subscribe to rss feed",
+    "solution": [
+      1764,
+      246,
+      2141,
+      312
+    ],
+    "normalized_solution": [
+      689,
+      170,
+      836,
+      216
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Click the thumbs up icon on this issue",
+    "image": "images/screenspotv2_image/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "problem": "Click the thumbs up icon on this issue",
+    "solution": [
+      542,
+      700,
+      649,
+      767
+    ],
+    "normalized_solution": [
+      211,
+      486,
+      253,
+      532
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Click the thumbs down icon on this issue",
+    "image": "images/screenspotv2_image/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "problem": "Click the thumbs down icon on this issue",
+    "solution": [
+      662,
+      702,
+      771,
+      766
+    ],
+    "normalized_solution": [
+      258,
+      487,
+      301,
+      531
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reply to emoticon",
+    "image": "images/screenspotv2_image/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "problem": "reply to emoticon",
+    "solution": [
+      785,
+      700,
+      852,
+      768
+    ],
+    "normalized_solution": [
+      306,
+      486,
+      332,
+      533
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click to view more information of this issue",
+    "image": "images/screenspotv2_image/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "problem": "click to view more information of this issue",
+    "solution": [
+      1875,
+      204,
+      1954,
+      282
+    ],
+    "normalized_solution": [
+      732,
+      141,
+      763,
+      195
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close this issue",
+    "image": "images/screenspotv2_image/web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+    "problem": "close this issue",
+    "solution": [
+      801,
+      1139,
+      997,
+      1207
+    ],
+    "normalized_solution": [
+      312,
+      790,
+      389,
+      838
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a todo",
+    "image": "images/screenspotv2_image/web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+    "problem": "add a todo",
+    "solution": [
+      2020,
+      118,
+      2203,
+      164
+    ],
+    "normalized_solution": [
+      789,
+      81,
+      860,
+      113
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit my profile",
+    "image": "images/screenspotv2_image/web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "problem": "edit my profile",
+    "solution": [
+      2371,
+      124,
+      2437,
+      190
+    ],
+    "normalized_solution": [
+      926,
+      86,
+      951,
+      131
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check my followers",
+    "image": "images/screenspotv2_image/web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "problem": "check my followers",
+    "solution": [
+      1072,
+      760,
+      1292,
+      832
+    ],
+    "normalized_solution": [
+      418,
+      527,
+      504,
+      577
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to groups view",
+    "image": "images/screenspotv2_image/web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "problem": "switch to groups view",
+    "solution": [
+      697,
+      964,
+      838,
+      1056
+    ],
+    "normalized_solution": [
+      272,
+      669,
+      327,
+      733
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view all personal projects",
+    "image": "images/screenspotv2_image/web_8d623438-5ac7-44f8-ab67-e07309a92f4a.png",
+    "problem": "view all personal projects",
+    "solution": [
+      2407,
+      119,
+      2546,
+      197
+    ],
+    "normalized_solution": [
+      940,
+      82,
+      994,
+      136
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the chatgpt_plugin project",
+    "image": "images/screenspotv2_image/web_8d623438-5ac7-44f8-ab67-e07309a92f4a.png",
+    "problem": "view the chatgpt_plugin project",
+    "solution": [
+      1306,
+      650,
+      2560,
+      798
+    ],
+    "normalized_solution": [
+      510,
+      451,
+      1000,
+      554
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the window",
+    "image": "images/screenspotv2_image/web_c8e2a933-b6e5-4046-a360-5dbd54dc9753.png",
+    "problem": "close the window",
+    "solution": [
+      2467,
+      123,
+      2538,
+      195
+    ],
+    "normalized_solution": [
+      963,
+      85,
+      991,
+      135
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "visit docs.gitlab.com",
+    "image": "images/screenspotv2_image/web_0492a7c3-3b0d-4f62-8c0d-939ad51aa616.png",
+    "problem": "visit docs.gitlab.com",
+    "solution": [
+      107,
+      864,
+      398,
+      921
+    ],
+    "normalized_solution": [
+      41,
+      600,
+      155,
+      639
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the docs of how to use gitlab",
+    "image": "images/screenspotv2_image/web_0492a7c3-3b0d-4f62-8c0d-939ad51aa616.png",
+    "problem": "check the docs of how to use gitlab",
+    "solution": [
+      31,
+      1232,
+      800,
+      1355
+    ],
+    "normalized_solution": [
+      12,
+      855,
+      312,
+      940
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to why gitlab doc",
+    "image": "images/screenspotv2_image/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "problem": "switch to why gitlab doc",
+    "solution": [
+      145,
+      21,
+      388,
+      176
+    ],
+    "normalized_solution": [
+      56,
+      14,
+      151,
+      122
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check pricing",
+    "image": "images/screenspotv2_image/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "problem": "check pricing",
+    "solution": [
+      778,
+      21,
+      943,
+      178
+    ],
+    "normalized_solution": [
+      303,
+      14,
+      368,
+      123
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sign in",
+    "image": "images/screenspotv2_image/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "problem": "sign in",
+    "solution": [
+      2360,
+      36,
+      2527,
+      169
+    ],
+    "normalized_solution": [
+      921,
+      25,
+      987,
+      117
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the search button ",
+    "image": "images/screenspotv2_image/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "problem": "click the search button ",
+    "solution": [
+      1585,
+      19,
+      1657,
+      182
+    ],
+    "normalized_solution": [
+      619,
+      13,
+      647,
+      126
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view solution of ai",
+    "image": "images/screenspotv2_image/web_200e430d-ec76-48af-987c-ad658b74ab33.png",
+    "problem": "view solution of ai",
+    "solution": [
+      598,
+      276,
+      1159,
+      364
+    ],
+    "normalized_solution": [
+      233,
+      191,
+      452,
+      252
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view all solutions",
+    "image": "images/screenspotv2_image/web_200e430d-ec76-48af-987c-ad658b74ab33.png",
+    "problem": "view all solutions",
+    "solution": [
+      606,
+      957,
+      1024,
+      1058
+    ],
+    "normalized_solution": [
+      236,
+      664,
+      400,
+      734
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the resources",
+    "image": "images/screenspotv2_image/web_201fbfed-1dd7-4532-b49a-b465ef775c8b.png",
+    "problem": "check the resources",
+    "solution": [
+      944,
+      26,
+      1171,
+      159
+    ],
+    "normalized_solution": [
+      368,
+      18,
+      457,
+      110
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Purchase GitLab Premium service",
+    "image": "images/screenspotv2_image/web_201fbfed-1dd7-4532-b49a-b465ef775c8b.png",
+    "problem": "Purchase GitLab Premium service",
+    "solution": [
+      976,
+      1183,
+      1401,
+      1277
+    ],
+    "normalized_solution": [
+      381,
+      821,
+      547,
+      886
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "get free trial",
+    "image": "images/screenspotv2_image/web_a905f71b-cfe3-4add-b37e-fa2a96067b8c.png",
+    "problem": "get free trial",
+    "solution": [
+      2065,
+      34,
+      2333,
+      168
+    ],
+    "normalized_solution": [
+      806,
+      23,
+      911,
+      116
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "contact sales",
+    "image": "images/screenspotv2_image/web_a905f71b-cfe3-4add-b37e-fa2a96067b8c.png",
+    "problem": "contact sales",
+    "solution": [
+      1307,
+      981,
+      1710,
+      1101
+    ],
+    "normalized_solution": [
+      510,
+      681,
+      667,
+      764
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view supported cloud",
+    "image": "images/screenspotv2_image/web_32fce6b7-8437-4877-8436-f67c99d82f81.png",
+    "problem": "view supported cloud",
+    "solution": [
+      1934,
+      595,
+      2417,
+      688
+    ],
+    "normalized_solution": [
+      755,
+      413,
+      944,
+      477
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "contact gitlab",
+    "image": "images/screenspotv2_image/web_32fce6b7-8437-4877-8436-f67c99d82f81.png",
+    "problem": "contact gitlab",
+    "solution": [
+      1387,
+      148,
+      1593,
+      260
+    ],
+    "normalized_solution": [
+      541,
+      102,
+      622,
+      180
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "install for ubuntu",
+    "image": "images/screenspotv2_image/web_37acd27f-731c-4292-8caf-159b9be41189.png",
+    "problem": "install for ubuntu",
+    "solution": [
+      86,
+      306,
+      555,
+      998
+    ],
+    "normalized_solution": [
+      33,
+      212,
+      216,
+      693
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check whether installed gitlab",
+    "image": "images/screenspotv2_image/web_37acd27f-731c-4292-8caf-159b9be41189.png",
+    "problem": "check whether installed gitlab",
+    "solution": [
+      1938,
+      805,
+      2270,
+      902
+    ],
+    "normalized_solution": [
+      757,
+      559,
+      886,
+      626
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view efficiency",
+    "image": "images/screenspotv2_image/web_90c0cf0e-3885-46d1-a1fd-2b29645398d3.png",
+    "problem": "view efficiency",
+    "solution": [
+      1666,
+      243,
+      2417,
+      1042
+    ],
+    "normalized_solution": [
+      650,
+      168,
+      944,
+      723
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view transparency",
+    "image": "images/screenspotv2_image/web_90c0cf0e-3885-46d1-a1fd-2b29645398d3.png",
+    "problem": "view transparency",
+    "solution": [
+      1668,
+      1075,
+      2416,
+      1440
+    ],
+    "normalized_solution": [
+      651,
+      746,
+      943,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check api security",
+    "image": "images/screenspotv2_image/web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "problem": "check api security",
+    "solution": [
+      696,
+      1030,
+      976,
+      1102
+    ],
+    "normalized_solution": [
+      271,
+      715,
+      381,
+      765
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to govern",
+    "image": "images/screenspotv2_image/web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "problem": "switch to govern",
+    "solution": [
+      2202,
+      219,
+      2403,
+      379
+    ],
+    "normalized_solution": [
+      860,
+      152,
+      938,
+      263
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to create",
+    "image": "images/screenspotv2_image/web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "problem": "switch to create",
+    "solution": [
+      444,
+      213,
+      649,
+      380
+    ],
+    "normalized_solution": [
+      173,
+      147,
+      253,
+      263
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select a use-case",
+    "image": "images/screenspotv2_image/web_d48576d2-c431-4030-9cc0-c811c752c3a8.png",
+    "problem": "select a use-case",
+    "solution": [
+      109,
+      1037,
+      646,
+      1134
+    ],
+    "normalized_solution": [
+      42,
+      720,
+      252,
+      787
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to private visibility level",
+    "image": "images/screenspotv2_image/web_463c0536-492e-475c-930d-d95ee476ec3c.png",
+    "problem": "switch to private visibility level",
+    "solution": [
+      654,
+      634,
+      709,
+      679
+    ],
+    "normalized_solution": [
+      255,
+      440,
+      276,
+      471
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enable static application security testing",
+    "image": "images/screenspotv2_image/web_463c0536-492e-475c-930d-d95ee476ec3c.png",
+    "problem": "enable static application security testing",
+    "solution": [
+      662,
+      1106,
+      710,
+      1157
+    ],
+    "normalized_solution": [
+      258,
+      768,
+      277,
+      803
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enable notifications",
+    "image": "images/screenspotv2_image/web_6466b8cc-deea-451a-8019-d0684052d771.png",
+    "problem": "enable notifications",
+    "solution": [
+      2412,
+      1113,
+      2524,
+      1175
+    ],
+    "normalized_solution": [
+      942,
+      772,
+      985,
+      815
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "comment to administrator",
+    "image": "images/screenspotv2_image/web_6466b8cc-deea-451a-8019-d0684052d771.png",
+    "problem": "comment to administrator",
+    "solution": [
+      1731,
+      1045,
+      1802,
+      1098
+    ],
+    "normalized_solution": [
+      676,
+      725,
+      703,
+      762
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "download the project",
+    "image": "images/screenspotv2_image/web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "problem": "download the project",
+    "solution": [
+      2203,
+      659,
+      2314,
+      725
+    ],
+    "normalized_solution": [
+      860,
+      457,
+      903,
+      503
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "unstar the project",
+    "image": "images/screenspotv2_image/web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "problem": "unstar the project",
+    "solution": [
+      2028,
+      150,
+      2263,
+      218
+    ],
+    "normalized_solution": [
+      792,
+      104,
+      883,
+      151
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "jump to data folder",
+    "image": "images/screenspotv2_image/web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "problem": "jump to data folder",
+    "solution": [
+      578,
+      1105,
+      2491,
+      1191
+    ],
+    "normalized_solution": [
+      225,
+      767,
+      973,
+      827
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "copy the ssh link",
+    "image": "images/screenspotv2_image/web_586be1bf-6fab-43bf-adad-640eaab4a0df.png",
+    "problem": "copy the ssh link",
+    "solution": [
+      2403,
+      644,
+      2466,
+      711
+    ],
+    "normalized_solution": [
+      938,
+      447,
+      963,
+      493
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "copy the http link",
+    "image": "images/screenspotv2_image/web_586be1bf-6fab-43bf-adad-640eaab4a0df.png",
+    "problem": "copy the http link",
+    "solution": [
+      2400,
+      785,
+      2466,
+      855
+    ],
+    "normalized_solution": [
+      937,
+      545,
+      963,
+      593
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the file in web ide",
+    "image": "images/screenspotv2_image/web_3eca74aa-1d45-45a3-ae2b-694ae83b0068.png",
+    "problem": "open the file in web ide",
+    "solution": [
+      1660,
+      526,
+      1992,
+      598
+    ],
+    "normalized_solution": [
+      648,
+      365,
+      778,
+      415
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the owner of coding_friends",
+    "image": "images/screenspotv2_image/web_48737870-2f75-4199-a2d0-176d04543b2b.png",
+    "problem": "check the owner of coding_friends",
+    "solution": [
+      412,
+      937,
+      582,
+      1000
+    ],
+    "normalized_solution": [
+      160,
+      650,
+      227,
+      694
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "star the chatgpt project",
+    "image": "images/screenspotv2_image/web_6b9059c2-656d-4a37-b585-9df4ef2f0c7f.png",
+    "problem": "star the chatgpt project",
+    "solution": [
+      1871,
+      495,
+      1986,
+      574
+    ],
+    "normalized_solution": [
+      730,
+      343,
+      775,
+      398
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click to search in this page",
+    "image": "images/screenspotv2_image/web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "problem": "click to search in this page",
+    "solution": [
+      2068,
+      142,
+      2160,
+      232
+    ],
+    "normalized_solution": [
+      807,
+      98,
+      843,
+      161
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check notification",
+    "image": "images/screenspotv2_image/web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "problem": "check notification",
+    "solution": [
+      2173,
+      141,
+      2262,
+      235
+    ],
+    "normalized_solution": [
+      848,
+      97,
+      883,
+      163
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "has question about scope",
+    "image": "images/screenspotv2_image/web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "problem": "has question about scope",
+    "solution": [
+      632,
+      315,
+      726,
+      409
+    ],
+    "normalized_solution": [
+      246,
+      218,
+      283,
+      284
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view orders",
+    "image": "images/screenspotv2_image/web_d0e6082c-90d2-4637-ab9f-65b768240848.png",
+    "problem": "view orders",
+    "solution": [
+      174,
+      185,
+      711,
+      271
+    ],
+    "normalized_solution": [
+      67,
+      128,
+      277,
+      188
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the sales window",
+    "image": "images/screenspotv2_image/web_d0e6082c-90d2-4637-ab9f-65b768240848.png",
+    "problem": "close the sales window",
+    "solution": [
+      592,
+      27,
+      671,
+      102
+    ],
+    "normalized_solution": [
+      231,
+      18,
+      262,
+      70
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view detail of products",
+    "image": "images/screenspotv2_image/web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+    "problem": "view detail of products",
+    "solution": [
+      172,
+      186,
+      707,
+      272
+    ],
+    "normalized_solution": [
+      67,
+      129,
+      276,
+      188
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to customers",
+    "image": "images/screenspotv2_image/web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+    "problem": "switch to customers",
+    "solution": [
+      1,
+      522,
+      175,
+      646
+    ],
+    "normalized_solution": [
+      0,
+      362,
+      68,
+      448
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search by keyword",
+    "image": "images/screenspotv2_image/web_d2dd06b0-8826-4dd6-a3b7-0d88c123a04b.png",
+    "problem": "search by keyword",
+    "solution": [
+      230,
+      498,
+      1029,
+      569
+    ],
+    "normalized_solution": [
+      89,
+      345,
+      401,
+      395
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjusting the number of items displayed per page",
+    "image": "images/screenspotv2_image/web_d2dd06b0-8826-4dd6-a3b7-0d88c123a04b.png",
+    "problem": "adjusting the number of items displayed per page",
+    "solution": [
+      1679,
+      607,
+      1857,
+      678
+    ],
+    "normalized_solution": [
+      655,
+      421,
+      725,
+      470
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go back",
+    "image": "images/screenspotv2_image/web_ddeabd10-ccfc-4881-b301-9364d7a04279.png",
+    "problem": "go back",
+    "solution": [
+      2281,
+      321,
+      2449,
+      403
+    ],
+    "normalized_solution": [
+      891,
+      222,
+      956,
+      279
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view my account profile",
+    "image": "images/screenspotv2_image/web_ddeabd10-ccfc-4881-b301-9364d7a04279.png",
+    "problem": "view my account profile",
+    "solution": [
+      2291,
+      149,
+      2487,
+      228
+    ],
+    "normalized_solution": [
+      894,
+      103,
+      971,
+      158
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the data item named div garg",
+    "image": "images/screenspotv2_image/web_de7dcaf3-f2e3-49f4-84fd-36088f39238c.png",
+    "problem": "select the data item named div garg",
+    "solution": [
+      234,
+      889,
+      341,
+      971
+    ],
+    "normalized_solution": [
+      91,
+      617,
+      133,
+      674
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "use filters",
+    "image": "images/screenspotv2_image/web_de7dcaf3-f2e3-49f4-84fd-36088f39238c.png",
+    "problem": "use filters",
+    "solution": [
+      1454,
+      499,
+      1656,
+      567
+    ],
+    "normalized_solution": [
+      567,
+      346,
+      646,
+      393
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view privacy policy",
+    "image": "images/screenspotv2_image/web_2b491da3-f798-4866-b002-a25ab7d15263.png",
+    "problem": "view privacy policy",
+    "solution": [
+      1834,
+      870,
+      2043,
+      940
+    ],
+    "normalized_solution": [
+      716,
+      604,
+      798,
+      652
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view more partners",
+    "image": "images/screenspotv2_image/web_d1cc72e3-da3f-4d48-bab4-a6aa0bc5a807.png",
+    "problem": "view more partners",
+    "solution": [
+      384,
+      1027,
+      645,
+      1104
+    ],
+    "normalized_solution": [
+      150,
+      713,
+      251,
+      766
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "visit magento marketplaces",
+    "image": "images/screenspotv2_image/web_d1cc72e3-da3f-4d48-bab4-a6aa0bc5a807.png",
+    "problem": "visit magento marketplaces",
+    "solution": [
+      1781,
+      944,
+      2220,
+      1014
+    ],
+    "normalized_solution": [
+      695,
+      655,
+      867,
+      704
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view all users",
+    "image": "images/screenspotv2_image/web_10e24c0f-e9af-4542-b074-5a14a7645717.png",
+    "problem": "view all users",
+    "solution": [
+      743,
+      272,
+      1245,
+      364
+    ],
+    "normalized_solution": [
+      290,
+      188,
+      486,
+      252
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reset fliter",
+    "image": "images/screenspotv2_image/web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "problem": "reset fliter",
+    "solution": [
+      402,
+      496,
+      589,
+      571
+    ],
+    "normalized_solution": [
+      157,
+      344,
+      230,
+      396
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to next page",
+    "image": "images/screenspotv2_image/web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "problem": "go to next page",
+    "solution": [
+      2408,
+      585,
+      2498,
+      656
+    ],
+    "normalized_solution": [
+      940,
+      406,
+      975,
+      455
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter search query",
+    "image": "images/screenspotv2_image/web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "problem": "enter search query",
+    "solution": [
+      417,
+      862,
+      770,
+      919
+    ],
+    "normalized_solution": [
+      162,
+      598,
+      300,
+      638
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add the first product into cart",
+    "image": "images/screenspotv2_image/web_d3f48983-3396-4249-990c-d1214fbed944.png",
+    "problem": "add the first product into cart",
+    "solution": [
+      33,
+      1186,
+      264,
+      1258
+    ],
+    "normalized_solution": [
+      12,
+      823,
+      103,
+      873
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "favorite the blueberry drink",
+    "image": "images/screenspotv2_image/web_d3f48983-3396-4249-990c-d1214fbed944.png",
+    "problem": "favorite the blueberry drink",
+    "solution": [
+      777,
+      1231,
+      830,
+      1295
+    ],
+    "normalized_solution": [
+      303,
+      854,
+      324,
+      899
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view clothing, shoes and jewelry",
+    "image": "images/screenspotv2_image/web_55e57d6e-0cb0-4024-b89f-89a3c594f20e.png",
+    "problem": "view clothing, shoes and jewelry",
+    "solution": [
+      766,
+      256,
+      1190,
+      360
+    ],
+    "normalized_solution": [
+      299,
+      177,
+      464,
+      250
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view vedio games",
+    "image": "images/screenspotv2_image/web_55e57d6e-0cb0-4024-b89f-89a3c594f20e.png",
+    "problem": "view vedio games",
+    "solution": [
+      1440,
+      362,
+      1689,
+      465
+    ],
+    "normalized_solution": [
+      562,
+      251,
+      659,
+      322
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check shopping cart",
+    "image": "images/screenspotv2_image/web_a8de66ff-c058-4617-9484-82662d95fbc1.png",
+    "problem": "check shopping cart",
+    "solution": [
+      2396,
+      131,
+      2538,
+      210
+    ],
+    "normalized_solution": [
+      935,
+      90,
+      991,
+      145
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check my account",
+    "image": "images/screenspotv2_image/web_a8de66ff-c058-4617-9484-82662d95fbc1.png",
+    "problem": "check my account",
+    "solution": [
+      1526,
+      3,
+      1711,
+      81
+    ],
+    "normalized_solution": [
+      596,
+      2,
+      668,
+      56
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "checkout",
+    "image": "images/screenspotv2_image/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "problem": "checkout",
+    "solution": [
+      1826,
+      388,
+      2487,
+      492
+    ],
+    "normalized_solution": [
+      713,
+      269,
+      971,
+      341
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the cart",
+    "image": "images/screenspotv2_image/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "problem": "close the cart",
+    "solution": [
+      2471,
+      222,
+      2542,
+      286
+    ],
+    "normalized_solution": [
+      965,
+      154,
+      992,
+      198
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "delete carnation breakfast essentials nutritional drink in cart",
+    "image": "images/screenspotv2_image/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "problem": "delete carnation breakfast essentials nutritional drink in cart",
+    "solution": [
+      2448,
+      700,
+      2523,
+      792
+    ],
+    "normalized_solution": [
+      956,
+      486,
+      985,
+      550
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust the item quantity with 5",
+    "image": "images/screenspotv2_image/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "problem": "adjust the item quantity with 5",
+    "solution": [
+      2036,
+      707,
+      2128,
+      774
+    ],
+    "normalized_solution": [
+      795,
+      490,
+      831,
+      537
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change password",
+    "image": "images/screenspotv2_image/web_d00882a8-4d93-4116-91ad-e8bb8fdd8ff2.png",
+    "problem": "change password",
+    "solution": [
+      618,
+      903,
+      948,
+      982
+    ],
+    "normalized_solution": [
+      241,
+      627,
+      370,
+      681
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check my downloadable products",
+    "image": "images/screenspotv2_image/web_d00882a8-4d93-4116-91ad-e8bb8fdd8ff2.png",
+    "problem": "check my downloadable products",
+    "solution": [
+      38,
+      676,
+      540,
+      748
+    ],
+    "normalized_solution": [
+      14,
+      469,
+      210,
+      519
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to next page",
+    "image": "images/screenspotv2_image/web_9043e264-b5ec-4da5-ae7a-b19cfc1d178b.png",
+    "problem": "go to next page",
+    "solution": [
+      1633,
+      684,
+      1714,
+      756
+    ],
+    "normalized_solution": [
+      637,
+      475,
+      669,
+      525
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust the number of items shown per page",
+    "image": "images/screenspotv2_image/web_9043e264-b5ec-4da5-ae7a-b19cfc1d178b.png",
+    "problem": "adjust the number of items shown per page",
+    "solution": [
+      2266,
+      684,
+      2386,
+      751
+    ],
+    "normalized_solution": [
+      885,
+      475,
+      932,
+      521
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add the rh interiors weathered wood bundle table lamp to cart",
+    "image": "images/screenspotv2_image/web_f80a102f-7b1a-40f4-ad52-193e52d0cda0.png",
+    "problem": "add the rh interiors weathered wood bundle table lamp to cart",
+    "solution": [
+      1112,
+      1198,
+      1336,
+      1265
+    ],
+    "normalized_solution": [
+      434,
+      831,
+      521,
+      878
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "comment to elmwood inn fine tea",
+    "image": "images/screenspotv2_image/web_f80a102f-7b1a-40f4-ad52-193e52d0cda0.png",
+    "problem": "comment to elmwood inn fine tea",
+    "solution": [
+      1571,
+      1141,
+      2028,
+      1223
+    ],
+    "normalized_solution": [
+      613,
+      792,
+      792,
+      849
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view ps4",
+    "image": "images/screenspotv2_image/web_589e44b7-401b-45f7-a223-b93ac59c5506.png",
+    "problem": "view ps4",
+    "solution": [
+      1439,
+      686,
+      1903,
+      756
+    ],
+    "normalized_solution": [
+      562,
+      476,
+      743,
+      525
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add the first product to wish list",
+    "image": "images/screenspotv2_image/web_db995728-d16b-46cb-9621-22e8d8e5596f.png",
+    "problem": "add the first product to wish list",
+    "solution": [
+      1525,
+      1302,
+      1755,
+      1353
+    ],
+    "normalized_solution": [
+      595,
+      904,
+      685,
+      939
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view previous images",
+    "image": "images/screenspotv2_image/web_2595ae32-9df7-4198-a48e-6c291a1fb01c.png",
+    "problem": "view previous images",
+    "solution": [
+      60,
+      341,
+      190,
+      501
+    ],
+    "normalized_solution": [
+      23,
+      236,
+      74,
+      347
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter email address",
+    "image": "images/screenspotv2_image/web_c576ac89-3f3e-4f4d-9efd-1ad4b959a630.png",
+    "problem": "enter email address",
+    "solution": [
+      1864,
+      991,
+      2314,
+      1059
+    ],
+    "normalized_solution": [
+      728,
+      688,
+      903,
+      735
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "print the page",
+    "image": "images/screenspotv2_image/web_a4d22512-1c68-4fda-9b49-d207326365ce.png",
+    "problem": "print the page",
+    "solution": [
+      14,
+      570,
+      266,
+      648
+    ],
+    "normalized_solution": [
+      5,
+      395,
+      103,
+      450
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close current page of item",
+    "image": "images/screenspotv2_image/web_a4d22512-1c68-4fda-9b49-d207326365ce.png",
+    "problem": "close current page of item",
+    "solution": [
+      2423,
+      622,
+      2505,
+      675
+    ],
+    "normalized_solution": [
+      946,
+      431,
+      978,
+      468
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjusting the display layout of items",
+    "image": "images/screenspotv2_image/web_844d70be-3743-409c-abf0-a148975fdbc8.png",
+    "problem": "adjusting the display layout of items",
+    "solution": [
+      518,
+      769,
+      704,
+      848
+    ],
+    "normalized_solution": [
+      202,
+      534,
+      275,
+      588
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sort from largest to smallest",
+    "image": "images/screenspotv2_image/web_844d70be-3743-409c-abf0-a148975fdbc8.png",
+    "problem": "sort from largest to smallest",
+    "solution": [
+      2434,
+      775,
+      2504,
+      841
+    ],
+    "normalized_solution": [
+      950,
+      538,
+      978,
+      584
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "next page",
+    "image": "images/screenspotv2_image/web_e891e448-0f8e-4673-9122-405a48cabad3.png",
+    "problem": "next page",
+    "solution": [
+      712,
+      1231,
+      790,
+      1301
+    ],
+    "normalized_solution": [
+      278,
+      854,
+      308,
+      903
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "page 5",
+    "image": "images/screenspotv2_image/web_e891e448-0f8e-4673-9122-405a48cabad3.png",
+    "problem": "page 5",
+    "solution": [
+      648,
+      1225,
+      694,
+      1303
+    ],
+    "normalized_solution": [
+      253,
+      850,
+      271,
+      904
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "details about dead sea collection salt",
+    "image": "images/screenspotv2_image/web_a6e78bca-0f72-405b-8bda-7c0edc617b4e.png",
+    "problem": "details about dead sea collection salt",
+    "solution": [
+      2364,
+      444,
+      2510,
+      545
+    ],
+    "normalized_solution": [
+      923,
+      308,
+      980,
+      378
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter email address",
+    "image": "images/screenspotv2_image/web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "problem": "enter email address",
+    "solution": [
+      347,
+      888,
+      1251,
+      959
+    ],
+    "normalized_solution": [
+      135,
+      616,
+      488,
+      665
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create an account",
+    "image": "images/screenspotv2_image/web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "problem": "create an account",
+    "solution": [
+      1305,
+      919,
+      1630,
+      998
+    ],
+    "normalized_solution": [
+      509,
+      638,
+      636,
+      693
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reset the password",
+    "image": "images/screenspotv2_image/web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "problem": "reset the password",
+    "solution": [
+      353,
+      926,
+      696,
+      1001
+    ],
+    "normalized_solution": [
+      137,
+      643,
+      271,
+      695
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to onestop market homepage",
+    "image": "images/screenspotv2_image/web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "problem": "go to onestop market homepage",
+    "solution": [
+      11,
+      124,
+      481,
+      233
+    ],
+    "normalized_solution": [
+      4,
+      86,
+      187,
+      161
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "question for remote shopping assistance",
+    "image": "images/screenspotv2_image/web_b2d92416-5c93-4a09-8304-44b8d166a7c7.png",
+    "problem": "question for remote shopping assistance",
+    "solution": [
+      857,
+      918,
+      940,
+      999
+    ],
+    "normalized_solution": [
+      334,
+      637,
+      367,
+      693
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view settings of cocowhip light",
+    "image": "images/screenspotv2_image/web_3acb3026-cbd7-4e41-8fb7-2b8a2e7e4fcb.png",
+    "problem": "view settings of cocowhip light",
+    "solution": [
+      2381,
+      1052,
+      2467,
+      1129
+    ],
+    "normalized_solution": [
+      930,
+      730,
+      963,
+      784
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show reviews",
+    "image": "images/screenspotv2_image/web_39126cee-4462-4567-9fa4-5ad1f3589047.png",
+    "problem": "show reviews",
+    "solution": [
+      224,
+      837,
+      474,
+      901
+    ],
+    "normalized_solution": [
+      87,
+      581,
+      185,
+      625
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add the sandals to cart",
+    "image": "images/screenspotv2_image/web_0c5f692d-4c32-4533-ac2a-d6f8d7c6d7c1.png",
+    "problem": "add the sandals to cart",
+    "solution": [
+      1037,
+      1005,
+      1267,
+      1073
+    ],
+    "normalized_solution": [
+      405,
+      697,
+      494,
+      745
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose size 14",
+    "image": "images/screenspotv2_image/web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "problem": "choose size 14",
+    "solution": [
+      1506,
+      922,
+      1633,
+      984
+    ],
+    "normalized_solution": [
+      588,
+      640,
+      637,
+      683
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust the quantity of the first product",
+    "image": "images/screenspotv2_image/web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "problem": "adjust the quantity of the first product",
+    "solution": [
+      1523,
+      1306,
+      1631,
+      1411
+    ],
+    "normalized_solution": [
+      594,
+      906,
+      637,
+      979
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter lowest price",
+    "image": "images/screenspotv2_image/web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "problem": "enter lowest price",
+    "solution": [
+      354,
+      1127,
+      767,
+      1189
+    ],
+    "normalized_solution": [
+      138,
+      782,
+      299,
+      825
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter product name",
+    "image": "images/screenspotv2_image/web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "problem": "enter product name",
+    "solution": [
+      354,
+      637,
+      1281,
+      700
+    ],
+    "normalized_solution": [
+      138,
+      442,
+      500,
+      486
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch on \"show password\"",
+    "image": "images/screenspotv2_image/web_70a307b8-62fb-4d66-921a-7c4445af3e65.png",
+    "problem": "switch on \"show password\"",
+    "solution": [
+      341,
+      927,
+      616,
+      979
+    ],
+    "normalized_solution": [
+      133,
+      643,
+      240,
+      679
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search in the forum",
+    "image": "images/screenspotv2_image/web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "problem": "search in the forum",
+    "solution": [
+      955,
+      11,
+      1338,
+      89
+    ],
+    "normalized_solution": [
+      373,
+      7,
+      522,
+      61
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check my account",
+    "image": "images/screenspotv2_image/web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "problem": "check my account",
+    "solution": [
+      1928,
+      11,
+      2333,
+      88
+    ],
+    "normalized_solution": [
+      753,
+      7,
+      911,
+      61
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check my postbox",
+    "image": "images/screenspotv2_image/web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "problem": "check my postbox",
+    "solution": [
+      1612,
+      16,
+      1697,
+      87
+    ],
+    "normalized_solution": [
+      629,
+      11,
+      662,
+      60
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "submit a new post",
+    "image": "images/screenspotv2_image/web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "problem": "submit a new post",
+    "solution": [
+      1729,
+      18,
+      1890,
+      88
+    ],
+    "normalized_solution": [
+      675,
+      12,
+      738,
+      61
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add comment",
+    "image": "images/screenspotv2_image/web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "problem": "add comment",
+    "solution": [
+      206,
+      754,
+      1326,
+      1037
+    ],
+    "normalized_solution": [
+      80,
+      523,
+      517,
+      720
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "back to previous page",
+    "image": "images/screenspotv2_image/web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "problem": "back to previous page",
+    "solution": [
+      202,
+      155,
+      268,
+      218
+    ],
+    "normalized_solution": [
+      78,
+      107,
+      104,
+      151
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "post the comment",
+    "image": "images/screenspotv2_image/web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "problem": "post the comment",
+    "solution": [
+      94,
+      1310,
+      229,
+      1396
+    ],
+    "normalized_solution": [
+      36,
+      909,
+      89,
+      969
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "unsubscribe the book ",
+    "image": "images/screenspotv2_image/web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "problem": "unsubscribe the book ",
+    "solution": [
+      1901,
+      495,
+      2142,
+      585
+    ],
+    "normalized_solution": [
+      742,
+      343,
+      836,
+      406
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "unsupport the book",
+    "image": "images/screenspotv2_image/web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "problem": "unsupport the book",
+    "solution": [
+      122,
+      351,
+      178,
+      396
+    ],
+    "normalized_solution": [
+      47,
+      243,
+      69,
+      275
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the forums",
+    "image": "images/screenspotv2_image/web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "problem": "check the forums",
+    "solution": [
+      304,
+      15,
+      485,
+      97
+    ],
+    "normalized_solution": [
+      118,
+      10,
+      189,
+      67
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check details of the first book",
+    "image": "images/screenspotv2_image/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "problem": "check details of the first book",
+    "solution": [
+      181,
+      390,
+      1740,
+      529
+    ],
+    "normalized_solution": [
+      70,
+      270,
+      679,
+      367
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the all comments",
+    "image": "images/screenspotv2_image/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "problem": "check the all comments",
+    "solution": [
+      320,
+      294,
+      518,
+      372
+    ],
+    "normalized_solution": [
+      125,
+      204,
+      202,
+      258
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the sorting method",
+    "image": "images/screenspotv2_image/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "problem": "change the sorting method",
+    "solution": [
+      547,
+      297,
+      710,
+      372
+    ],
+    "normalized_solution": [
+      213,
+      206,
+      277,
+      258
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sort based on active",
+    "image": "images/screenspotv2_image/web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "problem": "sort based on active",
+    "solution": [
+      550,
+      529,
+      852,
+      597
+    ],
+    "normalized_solution": [
+      214,
+      367,
+      332,
+      414
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sort based on most commented",
+    "image": "images/screenspotv2_image/web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "problem": "sort based on most commented",
+    "solution": [
+      551,
+      756,
+      856,
+      834
+    ],
+    "normalized_solution": [
+      215,
+      525,
+      334,
+      579
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "support the second book",
+    "image": "images/screenspotv2_image/web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "problem": "support the second book",
+    "solution": [
+      122,
+      591,
+      179,
+      640
+    ],
+    "normalized_solution": [
+      47,
+      410,
+      69,
+      444
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the information of book lover or not?",
+    "image": "images/screenspotv2_image/web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "problem": "view the information of book lover or not?",
+    "solution": [
+      185,
+      960,
+      970,
+      1108
+    ],
+    "normalized_solution": [
+      72,
+      666,
+      378,
+      769
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "subscribe the second book",
+    "image": "images/screenspotv2_image/web_4af68da5-d7bb-4910-b434-1301097cda1f.png",
+    "problem": "subscribe the second book",
+    "solution": [
+      2075,
+      652,
+      2314,
+      738
+    ],
+    "normalized_solution": [
+      810,
+      452,
+      903,
+      512
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the comments of the first book",
+    "image": "images/screenspotv2_image/web_a43882ed-3d5d-40c3-b077-a256acf058ec.png",
+    "problem": "view the comments of the first book",
+    "solution": [
+      183,
+      572,
+      370,
+      620
+    ],
+    "normalized_solution": [
+      71,
+      397,
+      144,
+      430
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "replay the comment with 82 upvotes",
+    "image": "images/screenspotv2_image/web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "problem": "replay the comment with 82 upvotes",
+    "solution": [
+      382,
+      592,
+      475,
+      645
+    ],
+    "normalized_solution": [
+      149,
+      411,
+      185,
+      447
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "hide the no.140 comment",
+    "image": "images/screenspotv2_image/web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "problem": "hide the no.140 comment",
+    "solution": [
+      1705,
+      1004,
+      1801,
+      1048
+    ],
+    "normalized_solution": [
+      666,
+      697,
+      703,
+      727
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the profile of user knittedjedi",
+    "image": "images/screenspotv2_image/web_0481a1db-93fd-4d1e-9146-15526e37eacd.png",
+    "problem": "check the profile of user knittedjedi",
+    "solution": [
+      46,
+      661,
+      165,
+      720
+    ],
+    "normalized_solution": [
+      17,
+      459,
+      64,
+      500
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "input the forum name",
+    "image": "images/screenspotv2_image/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "problem": "input the forum name",
+    "solution": [
+      97,
+      341,
+      1333,
+      426
+    ],
+    "normalized_solution": [
+      37,
+      236,
+      520,
+      295
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "input the title",
+    "image": "images/screenspotv2_image/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "problem": "input the title",
+    "solution": [
+      100,
+      501,
+      1332,
+      583
+    ],
+    "normalized_solution": [
+      39,
+      347,
+      520,
+      404
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view formatting help",
+    "image": "images/screenspotv2_image/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "problem": "view formatting help",
+    "solution": [
+      324,
+      1351,
+      546,
+      1400
+    ],
+    "normalized_solution": [
+      126,
+      938,
+      213,
+      972
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose tag",
+    "image": "images/screenspotv2_image/web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "problem": "choose tag",
+    "solution": [
+      97,
+      1004,
+      1331,
+      1133
+    ],
+    "normalized_solution": [
+      37,
+      697,
+      519,
+      786
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create the forum",
+    "image": "images/screenspotv2_image/web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "problem": "create the forum",
+    "solution": [
+      97,
+      1216,
+      349,
+      1301
+    ],
+    "normalized_solution": [
+      37,
+      844,
+      136,
+      903
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "input the body of the submission",
+    "image": "images/screenspotv2_image/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "problem": "input the body of the submission",
+    "solution": [
+      98,
+      782,
+      1332,
+      1281
+    ],
+    "normalized_solution": [
+      38,
+      543,
+      520,
+      889
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "upload a image for the submission",
+    "image": "images/screenspotv2_image/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "problem": "upload a image for the submission",
+    "solution": [
+      204,
+      306,
+      333,
+      363
+    ],
+    "normalized_solution": [
+      79,
+      212,
+      130,
+      252
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "input an url",
+    "image": "images/screenspotv2_image/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "problem": "input an url",
+    "solution": [
+      96,
+      373,
+      1332,
+      455
+    ],
+    "normalized_solution": [
+      37,
+      259,
+      520,
+      315
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose the forum of askreddit",
+    "image": "images/screenspotv2_image/web_13e31182-318c-43d9-9378-a69da2dc1b01.png",
+    "problem": "choose the forum of askreddit",
+    "solution": [
+      97,
+      756,
+      453,
+      824
+    ],
+    "normalized_solution": [
+      37,
+      525,
+      176,
+      572
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to dark mode",
+    "image": "images/screenspotv2_image/web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "problem": "switch to dark mode",
+    "solution": [
+      2177,
+      435,
+      2457,
+      524
+    ],
+    "normalized_solution": [
+      850,
+      302,
+      959,
+      363
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check my profile",
+    "image": "images/screenspotv2_image/web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "problem": "check my profile",
+    "solution": [
+      2176,
+      114,
+      2458,
+      185
+    ],
+    "normalized_solution": [
+      850,
+      79,
+      960,
+      128
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the submissions",
+    "image": "images/screenspotv2_image/web_48f086db-edfd-43d3-95b8-b2eee50367da.png",
+    "problem": "check the submissions",
+    "solution": [
+      269,
+      172,
+      492,
+      247
+    ],
+    "normalized_solution": [
+      105,
+      119,
+      192,
+      171
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "toggle the open external links in the new tab option",
+    "image": "images/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "problem": "toggle the open external links in the new tab option",
+    "solution": [
+      438,
+      829,
+      482,
+      873
+    ],
+    "normalized_solution": [
+      171,
+      575,
+      188,
+      606
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "disable show thumbnails option",
+    "image": "images/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "problem": "disable show thumbnails option",
+    "solution": [
+      435,
+      905,
+      481,
+      950
+    ],
+    "normalized_solution": [
+      169,
+      628,
+      187,
+      659
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "don't show post previews",
+    "image": "images/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "problem": "don't show post previews",
+    "solution": [
+      438,
+      1131,
+      482,
+      1176
+    ],
+    "normalized_solution": [
+      171,
+      785,
+      188,
+      816
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch the language",
+    "image": "images/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "problem": "switch the language",
+    "solution": [
+      440,
+      368,
+      842,
+      454
+    ],
+    "normalized_solution": [
+      171,
+      255,
+      328,
+      315
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the time zone",
+    "image": "images/screenspotv2_image/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "problem": "change the time zone",
+    "solution": [
+      439,
+      481,
+      1002,
+      562
+    ],
+    "normalized_solution": [
+      171,
+      334,
+      391,
+      390
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the sign in box",
+    "image": "images/screenspotv2_image/web_acad6928-ac22-40c7-98df-4e0df7b318bc.png",
+    "problem": "close the sign in box",
+    "solution": [
+      1794,
+      156,
+      1864,
+      224
+    ],
+    "normalized_solution": [
+      700,
+      108,
+      728,
+      155
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "follow the post",
+    "image": "images/screenspotv2_image/web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "problem": "follow the post",
+    "solution": [
+      1351,
+      639,
+      1523,
+      732
+    ],
+    "normalized_solution": [
+      527,
+      443,
+      594,
+      508
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the message box",
+    "image": "images/screenspotv2_image/web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "problem": "close the message box",
+    "solution": [
+      748,
+      851,
+      794,
+      896
+    ],
+    "normalized_solution": [
+      292,
+      590,
+      310,
+      622
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "share with facebook",
+    "image": "images/screenspotv2_image/web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "problem": "share with facebook",
+    "solution": [
+      185,
+      449,
+      248,
+      509
+    ],
+    "normalized_solution": [
+      72,
+      311,
+      96,
+      353
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "share to twitter/x",
+    "image": "images/screenspotv2_image/web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "problem": "share to twitter/x",
+    "solution": [
+      185,
+      551,
+      248,
+      614
+    ],
+    "normalized_solution": [
+      72,
+      382,
+      96,
+      426
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search in the website",
+    "image": "images/screenspotv2_image/web_659de266-0af1-47bc-a2dc-5edc4dbb29d8.png",
+    "problem": "search in the website",
+    "solution": [
+      2429,
+      19,
+      2512,
+      93
+    ],
+    "normalized_solution": [
+      948,
+      13,
+      981,
+      64
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the menu",
+    "image": "images/screenspotv2_image/web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "problem": "open the menu",
+    "solution": [
+      12,
+      16,
+      105,
+      93
+    ],
+    "normalized_solution": [
+      4,
+      11,
+      41,
+      64
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "subscribe the website",
+    "image": "images/screenspotv2_image/web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "problem": "subscribe the website",
+    "solution": [
+      1753,
+      12,
+      2225,
+      97
+    ],
+    "normalized_solution": [
+      684,
+      8,
+      869,
+      67
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the letters",
+    "image": "images/screenspotv2_image/web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "problem": "check the letters",
+    "solution": [
+      1295,
+      509,
+      2360,
+      629
+    ],
+    "normalized_solution": [
+      505,
+      353,
+      921,
+      436
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the index",
+    "image": "images/screenspotv2_image/web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "problem": "check the index",
+    "solution": [
+      1292,
+      904,
+      2363,
+      1050
+    ],
+    "normalized_solution": [
+      504,
+      627,
+      923,
+      729
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the menu",
+    "image": "images/screenspotv2_image/web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "problem": "open the menu",
+    "solution": [
+      16,
+      21,
+      108,
+      104
+    ],
+    "normalized_solution": [
+      6,
+      14,
+      42,
+      72
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the books on culture",
+    "image": "images/screenspotv2_image/web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "problem": "check the books on culture",
+    "solution": [
+      651,
+      112,
+      874,
+      198
+    ],
+    "normalized_solution": [
+      254,
+      77,
+      341,
+      137
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the books on true crime",
+    "image": "images/screenspotv2_image/web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "problem": "check the books on true crime",
+    "solution": [
+      898,
+      112,
+      1115,
+      200
+    ],
+    "normalized_solution": [
+      350,
+      77,
+      435,
+      138
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to book marks",
+    "image": "images/screenspotv2_image/web_44f9b58e-0964-4a89-bdb0-18e60f6eb07f.png",
+    "problem": "go to book marks",
+    "solution": [
+      1805,
+      0,
+      2051,
+      96
+    ],
+    "normalized_solution": [
+      705,
+      0,
+      801,
+      66
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the menu",
+    "image": "images/screenspotv2_image/web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "problem": "open the menu",
+    "solution": [
+      16,
+      21,
+      108,
+      104
+    ],
+    "normalized_solution": [
+      6,
+      14,
+      42,
+      72
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the books on tv & film",
+    "image": "images/screenspotv2_image/web_22f4dba1-1fb0-46f0-b7b5-4dfdf35de24a.png",
+    "problem": "check the books on tv & film",
+    "solution": [
+      550,
+      94,
+      1004,
+      173
+    ],
+    "normalized_solution": [
+      214,
+      65,
+      392,
+      120
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search with the current search query",
+    "image": "images/screenspotv2_image/web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "problem": "search with the current search query",
+    "solution": [
+      435,
+      409,
+      599,
+      491
+    ],
+    "normalized_solution": [
+      169,
+      284,
+      233,
+      340
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the third result",
+    "image": "images/screenspotv2_image/web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "problem": "check the third result",
+    "solution": [
+      193,
+      1084,
+      2445,
+      1297
+    ],
+    "normalized_solution": [
+      75,
+      752,
+      955,
+      900
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the shown image",
+    "image": "images/screenspotv2_image/web_4bf90a3b-dcde-4d16-ba02-470eb8976199.png",
+    "problem": "check the shown image",
+    "solution": [
+      201,
+      416,
+      1342,
+      1109
+    ],
+    "normalized_solution": [
+      78,
+      288,
+      524,
+      770
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "log out my account",
+    "image": "images/screenspotv2_image/web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "problem": "log out my account",
+    "solution": [
+      2176,
+      528,
+      2460,
+      606
+    ],
+    "normalized_solution": [
+      850,
+      366,
+      960,
+      420
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "delete the entered search query",
+    "image": "images/screenspotv2_image/web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "problem": "delete the entered search query",
+    "solution": [
+      1262,
+      295,
+      1329,
+      378
+    ],
+    "normalized_solution": [
+      492,
+      204,
+      519,
+      262
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "filter with featured creteria",
+    "image": "images/screenspotv2_image/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "problem": "filter with featured creteria",
+    "solution": [
+      550,
+      172,
+      774,
+      246
+    ],
+    "normalized_solution": [
+      214,
+      119,
+      302,
+      170
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the wiki",
+    "image": "images/screenspotv2_image/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "problem": "check the wiki",
+    "solution": [
+      490,
+      0,
+      627,
+      111
+    ],
+    "normalized_solution": [
+      191,
+      0,
+      244,
+      77
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "log in my account",
+    "image": "images/screenspotv2_image/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "problem": "log in my account",
+    "solution": [
+      2114,
+      0,
+      2263,
+      112
+    ],
+    "normalized_solution": [
+      825,
+      0,
+      883,
+      77
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create a new page",
+    "image": "images/screenspotv2_image/web_533f02b1-e687-462f-9d14-5a25f54d9464.png",
+    "problem": "create a new page",
+    "solution": [
+      96,
+      372,
+      393,
+      458
+    ],
+    "normalized_solution": [
+      37,
+      258,
+      153,
+      318
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the details of the third new",
+    "image": "images/screenspotv2_image/web_7fa2512c-eaa9-4195-a8a3-a1ad5d359ff1.png",
+    "problem": "check the details of the third new",
+    "solution": [
+      185,
+      831,
+      1661,
+      1057
+    ],
+    "normalized_solution": [
+      72,
+      577,
+      648,
+      734
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the ad banner",
+    "image": "images/screenspotv2_image/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "problem": "close the ad banner",
+    "solution": [
+      1969,
+      1259,
+      2011,
+      1295
+    ],
+    "normalized_solution": [
+      769,
+      874,
+      785,
+      899
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search in the website",
+    "image": "images/screenspotv2_image/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "problem": "search in the website",
+    "solution": [
+      2467,
+      838,
+      2553,
+      920
+    ],
+    "normalized_solution": [
+      963,
+      581,
+      997,
+      638
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "log in by x account",
+    "image": "images/screenspotv2_image/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "problem": "log in by x account",
+    "solution": [
+      2118,
+      476,
+      2189,
+      535
+    ],
+    "normalized_solution": [
+      827,
+      330,
+      855,
+      371
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "share to facebook",
+    "image": "images/screenspotv2_image/web_d86766a4-4d7f-467a-899e-dcde8472e632.png",
+    "problem": "share to facebook",
+    "solution": [
+      33,
+      1083,
+      84,
+      1131
+    ],
+    "normalized_solution": [
+      12,
+      752,
+      32,
+      785
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the weather news",
+    "image": "images/screenspotv2_image/web_11acd5dc-63ab-415f-823d-10cd68acef01.png",
+    "problem": "check the weather news",
+    "solution": [
+      841,
+      307,
+      1076,
+      411
+    ],
+    "normalized_solution": [
+      328,
+      213,
+      420,
+      285
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "follow sadie gurman",
+    "image": "images/screenspotv2_image/web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "problem": "follow sadie gurman",
+    "solution": [
+      380,
+      1262,
+      511,
+      1317
+    ],
+    "normalized_solution": [
+      148,
+      876,
+      199,
+      914
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search in the website",
+    "image": "images/screenspotv2_image/web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "problem": "search in the website",
+    "solution": [
+      2371,
+      93,
+      2464,
+      159
+    ],
+    "normalized_solution": [
+      926,
+      64,
+      962,
+      110
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "pause reading the page",
+    "image": "images/screenspotv2_image/web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "problem": "pause reading the page",
+    "solution": [
+      629,
+      796,
+      734,
+      900
+    ],
+    "normalized_solution": [
+      245,
+      552,
+      286,
+      625
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust reading speed",
+    "image": "images/screenspotv2_image/web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "problem": "adjust reading speed",
+    "solution": [
+      1499,
+      814,
+      1615,
+      882
+    ],
+    "normalized_solution": [
+      585,
+      565,
+      630,
+      612
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the menu",
+    "image": "images/screenspotv2_image/web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "problem": "open the menu",
+    "solution": [
+      215,
+      216,
+      294,
+      335
+    ],
+    "normalized_solution": [
+      83,
+      150,
+      114,
+      232
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check sports news",
+    "image": "images/screenspotv2_image/web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "problem": "check sports news",
+    "solution": [
+      948,
+      215,
+      1093,
+      335
+    ],
+    "normalized_solution": [
+      370,
+      149,
+      426,
+      232
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "share the article",
+    "image": "images/screenspotv2_image/web_7e3c1de0-602b-48ec-bfb4-1215f33356f3.png",
+    "problem": "share the article",
+    "solution": [
+      1437,
+      490,
+      1590,
+      557
+    ],
+    "normalized_solution": [
+      561,
+      340,
+      621,
+      386
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check science news",
+    "image": "images/screenspotv2_image/web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "problem": "check science news",
+    "solution": [
+      1541,
+      315,
+      1700,
+      437
+    ],
+    "normalized_solution": [
+      601,
+      218,
+      664,
+      303
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "donate to the website",
+    "image": "images/screenspotv2_image/web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "problem": "donate to the website",
+    "solution": [
+      2256,
+      213,
+      2450,
+      284
+    ],
+    "normalized_solution": [
+      881,
+      147,
+      957,
+      197
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click to search the result",
+    "image": "images/screenspotv2_image/web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "problem": "click to search the result",
+    "solution": [
+      511,
+      122,
+      593,
+      190
+    ],
+    "normalized_solution": [
+      199,
+      84,
+      231,
+      131
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "zoom in on the map",
+    "image": "images/screenspotv2_image/web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "problem": "zoom in on the map",
+    "solution": [
+      2473,
+      127,
+      2558,
+      209
+    ],
+    "normalized_solution": [
+      966,
+      88,
+      999,
+      145
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sign up",
+    "image": "images/screenspotv2_image/web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "problem": "sign up",
+    "solution": [
+      2382,
+      21,
+      2535,
+      92
+    ],
+    "normalized_solution": [
+      930,
+      14,
+      990,
+      63
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "zoom out",
+    "image": "images/screenspotv2_image/web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "problem": "zoom out",
+    "solution": [
+      2478,
+      209,
+      2557,
+      283
+    ],
+    "normalized_solution": [
+      967,
+      145,
+      998,
+      196
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "export the map data",
+    "image": "images/screenspotv2_image/web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "problem": "export the map data",
+    "solution": [
+      688,
+      23,
+      827,
+      89
+    ],
+    "normalized_solution": [
+      268,
+      15,
+      323,
+      61
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "locate to my position",
+    "image": "images/screenspotv2_image/web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "problem": "locate to my position",
+    "solution": [
+      2486,
+      288,
+      2557,
+      370
+    ],
+    "normalized_solution": [
+      971,
+      200,
+      998,
+      256
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "share the map with someone",
+    "image": "images/screenspotv2_image/web_2d6ce349-19b2-438b-bc41-611bb64ee63b.png",
+    "problem": "share the map with someone",
+    "solution": [
+      2478,
+      553,
+      2557,
+      627
+    ],
+    "normalized_solution": [
+      967,
+      384,
+      998,
+      435
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the gps traces",
+    "image": "images/screenspotv2_image/web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "problem": "check the gps traces",
+    "solution": [
+      1372,
+      32,
+      1561,
+      78
+    ],
+    "normalized_solution": [
+      535,
+      22,
+      609,
+      54
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust map layers",
+    "image": "images/screenspotv2_image/web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "problem": "adjust map layers",
+    "solution": [
+      2475,
+      387,
+      2554,
+      466
+    ],
+    "normalized_solution": [
+      966,
+      268,
+      997,
+      323
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the result of erie country",
+    "image": "images/screenspotv2_image/web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "problem": "view the result of erie country",
+    "solution": [
+      303,
+      756,
+      475,
+      800
+    ],
+    "normalized_solution": [
+      118,
+      525,
+      185,
+      555
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the search results",
+    "image": "images/screenspotv2_image/web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "problem": "close the search results",
+    "solution": [
+      615,
+      234,
+      670,
+      286
+    ],
+    "normalized_solution": [
+      240,
+      162,
+      261,
+      198
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the button to navigate to boston",
+    "image": "images/screenspotv2_image/web_bbe84736-3a87-4cc1-b9f1-e10144d28f94.png",
+    "problem": "click the button to navigate to boston",
+    "solution": [
+      604,
+      127,
+      683,
+      195
+    ],
+    "normalized_solution": [
+      235,
+      88,
+      266,
+      135
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view more option of edit button",
+    "image": "images/screenspotv2_image/web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "problem": "view more option of edit button",
+    "solution": [
+      492,
+      18,
+      547,
+      89
+    ],
+    "normalized_solution": [
+      192,
+      12,
+      213,
+      61
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "need help",
+    "image": "images/screenspotv2_image/web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "problem": "need help",
+    "solution": [
+      2065,
+      23,
+      2144,
+      78
+    ],
+    "normalized_solution": [
+      806,
+      15,
+      837,
+      54
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch map layer to the opnvkarte",
+    "image": "images/screenspotv2_image/web_7872daa1-5a12-4ada-95cc-0dd9e655fb4f.png",
+    "problem": "switch map layer to the opnvkarte",
+    "solution": [
+      2098,
+      499,
+      2516,
+      597
+    ],
+    "normalized_solution": [
+      819,
+      346,
+      982,
+      414
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a place marker on map",
+    "image": "images/screenspotv2_image/web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "problem": "add a place marker on map",
+    "solution": [
+      1921,
+      715,
+      2008,
+      805
+    ],
+    "normalized_solution": [
+      750,
+      496,
+      784,
+      559
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check communities",
+    "image": "images/screenspotv2_image/web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "problem": "check communities",
+    "solution": [
+      1650,
+      32,
+      1855,
+      84
+    ],
+    "normalized_solution": [
+      644,
+      22,
+      724,
+      58
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choosing the travel mode",
+    "image": "images/screenspotv2_image/web_352ae757-fdf0-4d02-9167-c24a42629a60.png",
+    "problem": "choosing the travel mode",
+    "solution": [
+      74,
+      403,
+      653,
+      469
+    ],
+    "normalized_solution": [
+      28,
+      279,
+      255,
+      325
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the button with \"go\"",
+    "image": "images/screenspotv2_image/web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "problem": "click the button with \"go\"",
+    "solution": [
+      669,
+      398,
+      751,
+      472
+    ],
+    "normalized_solution": [
+      261,
+      276,
+      293,
+      327
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reverse directions",
+    "image": "images/screenspotv2_image/web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "problem": "reverse directions",
+    "solution": [
+      85,
+      488,
+      375,
+      537
+    ],
+    "normalized_solution": [
+      33,
+      338,
+      146,
+      372
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the first listed direction",
+    "image": "images/screenspotv2_image/web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "problem": "check the first listed direction",
+    "solution": [
+      33,
+      805,
+      760,
+      873
+    ],
+    "normalized_solution": [
+      12,
+      559,
+      296,
+      606
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view my map's history",
+    "image": "images/screenspotv2_image/web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "problem": "view my map's history",
+    "solution": [
+      604,
+      21,
+      760,
+      100
+    ],
+    "normalized_solution": [
+      235,
+      14,
+      296,
+      69
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the location labels on the map",
+    "image": "images/screenspotv2_image/web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "problem": "close the location labels on the map",
+    "solution": [
+      2292,
+      1051,
+      2328,
+      1087
+    ],
+    "normalized_solution": [
+      895,
+      729,
+      909,
+      754
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the direction of \"slight left onto hancock street\"",
+    "image": "images/screenspotv2_image/web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "problem": "check the direction of \"slight left onto hancock street\"",
+    "solution": [
+      25,
+      1048,
+      746,
+      1163
+    ],
+    "normalized_solution": [
+      9,
+      727,
+      291,
+      807
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click a button to export licence",
+    "image": "images/screenspotv2_image/web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "problem": "click a button to export licence",
+    "solution": [
+      301,
+      944,
+      465,
+      1029
+    ],
+    "normalized_solution": [
+      117,
+      655,
+      181,
+      714
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the area bounding numbered \"42.3768\"",
+    "image": "images/screenspotv2_image/web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "problem": "change the area bounding numbered \"42.3768\"",
+    "solution": [
+      273,
+      359,
+      489,
+      444
+    ],
+    "normalized_solution": [
+      106,
+      249,
+      191,
+      308
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Click the button to inspect map features and view details",
+    "image": "images/screenspotv2_image/web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "problem": "Click the button to inspect map features and view details",
+    "solution": [
+      2470,
+      824,
+      2560,
+      917
+    ],
+    "normalized_solution": [
+      964,
+      572,
+      1000,
+      636
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "goto openstreetmap france",
+    "image": "images/screenspotv2_image/web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "problem": "goto openstreetmap france",
+    "solution": [
+      1984,
+      1403,
+      2271,
+      1436
+    ],
+    "normalized_solution": [
+      775,
+      974,
+      887,
+      997
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the \"starbucks\" located in auburn street",
+    "image": "images/screenspotv2_image/web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "problem": "click the \"starbucks\" located in auburn street",
+    "solution": [
+      107,
+      1053,
+      257,
+      1097
+    ],
+    "normalized_solution": [
+      41,
+      731,
+      100,
+      761
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view user diaries",
+    "image": "images/screenspotv2_image/web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "problem": "view user diaries",
+    "solution": [
+      1456,
+      26,
+      1645,
+      81
+    ],
+    "normalized_solution": [
+      568,
+      18,
+      642,
+      56
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "register now",
+    "image": "images/screenspotv2_image/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "problem": "register now",
+    "solution": [
+      601,
+      381,
+      798,
+      419
+    ],
+    "normalized_solution": [
+      234,
+      264,
+      311,
+      290
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select remember me",
+    "image": "images/screenspotv2_image/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "problem": "select remember me",
+    "solution": [
+      257,
+      878,
+      301,
+      924
+    ],
+    "normalized_solution": [
+      100,
+      609,
+      117,
+      641
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check openstreetmap belglum",
+    "image": "images/screenspotv2_image/web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+    "problem": "check openstreetmap belglum",
+    "solution": [
+      333,
+      971,
+      699,
+      1007
+    ],
+    "normalized_solution": [
+      130,
+      674,
+      273,
+      699
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit note",
+    "image": "images/screenspotv2_image/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "problem": "edit note",
+    "solution": [
+      30,
+      652,
+      732,
+      1218
+    ],
+    "normalized_solution": [
+      11,
+      452,
+      285,
+      845
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add note",
+    "image": "images/screenspotv2_image/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "problem": "add note",
+    "solution": [
+      33,
+      1247,
+      241,
+      1337
+    ],
+    "normalized_solution": [
+      12,
+      865,
+      94,
+      928
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Click on the marker already added to the map",
+    "image": "images/screenspotv2_image/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "problem": "Click on the marker already added to the map",
+    "solution": [
+      1418,
+      553,
+      1470,
+      608
+    ],
+    "normalized_solution": [
+      553,
+      384,
+      574,
+      422
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the note bar",
+    "image": "images/screenspotv2_image/web_5e5f5a65-435a-424f-baf9-e5bf89b917f6.png",
+    "problem": "close the note bar",
+    "solution": [
+      675,
+      220,
+      745,
+      310
+    ],
+    "normalized_solution": [
+      263,
+      152,
+      291,
+      215
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the html as share format",
+    "image": "images/screenspotv2_image/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "problem": "select the html as share format",
+    "solution": [
+      2328,
+      433,
+      2451,
+      504
+    ],
+    "normalized_solution": [
+      909,
+      300,
+      957,
+      350
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check geo uri link",
+    "image": "images/screenspotv2_image/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "problem": "check geo uri link",
+    "solution": [
+      2046,
+      704,
+      2461,
+      742
+    ],
+    "normalized_solution": [
+      799,
+      488,
+      961,
+      515
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select image format",
+    "image": "images/screenspotv2_image/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "problem": "select image format",
+    "solution": [
+      2197,
+      960,
+      2320,
+      1004
+    ],
+    "normalized_solution": [
+      858,
+      666,
+      906,
+      697
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "start mapping",
+    "image": "images/screenspotv2_image/web_adbf2de0-3a79-4ffd-b344-b4a068f192ea.png",
+    "problem": "start mapping",
+    "solution": [
+      391,
+      772,
+      727,
+      854
+    ],
+    "normalized_solution": [
+      152,
+      536,
+      283,
+      593
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the english wiki",
+    "image": "images/screenspotv2_image/web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "problem": "view the english wiki",
+    "solution": [
+      885,
+      258,
+      1145,
+      351
+    ],
+    "normalized_solution": [
+      345,
+      179,
+      447,
+      243
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select search langugage",
+    "image": "images/screenspotv2_image/web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "problem": "select search langugage",
+    "solution": [
+      1497,
+      936,
+      1614,
+      1018
+    ],
+    "normalized_solution": [
+      584,
+      650,
+      630,
+      706
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "read wikipedia in my language",
+    "image": "images/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "problem": "read wikipedia in my language",
+    "solution": [
+      943,
+      45,
+      1615,
+      119
+    ],
+    "normalized_solution": [
+      368,
+      31,
+      630,
+      82
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "download wikipedia app in google play store",
+    "image": "images/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "problem": "download wikipedia app in google play store",
+    "solution": [
+      213,
+      827,
+      481,
+      909
+    ],
+    "normalized_solution": [
+      83,
+      574,
+      187,
+      631
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "download in apple app store",
+    "image": "images/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "problem": "download in apple app store",
+    "solution": [
+      497,
+      829,
+      735,
+      908
+    ],
+    "normalized_solution": [
+      194,
+      575,
+      287,
+      630
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "look into wikidata",
+    "image": "images/screenspotv2_image/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "problem": "look into wikidata",
+    "solution": [
+      2115,
+      540,
+      2252,
+      573
+    ],
+    "normalized_solution": [
+      826,
+      375,
+      879,
+      397
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "support with a donation",
+    "image": "images/screenspotv2_image/web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "problem": "support with a donation",
+    "solution": [
+      205,
+      1340,
+      776,
+      1378
+    ],
+    "normalized_solution": [
+      80,
+      930,
+      303,
+      956
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search result",
+    "image": "images/screenspotv2_image/web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "problem": "search result",
+    "solution": [
+      1653,
+      788,
+      1779,
+      895
+    ],
+    "normalized_solution": [
+      645,
+      547,
+      694,
+      621
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check wikipedia",
+    "image": "images/screenspotv2_image/web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "problem": "check wikipedia",
+    "solution": [
+      1667,
+      1343,
+      1804,
+      1379
+    ],
+    "normalized_solution": [
+      651,
+      932,
+      704,
+      957
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "goto france wikipedia",
+    "image": "images/screenspotv2_image/web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "problem": "goto france wikipedia",
+    "solution": [
+      803,
+      534,
+      953,
+      572
+    ],
+    "normalized_solution": [
+      313,
+      370,
+      372,
+      397
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the searching result of machine learning",
+    "image": "images/screenspotv2_image/web_c762cbb8-b6b0-48e3-84ad-5c4090137fa2.png",
+    "problem": "check the searching result of machine learning",
+    "solution": [
+      831,
+      1023,
+      1618,
+      1165
+    ],
+    "normalized_solution": [
+      324,
+      710,
+      632,
+      809
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to discussion",
+    "image": "images/screenspotv2_image/web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "problem": "switch to discussion",
+    "solution": [
+      557,
+      75,
+      759,
+      157
+    ],
+    "normalized_solution": [
+      217,
+      52,
+      296,
+      109
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "look into reference [1]",
+    "image": "images/screenspotv2_image/web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "problem": "look into reference [1]",
+    "solution": [
+      1041,
+      1034,
+      1079,
+      1070
+    ],
+    "normalized_solution": [
+      406,
+      718,
+      421,
+      743
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check language setting",
+    "image": "images/screenspotv2_image/web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "problem": "check language setting",
+    "solution": [
+      350,
+      1400,
+      399,
+      1440
+    ],
+    "normalized_solution": [
+      136,
+      972,
+      155,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the hyponyms of deep learning",
+    "image": "images/screenspotv2_image/web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "problem": "check the hyponyms of deep learning",
+    "solution": [
+      552,
+      1078,
+      781,
+      1127
+    ],
+    "normalized_solution": [
+      215,
+      748,
+      305,
+      782
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check out the month's challenges",
+    "image": "images/screenspotv2_image/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "problem": "check out the month's challenges",
+    "solution": [
+      1806,
+      1255,
+      2432,
+      1375
+    ],
+    "normalized_solution": [
+      705,
+      871,
+      950,
+      954
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click on the picture of the day",
+    "image": "images/screenspotv2_image/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "problem": "click on the picture of the day",
+    "solution": [
+      538,
+      745,
+      1664,
+      1379
+    ],
+    "normalized_solution": [
+      210,
+      517,
+      650,
+      957
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "swith language of current web page",
+    "image": "images/screenspotv2_image/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "problem": "swith language of current web page",
+    "solution": [
+      46,
+      805,
+      347,
+      849
+    ],
+    "normalized_solution": [
+      17,
+      559,
+      135,
+      589
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "play the media of the day",
+    "image": "images/screenspotv2_image/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "problem": "play the media of the day",
+    "solution": [
+      538,
+      698,
+      1664,
+      1332
+    ],
+    "normalized_solution": [
+      210,
+      484,
+      650,
+      925
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "copy url link of the media",
+    "image": "images/screenspotv2_image/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "problem": "copy url link of the media",
+    "solution": [
+      1617,
+      1359,
+      1672,
+      1405
+    ],
+    "normalized_solution": [
+      631,
+      943,
+      653,
+      975
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "download current webpage to local as pdf file",
+    "image": "images/screenspotv2_image/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "problem": "download current webpage to local as pdf file",
+    "solution": [
+      68,
+      887,
+      317,
+      928
+    ],
+    "normalized_solution": [
+      26,
+      615,
+      123,
+      644
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open wikispecies",
+    "image": "images/screenspotv2_image/web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "problem": "open wikispecies",
+    "solution": [
+      1585,
+      1023,
+      1765,
+      1059
+    ],
+    "normalized_solution": [
+      619,
+      710,
+      689,
+      735
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open mediawiki",
+    "image": "images/screenspotv2_image/web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "problem": "open mediawiki",
+    "solution": [
+      2113,
+      825,
+      2295,
+      864
+    ],
+    "normalized_solution": [
+      825,
+      572,
+      896,
+      600
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "input word to search in wikidata",
+    "image": "images/screenspotv2_image/web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "problem": "input word to search in wikidata",
+    "solution": [
+      1940,
+      116,
+      2372,
+      184
+    ],
+    "normalized_solution": [
+      757,
+      80,
+      926,
+      127
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch language of current page",
+    "image": "images/screenspotv2_image/web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "problem": "switch language of current page",
+    "solution": [
+      1464,
+      7,
+      1642,
+      64
+    ],
+    "normalized_solution": [
+      571,
+      4,
+      641,
+      44
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the picture of earth",
+    "image": "images/screenspotv2_image/web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "problem": "open the picture of earth",
+    "solution": [
+      1571,
+      425,
+      1994,
+      857
+    ],
+    "normalized_solution": [
+      613,
+      295,
+      778,
+      595
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open wikidata article upon earth item",
+    "image": "images/screenspotv2_image/web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "problem": "open wikidata article upon earth item",
+    "solution": [
+      1743,
+      887,
+      1901,
+      928
+    ],
+    "normalized_solution": [
+      680,
+      615,
+      742,
+      644
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter username to create wikidate account",
+    "image": "images/screenspotv2_image/web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "problem": "enter username to create wikidate account",
+    "solution": [
+      505,
+      575,
+      1221,
+      654
+    ],
+    "normalized_solution": [
+      197,
+      399,
+      476,
+      454
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch page's language into chinese",
+    "image": "images/screenspotv2_image/web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "problem": "switch page's language into chinese",
+    "solution": [
+      2240,
+      392,
+      2314,
+      430
+    ],
+    "normalized_solution": [
+      875,
+      272,
+      903,
+      298
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "refresh captcha picture",
+    "image": "images/screenspotv2_image/web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "problem": "refresh captcha picture",
+    "solution": [
+      530,
+      756,
+      1199,
+      994
+    ],
+    "normalized_solution": [
+      207,
+      525,
+      468,
+      690
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter text showing in capcha",
+    "image": "images/screenspotv2_image/web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "problem": "enter text showing in capcha",
+    "solution": [
+      746,
+      996,
+      981,
+      1045
+    ],
+    "normalized_solution": [
+      291,
+      691,
+      383,
+      725
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open page about arsene wenger",
+    "image": "images/screenspotv2_image/web_3357799b-92ed-4ce8-8c01-452993f9397b.png",
+    "problem": "open page about arsene wenger",
+    "solution": [
+      781,
+      1097,
+      1650,
+      1245
+    ],
+    "normalized_solution": [
+      305,
+      761,
+      644,
+      864
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open talk page",
+    "image": "images/screenspotv2_image/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "problem": "open talk page",
+    "solution": [
+      792,
+      346,
+      882,
+      401
+    ],
+    "normalized_solution": [
+      309,
+      240,
+      344,
+      278
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "unflod items about players",
+    "image": "images/screenspotv2_image/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "problem": "unflod items about players",
+    "solution": [
+      101,
+      1220,
+      320,
+      1283
+    ],
+    "normalized_solution": [
+      39,
+      847,
+      125,
+      890
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the logo of arsenal f.c ",
+    "image": "images/screenspotv2_image/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "problem": "open the logo of arsenal f.c ",
+    "solution": [
+      1798,
+      747,
+      2287,
+      1291
+    ],
+    "normalized_solution": [
+      702,
+      518,
+      893,
+      896
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add language",
+    "image": "images/screenspotv2_image/web_cd72d06c-67ca-4ed8-b550-dcf4b33e5381.png",
+    "problem": "add language",
+    "solution": [
+      628,
+      1124,
+      1076,
+      1244
+    ],
+    "normalized_solution": [
+      245,
+      780,
+      420,
+      863
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show cloth color for current season",
+    "image": "images/screenspotv2_image/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "problem": "show cloth color for current season",
+    "solution": [
+      1888,
+      1165,
+      2230,
+      1258
+    ],
+    "normalized_solution": [
+      737,
+      809,
+      871,
+      873
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open article about mikel arteta",
+    "image": "images/screenspotv2_image/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "problem": "open article about mikel arteta",
+    "solution": [
+      1863,
+      504,
+      2054,
+      553
+    ],
+    "normalized_solution": [
+      727,
+      350,
+      802,
+      384
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open picture of home colours",
+    "image": "images/screenspotv2_image/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "problem": "open picture of home colours",
+    "solution": [
+      1694,
+      753,
+      1896,
+      1103
+    ],
+    "normalized_solution": [
+      661,
+      522,
+      740,
+      765
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click a hyperlink in main menu to show helps for how to edit wikipedia page information",
+    "image": "images/screenspotv2_image/web_be6a7bf9-9411-430f-a685-e97c75f44310.png",
+    "problem": "click a hyperlink in main menu to show helps for how to edit wikipedia page information",
+    "solution": [
+      126,
+      1034,
+      364,
+      1075
+    ],
+    "normalized_solution": [
+      49,
+      718,
+      142,
+      746
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show the picture of gloden trophy owned by ansenal",
+    "image": "images/screenspotv2_image/web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "problem": "show the picture of gloden trophy owned by ansenal",
+    "solution": [
+      2011,
+      507,
+      2437,
+      1073
+    ],
+    "normalized_solution": [
+      785,
+      352,
+      951,
+      745
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter the wikipedia page of champions league",
+    "image": "images/screenspotv2_image/web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "problem": "enter the wikipedia page of champions league",
+    "solution": [
+      1000,
+      1305,
+      1322,
+      1351
+    ],
+    "normalized_solution": [
+      390,
+      906,
+      516,
+      938
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the picture of cora vitoria diehl",
+    "image": "images/screenspotv2_image/web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "problem": "open the picture of cora vitoria diehl",
+    "solution": [
+      1074,
+      556,
+      1366,
+      963
+    ],
+    "normalized_solution": [
+      419,
+      386,
+      533,
+      668
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show the image of queen lili's uokalani of hawaii",
+    "image": "images/screenspotv2_image/web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "problem": "show the image of queen lili's uokalani of hawaii",
+    "solution": [
+      2123,
+      529,
+      2429,
+      922
+    ],
+    "normalized_solution": [
+      829,
+      367,
+      948,
+      640
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to homepage of wikipedia",
+    "image": "images/screenspotv2_image/web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "problem": "go to homepage of wikipedia",
+    "solution": [
+      202,
+      7,
+      672,
+      133
+    ],
+    "normalized_solution": [
+      78,
+      4,
+      262,
+      92
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open image of george frideric handel",
+    "image": "images/screenspotv2_image/web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "problem": "open image of george frideric handel",
+    "solution": [
+      131,
+      758,
+      481,
+      1113
+    ],
+    "normalized_solution": [
+      51,
+      526,
+      187,
+      772
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open 'retrospect and prospect in computer-based translation' paper",
+    "image": "images/screenspotv2_image/web_22e2b9c7-0140-47aa-8e14-cfd883f3baaf.png",
+    "problem": "open 'retrospect and prospect in computer-based translation' paper",
+    "solution": [
+      1014,
+      480,
+      1842,
+      535
+    ],
+    "normalized_solution": [
+      396,
+      333,
+      719,
+      371
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "let website remember account information for no logging in the next year",
+    "image": "images/screenspotv2_image/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "problem": "let website remember account information for no logging in the next year",
+    "solution": [
+      104,
+      796,
+      161,
+      853
+    ],
+    "normalized_solution": [
+      40,
+      552,
+      62,
+      592
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter username",
+    "image": "images/screenspotv2_image/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "problem": "enter username",
+    "solution": [
+      112,
+      515,
+      831,
+      586
+    ],
+    "normalized_solution": [
+      43,
+      357,
+      324,
+      406
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "log in",
+    "image": "images/screenspotv2_image/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "problem": "log in",
+    "solution": [
+      107,
+      887,
+      836,
+      966
+    ],
+    "normalized_solution": [
+      41,
+      615,
+      326,
+      670
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Click to recover password",
+    "image": "images/screenspotv2_image/web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "problem": "Click to recover password",
+    "solution": [
+      258,
+      1078,
+      667,
+      1130
+    ],
+    "normalized_solution": [
+      100,
+      748,
+      260,
+      784
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create account",
+    "image": "images/screenspotv2_image/web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "problem": "create account",
+    "solution": [
+      1989,
+      53,
+      2246,
+      102
+    ],
+    "normalized_solution": [
+      776,
+      36,
+      877,
+      70
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the page of bougainville island",
+    "image": "images/screenspotv2_image/web_3ff7abbd-cbd0-4396-ae77-94e34376edb5.png",
+    "problem": "open the page of bougainville island",
+    "solution": [
+      1738,
+      1135,
+      2047,
+      1179
+    ],
+    "normalized_solution": [
+      678,
+      788,
+      799,
+      818
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "return the homepage of mediawiki",
+    "image": "images/screenspotv2_image/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "problem": "return the homepage of mediawiki",
+    "solution": [
+      202,
+      7,
+      688,
+      141
+    ],
+    "normalized_solution": [
+      78,
+      4,
+      268,
+      97
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to the discussion page",
+    "image": "images/screenspotv2_image/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "problem": "switch to the discussion page",
+    "solution": [
+      309,
+      419,
+      508,
+      465
+    ],
+    "normalized_solution": [
+      120,
+      290,
+      198,
+      322
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the picture of the wikimedia hackathon 2023",
+    "image": "images/screenspotv2_image/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "problem": "open the picture of the wikimedia hackathon 2023",
+    "solution": [
+      1636,
+      579,
+      2437,
+      787
+    ],
+    "normalized_solution": [
+      639,
+      402,
+      951,
+      546
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "download all mediawiki last released data",
+    "image": "images/screenspotv2_image/web_d920add5-4b0d-41a6-8de8-2b2b443e7524.png",
+    "problem": "download all mediawiki last released data",
+    "solution": [
+      1134,
+      1190,
+      1973,
+      1272
+    ],
+    "normalized_solution": [
+      442,
+      826,
+      770,
+      883
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the flag of portugal ",
+    "image": "images/screenspotv2_image/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "problem": "click the flag of portugal ",
+    "solution": [
+      1688,
+      632,
+      1852,
+      694
+    ],
+    "normalized_solution": [
+      659,
+      438,
+      723,
+      481
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter page of norway",
+    "image": "images/screenspotv2_image/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "problem": "enter page of norway",
+    "solution": [
+      852,
+      1081,
+      1034,
+      1138
+    ],
+    "normalized_solution": [
+      332,
+      750,
+      403,
+      790
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open arsenal f.c. records and player records webpage",
+    "image": "images/screenspotv2_image/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "problem": "open arsenal f.c. records and player records webpage",
+    "solution": [
+      1586,
+      193,
+      2212,
+      245
+    ],
+    "normalized_solution": [
+      619,
+      134,
+      864,
+      170
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open keras",
+    "image": "images/screenspotv2_image/web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "problem": "open keras",
+    "solution": [
+      711,
+      22,
+      830,
+      61
+    ],
+    "normalized_solution": [
+      277,
+      15,
+      324,
+      42
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open oracle data mining page",
+    "image": "images/screenspotv2_image/web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "problem": "open oracle data mining page",
+    "solution": [
+      1618,
+      948,
+      1953,
+      990
+    ],
+    "normalized_solution": [
+      632,
+      658,
+      762,
+      687
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open image of book named machined learning",
+    "image": "images/screenspotv2_image/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "problem": "open image of book named machined learning",
+    "solution": [
+      1859,
+      424,
+      2368,
+      1185
+    ],
+    "normalized_solution": [
+      726,
+      294,
+      925,
+      822
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter page of peer-reviewd scientific journal",
+    "image": "images/screenspotv2_image/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "problem": "enter page of peer-reviewd scientific journal",
+    "solution": [
+      1036,
+      341,
+      1566,
+      383
+    ],
+    "normalized_solution": [
+      404,
+      236,
+      611,
+      265
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "hide sidebar",
+    "image": "images/screenspotv2_image/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "problem": "hide sidebar",
+    "solution": [
+      330,
+      131,
+      434,
+      191
+    ],
+    "normalized_solution": [
+      128,
+      90,
+      169,
+      132
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change page language",
+    "image": "images/screenspotv2_image/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "problem": "change page language",
+    "solution": [
+      2113,
+      29,
+      2453,
+      91
+    ],
+    "normalized_solution": [
+      825,
+      20,
+      958,
+      63
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "jump to website of 'induction of decision trees'",
+    "image": "images/screenspotv2_image/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "problem": "jump to website of 'induction of decision trees'",
+    "solution": [
+      1044,
+      1263,
+      1558,
+      1302
+    ],
+    "normalized_solution": [
+      407,
+      877,
+      608,
+      904
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to talk column",
+    "image": "images/screenspotv2_image/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "problem": "switch to talk column",
+    "solution": [
+      800,
+      141,
+      880,
+      193
+    ],
+    "normalized_solution": [
+      312,
+      97,
+      343,
+      134
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "play the video shown in this page",
+    "image": "images/screenspotv2_image/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "problem": "play the video shown in this page",
+    "solution": [
+      1888,
+      227,
+      2444,
+      539
+    ],
+    "normalized_solution": [
+      737,
+      157,
+      954,
+      374
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to page of darpa",
+    "image": "images/screenspotv2_image/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "problem": "go to page of darpa",
+    "solution": [
+      1893,
+      549,
+      2002,
+      585
+    ],
+    "normalized_solution": [
+      739,
+      381,
+      782,
+      406
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "get citation of current webpage",
+    "image": "images/screenspotv2_image/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "problem": "get citation of current webpage",
+    "solution": [
+      42,
+      1239,
+      431,
+      1366
+    ],
+    "normalized_solution": [
+      16,
+      860,
+      168,
+      948
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "delete the 'article' tag for searching",
+    "image": "images/screenspotv2_image/web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "problem": "delete the 'article' tag for searching",
+    "solution": [
+      465,
+      663,
+      520,
+      718
+    ],
+    "normalized_solution": [
+      181,
+      460,
+      203,
+      498
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "input keyword in the searchbar",
+    "image": "images/screenspotv2_image/web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "problem": "input keyword in the searchbar",
+    "solution": [
+      104,
+      463,
+      1605,
+      533
+    ],
+    "normalized_solution": [
+      40,
+      321,
+      626,
+      370
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select to search in all area",
+    "image": "images/screenspotv2_image/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "problem": "select to search in all area",
+    "solution": [
+      898,
+      756,
+      950,
+      816
+    ],
+    "normalized_solution": [
+      350,
+      525,
+      371,
+      566
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show advanced searching options",
+    "image": "images/screenspotv2_image/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "problem": "show advanced searching options",
+    "solution": [
+      112,
+      556,
+      1857,
+      631
+    ],
+    "normalized_solution": [
+      43,
+      386,
+      725,
+      438
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "display the next 20 searching results",
+    "image": "images/screenspotv2_image/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "problem": "display the next 20 searching results",
+    "solution": [
+      428,
+      1234,
+      555,
+      1286
+    ],
+    "normalized_solution": [
+      167,
+      856,
+      216,
+      893
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open page of gpt-2",
+    "image": "images/screenspotv2_image/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "problem": "open page of gpt-2",
+    "solution": [
+      1052,
+      1083,
+      1171,
+      1117
+    ],
+    "normalized_solution": [
+      410,
+      752,
+      457,
+      775
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show content of reinforcement learning",
+    "image": "images/screenspotv2_image/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "problem": "show content of reinforcement learning",
+    "solution": [
+      2332,
+      414,
+      2425,
+      456
+    ],
+    "normalized_solution": [
+      910,
+      287,
+      947,
+      316
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter page of machine learning translation",
+    "image": "images/screenspotv2_image/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "problem": "enter page of machine learning translation",
+    "solution": [
+      1065,
+      943,
+      1535,
+      972
+    ],
+    "normalized_solution": [
+      416,
+      654,
+      599,
+      675
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open home& kitchen part",
+    "image": "images/screenspotv2_image/web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "problem": "open home& kitchen part",
+    "solution": [
+      1337,
+      299,
+      1607,
+      372
+    ],
+    "normalized_solution": [
+      522,
+      207,
+      627,
+      258
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter detail page of icecream",
+    "image": "images/screenspotv2_image/web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "problem": "enter detail page of icecream",
+    "solution": [
+      2062,
+      964,
+      2514,
+      1405
+    ],
+    "normalized_solution": [
+      805,
+      669,
+      982,
+      975
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the pop-up window",
+    "image": "images/screenspotv2_image/web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "problem": "close the pop-up window",
+    "solution": [
+      2482,
+      255,
+      2524,
+      312
+    ],
+    "normalized_solution": [
+      969,
+      177,
+      985,
+      216
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the detailed information of the first product in the cart",
+    "image": "images/screenspotv2_image/web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "problem": "check the detailed information of the first product in the cart",
+    "solution": [
+      1914,
+      611,
+      2428,
+      697
+    ],
+    "normalized_solution": [
+      747,
+      424,
+      948,
+      484
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the alart window",
+    "image": "images/screenspotv2_image/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "problem": "close the alart window",
+    "solution": [
+      1750,
+      144,
+      1797,
+      191
+    ],
+    "normalized_solution": [
+      683,
+      100,
+      701,
+      132
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "confirm leaving the shopping cart",
+    "image": "images/screenspotv2_image/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "problem": "confirm leaving the shopping cart",
+    "solution": [
+      976,
+      354,
+      1088,
+      427
+    ],
+    "normalized_solution": [
+      381,
+      245,
+      425,
+      296
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "cancel leaving",
+    "image": "images/screenspotv2_image/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "problem": "cancel leaving",
+    "solution": [
+      794,
+      357,
+      960,
+      417
+    ],
+    "normalized_solution": [
+      310,
+      247,
+      375,
+      289
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "remove the first item from the shopping cart",
+    "image": "images/screenspotv2_image/web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "problem": "remove the first item from the shopping cart",
+    "solution": [
+      226,
+      954,
+      493,
+      1019
+    ],
+    "normalized_solution": [
+      88,
+      662,
+      192,
+      707
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust the quantity of the first item",
+    "image": "images/screenspotv2_image/web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "problem": "adjust the quantity of the first item",
+    "solution": [
+      1530,
+      505,
+      1650,
+      595
+    ],
+    "normalized_solution": [
+      597,
+      350,
+      644,
+      413
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sign in the website",
+    "image": "images/screenspotv2_image/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "problem": "sign in the website",
+    "solution": [
+      2404,
+      45,
+      2518,
+      102
+    ],
+    "normalized_solution": [
+      939,
+      31,
+      983,
+      70
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show more information of the items in cart",
+    "image": "images/screenspotv2_image/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "problem": "show more information of the items in cart",
+    "solution": [
+      1750,
+      632,
+      2451,
+      723
+    ],
+    "normalized_solution": [
+      683,
+      438,
+      957,
+      502
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view help for email account",
+    "image": "images/screenspotv2_image/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "problem": "view help for email account",
+    "solution": [
+      1311,
+      556,
+      1360,
+      608
+    ],
+    "normalized_solution": [
+      512,
+      386,
+      531,
+      422
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add the creole seasoning to favorites",
+    "image": "images/screenspotv2_image/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "problem": "add the creole seasoning to favorites",
+    "solution": [
+      1153,
+      982,
+      1213,
+      1029
+    ],
+    "normalized_solution": [
+      450,
+      681,
+      473,
+      714
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add the cocowhip light to cart",
+    "image": "images/screenspotv2_image/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "problem": "add the cocowhip light to cart",
+    "solution": [
+      1721,
+      1003,
+      1968,
+      1073
+    ],
+    "normalized_solution": [
+      672,
+      696,
+      768,
+      745
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "remove the first item from the comparison",
+    "image": "images/screenspotv2_image/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "problem": "remove the first item from the comparison",
+    "solution": [
+      1607,
+      260,
+      1649,
+      309
+    ],
+    "normalized_solution": [
+      627,
+      180,
+      644,
+      214
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "forget my password",
+    "image": "images/screenspotv2_image/web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "problem": "forget my password",
+    "solution": [
+      597,
+      1107,
+      935,
+      1154
+    ],
+    "normalized_solution": [
+      233,
+      768,
+      365,
+      801
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create an account",
+    "image": "images/screenspotv2_image/web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "problem": "create an account",
+    "solution": [
+      1309,
+      749,
+      1665,
+      832
+    ],
+    "normalized_solution": [
+      511,
+      520,
+      650,
+      577
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "input my password",
+    "image": "images/screenspotv2_image/web_5d555c28-7e2a-4380-ad9e-4eeba9cc2383.png",
+    "problem": "input my password",
+    "solution": [
+      356,
+      852,
+      1247,
+      925
+    ],
+    "normalized_solution": [
+      139,
+      591,
+      487,
+      642
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the information of the first product",
+    "image": "images/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "problem": "check the information of the first product",
+    "solution": [
+      486,
+      429,
+      959,
+      1172
+    ],
+    "normalized_solution": [
+      189,
+      297,
+      374,
+      813
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the price changes for the first item",
+    "image": "images/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "problem": "check the price changes for the first item",
+    "solution": [
+      844,
+      1309,
+      891,
+      1348
+    ],
+    "normalized_solution": [
+      329,
+      909,
+      348,
+      936
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the sorting method",
+    "image": "images/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "problem": "change the sorting method",
+    "solution": [
+      2129,
+      211,
+      2420,
+      276
+    ],
+    "normalized_solution": [
+      831,
+      146,
+      945,
+      191
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch the product arrangement to a 2*2 grid",
+    "image": "images/screenspotv2_image/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "problem": "switch the product arrangement to a 2*2 grid",
+    "solution": [
+      628,
+      198,
+      719,
+      278
+    ],
+    "normalized_solution": [
+      245,
+      137,
+      280,
+      193
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show next image of this item",
+    "image": "images/screenspotv2_image/web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "problem": "show next image of this item",
+    "solution": [
+      1309,
+      1174,
+      1400,
+      1330
+    ],
+    "normalized_solution": [
+      511,
+      815,
+      546,
+      923
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add this item to wish list",
+    "image": "images/screenspotv2_image/web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "problem": "add this item to wish list",
+    "solution": [
+      1524,
+      1050,
+      1773,
+      1102
+    ],
+    "normalized_solution": [
+      595,
+      729,
+      692,
+      765
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the image window",
+    "image": "images/screenspotv2_image/web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "problem": "close the image window",
+    "solution": [
+      2389,
+      9,
+      2553,
+      165
+    ],
+    "normalized_solution": [
+      933,
+      6,
+      997,
+      114
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the second image",
+    "image": "images/screenspotv2_image/web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "problem": "check the second image",
+    "solution": [
+      203,
+      1234,
+      395,
+      1431
+    ],
+    "normalized_solution": [
+      79,
+      856,
+      154,
+      993
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check computers and accessories items ",
+    "image": "images/screenspotv2_image/web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "problem": "check computers and accessories items ",
+    "solution": [
+      839,
+      907,
+      1343,
+      987
+    ],
+    "normalized_solution": [
+      327,
+      629,
+      524,
+      685
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sign in the website",
+    "image": "images/screenspotv2_image/web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "problem": "sign in the website",
+    "solution": [
+      1244,
+      22,
+      1356,
+      69
+    ],
+    "normalized_solution": [
+      485,
+      15,
+      529,
+      47
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search the products about football",
+    "image": "images/screenspotv2_image/web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "problem": "search the products about football",
+    "solution": [
+      2272,
+      151,
+      2352,
+      219
+    ],
+    "normalized_solution": [
+      887,
+      104,
+      918,
+      152
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the information about the first item",
+    "image": "images/screenspotv2_image/web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "problem": "check the information about the first item",
+    "solution": [
+      73,
+      837,
+      452,
+      1361
+    ],
+    "normalized_solution": [
+      28,
+      581,
+      176,
+      945
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the product photo",
+    "image": "images/screenspotv2_image/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "problem": "view the product photo",
+    "solution": [
+      239,
+      595,
+      1246,
+      1436
+    ],
+    "normalized_solution": [
+      93,
+      413,
+      486,
+      997
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the purchase quantity of the product",
+    "image": "images/screenspotv2_image/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "problem": "change the purchase quantity of the product",
+    "solution": [
+      1524,
+      699,
+      1633,
+      813
+    ],
+    "normalized_solution": [
+      595,
+      485,
+      637,
+      564
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add this item to compare",
+    "image": "images/screenspotv2_image/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "problem": "add this item to compare",
+    "solution": [
+      1784,
+      899,
+      2031,
+      951
+    ],
+    "normalized_solution": [
+      696,
+      624,
+      793,
+      660
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "rate this product with four stars",
+    "image": "images/screenspotv2_image/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "problem": "rate this product with four stars",
+    "solution": [
+      615,
+      395,
+      646,
+      450
+    ],
+    "normalized_solution": [
+      240,
+      274,
+      252,
+      312
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "provide a review for the current product",
+    "image": "images/screenspotv2_image/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "problem": "provide a review for the current product",
+    "solution": [
+      369,
+      793,
+      1182,
+      983
+    ],
+    "normalized_solution": [
+      144,
+      550,
+      461,
+      682
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "submit my review",
+    "image": "images/screenspotv2_image/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "problem": "submit my review",
+    "solution": [
+      369,
+      1081,
+      665,
+      1151
+    ],
+    "normalized_solution": [
+      144,
+      750,
+      259,
+      799
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check the privacy and cookie policy",
+    "image": "images/screenspotv2_image/web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "problem": "check the privacy and cookie policy",
+    "solution": [
+      36,
+      1159,
+      397,
+      1206
+    ],
+    "normalized_solution": [
+      14,
+      804,
+      155,
+      837
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "subscribe to feedback on this item",
+    "image": "images/screenspotv2_image/web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "problem": "subscribe to feedback on this item",
+    "solution": [
+      2295,
+      1164,
+      2508,
+      1229
+    ],
+    "normalized_solution": [
+      896,
+      808,
+      979,
+      853
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to the next page",
+    "image": "images/screenspotv2_image/web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "problem": "go to the next page",
+    "solution": [
+      1288,
+      14,
+      1368,
+      87
+    ],
+    "normalized_solution": [
+      503,
+      9,
+      534,
+      60
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go to the second page",
+    "image": "images/screenspotv2_image/web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "problem": "go to the second page",
+    "solution": [
+      1223,
+      40,
+      1246,
+      69
+    ],
+    "normalized_solution": [
+      477,
+      27,
+      486,
+      47
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view the details of the item",
+    "image": "images/screenspotv2_image/web_3b0ad239-da6b-4f6f-8f12-f674dc90ff33.png",
+    "problem": "view the details of the item",
+    "solution": [
+      42,
+      1102,
+      239,
+      1172
+    ],
+    "normalized_solution": [
+      16,
+      765,
+      93,
+      813
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "View more details about the sword and shield item",
+    "image": "images/screenspotv2_image/web_0q7ijc.png",
+    "problem": "View more details about the sword and shield item",
+    "solution": [
+      1211,
+      685,
+      1426,
+      915
+    ],
+    "normalized_solution": [
+      630,
+      634,
+      742,
+      847
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": " check privacy policy",
+    "image": "images/screenspotv2_image/web_0qfaj2.png",
+    "problem": " check privacy policy",
+    "solution": [
+      524,
+      1029,
+      616,
+      1047
+    ],
+    "normalized_solution": [
+      272,
+      952,
+      320,
+      969
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view more details about rental cars",
+    "image": "images/screenspotv2_image/web_174lzg.png",
+    "problem": "view more details about rental cars",
+    "solution": [
+      1162,
+      290,
+      1538,
+      448
+    ],
+    "normalized_solution": [
+      605,
+      268,
+      801,
+      414
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "sign up ",
+    "image": "images/screenspotv2_image/web_1hc78j.png",
+    "problem": "sign up ",
+    "solution": [
+      1602,
+      10,
+      1749,
+      60
+    ],
+    "normalized_solution": [
+      834,
+      9,
+      910,
+      55
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "star the awesome-huggingface project",
+    "image": "images/screenspotv2_image/web_35ra1b.png",
+    "problem": "star the awesome-huggingface project",
+    "solution": [
+      1402,
+      593,
+      1461,
+      621
+    ],
+    "normalized_solution": [
+      730,
+      549,
+      760,
+      575
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "search in this page",
+    "image": "images/screenspotv2_image/web_38k1l1.png",
+    "problem": "search in this page",
+    "solution": [
+      1702,
+      30,
+      1759,
+      81
+    ],
+    "normalized_solution": [
+      886,
+      27,
+      916,
+      75
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Switch the language that needs to be translated to Chinese",
+    "image": "images/screenspotv2_image/web_3dpus9.png",
+    "problem": "Switch the language that needs to be translated to Chinese",
+    "solution": [
+      449,
+      144,
+      541,
+      172
+    ],
+    "normalized_solution": [
+      233,
+      133,
+      281,
+      159
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "check the free trial",
+    "image": "images/screenspotv2_image/web_43vc1w.png",
+    "problem": "check the free trial",
+    "solution": [
+      355,
+      563,
+      495,
+      613
+    ],
+    "normalized_solution": [
+      184,
+      521,
+      257,
+      567
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "add wikipedia to wishlist",
+    "image": "images/screenspotv2_image/web_50x1xn.png",
+    "problem": "add wikipedia to wishlist",
+    "solution": [
+      627,
+      644,
+      769,
+      684
+    ],
+    "normalized_solution": [
+      326,
+      596,
+      400,
+      633
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Click the current date",
+    "image": "images/screenspotv2_image/web_7bnnwq.png",
+    "problem": "Click the current date",
+    "solution": [
+      1044,
+      598,
+      1289,
+      654
+    ],
+    "normalized_solution": [
+      543,
+      553,
+      671,
+      605
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "search in this documentation",
+    "image": "images/screenspotv2_image/web_7so32e.png",
+    "problem": "search in this documentation",
+    "solution": [
+      562,
+      224,
+      1361,
+      276
+    ],
+    "normalized_solution": [
+      292,
+      207,
+      708,
+      255
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "switch the payment option to upgrade program",
+    "image": "images/screenspotv2_image/web_7ywy7e.png",
+    "problem": "switch the payment option to upgrade program",
+    "solution": [
+      964,
+      473,
+      1301,
+      659
+    ],
+    "normalized_solution": [
+      502,
+      437,
+      677,
+      610
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Change the temperature display unit to Celsius",
+    "image": "images/screenspotv2_image/web_83raem.png",
+    "problem": "Change the temperature display unit to Celsius",
+    "solution": [
+      1460,
+      29,
+      1536,
+      62
+    ],
+    "normalized_solution": [
+      760,
+      26,
+      800,
+      57
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view drama books",
+    "image": "images/screenspotv2_image/web_8u9hc4.png",
+    "problem": "view drama books",
+    "solution": [
+      450,
+      1015,
+      600,
+      1037
+    ],
+    "normalized_solution": [
+      234,
+      939,
+      312,
+      960
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Switch the map to 3D display mode",
+    "image": "images/screenspotv2_image/web_8yff90.png",
+    "problem": "Switch the map to 3D display mode",
+    "solution": [
+      1724,
+      992,
+      1776,
+      1039
+    ],
+    "normalized_solution": [
+      897,
+      918,
+      925,
+      962
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "log in",
+    "image": "images/screenspotv2_image/web_911npk.png",
+    "problem": "log in",
+    "solution": [
+      1712,
+      10,
+      1856,
+      50
+    ],
+    "normalized_solution": [
+      891,
+      9,
+      966,
+      46
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "install a steam desktop application",
+    "image": "images/screenspotv2_image/web_92ejhx.png",
+    "problem": "install a steam desktop application",
+    "solution": [
+      1187,
+      4,
+      1305,
+      34
+    ],
+    "normalized_solution": [
+      618,
+      3,
+      679,
+      31
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Change the webpage language to French",
+    "image": "images/screenspotv2_image/web_92nqwh.png",
+    "problem": "Change the webpage language to French",
+    "solution": [
+      699,
+      665,
+      805,
+      692
+    ],
+    "normalized_solution": [
+      364,
+      615,
+      419,
+      640
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "check more details about Nintendo Switch 2",
+    "image": "images/screenspotv2_image/web_a5axk7.png",
+    "problem": "check more details about Nintendo Switch 2",
+    "solution": [
+      811,
+      78,
+      1111,
+      316
+    ],
+    "normalized_solution": [
+      422,
+      72,
+      578,
+      292
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Adjust the quantity of the product",
+    "image": "images/screenspotv2_image/web_aon6bc.png",
+    "problem": "Adjust the quantity of the product",
+    "solution": [
+      1467,
+      480,
+      1678,
+      514
+    ],
+    "normalized_solution": [
+      764,
+      444,
+      873,
+      475
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view more information about the airpods item",
+    "image": "images/screenspotv2_image/web_asqyu8.png",
+    "problem": "view more information about the airpods item",
+    "solution": [
+      900,
+      73,
+      978,
+      111
+    ],
+    "normalized_solution": [
+      468,
+      67,
+      509,
+      102
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "learn more about earn degree credit",
+    "image": "images/screenspotv2_image/web_bvupbc.png",
+    "problem": "learn more about earn degree credit",
+    "solution": [
+      1219,
+      492,
+      1340,
+      526
+    ],
+    "normalized_solution": [
+      634,
+      455,
+      697,
+      487
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Change the payment currency",
+    "image": "images/screenspotv2_image/web_c5bdvl.png",
+    "problem": "Change the payment currency",
+    "solution": [
+      953,
+      607,
+      1107,
+      643
+    ],
+    "normalized_solution": [
+      496,
+      562,
+      576,
+      595
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Purchase the latest battlegroud season pass",
+    "image": "images/screenspotv2_image/web_citsb7.png",
+    "problem": "Purchase the latest battlegroud season pass",
+    "solution": [
+      335,
+      452,
+      620,
+      511
+    ],
+    "normalized_solution": [
+      174,
+      418,
+      322,
+      473
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "check the blog",
+    "image": "images/screenspotv2_image/web_cmyhc5.png",
+    "problem": "check the blog",
+    "solution": [
+      869,
+      9,
+      964,
+      60
+    ],
+    "normalized_solution": [
+      452,
+      8,
+      502,
+      55
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "switch off \"keep me logged in\" setting",
+    "image": "images/screenspotv2_image/web_coivm6.png",
+    "problem": "switch off \"keep me logged in\" setting",
+    "solution": [
+      784,
+      313,
+      811,
+      337
+    ],
+    "normalized_solution": [
+      408,
+      289,
+      422,
+      312
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "choose downloading docker in mac-apple silicon",
+    "image": "images/screenspotv2_image/web_d1bbz4.png",
+    "problem": "choose downloading docker in mac-apple silicon",
+    "solution": [
+      653,
+      670,
+      1000,
+      719
+    ],
+    "normalized_solution": [
+      340,
+      620,
+      520,
+      665
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Click to mark Anna's comment as unhelpful",
+    "image": "images/screenspotv2_image/web_dho92e.png",
+    "problem": "Click to mark Anna's comment as unhelpful",
+    "solution": [
+      538,
+      604,
+      603,
+      632
+    ],
+    "normalized_solution": [
+      280,
+      559,
+      314,
+      585
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Choose to sort from oldest to newest",
+    "image": "images/screenspotv2_image/web_dkh41m.png",
+    "problem": "Choose to sort from oldest to newest",
+    "solution": [
+      1099,
+      587,
+      1123,
+      614
+    ],
+    "normalized_solution": [
+      572,
+      543,
+      584,
+      568
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Modify the display font size",
+    "image": "images/screenspotv2_image/web_e21gwr.png",
+    "problem": "Modify the display font size",
+    "solution": [
+      1382,
+      79,
+      1458,
+      132
+    ],
+    "normalized_solution": [
+      719,
+      73,
+      759,
+      122
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Choose to download PyTorch for Mac system",
+    "image": "images/screenspotv2_image/web_f4ww24.png",
+    "problem": "Choose to download PyTorch for Mac system",
+    "solution": [
+      757,
+      555,
+      962,
+      595
+    ],
+    "normalized_solution": [
+      394,
+      513,
+      501,
+      550
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Upvote Tillman's post",
+    "image": "images/screenspotv2_image/web_ftpvmj.png",
+    "problem": "Upvote Tillman's post",
+    "solution": [
+      563,
+      786,
+      701,
+      822
+    ],
+    "normalized_solution": [
+      293,
+      727,
+      365,
+      761
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "View the next page of the browse by category section",
+    "image": "images/screenspotv2_image/web_gflr2y.png",
+    "problem": "View the next page of the browse by category section",
+    "solution": [
+      1431,
+      893,
+      1475,
+      1005
+    ],
+    "normalized_solution": [
+      745,
+      826,
+      768,
+      930
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "adjust the volume of the currently playing video",
+    "image": "images/screenspotv2_image/web_h5egmj.png",
+    "problem": "adjust the volume of the currently playing video",
+    "solution": [
+      216,
+      757,
+      262,
+      797
+    ],
+    "normalized_solution": [
+      112,
+      700,
+      136,
+      737
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "check whatsapp business",
+    "image": "images/screenspotv2_image/web_hmoge1.png",
+    "problem": "check whatsapp business",
+    "solution": [
+      1369,
+      82,
+      1619,
+      312
+    ],
+    "normalized_solution": [
+      713,
+      75,
+      843,
+      288
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "click to close the privacy information bar",
+    "image": "images/screenspotv2_image/web_hnoy0b.png",
+    "problem": "click to close the privacy information bar",
+    "solution": [
+      1858,
+      1027,
+      1918,
+      1066
+    ],
+    "normalized_solution": [
+      967,
+      950,
+      998,
+      987
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "stop seeing the ads",
+    "image": "images/screenspotv2_image/web_ir7ddl.png",
+    "problem": "stop seeing the ads",
+    "solution": [
+      814,
+      118,
+      972,
+      154
+    ],
+    "normalized_solution": [
+      423,
+      109,
+      506,
+      142
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view more replies from user 'offialwildcardadventures' reply",
+    "image": "images/screenspotv2_image/web_isogec.png",
+    "problem": "view more replies from user 'offialwildcardadventures' reply",
+    "solution": [
+      162,
+      828,
+      280,
+      855
+    ],
+    "normalized_solution": [
+      84,
+      766,
+      145,
+      791
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "choose the 1Tb storage",
+    "image": "images/screenspotv2_image/web_j2wrmj.png",
+    "problem": "choose the 1Tb storage",
+    "solution": [
+      1472,
+      723,
+      1801,
+      806
+    ],
+    "normalized_solution": [
+      766,
+      669,
+      938,
+      746
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view my account profile",
+    "image": "images/screenspotv2_image/web_j3nekk.png",
+    "problem": "view my account profile",
+    "solution": [
+      1741,
+      8,
+      1883,
+      80
+    ],
+    "normalized_solution": [
+      906,
+      7,
+      980,
+      74
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Close the pop-up window in the bottom right corner",
+    "image": "images/screenspotv2_image/web_j7u75j.png",
+    "problem": "Close the pop-up window in the bottom right corner",
+    "solution": [
+      1881,
+      1052,
+      1908,
+      1079
+    ],
+    "normalized_solution": [
+      979,
+      974,
+      993,
+      999
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "upvote MagicJoshByGosh's reply",
+    "image": "images/screenspotv2_image/web_jn0jbi.png",
+    "problem": "upvote MagicJoshByGosh's reply",
+    "solution": [
+      748,
+      681,
+      807,
+      704
+    ],
+    "normalized_solution": [
+      389,
+      630,
+      420,
+      651
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "enter my own password for logging in",
+    "image": "images/screenspotv2_image/web_kj0f2t.png",
+    "problem": "enter my own password for logging in",
+    "solution": [
+      968,
+      373,
+      1214,
+      414
+    ],
+    "normalized_solution": [
+      504,
+      345,
+      632,
+      383
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "add black myth to my steam cart",
+    "image": "images/screenspotv2_image/web_m76p3o.png",
+    "problem": "add black myth to my steam cart",
+    "solution": [
+      976,
+      990,
+      1085,
+      1024
+    ],
+    "normalized_solution": [
+      508,
+      916,
+      565,
+      948
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view the community of minecraft",
+    "image": "images/screenspotv2_image/web_mqbuo5.png",
+    "problem": "view the community of minecraft",
+    "solution": [
+      934,
+      7,
+      1073,
+      79
+    ],
+    "normalized_solution": [
+      486,
+      6,
+      558,
+      73
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view more videos about VALORANT",
+    "image": "images/screenspotv2_image/web_nnxneu.png",
+    "problem": "view more videos about VALORANT",
+    "solution": [
+      439,
+      556,
+      650,
+      904
+    ],
+    "normalized_solution": [
+      228,
+      514,
+      338,
+      837
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view more details about ResearchGate",
+    "image": "images/screenspotv2_image/web_nzts74.png",
+    "problem": "view more details about ResearchGate",
+    "solution": [
+      1244,
+      937,
+      1495,
+      1016
+    ],
+    "normalized_solution": [
+      647,
+      867,
+      778,
+      940
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view classic rock's video",
+    "image": "images/screenspotv2_image/web_oh7753.png",
+    "problem": "view classic rock's video",
+    "solution": [
+      753,
+      943,
+      1073,
+      1073
+    ],
+    "normalized_solution": [
+      392,
+      873,
+      558,
+      993
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "View the comments on the first article about Musk on the page",
+    "image": "images/screenspotv2_image/web_q8t3el.png",
+    "problem": "View the comments on the first article about Musk on the page",
+    "solution": [
+      661,
+      474,
+      726,
+      507
+    ],
+    "normalized_solution": [
+      344,
+      438,
+      378,
+      469
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Play the video explaining the physical characteristics of Mars",
+    "image": "images/screenspotv2_image/web_ql1kqj.png",
+    "problem": "Play the video explaining the physical characteristics of Mars",
+    "solution": [
+      937,
+      320,
+      1183,
+      448
+    ],
+    "normalized_solution": [
+      488,
+      296,
+      616,
+      414
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Follow the Twitter account of 'Ask PayPal'",
+    "image": "images/screenspotv2_image/web_qltu7f.png",
+    "problem": "Follow the Twitter account of 'Ask PayPal'",
+    "solution": [
+      1481,
+      448,
+      1569,
+      483
+    ],
+    "normalized_solution": [
+      771,
+      414,
+      817,
+      447
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Download DuckDuckGo as a Firefox browser extension",
+    "image": "images/screenspotv2_image/web_r2k5yc.png",
+    "problem": "Download DuckDuckGo as a Firefox browser extension",
+    "solution": [
+      1194,
+      225,
+      1288,
+      316
+    ],
+    "normalized_solution": [
+      621,
+      208,
+      670,
+      292
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "View the weather details for Beijing",
+    "image": "images/screenspotv2_image/web_rlhjuk.png",
+    "problem": "View the weather details for Beijing",
+    "solution": [
+      684,
+      216,
+      858,
+      346
+    ],
+    "normalized_solution": [
+      356,
+      200,
+      446,
+      320
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Copy the HTTP download link for this GitHub project",
+    "image": "images/screenspotv2_image/web_s3z321.png",
+    "problem": "Copy the HTTP download link for this GitHub project",
+    "solution": [
+      1199,
+      340,
+      1241,
+      374
+    ],
+    "normalized_solution": [
+      624,
+      314,
+      646,
+      346
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "View my shopping cart",
+    "image": "images/screenspotv2_image/web_s6sun5.png",
+    "problem": "View my shopping cart",
+    "solution": [
+      1752,
+      29,
+      1798,
+      62
+    ],
+    "normalized_solution": [
+      912,
+      26,
+      936,
+      57
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Reject all privacy terms",
+    "image": "images/screenspotv2_image/web_sz54xt.png",
+    "problem": "Reject all privacy terms",
+    "solution": [
+      974,
+      422,
+      1120,
+      467
+    ],
+    "normalized_solution": [
+      507,
+      390,
+      583,
+      432
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Click to send the verification code to the specified email address",
+    "image": "images/screenspotv2_image/web_tpgtas.png",
+    "problem": "Click to send the verification code to the specified email address",
+    "solution": [
+      1072,
+      597,
+      1264,
+      657
+    ],
+    "normalized_solution": [
+      558,
+      552,
+      658,
+      608
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "check shoes under 50 dollars in \"shop deals in fashion\" part",
+    "image": "images/screenspotv2_image/web_tpwp1v.png",
+    "problem": "check shoes under 50 dollars in \"shop deals in fashion\" part",
+    "solution": [
+      1526,
+      628,
+      1682,
+      768
+    ],
+    "normalized_solution": [
+      794,
+      581,
+      876,
+      711
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "check the book named Ms. Rachel",
+    "image": "images/screenspotv2_image/web_ts6lzz.png",
+    "problem": "check the book named Ms. Rachel",
+    "solution": [
+      871,
+      579,
+      1074,
+      772
+    ],
+    "normalized_solution": [
+      453,
+      536,
+      559,
+      714
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Select the time of day for the reserved vehicle to arrive",
+    "image": "images/screenspotv2_image/web_uilgwu.png",
+    "problem": "Select the time of day for the reserved vehicle to arrive",
+    "solution": [
+      589,
+      486,
+      784,
+      541
+    ],
+    "normalized_solution": [
+      306,
+      450,
+      408,
+      500
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Replay the current video",
+    "image": "images/screenspotv2_image/web_ujxrkl.png",
+    "problem": "Replay the current video",
+    "solution": [
+      681,
+      445,
+      798,
+      544
+    ],
+    "normalized_solution": [
+      354,
+      412,
+      415,
+      503
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "donate to python project",
+    "image": "images/screenspotv2_image/web_uvhr8l.png",
+    "problem": "donate to python project",
+    "solution": [
+      1026,
+      91,
+      1105,
+      130
+    ],
+    "normalized_solution": [
+      534,
+      84,
+      575,
+      120
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Check the Mega products in the brand selection",
+    "image": "images/screenspotv2_image/web_vlk2rj.png",
+    "problem": "Check the Mega products in the brand selection",
+    "solution": [
+      211,
+      668,
+      244,
+      689
+    ],
+    "normalized_solution": [
+      109,
+      618,
+      127,
+      637
+    ]
+  },
+  {
+    "dataset": "screenspot_web",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "register now for pytorch",
+    "image": "images/screenspotv2_image/web_y5xkl0.png",
+    "problem": "register now for pytorch",
+    "solution": [
+      366,
+      391,
+      522,
+      442
+    ],
+    "normalized_solution": [
+      190,
+      362,
+      271,
+      409
+    ]
+  }
+]

@@ -1,0 +1,7016 @@
+[
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "close this window",
+    "image": "images/screenspotv2_image/pc_ede36f9b-1154-4f76-b7f8-c15d7d3f9b6e.png",
+    "problem": "close this window",
+    "solution": [
+      910,
+      78,
+      954,
+      112
+    ],
+    "normalized_solution": [
+      947,
+      144,
+      993,
+      207
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "minimize this window",
+    "image": "images/screenspotv2_image/pc_5e09e8e9-7ef6-44be-ad54-aeaeac151897.png",
+    "problem": "minimize this window",
+    "solution": [
+      835,
+      0,
+      871,
+      30
+    ],
+    "normalized_solution": [
+      869,
+      0,
+      907,
+      55
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view solitaire daily challenges",
+    "image": "images/screenspotv2_image/pc_2c6dc6ea-fd6f-4cbb-9954-2d6a68610a48.png",
+    "problem": "view solitaire daily challenges",
+    "solution": [
+      1477,
+      450,
+      1661,
+      680
+    ],
+    "normalized_solution": [
+      769,
+      416,
+      865,
+      629
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the Microsoft store",
+    "image": "images/screenspotv2_image/pc_b072d03a-51cb-4dd6-bdeb-152d3fd44e6b.png",
+    "problem": "open the Microsoft store",
+    "solution": [
+      176,
+      202,
+      275,
+      303
+    ],
+    "normalized_solution": [
+      183,
+      374,
+      286,
+      561
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "adjust the style",
+    "image": "images/screenspotv2_image/pc_ac2d2c5e-fe5a-4233-95b4-2de18ef76a9e.png",
+    "problem": "adjust the style",
+    "solution": [
+      635,
+      360,
+      677,
+      423
+    ],
+    "normalized_solution": [
+      661,
+      666,
+      705,
+      783
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "minimize calculator",
+    "image": "images/screenspotv2_image/pc_f0122b91-3f8b-4510-9a6e-f0239d84b94e.png",
+    "problem": "minimize calculator",
+    "solution": [
+      697,
+      63,
+      731,
+      95
+    ],
+    "normalized_solution": [
+      726,
+      116,
+      761,
+      175
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the download page",
+    "image": "images/screenspotv2_image/pc_354a6cb2-3fe0-4cea-950c-d7f8e01fdf45.png",
+    "problem": "open the download page",
+    "solution": [
+      843,
+      7,
+      891,
+      46
+    ],
+    "normalized_solution": [
+      878,
+      12,
+      928,
+      85
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the help menu",
+    "image": "images/screenspotv2_image/pc_d6b09201-c944-4ad9-a0a2-ff78e8f056ce.png",
+    "problem": "open the help menu",
+    "solution": [
+      1,
+      434,
+      68,
+      500
+    ],
+    "normalized_solution": [
+      1,
+      803,
+      70,
+      925
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "save the file",
+    "image": "images/screenspotv2_image/pc_db6b6fa2-11cc-4b06-88cb-22c180f07a3b.png",
+    "problem": "save the file",
+    "solution": [
+      9,
+      0,
+      44,
+      31
+    ],
+    "normalized_solution": [
+      9,
+      0,
+      45,
+      57
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "search for software ",
+    "image": "images/screenspotv2_image/pc_6dfa677c-7772-46fb-8c83-14a33b0806b4.png",
+    "problem": "search for software ",
+    "solution": [
+      316,
+      0,
+      917,
+      38
+    ],
+    "normalized_solution": [
+      329,
+      0,
+      955,
+      70
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "add this page to favourites",
+    "image": "images/screenspotv2_image/pc_bc9ed2f6-79c1-4a35-bcb5-4760bf4ed57d.png",
+    "problem": "add this page to favourites",
+    "solution": [
+      880,
+      6,
+      916,
+      37
+    ],
+    "normalized_solution": [
+      916,
+      11,
+      954,
+      68
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "choose language for windows",
+    "image": "images/screenspotv2_image/pc_2c56f301-8e71-4498-8e52-44b37ac1a298.png",
+    "problem": "choose language for windows",
+    "solution": [
+      458,
+      133,
+      910,
+      169
+    ],
+    "normalized_solution": [
+      477,
+      246,
+      947,
+      312
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "input method toolbar",
+    "image": "images/screenspotv2_image/pc_e618dc7e-8ffb-4a37-a317-9d3908c38395.png",
+    "problem": "input method toolbar",
+    "solution": [
+      883,
+      496,
+      945,
+      540
+    ],
+    "normalized_solution": [
+      919,
+      918,
+      984,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "access the personal account interface",
+    "image": "images/screenspotv2_image/pc_54779155-8627-4cac-8ea6-98277cfe0647.png",
+    "problem": "access the personal account interface",
+    "solution": [
+      778,
+      4,
+      816,
+      45
+    ],
+    "normalized_solution": [
+      810,
+      7,
+      850,
+      83
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "network and internet settings",
+    "image": "images/screenspotv2_image/pc_ad16765f-de52-4903-b406-fb5213b94db9.png",
+    "problem": "network and internet settings",
+    "solution": [
+      924,
+      496,
+      957,
+      540
+    ],
+    "normalized_solution": [
+      962,
+      918,
+      996,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open a new tab",
+    "image": "images/screenspotv2_image/pc_1ebb6beb-3187-45a6-a5a6-e50aa9a327e5.png",
+    "problem": "open a new tab",
+    "solution": [
+      813,
+      0,
+      847,
+      32
+    ],
+    "normalized_solution": [
+      846,
+      0,
+      882,
+      59
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "click the file processing menu",
+    "image": "images/screenspotv2_image/pc_221d3c5a-0a1b-456e-9676-7b5ff95cc1b1.png",
+    "problem": "click the file processing menu",
+    "solution": [
+      10,
+      84,
+      60,
+      123
+    ],
+    "normalized_solution": [
+      10,
+      155,
+      62,
+      227
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open settings",
+    "image": "images/screenspotv2_image/pc_a8b0f843-7aaf-4369-ac2b-a121f1ccb024.png",
+    "problem": "open settings",
+    "solution": [
+      1,
+      30,
+      42,
+      69
+    ],
+    "normalized_solution": [
+      1,
+      55,
+      43,
+      127
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the music library",
+    "image": "images/screenspotv2_image/pc_7f0b3e40-e5f5-462b-96c3-e8a97a3a504b.png",
+    "problem": "open the music library",
+    "solution": [
+      2,
+      48,
+      321,
+      88
+    ],
+    "normalized_solution": [
+      2,
+      88,
+      334,
+      162
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "copy the file",
+    "image": "images/screenspotv2_image/pc_8f88d498-d49a-4ab5-8aa6-aafa1428c3b7.png",
+    "problem": "copy the file",
+    "solution": [
+      177,
+      69,
+      459,
+      97
+    ],
+    "normalized_solution": [
+      184,
+      127,
+      478,
+      179
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "check the date and time menu",
+    "image": "images/screenspotv2_image/pc_870d6da1-bc85-4e74-a1bd-ef6f975c2146.png",
+    "problem": "check the date and time menu",
+    "solution": [
+      855,
+      495,
+      931,
+      540
+    ],
+    "normalized_solution": [
+      890,
+      916,
+      969,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the sleep mode",
+    "image": "images/screenspotv2_image/pc_45c2712a-337d-4b6b-a47b-37ca4d5bdddd.png",
+    "problem": "open the sleep mode",
+    "solution": [
+      0,
+      354,
+      260,
+      396
+    ],
+    "normalized_solution": [
+      0,
+      655,
+      270,
+      733
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "search for local files",
+    "image": "images/screenspotv2_image/pc_133ac2cd-3eb3-4d45-be35-255a83831f97.png",
+    "problem": "search for local files",
+    "solution": [
+      607,
+      8,
+      956,
+      44
+    ],
+    "normalized_solution": [
+      632,
+      14,
+      995,
+      81
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "view the personal account",
+    "image": "images/screenspotv2_image/pc_bd6711e1-ddc1-4873-8cf1-19654285f4ea.png",
+    "problem": "view the personal account",
+    "solution": [
+      0,
+      0,
+      40,
+      32
+    ],
+    "normalized_solution": [
+      0,
+      0,
+      41,
+      59
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "click the \"settings and more\" button",
+    "image": "images/screenspotv2_image/pc_83462e63-b0cd-4921-9d19-8a534ed445c7.png",
+    "problem": "click the \"settings and more\" button",
+    "solution": [
+      916,
+      13,
+      960,
+      52
+    ],
+    "normalized_solution": [
+      954,
+      24,
+      1000,
+      96
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "full-screen display",
+    "image": "images/screenspotv2_image/pc_2b40c066-2f8f-4389-8df8-e70e8dfc1309.png",
+    "problem": "full-screen display",
+    "solution": [
+      894,
+      0,
+      960,
+      64
+    ],
+    "normalized_solution": [
+      931,
+      0,
+      1000,
+      118
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "undo",
+    "image": "images/screenspotv2_image/pc_1f371830-d909-41ac-a340-921a594f05b0.png",
+    "problem": "undo",
+    "solution": [
+      2,
+      0,
+      34,
+      30
+    ],
+    "normalized_solution": [
+      2,
+      0,
+      35,
+      55
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "Add a new shortcut to the toolbar",
+    "image": "images/screenspotv2_image/pc_14fd6f5f-37d5-4b22-953e-626e11044f3e.png",
+    "problem": "Add a new shortcut to the toolbar",
+    "solution": [
+      918,
+      336,
+      959,
+      382
+    ],
+    "normalized_solution": [
+      956,
+      622,
+      998,
+      707
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open local disk E",
+    "image": "images/screenspotv2_image/pc_8834317b-7d08-40f1-9036-40743aba5d70.png",
+    "problem": "open local disk E",
+    "solution": [
+      204,
+      205,
+      290,
+      289
+    ],
+    "normalized_solution": [
+      212,
+      379,
+      302,
+      535
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "create a new file",
+    "image": "images/screenspotv2_image/pc_fa28755f-aee4-48f3-a484-02e670a6ff8f.png",
+    "problem": "create a new file",
+    "solution": [
+      537,
+      127,
+      816,
+      152
+    ],
+    "normalized_solution": [
+      559,
+      235,
+      850,
+      281
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open player settings",
+    "image": "images/screenspotv2_image/pc_712496c8-6588-4b57-a89d-b17eaecc761b.png",
+    "problem": "open player settings",
+    "solution": [
+      6,
+      470,
+      110,
+      511
+    ],
+    "normalized_solution": [
+      6,
+      870,
+      114,
+      946
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "set up onedrive",
+    "image": "images/screenspotv2_image/pc_b1f1df2a-6c3d-40f9-ac70-dea7925c85dc.png",
+    "problem": "set up onedrive",
+    "solution": [
+      296,
+      157,
+      420,
+      194
+    ],
+    "normalized_solution": [
+      308,
+      290,
+      437,
+      359
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "fill in red",
+    "image": "images/screenspotv2_image/pc_61beef4d-1a93-47b3-8aff-ba0f7774cb43.png",
+    "problem": "fill in red",
+    "solution": [
+      605,
+      261,
+      622,
+      278
+    ],
+    "normalized_solution": [
+      630,
+      483,
+      647,
+      514
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open map",
+    "image": "images/screenspotv2_image/pc_73f3744f-675f-44e3-8c55-ef34bdce0da9.png",
+    "problem": "open map",
+    "solution": [
+      420,
+      121,
+      725,
+      394
+    ],
+    "normalized_solution": [
+      437,
+      224,
+      755,
+      729
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "maximize window",
+    "image": "images/screenspotv2_image/pc_488287f0-9da5-4c6a-b236-109d3df56137.png",
+    "problem": "maximize window",
+    "solution": [
+      875,
+      253,
+      916,
+      286
+    ],
+    "normalized_solution": [
+      911,
+      468,
+      954,
+      529
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open account protection",
+    "image": "images/screenspotv2_image/pc_eb0b756c-e471-40eb-bfaa-06b432094ac6.png",
+    "problem": "open account protection",
+    "solution": [
+      0,
+      105,
+      317,
+      145
+    ],
+    "normalized_solution": [
+      0,
+      194,
+      330,
+      268
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "add equation ",
+    "image": "images/screenspotv2_image/pc_dd51aeab-7e2c-40aa-82e6-0f870e49e6ba.png",
+    "problem": "add equation ",
+    "solution": [
+      605,
+      15,
+      666,
+      108
+    ],
+    "normalized_solution": [
+      630,
+      27,
+      693,
+      200
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "minimize the window",
+    "image": "images/screenspotv2_image/pc_41efdca0-442c-471e-8188-45457f9287c3.png",
+    "problem": "minimize the window",
+    "solution": [
+      601,
+      19,
+      638,
+      53
+    ],
+    "normalized_solution": [
+      626,
+      35,
+      664,
+      98
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "view the devices",
+    "image": "images/screenspotv2_image/pc_8ce8a3b6-c2a9-4b69-986e-34b7d96e27ef.png",
+    "problem": "view the devices",
+    "solution": [
+      213,
+      63,
+      479,
+      132
+    ],
+    "normalized_solution": [
+      221,
+      116,
+      498,
+      244
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "Adjust screen timeout",
+    "image": "images/screenspotv2_image/pc_80ab83db-da70-4a1d-b10e-a438a59b2197.png",
+    "problem": "Adjust screen timeout",
+    "solution": [
+      299,
+      175,
+      481,
+      209
+    ],
+    "normalized_solution": [
+      311,
+      324,
+      501,
+      387
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "start playback",
+    "image": "images/screenspotv2_image/pc_0c634288-11b9-498f-8fb6-582e26ea17c9.png",
+    "problem": "start playback",
+    "solution": [
+      165,
+      467,
+      218,
+      519
+    ],
+    "normalized_solution": [
+      171,
+      864,
+      227,
+      961
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "set the screenshot option",
+    "image": "images/screenspotv2_image/pc_dfd488a9-d3c6-4e00-844a-6d56834a367e.png",
+    "problem": "set the screenshot option",
+    "solution": [
+      145,
+      12,
+      209,
+      102
+    ],
+    "normalized_solution": [
+      151,
+      22,
+      217,
+      188
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "add the subtitle",
+    "image": "images/screenspotv2_image/pc_17bc1fc0-a71c-453d-a431-5ebcddeff38f.png",
+    "problem": "add the subtitle",
+    "solution": [
+      560,
+      603,
+      1655,
+      806
+    ],
+    "normalized_solution": [
+      291,
+      558,
+      861,
+      746
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "adjust light rotation",
+    "image": "images/screenspotv2_image/pc_05f0185e-a291-4e4c-a777-ffb2c46037c6.png",
+    "problem": "adjust light rotation",
+    "solution": [
+      390,
+      183,
+      694,
+      431
+    ],
+    "normalized_solution": [
+      406,
+      338,
+      722,
+      798
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "click the colour 2 button",
+    "image": "images/screenspotv2_image/pc_aae370cb-9618-497e-8877-1a862725d28e.png",
+    "problem": "click the colour 2 button",
+    "solution": [
+      225,
+      139,
+      266,
+      208
+    ],
+    "normalized_solution": [
+      234,
+      257,
+      277,
+      385
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "add the title",
+    "image": "images/screenspotv2_image/pc_f317f992-32e1-4470-ab0b-31910a70bcd4.png",
+    "problem": "add the title",
+    "solution": [
+      561,
+      308,
+      1654,
+      597
+    ],
+    "normalized_solution": [
+      292,
+      285,
+      861,
+      552
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "refresh the page",
+    "image": "images/screenspotv2_image/pc_776b1aa0-a892-4461-b03a-88253e628426.png",
+    "problem": "refresh the page",
+    "solution": [
+      18,
+      15,
+      62,
+      54
+    ],
+    "normalized_solution": [
+      18,
+      27,
+      64,
+      100
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "click the button to play previous track",
+    "image": "images/screenspotv2_image/pc_580035fc-f55e-4817-b0c5-b741fb034cd0.png",
+    "problem": "click the button to play previous track",
+    "solution": [
+      441,
+      458,
+      473,
+      509
+    ],
+    "normalized_solution": [
+      459,
+      848,
+      492,
+      942
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "pin to taskbar",
+    "image": "images/screenspotv2_image/pc_ac6779f8-a188-4633-bfcc-ab05ada6848c.png",
+    "problem": "pin to taskbar",
+    "solution": [
+      872,
+      40,
+      909,
+      72
+    ],
+    "normalized_solution": [
+      908,
+      74,
+      946,
+      133
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "enter the wegameapps folder",
+    "image": "images/screenspotv2_image/pc_3b590e58-aab0-42c4-9b74-7d1a6b7f26fe.png",
+    "problem": "enter the wegameapps folder",
+    "solution": [
+      17,
+      52,
+      500,
+      88
+    ],
+    "normalized_solution": [
+      17,
+      96,
+      520,
+      162
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "check hourly weather",
+    "image": "images/screenspotv2_image/pc_4ba904da-bd51-42ea-a96f-c5681c630058.png",
+    "problem": "check hourly weather",
+    "solution": [
+      232,
+      417,
+      320,
+      459
+    ],
+    "normalized_solution": [
+      241,
+      772,
+      333,
+      850
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the menu of windows",
+    "image": "images/screenspotv2_image/pc_4cb20510-1be3-4ef8-ac47-2b49f4463555.png",
+    "problem": "open the menu of windows",
+    "solution": [
+      0,
+      498,
+      48,
+      540
+    ],
+    "normalized_solution": [
+      0,
+      922,
+      50,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the recycle bin",
+    "image": "images/screenspotv2_image/pc_f9867d85-5680-44ac-9bea-23acf5c9cc71.png",
+    "problem": "open the recycle bin",
+    "solution": [
+      0,
+      0,
+      79,
+      84
+    ],
+    "normalized_solution": [
+      0,
+      0,
+      82,
+      155
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open settings",
+    "image": "images/screenspotv2_image/pc_155fc26b-cddb-4a03-b636-322a45c054e6.png",
+    "problem": "open settings",
+    "solution": [
+      912,
+      8,
+      955,
+      51
+    ],
+    "normalized_solution": [
+      950,
+      14,
+      994,
+      94
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "check weather on tuesday",
+    "image": "images/screenspotv2_image/pc_942d98d0-92d0-49ab-bc98-49a700c1822b.png",
+    "problem": "check weather on tuesday",
+    "solution": [
+      552,
+      37,
+      710,
+      153
+    ],
+    "normalized_solution": [
+      575,
+      68,
+      739,
+      283
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the playlists",
+    "image": "images/screenspotv2_image/pc_aa124117-8877-4805-9c69-0ce80e1afc71.png",
+    "problem": "open the playlists",
+    "solution": [
+      0,
+      247,
+      318,
+      293
+    ],
+    "normalized_solution": [
+      0,
+      457,
+      331,
+      542
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "click the search bar",
+    "image": "images/screenspotv2_image/pc_e650b1a7-a1e4-4cb4-a2f0-a50f04ce9925.png",
+    "problem": "click the search bar",
+    "solution": [
+      0,
+      498,
+      348,
+      540
+    ],
+    "normalized_solution": [
+      0,
+      922,
+      362,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "back to previous folder",
+    "image": "images/screenspotv2_image/pc_88dde48f-6594-4f17-b117-3529b2bde02e.png",
+    "problem": "back to previous folder",
+    "solution": [
+      7,
+      203,
+      35,
+      242
+    ],
+    "normalized_solution": [
+      7,
+      375,
+      36,
+      448
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open Samsung Printer Center",
+    "image": "images/screenspotv2_image/pc_5b1e5fe2-e063-463f-ab56-2b09d17b88a5.png",
+    "problem": "open Samsung Printer Center",
+    "solution": [
+      154,
+      352,
+      254,
+      451
+    ],
+    "normalized_solution": [
+      160,
+      651,
+      264,
+      835
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "turn on the mixed reality",
+    "image": "images/screenspotv2_image/pc_8ed762cb-06dd-493f-b770-7e02298433f8.png",
+    "problem": "turn on the mixed reality",
+    "solution": [
+      732,
+      29,
+      787,
+      66
+    ],
+    "normalized_solution": [
+      762,
+      53,
+      819,
+      122
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "delete the downloaded file",
+    "image": "images/screenspotv2_image/pc_56d9172e-1780-4fb7-8377-f9987b87508c.png",
+    "problem": "delete the downloaded file",
+    "solution": [
+      894,
+      126,
+      937,
+      178
+    ],
+    "normalized_solution": [
+      931,
+      233,
+      976,
+      329
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the menu",
+    "image": "images/screenspotv2_image/pc_5165f0b8-ea19-448e-bcfc-66de25666bb9.png",
+    "problem": "open the menu",
+    "solution": [
+      0,
+      26,
+      64,
+      91
+    ],
+    "normalized_solution": [
+      0,
+      48,
+      66,
+      168
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "switch to english",
+    "image": "images/screenspotv2_image/pc_ecf34119-ce66-4699-a169-60e5279a650f.png",
+    "problem": "switch to english",
+    "solution": [
+      660,
+      401,
+      959,
+      465
+    ],
+    "normalized_solution": [
+      687,
+      742,
+      998,
+      861
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the file",
+    "image": "images/screenspotv2_image/pc_445877f4-ba58-468b-97b6-e770b1a9f02a.png",
+    "problem": "open the file",
+    "solution": [
+      77,
+      0,
+      359,
+      28
+    ],
+    "normalized_solution": [
+      80,
+      0,
+      373,
+      51
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "search for settings",
+    "image": "images/screenspotv2_image/pc_92e1062b-0d4a-4e14-8b25-b79e4b6c9b55.png",
+    "problem": "search for settings",
+    "solution": [
+      392,
+      50,
+      733,
+      86
+    ],
+    "normalized_solution": [
+      408,
+      92,
+      763,
+      159
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "gradient option",
+    "image": "images/screenspotv2_image/pc_09e2a811-2e5f-4cfc-9d6c-97acda34edf7.png",
+    "problem": "gradient option",
+    "solution": [
+      747,
+      302,
+      920,
+      328
+    ],
+    "normalized_solution": [
+      778,
+      559,
+      958,
+      607
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "share the file",
+    "image": "images/screenspotv2_image/pc_c7974702-d944-412f-83b2-61f92cf3c68c.png",
+    "problem": "share the file",
+    "solution": [
+      872,
+      12,
+      960,
+      43
+    ],
+    "normalized_solution": [
+      908,
+      22,
+      1000,
+      79
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "chech visibility",
+    "image": "images/screenspotv2_image/pc_04d51f86-b324-4eb6-82f5-c8cd6cb3e79c.png",
+    "problem": "chech visibility",
+    "solution": [
+      568,
+      256,
+      650,
+      307
+    ],
+    "normalized_solution": [
+      591,
+      474,
+      677,
+      568
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "refresh the page",
+    "image": "images/screenspotv2_image/pc_3a625c5d-db8a-41fb-b533-16a7c8a4f345.png",
+    "problem": "refresh the page",
+    "solution": [
+      887,
+      20,
+      924,
+      56
+    ],
+    "normalized_solution": [
+      923,
+      37,
+      962,
+      103
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "sign in",
+    "image": "images/screenspotv2_image/pc_17904586-d58c-4f1d-8c1e-6a6697353b14.png",
+    "problem": "sign in",
+    "solution": [
+      792,
+      13,
+      948,
+      78
+    ],
+    "normalized_solution": [
+      825,
+      24,
+      987,
+      144
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "minimize the window.",
+    "image": "images/screenspotv2_image/pc_25eca08c-57eb-45b0-8c0b-79ccec8400ff.png",
+    "problem": "minimize the window.",
+    "solution": [
+      901,
+      0,
+      934,
+      22
+    ],
+    "normalized_solution": [
+      938,
+      0,
+      972,
+      40
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "number 5",
+    "image": "images/screenspotv2_image/pc_cefd90d7-4af2-4370-b71e-8d4d5954c21e.png",
+    "problem": "number 5",
+    "solution": [
+      620,
+      458,
+      702,
+      512
+    ],
+    "normalized_solution": [
+      645,
+      848,
+      731,
+      948
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "view sound settings.",
+    "image": "images/screenspotv2_image/pc_8fc42b3c-c8bc-4866-b787-aed98a86d614.png",
+    "problem": "view sound settings.",
+    "solution": [
+      183,
+      24,
+      499,
+      68
+    ],
+    "normalized_solution": [
+      190,
+      44,
+      519,
+      125
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "get help",
+    "image": "images/screenspotv2_image/pc_a2b172fe-7e11-4795-8424-c18d5b65a009.png",
+    "problem": "get help",
+    "solution": [
+      503,
+      149,
+      600,
+      186
+    ],
+    "normalized_solution": [
+      523,
+      275,
+      625,
+      344
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "share the current page",
+    "image": "images/screenspotv2_image/pc_07faaa86-6e6b-457b-9a51-9b30edff21da.png",
+    "problem": "share the current page",
+    "solution": [
+      916,
+      455,
+      960,
+      496
+    ],
+    "normalized_solution": [
+      954,
+      842,
+      1000,
+      918
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "check the shape option",
+    "image": "images/screenspotv2_image/pc_ec8508be-641d-492a-bccc-a8279ae5bf9b.png",
+    "problem": "check the shape option",
+    "solution": [
+      78,
+      29,
+      125,
+      120
+    ],
+    "normalized_solution": [
+      81,
+      53,
+      130,
+      222
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "back to previous page",
+    "image": "images/screenspotv2_image/pc_733fbb76-a188-4804-a2c6-788acf844d7c.png",
+    "problem": "back to previous page",
+    "solution": [
+      105,
+      47,
+      147,
+      80
+    ],
+    "normalized_solution": [
+      109,
+      87,
+      153,
+      148
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "search for files on disk e:",
+    "image": "images/screenspotv2_image/pc_02a8e358-8282-498b-b82e-c0f2b1b8d26a.png",
+    "problem": "search for files on disk e:",
+    "solution": [
+      614,
+      45,
+      959,
+      78
+    ],
+    "normalized_solution": [
+      639,
+      83,
+      998,
+      144
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "edit with paint 3d",
+    "image": "images/screenspotv2_image/pc_6f580940-6536-452e-9310-f9ebb87879eb.png",
+    "problem": "edit with paint 3d",
+    "solution": [
+      613,
+      52,
+      686,
+      138
+    ],
+    "normalized_solution": [
+      638,
+      96,
+      714,
+      255
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "adjust the volume",
+    "image": "images/screenspotv2_image/pc_8c0c6fa3-39d8-4633-aeb1-6544036c85bf.png",
+    "problem": "adjust the volume",
+    "solution": [
+      913,
+      504,
+      943,
+      540
+    ],
+    "normalized_solution": [
+      951,
+      933,
+      982,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "learn more",
+    "image": "images/screenspotv2_image/pc_ecde084e-e461-4c7c-9ddc-bccabc874747.png",
+    "problem": "learn more",
+    "solution": [
+      30,
+      399,
+      138,
+      436
+    ],
+    "normalized_solution": [
+      31,
+      738,
+      143,
+      807
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open videos folder",
+    "image": "images/screenspotv2_image/pc_140cfa7d-6933-4591-ae0d-a1eadda2d7b5.png",
+    "problem": "open videos folder",
+    "solution": [
+      703,
+      51,
+      863,
+      124
+    ],
+    "normalized_solution": [
+      732,
+      94,
+      898,
+      229
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "check weather forecast",
+    "image": "images/screenspotv2_image/pc_5a8a71e4-4c80-4b17-b724-a6b6d48a339f.png",
+    "problem": "check weather forecast",
+    "solution": [
+      610,
+      499,
+      733,
+      540
+    ],
+    "normalized_solution": [
+      635,
+      924,
+      763,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "multiplicate",
+    "image": "images/screenspotv2_image/pc_986f4ae9-9dd8-4c5c-b3d8-fb3fb5557d17.png",
+    "problem": "multiplicate",
+    "solution": [
+      145,
+      13,
+      226,
+      69
+    ],
+    "normalized_solution": [
+      151,
+      24,
+      235,
+      127
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "see more information",
+    "image": "images/screenspotv2_image/pc_6dfaf0c7-a3e5-4e71-8431-5eeb9fb8e493.png",
+    "problem": "see more information",
+    "solution": [
+      527,
+      243,
+      889,
+      279
+    ],
+    "normalized_solution": [
+      548,
+      450,
+      926,
+      516
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "adjust volume in the music player",
+    "image": "images/screenspotv2_image/pc_89fc8216-3292-418c-864f-edcce3c34dc5.png",
+    "problem": "adjust volume in the music player",
+    "solution": [
+      790,
+      444,
+      832,
+      483
+    ],
+    "normalized_solution": [
+      822,
+      822,
+      866,
+      894
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "restart the computer",
+    "image": "images/screenspotv2_image/pc_c00e575a-fa2d-47c7-83cc-9f4e99f15720.png",
+    "problem": "restart the computer",
+    "solution": [
+      0,
+      459,
+      260,
+      500
+    ],
+    "normalized_solution": [
+      0,
+      850,
+      270,
+      925
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "adjust screen size",
+    "image": "images/screenspotv2_image/pc_b2579d6f-b494-47e3-872a-5e42a43f251a.png",
+    "problem": "adjust screen size",
+    "solution": [
+      782,
+      394,
+      928,
+      424
+    ],
+    "normalized_solution": [
+      814,
+      729,
+      966,
+      785
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "go to the desktop",
+    "image": "images/screenspotv2_image/pc_79eaf625-93f5-42a4-977e-71aba5418ff4.png",
+    "problem": "go to the desktop",
+    "solution": [
+      11,
+      120,
+      156,
+      142
+    ],
+    "normalized_solution": [
+      11,
+      222,
+      162,
+      262
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "choose the pig",
+    "image": "images/screenspotv2_image/pc_1f3eb0eb-2ab2-4e48-b278-de334846ee0d.png",
+    "problem": "choose the pig",
+    "solution": [
+      406,
+      81,
+      757,
+      372
+    ],
+    "normalized_solution": [
+      422,
+      150,
+      788,
+      688
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "input a url",
+    "image": "images/screenspotv2_image/pc_6a8d5384-ca12-4ae2-b14c-4c9dc08d4896.png",
+    "problem": "input a url",
+    "solution": [
+      97,
+      33,
+      1648,
+      68
+    ],
+    "normalized_solution": [
+      50,
+      30,
+      858,
+      62
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "go to the homepage",
+    "image": "images/screenspotv2_image/pc_c0996a5a-3af1-487b-9060-7b1a6779e42f.png",
+    "problem": "go to the homepage",
+    "solution": [
+      59,
+      92,
+      380,
+      134
+    ],
+    "normalized_solution": [
+      61,
+      170,
+      395,
+      248
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open the favourites",
+    "image": "images/screenspotv2_image/pc_e18b4420-34da-4d60-889e-924a76fb5094.png",
+    "problem": "open the favourites",
+    "solution": [
+      840,
+      11,
+      882,
+      48
+    ],
+    "normalized_solution": [
+      875,
+      20,
+      918,
+      88
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "choose wechat",
+    "image": "images/screenspotv2_image/pc_4c43fbd2-d84e-4bb4-8169-7a748530c1af.png",
+    "problem": "choose wechat",
+    "solution": [
+      56,
+      393,
+      494,
+      510
+    ],
+    "normalized_solution": [
+      58,
+      727,
+      514,
+      944
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "check windows keyboard shortcuts",
+    "image": "images/screenspotv2_image/pc_7e37689a-0657-4856-8adf-72a21ee640c9.png",
+    "problem": "check windows keyboard shortcuts",
+    "solution": [
+      251,
+      163,
+      478,
+      413
+    ],
+    "normalized_solution": [
+      261,
+      301,
+      497,
+      764
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "view the file sorting method",
+    "image": "images/screenspotv2_image/pc_bb73a431-c05e-47a8-bd27-8c7cbc2f7f23.png",
+    "problem": "view the file sorting method",
+    "solution": [
+      116,
+      22,
+      342,
+      50
+    ],
+    "normalized_solution": [
+      120,
+      40,
+      356,
+      92
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open Microsoft edge",
+    "image": "images/screenspotv2_image/pc_b4d4f0c2-5f8e-409e-ac20-b1a2c7d6f440.png",
+    "problem": "open Microsoft edge",
+    "solution": [
+      2,
+      100,
+      80,
+      192
+    ],
+    "normalized_solution": [
+      2,
+      185,
+      83,
+      355
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "click to open the file",
+    "image": "images/screenspotv2_image/pc_5da8f8cd-8ba2-490a-86e0-5c82421a9bee.png",
+    "problem": "click to open the file",
+    "solution": [
+      322,
+      67,
+      601,
+      93
+    ],
+    "normalized_solution": [
+      335,
+      124,
+      626,
+      172
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "search for files",
+    "image": "images/screenspotv2_image/pc_2d42ba96-b43d-4f3f-81c1-80c8c107ca1c.png",
+    "problem": "search for files",
+    "solution": [
+      8,
+      33,
+      297,
+      67
+    ],
+    "normalized_solution": [
+      8,
+      61,
+      309,
+      124
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "set the second photo as wallpaper",
+    "image": "images/screenspotv2_image/pc_4392332d-683f-4746-bbb2-e9287d9cdae0.png",
+    "problem": "set the second photo as wallpaper",
+    "solution": [
+      308,
+      203,
+      389,
+      287
+    ],
+    "normalized_solution": [
+      320,
+      375,
+      405,
+      531
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "add a language",
+    "image": "images/screenspotv2_image/pc_977de16a-870e-48f3-8a38-ec9e1efb9f77.png",
+    "problem": "add a language",
+    "solution": [
+      555,
+      238,
+      716,
+      288
+    ],
+    "normalized_solution": [
+      578,
+      440,
+      745,
+      533
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "open files",
+    "image": "images/screenspotv2_image/pc_16d04f01-66a7-45df-a189-66c29fa935d7.png",
+    "problem": "open files",
+    "solution": [
+      321,
+      482,
+      475,
+      519
+    ],
+    "normalized_solution": [
+      334,
+      892,
+      494,
+      961
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "play the \"spider solitaire\"",
+    "image": "images/screenspotv2_image/pc_d077a08e-e927-4daa-aaf1-2f2385eefa04.png",
+    "problem": "play the \"spider solitaire\"",
+    "solution": [
+      227,
+      188,
+      415,
+      423
+    ],
+    "normalized_solution": [
+      236,
+      348,
+      432,
+      783
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "view paste option",
+    "image": "images/screenspotv2_image/pc_01c641cb-aa78-4bae-80ea-dda820dd00eb.png",
+    "problem": "view paste option",
+    "solution": [
+      109,
+      144,
+      160,
+      217
+    ],
+    "normalized_solution": [
+      113,
+      266,
+      166,
+      401
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "back to the previous page",
+    "image": "images/screenspotv2_image/pc_9c3204c7-8a02-406a-8dee-5b363887258c.png",
+    "problem": "back to the previous page",
+    "solution": [
+      0,
+      21,
+      50,
+      60
+    ],
+    "normalized_solution": [
+      0,
+      38,
+      52,
+      111
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "click to play the next track",
+    "image": "images/screenspotv2_image/pc_471e7c2d-8c16-4626-9b8e-7e0fd79e3a32.png",
+    "problem": "click to play the next track",
+    "solution": [
+      181,
+      448,
+      212,
+      500
+    ],
+    "normalized_solution": [
+      188,
+      829,
+      220,
+      925
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "review option",
+    "image": "images/screenspotv2_image/pc_f92a83db-cb5b-4295-af83-3606639056be.png",
+    "problem": "review option",
+    "solution": [
+      273,
+      26,
+      340,
+      54
+    ],
+    "normalized_solution": [
+      284,
+      48,
+      354,
+      100
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "check for two unread messages",
+    "image": "images/screenspotv2_image/pc_daa34642-1973-424e-a752-3b309fa6512b.png",
+    "problem": "check for two unread messages",
+    "solution": [
+      907,
+      499,
+      957,
+      540
+    ],
+    "normalized_solution": [
+      944,
+      924,
+      996,
+      1000
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "view windows settings",
+    "image": "images/screenspotv2_image/pc_58d89b93-10e2-41fe-8b6d-3532fd3bb832.png",
+    "problem": "view windows settings",
+    "solution": [
+      0,
+      407,
+      50,
+      452
+    ],
+    "normalized_solution": [
+      0,
+      753,
+      52,
+      837
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "dismiss the account protection",
+    "image": "images/screenspotv2_image/pc_79377abe-731c-4d3b-ab04-b332c4054b81.png",
+    "problem": "dismiss the account protection",
+    "solution": [
+      412,
+      326,
+      484,
+      371
+    ],
+    "normalized_solution": [
+      429,
+      603,
+      504,
+      687
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "back to the previous page",
+    "image": "images/screenspotv2_image/pc_9d04d927-2a44-4e0d-b752-57abf0a0522f.png",
+    "problem": "back to the previous page",
+    "solution": [
+      2,
+      23,
+      47,
+      65
+    ],
+    "normalized_solution": [
+      2,
+      42,
+      48,
+      120
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "personal account options",
+    "image": "images/screenspotv2_image/pc_c8b036c3-da02-490e-a09b-0a42b8d9f344.png",
+    "problem": "personal account options",
+    "solution": [
+      0,
+      391,
+      47,
+      433
+    ],
+    "normalized_solution": [
+      0,
+      724,
+      48,
+      801
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 540,
+    "width": 960,
+    "normal_caption": "design option",
+    "image": "images/screenspotv2_image/pc_3f7ea28c-0425-4837-a540-dc5bb23449b8.png",
+    "problem": "design option",
+    "solution": [
+      48,
+      25,
+      106,
+      54
+    ],
+    "normalized_solution": [
+      50,
+      46,
+      110,
+      100
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 635,
+    "width": 645,
+    "normal_caption": "open paint 3d",
+    "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "problem": "open paint 3d",
+    "solution": [
+      52,
+      79,
+      299,
+      111
+    ],
+    "normalized_solution": [
+      80,
+      124,
+      463,
+      174
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 635,
+    "width": 645,
+    "normal_caption": "open microsoft edge",
+    "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "problem": "open microsoft edge",
+    "solution": [
+      322,
+      154,
+      418,
+      250
+    ],
+    "normalized_solution": [
+      499,
+      242,
+      648,
+      393
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 635,
+    "width": 645,
+    "normal_caption": "turn off the computer",
+    "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "problem": "turn off the computer",
+    "solution": [
+      1,
+      593,
+      40,
+      634
+    ],
+    "normalized_solution": [
+      1,
+      933,
+      62,
+      998
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 927,
+    "width": 1196,
+    "normal_caption": "switch to home",
+    "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "problem": "switch to home",
+    "solution": [
+      4,
+      54,
+      302,
+      91
+    ],
+    "normalized_solution": [
+      3,
+      58,
+      252,
+      98
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 927,
+    "width": 1196,
+    "normal_caption": "click the \"back to previous page\" button",
+    "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "problem": "click the \"back to previous page\" button",
+    "solution": [
+      4,
+      3,
+      45,
+      33
+    ],
+    "normalized_solution": [
+      3,
+      3,
+      37,
+      35
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 927,
+    "width": 1196,
+    "normal_caption": "open fax option",
+    "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "problem": "open fax option",
+    "solution": [
+      319,
+      277,
+      560,
+      325
+    ],
+    "normalized_solution": [
+      266,
+      298,
+      468,
+      350
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 927,
+    "width": 1196,
+    "normal_caption": "need some help",
+    "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "problem": "need some help",
+    "solution": [
+      925,
+      370,
+      1056,
+      393
+    ],
+    "normalized_solution": [
+      773,
+      399,
+      882,
+      423
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 634,
+    "width": 780,
+    "normal_caption": "check email and account",
+    "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "problem": "check email and account",
+    "solution": [
+      12,
+      201,
+      349,
+      251
+    ],
+    "normalized_solution": [
+      15,
+      317,
+      447,
+      395
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 634,
+    "width": 780,
+    "normal_caption": "switch to documents",
+    "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "problem": "switch to documents",
+    "solution": [
+      112,
+      2,
+      196,
+      44
+    ],
+    "normalized_solution": [
+      143,
+      3,
+      251,
+      69
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 634,
+    "width": 780,
+    "normal_caption": "view the game for me",
+    "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "problem": "view the game for me",
+    "solution": [
+      370,
+      509,
+      502,
+      543
+    ],
+    "normalized_solution": [
+      474,
+      802,
+      643,
+      856
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 638,
+    "width": 839,
+    "normal_caption": "use pencil tool",
+    "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "problem": "use pencil tool",
+    "solution": [
+      149,
+      62,
+      173,
+      93
+    ],
+    "normalized_solution": [
+      177,
+      97,
+      206,
+      145
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 638,
+    "width": 839,
+    "normal_caption": "click to choose shapes",
+    "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "problem": "click to choose shapes",
+    "solution": [
+      283,
+      60,
+      325,
+      127
+    ],
+    "normalized_solution": [
+      337,
+      94,
+      387,
+      199
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 638,
+    "width": 839,
+    "normal_caption": "select a new size",
+    "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "problem": "select a new size",
+    "solution": [
+      368,
+      59,
+      410,
+      128
+    ],
+    "normalized_solution": [
+      438,
+      92,
+      488,
+      200
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 638,
+    "width": 839,
+    "normal_caption": "use the select tool",
+    "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "problem": "use the select tool",
+    "solution": [
+      63,
+      58,
+      106,
+      128
+    ],
+    "normalized_solution": [
+      75,
+      90,
+      126,
+      200
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view the setting of protection of pc",
+    "image": "images/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "problem": "view the setting of protection of pc",
+    "solution": [
+      615,
+      229,
+      836,
+      448
+    ],
+    "normalized_solution": [
+      320,
+      212,
+      435,
+      414
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "view the get organized tips",
+    "image": "images/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "problem": "view the get organized tips",
+    "solution": [
+      1099,
+      520,
+      1303,
+      747
+    ],
+    "normalized_solution": [
+      572,
+      481,
+      678,
+      691
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 491,
+    "width": 456,
+    "normal_caption": "log in using google account",
+    "image": "images/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "problem": "log in using google account",
+    "solution": [
+      6,
+      157,
+      435,
+      214
+    ],
+    "normalized_solution": [
+      13,
+      319,
+      953,
+      435
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 491,
+    "width": 456,
+    "normal_caption": "check advanced setup",
+    "image": "images/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "problem": "check advanced setup",
+    "solution": [
+      9,
+      396,
+      444,
+      443
+    ],
+    "normalized_solution": [
+      19,
+      806,
+      973,
+      902
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 935,
+    "width": 1202,
+    "normal_caption": "check the detail of uv index",
+    "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "problem": "check the detail of uv index",
+    "solution": [
+      185,
+      432,
+      371,
+      484
+    ],
+    "normalized_solution": [
+      153,
+      462,
+      308,
+      517
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 935,
+    "width": 1202,
+    "normal_caption": "see full forecast",
+    "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "problem": "see full forecast",
+    "solution": [
+      624,
+      263,
+      753,
+      291
+    ],
+    "normalized_solution": [
+      519,
+      281,
+      626,
+      311
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 935,
+    "width": 1202,
+    "normal_caption": "the internet icon",
+    "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "problem": "the internet icon",
+    "solution": [
+      0,
+      181,
+      47,
+      231
+    ],
+    "normalized_solution": [
+      0,
+      193,
+      39,
+      247
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1200,
+    "normal_caption": "play the Klondike game",
+    "image": "images/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "problem": "play the Klondike game",
+    "solution": [
+      9,
+      232,
+      327,
+      280
+    ],
+    "normalized_solution": [
+      7,
+      248,
+      272,
+      299
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1200,
+    "normal_caption": "sign in",
+    "image": "images/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "problem": "sign in",
+    "solution": [
+      972,
+      32,
+      1136,
+      100
+    ],
+    "normalized_solution": [
+      810,
+      34,
+      946,
+      107
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 531,
+    "width": 480,
+    "normal_caption": "choose standard mode",
+    "image": "images/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "problem": "choose standard mode",
+    "solution": [
+      2,
+      120,
+      249,
+      155
+    ],
+    "normalized_solution": [
+      4,
+      225,
+      518,
+      291
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 531,
+    "width": 480,
+    "normal_caption": "adjust the volume",
+    "image": "images/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "problem": "adjust the volume",
+    "solution": [
+      6,
+      397,
+      255,
+      436
+    ],
+    "normalized_solution": [
+      12,
+      747,
+      531,
+      821
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 313,
+    "width": 362,
+    "normal_caption": "add a new one",
+    "image": "images/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "problem": "add a new one",
+    "solution": [
+      2,
+      2,
+      32,
+      32
+    ],
+    "normalized_solution": [
+      5,
+      6,
+      88,
+      102
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 313,
+    "width": 362,
+    "normal_caption": "insert an image",
+    "image": "images/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "problem": "insert an image",
+    "solution": [
+      211,
+      274,
+      251,
+      310
+    ],
+    "normalized_solution": [
+      582,
+      875,
+      693,
+      990
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 662,
+    "width": 955,
+    "normal_caption": "view the timer",
+    "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "problem": "view the timer",
+    "solution": [
+      5,
+      78,
+      277,
+      116
+    ],
+    "normalized_solution": [
+      5,
+      117,
+      290,
+      175
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 662,
+    "width": 955,
+    "normal_caption": "click get start",
+    "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "problem": "click get start",
+    "solution": [
+      560,
+      555,
+      680,
+      585
+    ],
+    "normalized_solution": [
+      586,
+      838,
+      712,
+      883
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 662,
+    "width": 955,
+    "normal_caption": "view world clock",
+    "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "problem": "view world clock",
+    "solution": [
+      4,
+      199,
+      276,
+      234
+    ],
+    "normalized_solution": [
+      4,
+      300,
+      289,
+      353
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1198,
+    "normal_caption": "insert 3d shapes item",
+    "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "problem": "insert 3d shapes item",
+    "solution": [
+      338,
+      29,
+      409,
+      83
+    ],
+    "normalized_solution": [
+      282,
+      31,
+      341,
+      88
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1198,
+    "normal_caption": "undo",
+    "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "problem": "undo",
+    "solution": [
+      949,
+      29,
+      1008,
+      82
+    ],
+    "normalized_solution": [
+      792,
+      31,
+      841,
+      87
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1198,
+    "normal_caption": "click \"select all\"",
+    "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "problem": "click \"select all\"",
+    "solution": [
+      962,
+      235,
+      1060,
+      298
+    ],
+    "normalized_solution": [
+      803,
+      251,
+      884,
+      319
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1198,
+    "normal_caption": "rotate left",
+    "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "problem": "rotate left",
+    "solution": [
+      962,
+      544,
+      1001,
+      588
+    ],
+    "normalized_solution": [
+      803,
+      582,
+      835,
+      629
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1202,
+    "normal_caption": "check the updates",
+    "image": "images/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "problem": "check the updates",
+    "solution": [
+      3,
+      845,
+      292,
+      911
+    ],
+    "normalized_solution": [
+      2,
+      904,
+      242,
+      975
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 934,
+    "width": 1202,
+    "normal_caption": "view in youtube",
+    "image": "images/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "problem": "view in youtube",
+    "solution": [
+      515,
+      864,
+      581,
+      920
+    ],
+    "normalized_solution": [
+      428,
+      925,
+      483,
+      985
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 541,
+    "width": 853,
+    "normal_caption": "empty recycle bin",
+    "image": "images/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "problem": "empty recycle bin",
+    "solution": [
+      2,
+      57,
+      65,
+      128
+    ],
+    "normalized_solution": [
+      2,
+      105,
+      76,
+      236
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 541,
+    "width": 853,
+    "normal_caption": "restore all items",
+    "image": "images/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "problem": "restore all items",
+    "solution": [
+      138,
+      59,
+      187,
+      128
+    ],
+    "normalized_solution": [
+      161,
+      109,
+      219,
+      236
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 932,
+    "width": 1203,
+    "normal_caption": "check microphone permissions",
+    "image": "images/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "problem": "check microphone permissions",
+    "solution": [
+      4,
+      450,
+      313,
+      484
+    ],
+    "normalized_solution": [
+      3,
+      482,
+      260,
+      519
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 932,
+    "width": 1203,
+    "normal_caption": "give feedback",
+    "image": "images/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "problem": "give feedback",
+    "solution": [
+      924,
+      292,
+      1079,
+      347
+    ],
+    "normalized_solution": [
+      768,
+      313,
+      896,
+      372
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 932,
+    "width": 1202,
+    "normal_caption": "check the properties",
+    "image": "images/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "problem": "check the properties",
+    "solution": [
+      347,
+      396,
+      540,
+      426
+    ],
+    "normalized_solution": [
+      288,
+      424,
+      449,
+      457
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 932,
+    "width": 1202,
+    "normal_caption": "change adapter options",
+    "image": "images/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "problem": "change adapter options",
+    "solution": [
+      331,
+      593,
+      765,
+      649
+    ],
+    "normalized_solution": [
+      275,
+      636,
+      636,
+      696
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 933,
+    "width": 1199,
+    "normal_caption": "report a problem",
+    "image": "images/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "problem": "report a problem",
+    "solution": [
+      346,
+      268,
+      473,
+      398
+    ],
+    "normalized_solution": [
+      288,
+      287,
+      394,
+      426
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 933,
+    "width": 1199,
+    "normal_caption": "switch to feedback",
+    "image": "images/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "problem": "switch to feedback",
+    "solution": [
+      2,
+      161,
+      316,
+      197
+    ],
+    "normalized_solution": [
+      1,
+      172,
+      263,
+      211
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 454,
+    "width": 399,
+    "normal_caption": "check microphone",
+    "image": "images/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "problem": "check microphone",
+    "solution": [
+      23,
+      96,
+      357,
+      150
+    ],
+    "normalized_solution": [
+      57,
+      211,
+      894,
+      330
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 454,
+    "width": 399,
+    "normal_caption": "switch to sounds",
+    "image": "images/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "problem": "switch to sounds",
+    "solution": [
+      125,
+      40,
+      166,
+      57
+    ],
+    "normalized_solution": [
+      313,
+      88,
+      416,
+      125
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1362,
+    "width": 1338,
+    "normal_caption": "check my apple id",
+    "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "problem": "check my apple id",
+    "solution": [
+      1025,
+      141,
+      1129,
+      268
+    ],
+    "normalized_solution": [
+      766,
+      103,
+      843,
+      196
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1362,
+    "width": 1338,
+    "normal_caption": "view the language & region settings",
+    "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "problem": "view the language & region settings",
+    "solution": [
+      1018,
+      368,
+      1139,
+      515
+    ],
+    "normalized_solution": [
+      760,
+      270,
+      851,
+      378
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1362,
+    "width": 1338,
+    "normal_caption": "open time machine",
+    "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "problem": "open time machine",
+    "solution": [
+      859,
+      952,
+      972,
+      1105
+    ],
+    "normalized_solution": [
+      642,
+      698,
+      726,
+      811
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1362,
+    "width": 1338,
+    "normal_caption": "check desplay settings",
+    "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "problem": "check desplay settings",
+    "solution": [
+      41,
+      954,
+      151,
+      1082
+    ],
+    "normalized_solution": [
+      30,
+      700,
+      112,
+      794
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1362,
+    "width": 1338,
+    "normal_caption": "software update",
+    "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "problem": "software update",
+    "solution": [
+      39,
+      761,
+      150,
+      925
+    ],
+    "normalized_solution": [
+      29,
+      558,
+      112,
+      679
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1156,
+    "width": 1340,
+    "normal_caption": "switch to desktop settings",
+    "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "problem": "switch to desktop settings",
+    "solution": [
+      492,
+      141,
+      640,
+      184
+    ],
+    "normalized_solution": [
+      367,
+      121,
+      477,
+      159
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1156,
+    "width": 1340,
+    "normal_caption": "show screen saver after",
+    "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "problem": "show screen saver after",
+    "solution": [
+      347,
+      209,
+      697,
+      250
+    ],
+    "normalized_solution": [
+      258,
+      180,
+      520,
+      216
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1156,
+    "width": 1340,
+    "normal_caption": "choose the ken burns as screen saver",
+    "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "problem": "choose the ken burns as screen saver",
+    "solution": [
+      99,
+      425,
+      277,
+      572
+    ],
+    "normalized_solution": [
+      73,
+      367,
+      206,
+      494
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1424,
+    "width": 1340,
+    "normal_caption": "switch to dark mode",
+    "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "problem": "switch to dark mode",
+    "solution": [
+      672,
+      145,
+      814,
+      279
+    ],
+    "normalized_solution": [
+      501,
+      101,
+      607,
+      195
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1424,
+    "width": 1340,
+    "normal_caption": "choose highlight color",
+    "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "problem": "choose highlight color",
+    "solution": [
+      499,
+      396,
+      803,
+      436
+    ],
+    "normalized_solution": [
+      372,
+      278,
+      599,
+      306
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1424,
+    "width": 1340,
+    "normal_caption": "select default web browser",
+    "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "problem": "select default web browser",
+    "solution": [
+      500,
+      891,
+      807,
+      937
+    ],
+    "normalized_solution": [
+      373,
+      625,
+      602,
+      658
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1424,
+    "width": 1340,
+    "normal_caption": "jump to the spot that's clicked",
+    "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "problem": "jump to the spot that's clicked",
+    "solution": [
+      502,
+      794,
+      925,
+      835
+    ],
+    "normalized_solution": [
+      374,
+      557,
+      690,
+      586
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1064,
+    "width": 1338,
+    "normal_caption": "switch to apps",
+    "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "problem": "switch to apps",
+    "solution": [
+      681,
+      243,
+      794,
+      288
+    ],
+    "normalized_solution": [
+      508,
+      228,
+      593,
+      270
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1064,
+    "width": 1338,
+    "normal_caption": "add a new preferred language",
+    "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "problem": "add a new preferred language",
+    "solution": [
+      78,
+      845,
+      131,
+      887
+    ],
+    "normalized_solution": [
+      58,
+      794,
+      97,
+      833
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1064,
+    "width": 1338,
+    "normal_caption": "translation languages setting",
+    "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "problem": "translation languages setting",
+    "solution": [
+      335,
+      982,
+      673,
+      1025
+    ],
+    "normalized_solution": [
+      250,
+      922,
+      502,
+      963
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1064,
+    "width": 1338,
+    "normal_caption": "advanced setting",
+    "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "problem": "advanced setting",
+    "solution": [
+      1048,
+      982,
+      1233,
+      1026
+    ],
+    "normalized_solution": [
+      783,
+      922,
+      921,
+      964
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1050,
+    "width": 1316,
+    "normal_caption": "check the battery",
+    "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "problem": "check the battery",
+    "solution": [
+      635,
+      13,
+      713,
+      64
+    ],
+    "normalized_solution": [
+      482,
+      12,
+      541,
+      60
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1050,
+    "width": 1316,
+    "normal_caption": "open siri",
+    "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "problem": "open siri",
+    "solution": [
+      987,
+      13,
+      1047,
+      61
+    ],
+    "normalized_solution": [
+      750,
+      12,
+      795,
+      58
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1050,
+    "width": 1316,
+    "normal_caption": "open mind2web folder",
+    "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "problem": "open mind2web folder",
+    "solution": [
+      526,
+      274,
+      670,
+      437
+    ],
+    "normalized_solution": [
+      399,
+      260,
+      509,
+      416
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1042,
+    "width": 1272,
+    "normal_caption": "switch on do not disturb mode",
+    "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "problem": "switch on do not disturb mode",
+    "solution": [
+      969,
+      105,
+      1241,
+      233
+    ],
+    "normalized_solution": [
+      761,
+      100,
+      975,
+      223
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1042,
+    "width": 1272,
+    "normal_caption": "adjust keyboard brightness",
+    "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "problem": "adjust keyboard brightness",
+    "solution": [
+      969,
+      250,
+      1098,
+      376
+    ],
+    "normalized_solution": [
+      761,
+      239,
+      863,
+      360
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1042,
+    "width": 1272,
+    "normal_caption": "go to music app",
+    "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "problem": "go to music app",
+    "solution": [
+      683,
+      683,
+      1241,
+      808
+    ],
+    "normalized_solution": [
+      536,
+      655,
+      975,
+      775
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1042,
+    "width": 1272,
+    "normal_caption": "check bluetooth",
+    "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "problem": "check bluetooth",
+    "solution": [
+      701,
+      211,
+      890,
+      274
+    ],
+    "normalized_solution": [
+      551,
+      202,
+      699,
+      262
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1116,
+    "width": 1600,
+    "normal_caption": "view files from airdrop",
+    "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "problem": "view files from airdrop",
+    "solution": [
+      20,
+      150,
+      237,
+      197
+    ],
+    "normalized_solution": [
+      12,
+      134,
+      148,
+      176
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1116,
+    "width": 1600,
+    "normal_caption": "view downloads files",
+    "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "problem": "view downloads files",
+    "solution": [
+      19,
+      376,
+      238,
+      420
+    ],
+    "normalized_solution": [
+      11,
+      336,
+      148,
+      376
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1116,
+    "width": 1600,
+    "normal_caption": "open synapse folder",
+    "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "problem": "open synapse folder",
+    "solution": [
+      542,
+      390,
+      675,
+      561
+    ],
+    "normalized_solution": [
+      338,
+      349,
+      421,
+      502
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1642,
+    "width": 2052,
+    "normal_caption": "zoom out",
+    "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "problem": "zoom out",
+    "solution": [
+      1800,
+      1558,
+      1844,
+      1610
+    ],
+    "normalized_solution": [
+      877,
+      948,
+      898,
+      980
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1642,
+    "width": 2052,
+    "normal_caption": "zoom in",
+    "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "problem": "zoom in",
+    "solution": [
+      1846,
+      1556,
+      1891,
+      1611
+    ],
+    "normalized_solution": [
+      899,
+      947,
+      921,
+      981
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1642,
+    "width": 2052,
+    "normal_caption": "switch to device",
+    "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "problem": "switch to device",
+    "solution": [
+      198,
+      104,
+      385,
+      149
+    ],
+    "normalized_solution": [
+      96,
+      63,
+      187,
+      90
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1642,
+    "width": 2052,
+    "normal_caption": "share my location",
+    "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "problem": "share my location",
+    "solution": [
+      33,
+      1563,
+      316,
+      1619
+    ],
+    "normalized_solution": [
+      16,
+      951,
+      153,
+      985
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 648,
+    "width": 1116,
+    "normal_caption": "check the date and time",
+    "image": "images/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "problem": "check the date and time",
+    "solution": [
+      837,
+      2,
+      1114,
+      59
+    ],
+    "normalized_solution": [
+      750,
+      3,
+      998,
+      91
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 648,
+    "width": 1116,
+    "normal_caption": "connect wifi",
+    "image": "images/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "problem": "connect wifi",
+    "solution": [
+      509,
+      1,
+      576,
+      65
+    ],
+    "normalized_solution": [
+      456,
+      1,
+      516,
+      100
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 744,
+    "width": 606,
+    "normal_caption": "drag the slider to adjust volume",
+    "image": "images/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "problem": "drag the slider to adjust volume",
+    "solution": [
+      26,
+      453,
+      582,
+      579
+    ],
+    "normalized_solution": [
+      42,
+      608,
+      960,
+      778
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 744,
+    "width": 606,
+    "normal_caption": "use the screen mirroring",
+    "image": "images/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "problem": "use the screen mirroring",
+    "solution": [
+      457,
+      165,
+      582,
+      292
+    ],
+    "normalized_solution": [
+      754,
+      221,
+      960,
+      392
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 620,
+    "width": 1098,
+    "normal_caption": "turn off airdrop",
+    "image": "images/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "problem": "turn off airdrop",
+    "solution": [
+      958,
+      98,
+      1040,
+      154
+    ],
+    "normalized_solution": [
+      872,
+      158,
+      947,
+      248
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 620,
+    "width": 1098,
+    "normal_caption": "set as contacts only",
+    "image": "images/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "problem": "set as contacts only",
+    "solution": [
+      471,
+      176,
+      1065,
+      245
+    ],
+    "normalized_solution": [
+      428,
+      283,
+      969,
+      395
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 698,
+    "width": 1098,
+    "normal_caption": "open work mode ",
+    "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "problem": "open work mode ",
+    "solution": [
+      470,
+      351,
+      1064,
+      417
+    ],
+    "normalized_solution": [
+      428,
+      502,
+      969,
+      597
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 698,
+    "width": 1098,
+    "normal_caption": "check focus preferences",
+    "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "problem": "check focus preferences",
+    "solution": [
+      469,
+      494,
+      1066,
+      556
+    ],
+    "normalized_solution": [
+      427,
+      707,
+      970,
+      796
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 698,
+    "width": 1098,
+    "normal_caption": "select input method",
+    "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "problem": "select input method",
+    "solution": [
+      328,
+      1,
+      403,
+      67
+    ],
+    "normalized_solution": [
+      298,
+      1,
+      367,
+      95
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 894,
+    "width": 1338,
+    "normal_caption": "back to previous page",
+    "image": "images/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "problem": "back to previous page",
+    "solution": [
+      181,
+      20,
+      248,
+      83
+    ],
+    "normalized_solution": [
+      135,
+      22,
+      185,
+      92
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 894,
+    "width": 1338,
+    "normal_caption": "question about bluetooth",
+    "image": "images/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "problem": "question about bluetooth",
+    "solution": [
+      1245,
+      801,
+      1315,
+      864
+    ],
+    "normalized_solution": [
+      930,
+      895,
+      982,
+      966
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 790,
+    "normal_caption": "share this guide to someone",
+    "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "problem": "share this guide to someone",
+    "solution": [
+      646,
+      3,
+      714,
+      78
+    ],
+    "normalized_solution": [
+      817,
+      2,
+      903,
+      72
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 790,
+    "normal_caption": "search in macos user guide",
+    "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "problem": "search in macos user guide",
+    "solution": [
+      720,
+      3,
+      776,
+      82
+    ],
+    "normalized_solution": [
+      911,
+      2,
+      982,
+      75
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 790,
+    "normal_caption": "open bluetooth preferences for me",
+    "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "problem": "open bluetooth preferences for me",
+    "solution": [
+      14,
+      539,
+      489,
+      607
+    ],
+    "normalized_solution": [
+      17,
+      499,
+      618,
+      562
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 650,
+    "width": 1178,
+    "normal_caption": "hidden all shortcut",
+    "image": "images/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "problem": "hidden all shortcut",
+    "solution": [
+      179,
+      169,
+      775,
+      247
+    ],
+    "normalized_solution": [
+      151,
+      260,
+      657,
+      380
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 650,
+    "width": 1178,
+    "normal_caption": "open wechat",
+    "image": "images/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "problem": "open wechat",
+    "solution": [
+      180,
+      3,
+      272,
+      72
+    ],
+    "normalized_solution": [
+      152,
+      4,
+      230,
+      110
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1268,
+    "width": 1332,
+    "normal_caption": "turn wifi off",
+    "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "problem": "turn wifi off",
+    "solution": [
+      995,
+      254,
+      1217,
+      298
+    ],
+    "normalized_solution": [
+      746,
+      200,
+      913,
+      235
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1268,
+    "width": 1332,
+    "normal_caption": "add a device",
+    "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "problem": "add a device",
+    "solution": [
+      37,
+      1092,
+      88,
+      1139
+    ],
+    "normalized_solution": [
+      27,
+      861,
+      66,
+      898
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1268,
+    "width": 1332,
+    "normal_caption": "remove a network connected device",
+    "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "problem": "remove a network connected device",
+    "solution": [
+      88,
+      1091,
+      141,
+      1142
+    ],
+    "normalized_solution": [
+      66,
+      860,
+      105,
+      900
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1268,
+    "width": 1338,
+    "normal_caption": "select the interface in the bar",
+    "image": "images/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "problem": "select the interface in the bar",
+    "solution": [
+      531,
+      569,
+      1047,
+      610
+    ],
+    "normalized_solution": [
+      396,
+      448,
+      782,
+      481
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1268,
+    "width": 1338,
+    "normal_caption": "create the new service",
+    "image": "images/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "problem": "create the new service",
+    "solution": [
+      905,
+      711,
+      1052,
+      759
+    ],
+    "normalized_solution": [
+      676,
+      560,
+      786,
+      598
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1020,
+    "width": 1336,
+    "normal_caption": "turn on low power mode",
+    "image": "images/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "problem": "turn on low power mode",
+    "solution": [
+      351,
+      457,
+      1049,
+      556
+    ],
+    "normalized_solution": [
+      262,
+      448,
+      785,
+      545
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1020,
+    "width": 1336,
+    "normal_caption": "check battery usage history",
+    "image": "images/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "problem": "check battery usage history",
+    "solution": [
+      2,
+      532,
+      304,
+      603
+    ],
+    "normalized_solution": [
+      1,
+      521,
+      227,
+      591
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 758,
+    "width": 1246,
+    "normal_caption": "show emoji & symbols",
+    "image": "images/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "problem": "show emoji & symbols",
+    "solution": [
+      444,
+      184,
+      881,
+      240
+    ],
+    "normalized_solution": [
+      356,
+      242,
+      707,
+      316
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 758,
+    "width": 1246,
+    "normal_caption": "open keyboard preferences",
+    "image": "images/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "problem": "open keyboard preferences",
+    "solution": [
+      445,
+      360,
+      882,
+      421
+    ],
+    "normalized_solution": [
+      357,
+      474,
+      707,
+      555
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1000,
+    "width": 1334,
+    "normal_caption": "add a new account",
+    "image": "images/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "problem": "add a new account",
+    "solution": [
+      36,
+      916,
+      92,
+      961
+    ],
+    "normalized_solution": [
+      26,
+      916,
+      68,
+      961
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1000,
+    "width": 1334,
+    "normal_caption": "search for account",
+    "image": "images/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "problem": "search for account",
+    "solution": [
+      985,
+      22,
+      1308,
+      80
+    ],
+    "normalized_solution": [
+      738,
+      22,
+      980,
+      80
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1218,
+    "width": 1336,
+    "normal_caption": "cancel the calculator",
+    "image": "images/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "problem": "cancel the calculator",
+    "solution": [
+      179,
+      455,
+      1158,
+      497
+    ],
+    "normalized_solution": [
+      133,
+      373,
+      866,
+      408
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1218,
+    "width": 1336,
+    "normal_caption": "switch to privacy",
+    "image": "images/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "problem": "switch to privacy",
+    "solution": [
+      707,
+      245,
+      853,
+      291
+    ],
+    "normalized_solution": [
+      529,
+      201,
+      638,
+      238
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1454,
+    "width": 1336,
+    "normal_caption": "switch to alerts mode",
+    "image": "images/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "problem": "switch to alerts mode",
+    "solution": [
+      1024,
+      444,
+      1236,
+      630
+    ],
+    "normalized_solution": [
+      766,
+      305,
+      925,
+      433
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1454,
+    "width": 1336,
+    "normal_caption": "disable \"allow notifications\" setting",
+    "image": "images/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "problem": "disable \"allow notifications\" setting",
+    "solution": [
+      585,
+      329,
+      681,
+      394
+    ],
+    "normalized_solution": [
+      437,
+      226,
+      509,
+      270
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1454,
+    "width": 1334,
+    "normal_caption": "switch on do not disturb mode",
+    "image": "images/screenspotv2_image/pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
+    "problem": "switch on do not disturb mode",
+    "solution": [
+      529,
+      267,
+      620,
+      339
+    ],
+    "normalized_solution": [
+      396,
+      183,
+      464,
+      233
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1002,
+    "width": 1338,
+    "normal_caption": "change user's password",
+    "image": "images/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "problem": "change user's password",
+    "solution": [
+      965,
+      226,
+      1248,
+      273
+    ],
+    "normalized_solution": [
+      721,
+      225,
+      932,
+      272
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1002,
+    "width": 1338,
+    "normal_caption": "unlock to make changes",
+    "image": "images/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "problem": "unlock to make changes",
+    "solution": [
+      25,
+      887,
+      120,
+      979
+    ],
+    "normalized_solution": [
+      18,
+      885,
+      89,
+      977
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1254,
+    "width": 1338,
+    "normal_caption": "check app limits",
+    "image": "images/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "problem": "check app limits",
+    "solution": [
+      1,
+      766,
+      397,
+      833
+    ],
+    "normalized_solution": [
+      0,
+      610,
+      296,
+      664
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1254,
+    "width": 1338,
+    "normal_caption": "view the always allowed apps",
+    "image": "images/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "problem": "view the always allowed apps",
+    "solution": [
+      1,
+      896,
+      396,
+      958
+    ],
+    "normalized_solution": [
+      0,
+      714,
+      295,
+      763
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1174,
+    "width": 1334,
+    "normal_caption": "turn on \"user apple watch to unlock\"",
+    "image": "images/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "problem": "turn on \"user apple watch to unlock\"",
+    "solution": [
+      203,
+      400,
+      892,
+      456
+    ],
+    "normalized_solution": [
+      152,
+      340,
+      668,
+      388
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1174,
+    "width": 1334,
+    "normal_caption": "view firewall",
+    "image": "images/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "problem": "view firewall",
+    "solution": [
+      675,
+      154,
+      814,
+      200
+    ],
+    "normalized_solution": [
+      505,
+      131,
+      610,
+      170
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1076,
+    "width": 1334,
+    "normal_caption": "switch to time zone settings",
+    "image": "images/screenspotv2_image/pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
+    "problem": "switch to time zone settings",
+    "solution": [
+      672,
+      149,
+      855,
+      199
+    ],
+    "normalized_solution": [
+      503,
+      138,
+      640,
+      184
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1730,
+    "width": 2648,
+    "normal_caption": "open pycharm",
+    "image": "images/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "problem": "open pycharm",
+    "solution": [
+      1827,
+      99,
+      2078,
+      335
+    ],
+    "normalized_solution": [
+      689,
+      57,
+      784,
+      193
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1730,
+    "width": 2648,
+    "normal_caption": "open anaconda",
+    "image": "images/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "problem": "open anaconda",
+    "solution": [
+      473,
+      701,
+      772,
+      987
+    ],
+    "normalized_solution": [
+      178,
+      405,
+      291,
+      570
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1340,
+    "width": 1906,
+    "normal_caption": "delete this email",
+    "image": "images/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "problem": "delete this email",
+    "solution": [
+      1284,
+      0,
+      1374,
+      106
+    ],
+    "normalized_solution": [
+      673,
+      0,
+      720,
+      79
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1340,
+    "width": 1906,
+    "normal_caption": "forward email",
+    "image": "images/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "problem": "forward email",
+    "solution": [
+      1667,
+      0,
+      1749,
+      103
+    ],
+    "normalized_solution": [
+      874,
+      0,
+      917,
+      76
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1340,
+    "width": 970,
+    "normal_caption": "search in emails",
+    "image": "images/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "problem": "search in emails",
+    "solution": [
+      872,
+      0,
+      970,
+      106
+    ],
+    "normalized_solution": [
+      898,
+      0,
+      1000,
+      79
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1340,
+    "width": 970,
+    "normal_caption": "view attachment",
+    "image": "images/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "problem": "view attachment",
+    "solution": [
+      561,
+      693,
+      651,
+      745
+    ],
+    "normalized_solution": [
+      578,
+      517,
+      671,
+      555
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 952,
+    "width": 1130,
+    "normal_caption": "add images",
+    "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "problem": "add images",
+    "solution": [
+      1013,
+      19,
+      1113,
+      91
+    ],
+    "normalized_solution": [
+      896,
+      19,
+      984,
+      95
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 952,
+    "width": 1130,
+    "normal_caption": "add a recipient",
+    "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "problem": "add a recipient",
+    "solution": [
+      1025,
+      106,
+      1103,
+      162
+    ],
+    "normalized_solution": [
+      907,
+      111,
+      976,
+      170
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 952,
+    "width": 1130,
+    "normal_caption": "adjust font size",
+    "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "problem": "adjust font size",
+    "solution": [
+      808,
+      19,
+      892,
+      91
+    ],
+    "normalized_solution": [
+      715,
+      19,
+      789,
+      95
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1340,
+    "width": 1910,
+    "normal_caption": "check junk emails",
+    "image": "images/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "problem": "check junk emails",
+    "solution": [
+      2,
+      917,
+      376,
+      980
+    ],
+    "normalized_solution": [
+      1,
+      684,
+      196,
+      731
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1340,
+    "width": 1910,
+    "normal_caption": "open the first email from researchgate",
+    "image": "images/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "problem": "open the first email from researchgate",
+    "solution": [
+      376,
+      103,
+      939,
+      260
+    ],
+    "normalized_solution": [
+      196,
+      76,
+      491,
+      194
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1310,
+    "width": 1268,
+    "normal_caption": "open the image in memo",
+    "image": "images/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "problem": "open the image in memo",
+    "solution": [
+      42,
+      567,
+      1225,
+      1303
+    ],
+    "normalized_solution": [
+      33,
+      432,
+      966,
+      994
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1310,
+    "width": 1268,
+    "normal_caption": "lock the memo",
+    "image": "images/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "problem": "lock the memo",
+    "solution": [
+      918,
+      9,
+      1013,
+      90
+    ],
+    "normalized_solution": [
+      723,
+      6,
+      798,
+      68
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1314,
+    "width": 1336,
+    "normal_caption": "share throught airdrop",
+    "image": "images/screenspotv2_image/pc_9237faf6-9f95-4157-9d0b-aafa67f7b675.png",
+    "problem": "share throught airdrop",
+    "solution": [
+      1103,
+      87,
+      1333,
+      145
+    ],
+    "normalized_solution": [
+      825,
+      66,
+      997,
+      110
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1298,
+    "width": 1996,
+    "normal_caption": "search in app store",
+    "image": "images/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "problem": "search in app store",
+    "solution": [
+      18,
+      104,
+      423,
+      161
+    ],
+    "normalized_solution": [
+      9,
+      80,
+      211,
+      124
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1298,
+    "width": 1996,
+    "normal_caption": "next page",
+    "image": "images/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "problem": "next page",
+    "solution": [
+      1917,
+      877,
+      1996,
+      1020
+    ],
+    "normalized_solution": [
+      960,
+      675,
+      1000,
+      785
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1372,
+    "width": 2000,
+    "normal_caption": "share this page",
+    "image": "images/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "problem": "share this page",
+    "solution": [
+      1880,
+      10,
+      1961,
+      94
+    ],
+    "normalized_solution": [
+      940,
+      7,
+      980,
+      68
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1372,
+    "width": 2000,
+    "normal_caption": "back to previous page",
+    "image": "images/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "problem": "back to previous page",
+    "solution": [
+      172,
+      15,
+      242,
+      90
+    ],
+    "normalized_solution": [
+      86,
+      10,
+      121,
+      65
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1370,
+    "width": 1998,
+    "normal_caption": "get the bear markdown notes app",
+    "image": "images/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "problem": "get the bear markdown notes app",
+    "solution": [
+      1054,
+      211,
+      1210,
+      292
+    ],
+    "normalized_solution": [
+      527,
+      154,
+      605,
+      213
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1370,
+    "width": 1998,
+    "normal_caption": "view the pixelmator app",
+    "image": "images/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "problem": "view the pixelmator app",
+    "solution": [
+      517,
+      323,
+      1216,
+      466
+    ],
+    "normalized_solution": [
+      258,
+      235,
+      608,
+      340
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1370,
+    "width": 1998,
+    "normal_caption": "open business categories",
+    "image": "images/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "problem": "open business categories",
+    "solution": [
+      504,
+      250,
+      963,
+      346
+    ],
+    "normalized_solution": [
+      252,
+      182,
+      481,
+      252
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1370,
+    "width": 1998,
+    "normal_caption": "download fantastical from icloud",
+    "image": "images/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "problem": "download fantastical from icloud",
+    "solution": [
+      1795,
+      1229,
+      1897,
+      1328
+    ],
+    "normalized_solution": [
+      898,
+      897,
+      949,
+      969
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1372,
+    "width": 2000,
+    "normal_caption": "view the 2023 app store awards",
+    "image": "images/screenspotv2_image/pc_a2300b43-a1e0-4da9-aed4-3543b507d9a3.png",
+    "problem": "view the 2023 app store awards",
+    "solution": [
+      518,
+      231,
+      1203,
+      872
+    ],
+    "normalized_solution": [
+      259,
+      168,
+      601,
+      635
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 894,
+    "width": 1598,
+    "normal_caption": "back to previous folder",
+    "image": "images/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "problem": "back to previous folder",
+    "solution": [
+      355,
+      39,
+      415,
+      84
+    ],
+    "normalized_solution": [
+      222,
+      43,
+      259,
+      93
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 894,
+    "width": 1598,
+    "normal_caption": "open d1_one",
+    "image": "images/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "problem": "open d1_one",
+    "solution": [
+      886,
+      175,
+      1033,
+      384
+    ],
+    "normalized_solution": [
+      554,
+      195,
+      646,
+      429
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 898,
+    "width": 1598,
+    "normal_caption": "open the file",
+    "image": "images/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "problem": "open the file",
+    "solution": [
+      1411,
+      804,
+      1563,
+      869
+    ],
+    "normalized_solution": [
+      882,
+      895,
+      978,
+      967
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 898,
+    "width": 1598,
+    "normal_caption": "create a new document",
+    "image": "images/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "problem": "create a new document",
+    "solution": [
+      354,
+      809,
+      595,
+      858
+    ],
+    "normalized_solution": [
+      221,
+      900,
+      372,
+      955
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 898,
+    "width": 1600,
+    "normal_caption": "show the files in list",
+    "image": "images/screenspotv2_image/pc_f01bc231-56c4-4aba-9dd4-fd6271be0f8e.png",
+    "problem": "show the files in list",
+    "solution": [
+      475,
+      248,
+      722,
+      296
+    ],
+    "normalized_solution": [
+      296,
+      276,
+      451,
+      329
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1514,
+    "width": 2154,
+    "normal_caption": "open a blank document",
+    "image": "images/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "problem": "open a blank document",
+    "solution": [
+      307,
+      192,
+      533,
+      532
+    ],
+    "normalized_solution": [
+      142,
+      126,
+      247,
+      351
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1514,
+    "width": 2154,
+    "normal_caption": "my account",
+    "image": "images/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "problem": "my account",
+    "solution": [
+      29,
+      109,
+      147,
+      236
+    ],
+    "normalized_solution": [
+      13,
+      71,
+      68,
+      155
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1554,
+    "width": 1710,
+    "normal_caption": "enlarge font size",
+    "image": "images/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "problem": "enlarge font size",
+    "solution": [
+      513,
+      134,
+      576,
+      191
+    ],
+    "normalized_solution": [
+      300,
+      86,
+      336,
+      122
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1554,
+    "width": 1710,
+    "normal_caption": "save file",
+    "image": "images/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "problem": "save file",
+    "solution": [
+      438,
+      2,
+      499,
+      63
+    ],
+    "normalized_solution": [
+      256,
+      1,
+      291,
+      40
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1558,
+    "width": 1714,
+    "normal_caption": "add a new pen",
+    "image": "images/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "problem": "add a new pen",
+    "solution": [
+      645,
+      127,
+      739,
+      260
+    ],
+    "normalized_solution": [
+      376,
+      81,
+      431,
+      166
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1558,
+    "width": 1714,
+    "normal_caption": "choose the red pen",
+    "image": "images/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "problem": "choose the red pen",
+    "solution": [
+      352,
+      133,
+      437,
+      244
+    ],
+    "normalized_solution": [
+      205,
+      85,
+      254,
+      156
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1560,
+    "width": 1712,
+    "normal_caption": "adjust orientation",
+    "image": "images/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "problem": "adjust orientation",
+    "solution": [
+      221,
+      131,
+      347,
+      251
+    ],
+    "normalized_solution": [
+      129,
+      83,
+      202,
+      160
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1560,
+    "width": 1712,
+    "normal_caption": "adjust the left indent",
+    "image": "images/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "problem": "adjust the left indent",
+    "solution": [
+      884,
+      175,
+      1045,
+      219
+    ],
+    "normalized_solution": [
+      516,
+      112,
+      610,
+      140
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1556,
+    "width": 1708,
+    "normal_caption": "insert a shape",
+    "image": "images/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "problem": "insert a shape",
+    "solution": [
+      95,
+      256,
+      202,
+      370
+    ],
+    "normalized_solution": [
+      55,
+      164,
+      118,
+      237
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1556,
+    "width": 1708,
+    "normal_caption": "add a screenshot",
+    "image": "images/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "problem": "add a screenshot",
+    "solution": [
+      580,
+      258,
+      703,
+      370
+    ],
+    "normalized_solution": [
+      339,
+      165,
+      411,
+      237
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1558,
+    "width": 1710,
+    "normal_caption": "add a sunburst chart",
+    "image": "images/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "problem": "add a sunburst chart",
+    "solution": [
+      879,
+      797,
+      1091,
+      1020
+    ],
+    "normalized_solution": [
+      514,
+      511,
+      638,
+      654
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1558,
+    "width": 1710,
+    "normal_caption": "turn on auto save",
+    "image": "images/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "problem": "turn on auto save",
+    "solution": [
+      283,
+      0,
+      381,
+      61
+    ],
+    "normalized_solution": [
+      165,
+      0,
+      222,
+      39
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1558,
+    "width": 1710,
+    "normal_caption": "switch to 20 size font",
+    "image": "images/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "problem": "switch to 20 size font",
+    "solution": [
+      407,
+      771,
+      534,
+      812
+    ],
+    "normalized_solution": [
+      238,
+      494,
+      312,
+      521
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1558,
+    "width": 1710,
+    "normal_caption": "share the word file",
+    "image": "images/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "problem": "share the word file",
+    "solution": [
+      1554,
+      66,
+      1696,
+      123
+    ],
+    "normalized_solution": [
+      908,
+      42,
+      991,
+      78
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1556,
+    "width": 1714,
+    "normal_caption": "choose ms pgothic for heading",
+    "image": "images/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "problem": "choose ms pgothic for heading",
+    "solution": [
+      205,
+      420,
+      1017,
+      475
+    ],
+    "normalized_solution": [
+      119,
+      269,
+      593,
+      305
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1556,
+    "width": 1714,
+    "normal_caption": "choose apple chancery",
+    "image": "images/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "problem": "choose apple chancery",
+    "solution": [
+      205,
+      1342,
+      1019,
+      1408
+    ],
+    "normalized_solution": [
+      119,
+      862,
+      594,
+      904
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1706,
+    "width": 2190,
+    "normal_caption": "switch to design",
+    "image": "images/screenspotv2_image/pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
+    "problem": "switch to design",
+    "solution": [
+      358,
+      65,
+      485,
+      126
+    ],
+    "normalized_solution": [
+      163,
+      38,
+      221,
+      73
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1704,
+    "width": 2192,
+    "normal_caption": "rotate title box",
+    "image": "images/screenspotv2_image/pc_9eebe928-6d8a-4de5-8212-039d0282b082.png",
+    "problem": "rotate title box",
+    "solution": [
+      1316,
+      553,
+      1385,
+      613
+    ],
+    "normalized_solution": [
+      600,
+      324,
+      631,
+      359
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1696,
+    "width": 2190,
+    "normal_caption": "bullets and numbering settings",
+    "image": "images/screenspotv2_image/pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
+    "problem": "bullets and numbering settings",
+    "solution": [
+      1197,
+      572,
+      2098,
+      636
+    ],
+    "normalized_solution": [
+      546,
+      337,
+      957,
+      375
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1402,
+    "width": 1158,
+    "normal_caption": "sign up for free",
+    "image": "images/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "problem": "sign up for free",
+    "solution": [
+      393,
+      1087,
+      766,
+      1148
+    ],
+    "normalized_solution": [
+      339,
+      775,
+      661,
+      818
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1402,
+    "width": 1158,
+    "normal_caption": "sign in",
+    "image": "images/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "problem": "sign in",
+    "solution": [
+      393,
+      1173,
+      771,
+      1234
+    ],
+    "normalized_solution": [
+      339,
+      836,
+      665,
+      880
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1398,
+    "width": 1164,
+    "normal_caption": "input the email address",
+    "image": "images/screenspotv2_image/pc_18a939a5-8f77-4519-9c7a-d62b11e7b878.png",
+    "problem": "input the email address",
+    "solution": [
+      185,
+      253,
+      968,
+      337
+    ],
+    "normalized_solution": [
+      158,
+      180,
+      831,
+      241
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1590,
+    "width": 2300,
+    "normal_caption": "debug",
+    "image": "images/screenspotv2_image/pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
+    "problem": "debug",
+    "solution": [
+      1511,
+      55,
+      1569,
+      113
+    ],
+    "normalized_solution": [
+      656,
+      34,
+      682,
+      71
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1398,
+    "width": 1802,
+    "normal_caption": "check file colors",
+    "image": "images/screenspotv2_image/pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
+    "problem": "check file colors",
+    "solution": [
+      520,
+      349,
+      704,
+      399
+    ],
+    "normalized_solution": [
+      288,
+      249,
+      390,
+      285
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1400,
+    "width": 1800,
+    "normal_caption": "check python interpreter",
+    "image": "images/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "problem": "check python interpreter",
+    "solution": [
+      0,
+      424,
+      467,
+      472
+    ],
+    "normalized_solution": [
+      0,
+      302,
+      259,
+      337
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1400,
+    "width": 1800,
+    "normal_caption": "view plugins",
+    "image": "images/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "problem": "view plugins",
+    "solution": [
+      0,
+      282,
+      467,
+      327
+    ],
+    "normalized_solution": [
+      0,
+      201,
+      259,
+      233
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1402,
+    "width": 1802,
+    "normal_caption": "select python interpreter",
+    "image": "images/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "problem": "select python interpreter",
+    "solution": [
+      748,
+      158,
+      1705,
+      209
+    ],
+    "normalized_solution": [
+      415,
+      112,
+      946,
+      149
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1402,
+    "width": 1802,
+    "normal_caption": "add a new package",
+    "image": "images/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "problem": "add a new package",
+    "solution": [
+      509,
+      256,
+      559,
+      307
+    ],
+    "normalized_solution": [
+      282,
+      182,
+      310,
+      218
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1398,
+    "width": 1802,
+    "normal_caption": "cancel showing plots in tool windows",
+    "image": "images/screenspotv2_image/pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
+    "problem": "cancel showing plots in tool windows",
+    "solution": [
+      519,
+      139,
+      919,
+      207
+    ],
+    "normalized_solution": [
+      288,
+      99,
+      509,
+      148
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1590,
+    "width": 2292,
+    "normal_caption": "pause the debugger",
+    "image": "images/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "problem": "pause the debugger",
+    "solution": [
+      38,
+      1009,
+      98,
+      1058
+    ],
+    "normalized_solution": [
+      16,
+      634,
+      42,
+      665
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1590,
+    "width": 2292,
+    "normal_caption": "minimize the debug panel",
+    "image": "images/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "problem": "minimize the debug panel",
+    "solution": [
+      2192,
+      779,
+      2258,
+      834
+    ],
+    "normalized_solution": [
+      956,
+      489,
+      985,
+      524
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 822,
+    "width": 1198,
+    "normal_caption": "select the gzip file format",
+    "image": "images/screenspotv2_image/pc_f656ce46-13af-4cd1-9126-f3c45a4e696c.png",
+    "problem": "select the gzip file format",
+    "solution": [
+      78,
+      603,
+      1124,
+      639
+    ],
+    "normalized_solution": [
+      65,
+      733,
+      938,
+      777
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1042,
+    "width": 1462,
+    "normal_caption": "hide menu icon",
+    "image": "images/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "problem": "hide menu icon",
+    "solution": [
+      473,
+      190,
+      725,
+      242
+    ],
+    "normalized_solution": [
+      323,
+      182,
+      495,
+      232
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1042,
+    "width": 1462,
+    "normal_caption": "switch to display",
+    "image": "images/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "problem": "switch to display",
+    "solution": [
+      685,
+      55,
+      796,
+      150
+    ],
+    "normalized_solution": [
+      468,
+      52,
+      544,
+      143
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 686,
+    "width": 1462,
+    "normal_caption": "buy betterdisplay pro",
+    "image": "images/screenspotv2_image/pc_ec085abc-591d-4dcc-830c-defddc958f47.png",
+    "problem": "buy betterdisplay pro",
+    "solution": [
+      351,
+      571,
+      714,
+      615
+    ],
+    "normalized_solution": [
+      240,
+      832,
+      488,
+      896
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1262,
+    "width": 1574,
+    "normal_caption": "start record",
+    "image": "images/screenspotv2_image/pc_c69e46cd-d2a9-4dbf-8d0a-4532b750a691.png",
+    "problem": "start record",
+    "solution": [
+      185,
+      1132,
+      307,
+      1244
+    ],
+    "normalized_solution": [
+      117,
+      896,
+      195,
+      985
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1294,
+    "width": 1478,
+    "normal_caption": "search in activity monitor",
+    "image": "images/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "problem": "search in activity monitor",
+    "solution": [
+      1381,
+      17,
+      1467,
+      94
+    ],
+    "normalized_solution": [
+      934,
+      13,
+      992,
+      72
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1294,
+    "width": 1478,
+    "normal_caption": "check the google chrome app",
+    "image": "images/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "problem": "check the google chrome app",
+    "solution": [
+      1,
+      360,
+      1476,
+      411
+    ],
+    "normalized_solution": [
+      0,
+      278,
+      998,
+      317
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1288,
+    "width": 1478,
+    "normal_caption": "terminate this process",
+    "image": "images/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "problem": "terminate this process",
+    "solution": [
+      555,
+      18,
+      634,
+      85
+    ],
+    "normalized_solution": [
+      375,
+      13,
+      428,
+      65
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1288,
+    "width": 1478,
+    "normal_caption": "detail information",
+    "image": "images/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "problem": "detail information",
+    "solution": [
+      640,
+      17,
+      710,
+      87
+    ],
+    "normalized_solution": [
+      433,
+      13,
+      480,
+      67
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1382,
+    "width": 1658,
+    "normal_caption": "add a shortcut",
+    "image": "images/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "problem": "add a shortcut",
+    "solution": [
+      1024,
+      20,
+      1094,
+      89
+    ],
+    "normalized_solution": [
+      617,
+      14,
+      659,
+      64
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1382,
+    "width": 1658,
+    "normal_caption": "open gallery",
+    "image": "images/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "problem": "open gallery",
+    "solution": [
+      1,
+      100,
+      451,
+      164
+    ],
+    "normalized_solution": [
+      0,
+      72,
+      272,
+      118
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1392,
+    "width": 1776,
+    "normal_caption": "switch to apps",
+    "image": "images/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "problem": "switch to apps",
+    "solution": [
+      1496,
+      204,
+      1753,
+      248
+    ],
+    "normalized_solution": [
+      842,
+      146,
+      987,
+      178
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1392,
+    "width": 1776,
+    "normal_caption": "add a send message action",
+    "image": "images/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "problem": "add a send message action",
+    "solution": [
+      1254,
+      628,
+      1745,
+      686
+    ],
+    "normalized_solution": [
+      706,
+      451,
+      982,
+      492
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1392,
+    "width": 1774,
+    "normal_caption": "run the shortcut",
+    "image": "images/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "problem": "run the shortcut",
+    "solution": [
+      1144,
+      16,
+      1210,
+      87
+    ],
+    "normalized_solution": [
+      644,
+      11,
+      682,
+      62
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1392,
+    "width": 1774,
+    "normal_caption": "share the shortcut",
+    "image": "images/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "problem": "share the shortcut",
+    "solution": [
+      1037,
+      13,
+      1118,
+      92
+    ],
+    "normalized_solution": [
+      584,
+      9,
+      630,
+      66
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 940,
+    "width": 1524,
+    "normal_caption": "open paper named flamingo",
+    "image": "images/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "problem": "open paper named flamingo",
+    "solution": [
+      501,
+      124,
+      713,
+      370
+    ],
+    "normalized_solution": [
+      328,
+      131,
+      467,
+      393
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 940,
+    "width": 1524,
+    "normal_caption": "search in files",
+    "image": "images/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "problem": "search in files",
+    "solution": [
+      1426,
+      14,
+      1506,
+      83
+    ],
+    "normalized_solution": [
+      935,
+      14,
+      988,
+      88
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1244,
+    "width": 1380,
+    "normal_caption": "enlarge the font",
+    "image": "images/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "problem": "enlarge the font",
+    "solution": [
+      746,
+      19,
+      808,
+      84
+    ],
+    "normalized_solution": [
+      540,
+      15,
+      585,
+      67
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1244,
+    "width": 1380,
+    "normal_caption": "search in dictionary",
+    "image": "images/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "problem": "search in dictionary",
+    "solution": [
+      836,
+      19,
+      1359,
+      85
+    ],
+    "normalized_solution": [
+      605,
+      15,
+      984,
+      68
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open vscode",
+    "image": "images/screenspotv2_image/pc_1inyhi.png",
+    "problem": "open vscode",
+    "solution": [
+      12,
+      433,
+      79,
+      497
+    ],
+    "normalized_solution": [
+      4,
+      300,
+      30,
+      345
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust font color",
+    "image": "images/screenspotv2_image/pc_8g2jf6.png",
+    "problem": "adjust font color",
+    "solution": [
+      797,
+      128,
+      847,
+      165
+    ],
+    "normalized_solution": [
+      311,
+      88,
+      330,
+      114
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "view battery usage of last 10 days",
+    "image": "images/screenspotv2_image/pc_b5q1tt.png",
+    "problem": "view battery usage of last 10 days",
+    "solution": [
+      1547,
+      358,
+      1989,
+      403
+    ],
+    "normalized_solution": [
+      537,
+      198,
+      690,
+      223
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "download microsoft word from cloud",
+    "image": "images/screenspotv2_image/pc_drcjo3.png",
+    "problem": "download microsoft word from cloud",
+    "solution": [
+      2691,
+      1569,
+      2772,
+      1635
+    ],
+    "normalized_solution": [
+      934,
+      871,
+      962,
+      908
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust mouse speed",
+    "image": "images/screenspotv2_image/pc_dyxzuj.png",
+    "problem": "adjust mouse speed",
+    "solution": [
+      1337,
+      275,
+      1643,
+      323
+    ],
+    "normalized_solution": [
+      522,
+      190,
+      641,
+      224
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "empty the trash",
+    "image": "images/screenspotv2_image/pc_dzpr8m.png",
+    "problem": "empty the trash",
+    "solution": [
+      1475,
+      473,
+      1571,
+      508
+    ],
+    "normalized_solution": [
+      576,
+      328,
+      613,
+      352
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "play dance pop station music",
+    "image": "images/screenspotv2_image/pc_f6eng1.png",
+    "problem": "play dance pop station music",
+    "solution": [
+      702,
+      857,
+      1039,
+      1192
+    ],
+    "normalized_solution": [
+      243,
+      476,
+      360,
+      662
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open google drive",
+    "image": "images/screenspotv2_image/pc_gtda7d.png",
+    "problem": "open google drive",
+    "solution": [
+      2425,
+      403,
+      2509,
+      482
+    ],
+    "normalized_solution": [
+      947,
+      279,
+      980,
+      334
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "install LXD app",
+    "image": "images/screenspotv2_image/pc_j6tmln.png",
+    "problem": "install LXD app",
+    "solution": [
+      906,
+      181,
+      1015,
+      215
+    ],
+    "normalized_solution": [
+      353,
+      125,
+      396,
+      149
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click to restart the computer",
+    "image": "images/screenspotv2_image/pc_js1st2.png",
+    "problem": "click to restart the computer",
+    "solution": [
+      2279,
+      397,
+      2546,
+      428
+    ],
+    "normalized_solution": [
+      890,
+      275,
+      994,
+      297
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add current webpage to favourites",
+    "image": "images/screenspotv2_image/pc_krzgko.png",
+    "problem": "add current webpage to favourites",
+    "solution": [
+      2262,
+      78,
+      2292,
+      106
+    ],
+    "normalized_solution": [
+      883,
+      54,
+      895,
+      73
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add a wired connection device",
+    "image": "images/screenspotv2_image/pc_nuyjna.png",
+    "problem": "Add a wired connection device",
+    "solution": [
+      1554,
+      391,
+      1602,
+      421
+    ],
+    "normalized_solution": [
+      607,
+      271,
+      625,
+      292
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select all folders",
+    "image": "images/screenspotv2_image/pc_o4nd16.png",
+    "problem": "select all folders",
+    "solution": [
+      707,
+      644,
+      896,
+      674
+    ],
+    "normalized_solution": [
+      276,
+      447,
+      350,
+      468
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "search in this folder",
+    "image": "images/screenspotv2_image/pc_odcu20.png",
+    "problem": "search in this folder",
+    "solution": [
+      2207,
+      76,
+      2854,
+      122
+    ],
+    "normalized_solution": [
+      766,
+      42,
+      990,
+      67
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "center the selected text",
+    "image": "images/screenspotv2_image/pc_oyo43s.png",
+    "problem": "center the selected text",
+    "solution": [
+      927,
+      130,
+      967,
+      162
+    ],
+    "normalized_solution": [
+      362,
+      90,
+      377,
+      112
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a new input method",
+    "image": "images/screenspotv2_image/pc_p4xo8z.png",
+    "problem": "add a new input method",
+    "solution": [
+      1132,
+      403,
+      1724,
+      457
+    ],
+    "normalized_solution": [
+      442,
+      279,
+      673,
+      317
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "update all available apps",
+    "image": "images/screenspotv2_image/pc_pl3ry1.png",
+    "problem": "update all available apps",
+    "solution": [
+      2632,
+      143,
+      2802,
+      202
+    ],
+    "normalized_solution": [
+      913,
+      79,
+      972,
+      112
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open nac client ",
+    "image": "images/screenspotv2_image/pc_qao1zc.png",
+    "problem": "open nac client ",
+    "solution": [
+      1610,
+      800,
+      1773,
+      963
+    ],
+    "normalized_solution": [
+      628,
+      555,
+      692,
+      668
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select a new time format",
+    "image": "images/screenspotv2_image/pc_rvnx5q.png",
+    "problem": "select a new time format",
+    "solution": [
+      1137,
+      355,
+      1735,
+      413
+    ],
+    "normalized_solution": [
+      444,
+      246,
+      677,
+      286
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view get more help",
+    "image": "images/screenspotv2_image/pc_st4s1n.png",
+    "problem": "view get more help",
+    "solution": [
+      772,
+      755,
+      1077,
+      830
+    ],
+    "normalized_solution": [
+      301,
+      524,
+      420,
+      576
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "do not save this file",
+    "image": "images/screenspotv2_image/pc_suf989.png",
+    "problem": "do not save this file",
+    "solution": [
+      996,
+      755,
+      1207,
+      805
+    ],
+    "normalized_solution": [
+      389,
+      524,
+      471,
+      559
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "open the map app",
+    "image": "images/screenspotv2_image/pc_u77zz1.png",
+    "problem": "open the map app",
+    "solution": [
+      553,
+      1688,
+      641,
+      1769
+    ],
+    "normalized_solution": [
+      192,
+      937,
+      222,
+      982
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to NAT network connections",
+    "image": "images/screenspotv2_image/pc_umvv32.png",
+    "problem": "switch to NAT network connections",
+    "solution": [
+      962,
+      740,
+      1477,
+      773
+    ],
+    "normalized_solution": [
+      375,
+      513,
+      576,
+      536
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the calculator",
+    "image": "images/screenspotv2_image/pc_uuhwlx.png",
+    "problem": "open the calculator",
+    "solution": [
+      1309,
+      526,
+      1423,
+      658
+    ],
+    "normalized_solution": [
+      511,
+      365,
+      555,
+      456
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "insert a new slide",
+    "image": "images/screenspotv2_image/pc_vcud9k.png",
+    "problem": "insert a new slide",
+    "solution": [
+      269,
+      127,
+      382,
+      259
+    ],
+    "normalized_solution": [
+      93,
+      70,
+      132,
+      143
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view more information about bomber",
+    "image": "images/screenspotv2_image/pc_z7ydq8.png",
+    "problem": "view more information about bomber",
+    "solution": [
+      1466,
+      644,
+      1613,
+      780
+    ],
+    "normalized_solution": [
+      572,
+      447,
+      630,
+      541
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "adjust the options of  \"show previous\"",
+    "image": "images/screenspotv2_image/pc_zuyj00.png",
+    "problem": "adjust the options of  \"show previous\"",
+    "solution": [
+      1744,
+      281,
+      2002,
+      334
+    ],
+    "normalized_solution": [
+      605,
+      156,
+      695,
+      185
+    ]
+  },
+  {
+    "dataset": "screenspot_desktop",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter my full name",
+    "image": "images/screenspotv2_image/pc_aaaaaa.png",
+    "problem": "enter my full name",
+    "solution": [
+      701,
+      321,
+      1118,
+      355
+    ],
+    "normalized_solution": [
+      273,
+      222,
+      436,
+      246
+    ]
+  }
+]
