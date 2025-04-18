@@ -1,0 +1,6017 @@
+{
+  "accuracy": 16.766467065868262,
+  "results": [
+    {
+      "image": "images/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: change adapter options",
+      "ground_truth": [
+        331,
+        593,
+        765,
+        649
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [384, 599, 531, 614], \"label\": \"change adapter options\"}\n]\n```",
+      "extracted_answer": [
+        384.0,
+        599.0,
+        531.0,
+        614.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open paint 3d",
+      "ground_truth": [
+        52,
+        79,
+        299,
+        111
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [60, 87, 154, 112], \"label\": \"open paint 3d\"}\n]\n```",
+      "extracted_answer": [
+        60.0,
+        87.0,
+        154.0,
+        112.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check focus preferences",
+      "ground_truth": [
+        469,
+        494,
+        1066,
+        556
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [495, 513, 738, 536], \"label\": \"check focus preferences\"}\n]\n```",
+      "extracted_answer": [
+        495.0,
+        513.0,
+        738.0,
+        536.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check microphone permissions",
+      "ground_truth": [
+        4,
+        450,
+        313,
+        484
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [345, 190, 540, 232], \"label\": \"check microphone permissions\"}\n]\n```",
+      "extracted_answer": [
+        345.0,
+        190.0,
+        540.0,
+        232.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: the internet icon",
+      "ground_truth": [
+        0,
+        181,
+        47,
+        231
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [17, 190, 34, 206], \"label\": \"the internet icon\"}\n]\n```",
+      "extracted_answer": [
+        17.0,
+        190.0,
+        34.0,
+        206.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_c00e575a-fa2d-47c7-83cc-9f4e99f15720.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: restart the computer",
+      "ground_truth": [
+        0,
+        459,
+        260,
+        500
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [10, 456, 257, 483], \"label\": \"restart the computer\"}\n]\n```",
+      "extracted_answer": [
+        10.0,
+        456.0,
+        257.0,
+        483.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2c56f301-8e71-4498-8e52-44b37ac1a298.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose language for windows",
+      "ground_truth": [
+        458,
+        133,
+        910,
+        169
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [453, 136, 624, 158], \"label\": \"choose language for windows\"}\n]\n```",
+      "extracted_answer": [
+        453.0,
+        136.0,
+        624.0,
+        158.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_73f3744f-675f-44e3-8c55-ef34bdce0da9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open map",
+      "ground_truth": [
+        420,
+        121,
+        725,
+        394
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [637, 359, 681, 374], \"label\": \"open map\"}\n]\n```",
+      "extracted_answer": [
+        637.0,
+        359.0,
+        681.0,
+        374.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_rvnx5q.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select a new time format",
+      "ground_truth": [
+        1137,
+        355,
+        1735,
+        413
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1645, 367, 1710, 392], \"label\": \"select a new time format\"}\n]\n```",
+      "extracted_answer": [
+        1645.0,
+        367.0,
+        1710.0,
+        392.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check desplay settings",
+      "ground_truth": [
+        41,
+        954,
+        151,
+        1082
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [48, 967, 135, 1044], \"label\": \"check desplay settings\"}\n]\n```",
+      "extracted_answer": [
+        48.0,
+        967.0,
+        135.0,
+        1044.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8ce8a3b6-c2a9-4b69-986e-34b7d96e27ef.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the devices",
+      "ground_truth": [
+        213,
+        63,
+        479,
+        132
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [231, 79, 425, 120], \"label\": \"view the devices\"}\n]\n```",
+      "extracted_answer": [
+        231.0,
+        79.0,
+        425.0,
+        120.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_41efdca0-442c-471e-8188-45457f9287c3.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: minimize the window",
+      "ground_truth": [
+        601,
+        19,
+        638,
+        53
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [607, 31, 621, 45], \"label\": \"minimize the window\"}\n]\n```",
+      "extracted_answer": [
+        607.0,
+        31.0,
+        621.0,
+        45.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: forward email",
+      "ground_truth": [
+        1667,
+        0,
+        1749,
+        103
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1567, 34, 1609, 68], \"label\": \"forward email\"}\n]\n```",
+      "extracted_answer": [
+        1567.0,
+        34.0,
+        1609.0,
+        68.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a new package",
+      "ground_truth": [
+        509,
+        256,
+        559,
+        307
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [538, 264, 579, 291], \"label\": \"add a new package\"}\n]\n```",
+      "extracted_answer": [
+        538.0,
+        264.0,
+        579.0,
+        291.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose apple chancery",
+      "ground_truth": [
+        205,
+        1342,
+        1019,
+        1408
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [258, 1369, 437, 1405], \"label\": \"choose apple chancery\"}\n]\n```",
+      "extracted_answer": [
+        258.0,
+        1369.0,
+        437.0,
+        1405.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: turn on auto save",
+      "ground_truth": [
+        283,
+        0,
+        381,
+        61
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [289, 21, 374, 45], \"label\": \"turn on auto save\"}\n]\n```",
+      "extracted_answer": [
+        289.0,
+        21.0,
+        374.0,
+        45.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_aaaaaa.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enter my full name",
+      "ground_truth": [
+        701,
+        321,
+        1118,
+        355
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [695, 301, 789, 324], \"label\": \"enter my full name\"}\n]\n```",
+      "extracted_answer": [
+        695.0,
+        301.0,
+        789.0,
+        324.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8f88d498-d49a-4ab5-8aa6-aafa1428c3b7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: copy the file",
+      "ground_truth": [
+        177,
+        69,
+        459,
+        97
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [213, 75, 240, 89], \"label\": \"copy the file\"}\n]\n```",
+      "extracted_answer": [
+        213.0,
+        75.0,
+        240.0,
+        89.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ec085abc-591d-4dcc-830c-defddc958f47.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: buy betterdisplay pro",
+      "ground_truth": [
+        351,
+        571,
+        714,
+        615
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [396, 567, 688, 594], \"label\": \"buy betterdisplay pro\"}\n]\n```",
+      "extracted_answer": [
+        396.0,
+        567.0,
+        688.0,
+        594.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to time zone settings",
+      "ground_truth": [
+        672,
+        149,
+        855,
+        199
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [675, 154, 839, 188], \"label\": \"switch to time zone settings\"}\n]\n```",
+      "extracted_answer": [
+        675.0,
+        154.0,
+        839.0,
+        188.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select default web browser",
+      "ground_truth": [
+        500,
+        891,
+        807,
+        937
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [226, 897, 450, 931], \"label\": \"select default web browser\"}\n]\n```",
+      "extracted_answer": [
+        226.0,
+        897.0,
+        450.0,
+        931.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose highlight color",
+      "ground_truth": [
+        499,
+        396,
+        803,
+        436
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [498, 396, 750, 431], \"label\": \"choose highlight color\"}\n]\n```",
+      "extracted_answer": [
+        498.0,
+        396.0,
+        750.0,
+        431.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8fc42b3c-c8bc-4866-b787-aed98a86d614.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view sound settings.",
+      "ground_truth": [
+        183,
+        24,
+        499,
+        68
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [194, 35, 260, 52], \"label\": \"view sound settings\"}\n]\n```",
+      "extracted_answer": [
+        194.0,
+        35.0,
+        260.0,
+        52.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to feedback",
+      "ground_truth": [
+        2,
+        161,
+        316,
+        197
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [49, 168, 107, 183], \"label\": \"switch to feedback\"}\n]\n```",
+      "extracted_answer": [
+        49.0,
+        168.0,
+        107.0,
+        183.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share this page",
+      "ground_truth": [
+        1880,
+        10,
+        1961,
+        94
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1903, 40, 1920, 65], \"label\": \"share this page\"}\n]\n```",
+      "extracted_answer": [
+        1903.0,
+        40.0,
+        1920.0,
+        65.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1f3eb0eb-2ab2-4e48-b278-de334846ee0d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose the pig",
+      "ground_truth": [
+        406,
+        81,
+        757,
+        372
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [408, 83, 746, 359], \"label\": \"choose the pig\"}\n]\n```",
+      "extracted_answer": [
+        408.0,
+        83.0,
+        746.0,
+        359.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: play the Klondike game",
+      "ground_truth": [
+        9,
+        232,
+        327,
+        280
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [73, 248, 169, 270], \"label\": \"play the Klondike game\"}\n]\n```",
+      "extracted_answer": [
+        73.0,
+        248.0,
+        169.0,
+        270.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check email and account",
+      "ground_truth": [
+        12,
+        201,
+        349,
+        251
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [36, 219, 345, 240], \"label\": \"check email and account\"}\n]\n```",
+      "extracted_answer": [
+        36.0,
+        219.0,
+        345.0,
+        240.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5e09e8e9-7ef6-44be-ad54-aeaeac151897.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: minimize this window",
+      "ground_truth": [
+        835,
+        0,
+        871,
+        30
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [841, 9, 850, 17], \"label\": \"minimize this window\"}\n]\n```",
+      "extracted_answer": [
+        841.0,
+        9.0,
+        850.0,
+        17.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_776b1aa0-a892-4461-b03a-88253e628426.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: refresh the page",
+      "ground_truth": [
+        18,
+        15,
+        62,
+        54
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [31, 28, 50, 46], \"label\": \"refresh the page\"}\n]\n```",
+      "extracted_answer": [
+        31.0,
+        28.0,
+        50.0,
+        46.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to display",
+      "ground_truth": [
+        685,
+        55,
+        796,
+        150
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [687, 49, 770, 135], \"label\": \"switch to display\"}\n]\n```",
+      "extracted_answer": [
+        687.0,
+        49.0,
+        770.0,
+        135.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: question about bluetooth",
+      "ground_truth": [
+        1245,
+        801,
+        1315,
+        864
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1275, 816, 1304, 850], \"label\": \"question about bluetooth\"}\n]\n```",
+      "extracted_answer": [
+        1275.0,
+        816.0,
+        1304.0,
+        850.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a shortcut",
+      "ground_truth": [
+        1024,
+        20,
+        1094,
+        89
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1043, 36, 1067, 60], \"label\": \"add a shortcut\"}\n]\n```",
+      "extracted_answer": [
+        1043.0,
+        36.0,
+        1067.0,
+        60.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: terminate this process",
+      "ground_truth": [
+        555,
+        18,
+        634,
+        85
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [580, 36, 610, 70], \"label\": \"terminate this process\"}\n]\n```",
+      "extracted_answer": [
+        580.0,
+        36.0,
+        610.0,
+        70.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view files from airdrop",
+      "ground_truth": [
+        20,
+        150,
+        237,
+        197
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [38, 159, 174, 206], \"label\": \"view files from airdrop\"}\n]\n```",
+      "extracted_answer": [
+        38.0,
+        159.0,
+        174.0,
+        206.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to apps",
+      "ground_truth": [
+        681,
+        243,
+        794,
+        288
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [640, 251, 718, 283], \"label\": \"switch to apps\"}\n]\n```",
+      "extracted_answer": [
+        640.0,
+        251.0,
+        718.0,
+        283.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: insert an image",
+      "ground_truth": [
+        211,
+        274,
+        251,
+        310
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [310, 279, 334, 305], \"label\": \"insert an image\"}\n]\n```",
+      "extracted_answer": [
+        310.0,
+        279.0,
+        334.0,
+        305.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the updates",
+      "ground_truth": [
+        3,
+        845,
+        292,
+        911
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [68, 863, 124, 875], \"label\": \"check the updates\"}\n]\n```",
+      "extracted_answer": [
+        68.0,
+        863.0,
+        124.0,
+        875.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search in macos user guide",
+      "ground_truth": [
+        720,
+        3,
+        776,
+        82
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [731, 28, 754, 50], \"label\": \"search in macos user guide\"}\n]\n```",
+      "extracted_answer": [
+        731.0,
+        28.0,
+        754.0,
+        50.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_01c641cb-aa78-4bae-80ea-dda820dd00eb.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view paste option",
+      "ground_truth": [
+        109,
+        144,
+        160,
+        217
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [108, 154, 136, 179], \"label\": \"view paste option\"}\n]\n```",
+      "extracted_answer": [
+        108.0,
+        154.0,
+        136.0,
+        179.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7f0b3e40-e5f5-462b-96c3-e8a97a3a504b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the music library",
+      "ground_truth": [
+        2,
+        48,
+        321,
+        88
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [48, 63, 125, 79], \"label\": \"open the music library\"}\n]\n```",
+      "extracted_answer": [
+        48.0,
+        63.0,
+        125.0,
+        79.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_umvv32.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to NAT network connections",
+      "ground_truth": [
+        962,
+        740,
+        1477,
+        773
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [10, 438, 37, 495], \"label\": \"switch to NAT network connections\"}\n]\n```",
+      "extracted_answer": [
+        10.0,
+        438.0,
+        37.0,
+        495.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a new pen",
+      "ground_truth": [
+        645,
+        127,
+        739,
+        260
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [648, 150, 733, 239], \"label\": \"add a new pen\"}\n]\n```",
+      "extracted_answer": [
+        648.0,
+        150.0,
+        733.0,
+        239.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_79eaf625-93f5-42a4-977e-71aba5418ff4.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: go to the desktop",
+      "ground_truth": [
+        11,
+        120,
+        156,
+        142
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [10, 123, 65, 147], \"label\": \"go to the desktop\"}\n]\n```",
+      "extracted_answer": [
+        10.0,
+        123.0,
+        65.0,
+        147.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: create a new document",
+      "ground_truth": [
+        354,
+        809,
+        595,
+        858
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [378, 819, 514, 846], \"label\": \"create a new document\"}\n]\n```",
+      "extracted_answer": [
+        378.0,
+        819.0,
+        514.0,
+        846.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_07faaa86-6e6b-457b-9a51-9b30edff21da.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share the current page",
+      "ground_truth": [
+        916,
+        455,
+        960,
+        496
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [923, 418, 937, 430], \"label\": \"share the current page\"}\n]\n```",
+      "extracted_answer": [
+        923.0,
+        418.0,
+        937.0,
+        430.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open work mode ",
+      "ground_truth": [
+        470,
+        351,
+        1064,
+        417
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [501, 364, 624, 400], \"label\": \"open work mode \"}\n]\n```",
+      "extracted_answer": [
+        501.0,
+        364.0,
+        624.0,
+        400.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_9c3204c7-8a02-406a-8dee-5b363887258c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: back to the previous page",
+      "ground_truth": [
+        0,
+        21,
+        50,
+        60
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [18, 34, 36, 50], \"label\": \"back to the previous page\"}\n]\n```",
+      "extracted_answer": [
+        18.0,
+        34.0,
+        36.0,
+        50.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2b40c066-2f8f-4389-8df8-e70e8dfc1309.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: full-screen display",
+      "ground_truth": [
+        894,
+        0,
+        960,
+        64
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [0, 0, 951, 532], \"label\": \"full-screen display\"}\n]\n```",
+      "extracted_answer": [
+        0.0,
+        0.0,
+        951.0,
+        532.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_02a8e358-8282-498b-b82e-c0f2b1b8d26a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search for files on disk e:",
+      "ground_truth": [
+        614,
+        45,
+        959,
+        78
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [619, 53, 978, 74], \"label\": \"search for files on disk e:\"}\n]\n```",
+      "extracted_answer": [
+        619.0,
+        53.0,
+        978.0,
+        74.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a sunburst chart",
+      "ground_truth": [
+        879,
+        797,
+        1091,
+        1020
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [890, 764, 1058, 1030], \"label\": \"add a sunburst chart\"}\n]\n```",
+      "extracted_answer": [
+        890.0,
+        764.0,
+        1058.0,
+        1030.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_c7974702-d944-412f-83b2-61f92cf3c68c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share the file",
+      "ground_truth": [
+        872,
+        12,
+        960,
+        43
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [910, 20, 960, 34], \"label\": \"share the file\"}\n]\n```",
+      "extracted_answer": [
+        910.0,
+        20.0,
+        960.0,
+        34.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1f371830-d909-41ac-a340-921a594f05b0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: undo",
+      "ground_truth": [
+        2,
+        0,
+        34,
+        30
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [13, 10, 26, 22], \"label\": \"undo\"}\n]\n```",
+      "extracted_answer": [
+        13.0,
+        10.0,
+        26.0,
+        22.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_bc9ed2f6-79c1-4a35-bcb5-4760bf4ed57d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add this page to favourites",
+      "ground_truth": [
+        880,
+        6,
+        916,
+        37
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [897, 65, 916, 84], \"label\": \"add this page to favourites\"}\n]\n```",
+      "extracted_answer": [
+        897.0,
+        65.0,
+        916.0,
+        84.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_oyo43s.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: center the selected text",
+      "ground_truth": [
+        927,
+        130,
+        967,
+        162
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1584, 137, 1609, 157], \"label\": \"center the selected text\"}\n]\n```",
+      "extracted_answer": [
+        1584.0,
+        137.0,
+        1609.0,
+        157.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: use pencil tool",
+      "ground_truth": [
+        149,
+        62,
+        173,
+        93
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [179, 68, 195, 90], \"label\": \"use pencil tool\"}\n]\n```",
+      "extracted_answer": [
+        179.0,
+        68.0,
+        195.0,
+        90.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ac6779f8-a188-4633-bfcc-ab05ada6848c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: pin to taskbar",
+      "ground_truth": [
+        872,
+        40,
+        909,
+        72
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [794, 16, 805, 32], \"label\": \"pin to taskbar\"}\n]\n```",
+      "extracted_answer": [
+        794.0,
+        16.0,
+        805.0,
+        32.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f0122b91-3f8b-4510-9a6e-f0239d84b94e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: minimize calculator",
+      "ground_truth": [
+        697,
+        63,
+        731,
+        95
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [701, 69, 713, 84], \"label\": \"minimize calculator\"}\n]\n```",
+      "extracted_answer": [
+        701.0,
+        69.0,
+        713.0,
+        84.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: back to previous page",
+      "ground_truth": [
+        181,
+        20,
+        248,
+        83
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [208, 43, 226, 65], \"label\": \"back to previous page\"}\n]\n```",
+      "extracted_answer": [
+        208.0,
+        43.0,
+        226.0,
+        65.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_155fc26b-cddb-4a03-b636-322a45c054e6.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open settings",
+      "ground_truth": [
+        912,
+        8,
+        955,
+        51
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [915, 18, 937, 40], \"label\": \"open settings\"}\n]\n```",
+      "extracted_answer": [
+        915.0,
+        18.0,
+        937.0,
+        40.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_488287f0-9da5-4c6a-b236-109d3df56137.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: maximize window",
+      "ground_truth": [
+        875,
+        253,
+        916,
+        286
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [883, 257, 894, 271], \"label\": \"maximize window\"}\n]\n```",
+      "extracted_answer": [
+        883.0,
+        257.0,
+        894.0,
+        271.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open a blank document",
+      "ground_truth": [
+        307,
+        192,
+        533,
+        532
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [316, 204, 527, 480], \"label\": \"open a blank document\"}\n]\n```",
+      "extracted_answer": [
+        316.0,
+        204.0,
+        527.0,
+        480.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search in dictionary",
+      "ground_truth": [
+        836,
+        19,
+        1359,
+        85
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [859, 34, 1350, 76], \"label\": \"search in dictionary\"}\n]\n```",
+      "extracted_answer": [
+        859.0,
+        34.0,
+        1350.0,
+        76.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarge the font",
+      "ground_truth": [
+        746,
+        19,
+        808,
+        84
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [690, 38, 714, 65], \"label\": \"enlarge the font\"}\n]\n```",
+      "extracted_answer": [
+        690.0,
+        38.0,
+        714.0,
+        65.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to privacy",
+      "ground_truth": [
+        707,
+        245,
+        853,
+        291
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [740, 256, 819, 283], \"label\": \"switch to privacy\"}\n]\n```",
+      "extracted_answer": [
+        740.0,
+        256.0,
+        819.0,
+        283.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: change user's password",
+      "ground_truth": [
+        965,
+        226,
+        1248,
+        273
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [987, 234, 1156, 267], \"label\": \"change user's password\"}\n]\n```",
+      "extracted_answer": [
+        987.0,
+        234.0,
+        1156.0,
+        267.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: translation languages setting",
+      "ground_truth": [
+        335,
+        982,
+        673,
+        1025
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [341, 986, 657, 1021], \"label\": \"translation languages setting\"}\n]\n```",
+      "extracted_answer": [
+        341.0,
+        986.0,
+        657.0,
+        1021.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_471e7c2d-8c16-4626-9b8e-7e0fd79e3a32.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click to play the next track",
+      "ground_truth": [
+        181,
+        448,
+        212,
+        500
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [190, 458, 203, 476], \"label\": \"click to play the next track\"}\n]\n```",
+      "extracted_answer": [
+        190.0,
+        458.0,
+        203.0,
+        476.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f92a83db-cb5b-4295-af83-3606639056be.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: review option",
+      "ground_truth": [
+        273,
+        26,
+        340,
+        54
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [314, 30, 351, 46], \"label\": \"review option\"}\n]\n```",
+      "extracted_answer": [
+        314.0,
+        30.0,
+        351.0,
+        46.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open keyboard preferences",
+      "ground_truth": [
+        445,
+        360,
+        882,
+        421
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [486, 379, 840, 405], \"label\": \"open keyboard preferences\"}\n]\n```",
+      "extracted_answer": [
+        486.0,
+        379.0,
+        840.0,
+        405.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose ms pgothic for heading",
+      "ground_truth": [
+        205,
+        420,
+        1017,
+        475
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [258, 431, 906, 474], \"label\": \"choose ms pgothic for heading\"}\n]\n```",
+      "extracted_answer": [
+        258.0,
+        431.0,
+        906.0,
+        474.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_18a939a5-8f77-4519-9c7a-d62b11e7b878.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: input the email address",
+      "ground_truth": [
+        185,
+        253,
+        968,
+        337
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [194, 285, 527, 316], \"label\": \"input the email address\"}\n]\n```",
+      "extracted_answer": [
+        194.0,
+        285.0,
+        527.0,
+        316.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch on do not disturb mode",
+      "ground_truth": [
+        969,
+        105,
+        1241,
+        233
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [985, 136, 1024, 187], \"label\": \"switch on do not disturb mode\"}\n]\n```",
+      "extracted_answer": [
+        985.0,
+        136.0,
+        1024.0,
+        187.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share my location",
+      "ground_truth": [
+        33,
+        1563,
+        316,
+        1619
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [74, 1590, 308, 1611], \"label\": \"share my location\"}\n]\n```",
+      "extracted_answer": [
+        74.0,
+        1590.0,
+        308.0,
+        1611.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: undo",
+      "ground_truth": [
+        949,
+        29,
+        1008,
+        82
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [975, 38, 1004, 76], \"label\": \"undo\"}\n]\n```",
+      "extracted_answer": [
+        975.0,
+        38.0,
+        1004.0,
+        76.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_4c43fbd2-d84e-4bb4-8169-7a748530c1af.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose wechat",
+      "ground_truth": [
+        56,
+        393,
+        494,
+        510
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [59, 356, 180, 374], \"label\": \"choose wechat\"}\n]\n```",
+      "extracted_answer": [
+        59.0,
+        356.0,
+        180.0,
+        374.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b4d4f0c2-5f8e-409e-ac20-b1a2c7d6f440.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open Microsoft edge",
+      "ground_truth": [
+        2,
+        100,
+        80,
+        192
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [10, 107, 63, 184], \"label\": \"open Microsoft edge\"}\n]\n```",
+      "extracted_answer": [
+        10.0,
+        107.0,
+        63.0,
+        184.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_j6tmln.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: install LXD app",
+      "ground_truth": [
+        906,
+        181,
+        1015,
+        215
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [904, 185, 979, 213], \"label\": \"install LXD app\"}\n]\n```",
+      "extracted_answer": [
+        904.0,
+        185.0,
+        979.0,
+        213.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dyxzuj.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust mouse speed",
+      "ground_truth": [
+        1337,
+        275,
+        1643,
+        323
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1398, 294, 1657, 309], \"label\": \"adjust mouse speed\"}\n]\n```",
+      "extracted_answer": [
+        1398.0,
+        294.0,
+        1657.0,
+        309.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to 20 size font",
+      "ground_truth": [
+        407,
+        771,
+        534,
+        812
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [453, 786, 481, 809], \"label\": \"switch to 20 size font\"}\n]\n```",
+      "extracted_answer": [
+        453.0,
+        786.0,
+        481.0,
+        809.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the detail of uv index",
+      "ground_truth": [
+        185,
+        432,
+        371,
+        484
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [194, 436, 378, 465], \"label\": \"check the detail of uv index\"}\n]\n```",
+      "extracted_answer": [
+        194.0,
+        436.0,
+        378.0,
+        465.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_c0996a5a-3af1-487b-9060-7b1a6779e42f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: go to the homepage",
+      "ground_truth": [
+        59,
+        92,
+        380,
+        134
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [104, 103, 147, 118], \"label\": \"go to the homepage\"}\n]\n```",
+      "extracted_answer": [
+        104.0,
+        103.0,
+        147.0,
+        118.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open time machine",
+      "ground_truth": [
+        859,
+        952,
+        972,
+        1105
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [865, 964, 970, 1103], \"label\": \"open time machine\"}\n]\n```",
+      "extracted_answer": [
+        865.0,
+        964.0,
+        970.0,
+        1103.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose the red pen",
+      "ground_truth": [
+        352,
+        133,
+        437,
+        244
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [374, 139, 415, 240], \"label\": \"choose the red pen\"}\n]\n```",
+      "extracted_answer": [
+        374.0,
+        139.0,
+        415.0,
+        240.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_354a6cb2-3fe0-4cea-950c-d7f8e01fdf45.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the download page",
+      "ground_truth": [
+        843,
+        7,
+        891,
+        46
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [851, 17, 869, 34], \"label\": \"open the download page\"}\n]\n```",
+      "extracted_answer": [
+        851.0,
+        17.0,
+        869.0,
+        34.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8ed762cb-06dd-493f-b770-7e02298433f8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: turn on the mixed reality",
+      "ground_truth": [
+        732,
+        29,
+        787,
+        66
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [734, 39, 758, 56], \"label\": \"turn on the mixed reality\"}\n]\n```",
+      "extracted_answer": [
+        734.0,
+        39.0,
+        758.0,
+        56.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7e37689a-0657-4856-8adf-72a21ee640c9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check windows keyboard shortcuts",
+      "ground_truth": [
+        251,
+        163,
+        478,
+        413
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [294, 310, 428, 346], \"label\": \"check windows keyboard shortcuts\"}\n]\n```",
+      "extracted_answer": [
+        294.0,
+        310.0,
+        428.0,
+        346.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: show screen saver after",
+      "ground_truth": [
+        347,
+        209,
+        697,
+        250
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [410, 215, 637, 240], \"label\": \"show screen saver after\"}\n]\n```",
+      "extracted_answer": [
+        410.0,
+        215.0,
+        637.0,
+        240.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open mind2web folder",
+      "ground_truth": [
+        526,
+        274,
+        670,
+        437
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [539, 284, 661, 383], \"label\": \"open mind2web folder\"}\n]\n```",
+      "extracted_answer": [
+        539.0,
+        284.0,
+        661.0,
+        383.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_aa124117-8877-4805-9c69-0ce80e1afc71.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the playlists",
+      "ground_truth": [
+        0,
+        247,
+        318,
+        293
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [10, 248, 23, 276], \"label\": \"open the playlists\"}\n]\n```",
+      "extracted_answer": [
+        10.0,
+        248.0,
+        23.0,
+        276.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6dfaf0c7-a3e5-4e71-8431-5eeb9fb8e493.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: see more information",
+      "ground_truth": [
+        527,
+        243,
+        889,
+        279
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [534, 250, 596, 267], \"label\": \"see more information\"}\n]\n```",
+      "extracted_answer": [
+        534.0,
+        250.0,
+        596.0,
+        267.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_977de16a-870e-48f3-8a38-ec9e1efb9f77.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a language",
+      "ground_truth": [
+        555,
+        238,
+        716,
+        288
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [604, 241, 701, 258], \"label\": \"add a language\"}\n]\n```",
+      "extracted_answer": [
+        604.0,
+        241.0,
+        701.0,
+        258.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check battery usage history",
+      "ground_truth": [
+        2,
+        532,
+        304,
+        603
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [34, 540, 261, 573], \"label\": \"check battery usage history\"}\n]\n```",
+      "extracted_answer": [
+        34.0,
+        540.0,
+        261.0,
+        573.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_83462e63-b0cd-4921-9d19-8a534ed445c7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click the \"settings and more\" button",
+      "ground_truth": [
+        916,
+        13,
+        960,
+        52
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [814, 107, 836, 129], \"label\": \"click the \\\"settings and more\\\" button\"}\n]\n```",
+      "extracted_answer": [
+        814.0,
+        107.0,
+        836.0,
+        129.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open gallery",
+      "ground_truth": [
+        1,
+        100,
+        451,
+        164
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [40, 118, 170, 143], \"label\": \"open gallery\"}\n]\n```",
+      "extracted_answer": [
+        40.0,
+        118.0,
+        170.0,
+        143.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share this guide to someone",
+      "ground_truth": [
+        646,
+        3,
+        714,
+        78
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [635, 24, 658, 57], \"label\": \"share this guide to someone\"}\n]\n```",
+      "extracted_answer": [
+        635.0,
+        24.0,
+        658.0,
+        57.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b1f1df2a-6c3d-40f9-ac70-dea7925c85dc.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: set up onedrive",
+      "ground_truth": [
+        296,
+        157,
+        420,
+        194
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [301, 164, 411, 181], \"label\": \"set up onedrive\"}\n]\n```",
+      "extracted_answer": [
+        301.0,
+        164.0,
+        411.0,
+        181.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_56d9172e-1780-4fb7-8377-f9987b87508c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: delete the downloaded file",
+      "ground_truth": [
+        894,
+        126,
+        937,
+        178
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [843, 129, 857, 146], \"label\": \"delete the downloaded file\"}\n]\n```",
+      "extracted_answer": [
+        843.0,
+        129.0,
+        857.0,
+        146.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_4392332d-683f-4746-bbb2-e9287d9cdae0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: set the second photo as wallpaper",
+      "ground_truth": [
+        308,
+        203,
+        389,
+        287
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [308, 205, 386, 281], \"label\": \"set the second photo as wallpaper\"}\n]\n```",
+      "extracted_answer": [
+        308.0,
+        205.0,
+        386.0,
+        281.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_a2b172fe-7e11-4795-8424-c18d5b65a009.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: get help",
+      "ground_truth": [
+        503,
+        149,
+        600,
+        186
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [537, 160, 589, 174], \"label\": \"get help\"}\n]\n```",
+      "extracted_answer": [
+        537.0,
+        160.0,
+        589.0,
+        174.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check microphone",
+      "ground_truth": [
+        23,
+        96,
+        357,
+        150
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [104, 98, 153, 116], \"label\": \"check microphone\"}\n]\n```",
+      "extracted_answer": [
+        104.0,
+        98.0,
+        153.0,
+        116.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check junk emails",
+      "ground_truth": [
+        2,
+        917,
+        376,
+        980
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [51, 908, 154, 937], \"label\": \"check junk emails\"}\n]\n```",
+      "extracted_answer": [
+        51.0,
+        908.0,
+        154.0,
+        937.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_17904586-d58c-4f1d-8c1e-6a6697353b14.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: sign in",
+      "ground_truth": [
+        792,
+        13,
+        948,
+        78
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [786, 45, 861, 69], \"label\": \"sign in\"}\n]\n```",
+      "extracted_answer": [
+        786.0,
+        45.0,
+        861.0,
+        69.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the battery",
+      "ground_truth": [
+        635,
+        13,
+        713,
+        64
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [618, 24, 679, 53], \"label\": \"check the battery\"}\n]\n```",
+      "extracted_answer": [
+        618.0,
+        24.0,
+        679.0,
+        53.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ecf34119-ce66-4699-a169-60e5279a650f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to english",
+      "ground_truth": [
+        660,
+        401,
+        959,
+        465
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [667, 409, 701, 430], \"label\": \"switch to english\"},\n\t{\"bbox_2d\": [667, 472, 701, 489], \"label\": \"switch to english\"}\n]\n```",
+      "extracted_answer": [
+        667.0,
+        409.0,
+        701.0,
+        430.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_89fc8216-3292-418c-864f-edcce3c34dc5.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust volume in the music player",
+      "ground_truth": [
+        790,
+        444,
+        832,
+        483
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [763, 448, 785, 465], \"label\": \"adjust volume in the music player\"}\n]\n```",
+      "extracted_answer": [
+        763.0,
+        448.0,
+        785.0,
+        465.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search in files",
+      "ground_truth": [
+        1426,
+        14,
+        1506,
+        83
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1438, 36, 1495, 70], \"label\": \"search in files\"}\n]\n```",
+      "extracted_answer": [
+        1438.0,
+        36.0,
+        1495.0,
+        70.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search for account",
+      "ground_truth": [
+        985,
+        22,
+        1308,
+        80
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1045, 37, 1316, 68], \"label\": \"search for account\"}\n]\n```",
+      "extracted_answer": [
+        1045.0,
+        37.0,
+        1316.0,
+        68.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_09e2a811-2e5f-4cfc-9d6c-97acda34edf7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: gradient option",
+      "ground_truth": [
+        747,
+        302,
+        920,
+        328
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [740, 301, 915, 326], \"label\": \"gradient option\"}\n]\n```",
+      "extracted_answer": [
+        740.0,
+        301.0,
+        915.0,
+        326.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open fax option",
+      "ground_truth": [
+        319,
+        277,
+        560,
+        325
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [348, 285, 407, 319], \"label\": \"open fax option\"}\n]\n```",
+      "extracted_answer": [
+        348.0,
+        285.0,
+        407.0,
+        319.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to design",
+      "ground_truth": [
+        358,
+        65,
+        485,
+        126
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [374, 80, 461, 105], \"label\": \"switch to design\"}\n]\n```",
+      "extracted_answer": [
+        374.0,
+        80.0,
+        461.0,
+        105.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a send message action",
+      "ground_truth": [
+        1254,
+        628,
+        1745,
+        686
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1246, 645, 1733, 689], \"label\": \"add a send message action\"}\n]\n```",
+      "extracted_answer": [
+        1246.0,
+        645.0,
+        1733.0,
+        689.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check my apple id",
+      "ground_truth": [
+        1025,
+        141,
+        1129,
+        268
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1045, 148, 1123, 246], \"label\": \"check my apple id\"}\n]\n```",
+      "extracted_answer": [
+        1045.0,
+        148.0,
+        1123.0,
+        246.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open d1_one",
+      "ground_truth": [
+        886,
+        175,
+        1033,
+        384
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [840, 193, 1005, 306], \"label\": \"open d1_one\"}\n]\n```",
+      "extracted_answer": [
+        840.0,
+        193.0,
+        1005.0,
+        306.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the game for me",
+      "ground_truth": [
+        370,
+        509,
+        502,
+        543
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [691, 530, 748, 543], \"label\": \"view the game for me\"}\n]\n```",
+      "extracted_answer": [
+        691.0,
+        530.0,
+        748.0,
+        543.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_d6b09201-c944-4ad9-a0a2-ff78e8f056ce.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the help menu",
+      "ground_truth": [
+        1,
+        434,
+        68,
+        500
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [19, 437, 58, 476], \"label\": \"open the help menu\"}\n]\n```",
+      "extracted_answer": [
+        19.0,
+        437.0,
+        58.0,
+        476.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: lock the memo",
+      "ground_truth": [
+        918,
+        9,
+        1013,
+        90
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [938, 36, 995, 71], \"label\": \"lock the memo\"}\n]\n```",
+      "extracted_answer": [
+        938.0,
+        36.0,
+        995.0,
+        71.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6a8d5384-ca12-4ae2-b14c-4c9dc08d4896.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: input a url",
+      "ground_truth": [
+        97,
+        33,
+        1648,
+        68
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [130, 42, 1568, 79], \"label\": \"input a url\"}\n]\n```",
+      "extracted_answer": [
+        130.0,
+        42.0,
+        1568.0,
+        79.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6dfa677c-7772-46fb-8c83-14a33b0806b4.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search for software ",
+      "ground_truth": [
+        316,
+        0,
+        917,
+        38
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [321, 9, 908, 34], \"label\": \"search for software \"}\n]\n```",
+      "extracted_answer": [
+        321.0,
+        9.0,
+        908.0,
+        34.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to apps",
+      "ground_truth": [
+        1496,
+        204,
+        1753,
+        248
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1584, 209, 1743, 246], \"label\": \"switch to apps\"}\n]\n```",
+      "extracted_answer": [
+        1584.0,
+        209.0,
+        1743.0,
+        246.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to sounds",
+      "ground_truth": [
+        125,
+        40,
+        166,
+        57
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [178, 36, 240, 52], \"label\": \"switch to sounds\"}\n]\n```",
+      "extracted_answer": [
+        178.0,
+        36.0,
+        240.0,
+        52.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch on do not disturb mode",
+      "ground_truth": [
+        529,
+        267,
+        620,
+        339
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [518, 286, 560, 324], \"label\": \"switch on do not disturb mode\"}\n]\n```",
+      "extracted_answer": [
+        518.0,
+        286.0,
+        560.0,
+        324.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check app limits",
+      "ground_truth": [
+        1,
+        766,
+        397,
+        833
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [34, 785, 219, 820], \"label\": \"check app limits\"}\n]\n```",
+      "extracted_answer": [
+        34.0,
+        785.0,
+        219.0,
+        820.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_25eca08c-57eb-45b0-8c0b-79ccec8400ff.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: minimize the window.",
+      "ground_truth": [
+        901,
+        0,
+        934,
+        22
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [931, 6, 940, 17], \"label\": \"minimize the window.\"}\n]\n```",
+      "extracted_answer": [
+        931.0,
+        6.0,
+        940.0,
+        17.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: use the screen mirroring",
+      "ground_truth": [
+        457,
+        165,
+        582,
+        292
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [467, 168, 590, 283], \"label\": \"use the screen mirroring\"}\n]\n```",
+      "extracted_answer": [
+        467.0,
+        168.0,
+        590.0,
+        283.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: save file",
+      "ground_truth": [
+        438,
+        2,
+        499,
+        63
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [738, 1450, 791, 1466], \"label\": \"save file\"}\n]\n```",
+      "extracted_answer": [
+        738.0,
+        1450.0,
+        791.0,
+        1466.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_05f0185e-a291-4e4c-a777-ffb2c46037c6.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust light rotation",
+      "ground_truth": [
+        390,
+        183,
+        694,
+        431
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [398, 194, 670, 215], \"label\": \"adjust light rotation\"}\n]\n```",
+      "extracted_answer": [
+        398.0,
+        194.0,
+        670.0,
+        215.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: back to previous folder",
+      "ground_truth": [
+        355,
+        39,
+        415,
+        84
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [370, 48, 396, 75], \"label\": \"back to previous folder\"}\n]\n```",
+      "extracted_answer": [
+        370.0,
+        48.0,
+        396.0,
+        75.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_zuyj00.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust the options of  \"show previous\"",
+      "ground_truth": [
+        1744,
+        281,
+        2002,
+        334
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1763, 294, 1985, 320], \"label\": \"adjust the options of  \\\"show previous\\\"\"}\n]\n```",
+      "extracted_answer": [
+        1763.0,
+        294.0,
+        1985.0,
+        320.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open pycharm",
+      "ground_truth": [
+        1827,
+        99,
+        2078,
+        335
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1920, 123, 2115, 304], \"label\": \"open pycharm\"}\n]\n```",
+      "extracted_answer": [
+        1920.0,
+        123.0,
+        2115.0,
+        304.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_712496c8-6588-4b57-a89d-b17eaecc761b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open player settings",
+      "ground_truth": [
+        6,
+        470,
+        110,
+        511
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [14, 475, 30, 496], \"label\": \"open player settings\"}\n]\n```",
+      "extracted_answer": [
+        14.0,
+        475.0,
+        30.0,
+        496.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: turn off the computer",
+      "ground_truth": [
+        1,
+        593,
+        40,
+        634
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [15, 614, 30, 637], \"label\": \"turn off the computer\"}\n]\n```",
+      "extracted_answer": [
+        15.0,
+        614.0,
+        30.0,
+        637.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: see full forecast",
+      "ground_truth": [
+        624,
+        263,
+        753,
+        291
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [631, 265, 748, 280], \"label\": \"see full forecast\"}\n]\n```",
+      "extracted_answer": [
+        631.0,
+        265.0,
+        748.0,
+        280.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: my account",
+      "ground_truth": [
+        29,
+        109,
+        147,
+        236
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [78, 149, 130, 195], \"label\": \"my account\"}\n]\n```",
+      "extracted_answer": [
+        78.0,
+        149.0,
+        130.0,
+        195.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the first email from researchgate",
+      "ground_truth": [
+        376,
+        103,
+        939,
+        260
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [418, 109, 915, 306], \"label\": \"open the first email from researchgate\"}\n]\n```",
+      "extracted_answer": [
+        418.0,
+        109.0,
+        915.0,
+        306.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: disable \"allow notifications\" setting",
+      "ground_truth": [
+        585,
+        329,
+        681,
+        394
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [570, 341, 648, 382], \"label\": \"disable \\\"allow notifications\\\" setting\"}\n]\n```",
+      "extracted_answer": [
+        570.0,
+        341.0,
+        648.0,
+        382.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: run the shortcut",
+      "ground_truth": [
+        1144,
+        16,
+        1210,
+        87
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1189, 37, 1214, 65], \"label\": \"run the shortcut\"}\n]\n```",
+      "extracted_answer": [
+        1189.0,
+        37.0,
+        1214.0,
+        65.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: hide menu icon",
+      "ground_truth": [
+        473,
+        190,
+        725,
+        242
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [608, 231, 794, 254], \"label\": \"hide menu icon\"}\n]\n```",
+      "extracted_answer": [
+        608.0,
+        231.0,
+        794.0,
+        254.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the image in memo",
+      "ground_truth": [
+        42,
+        567,
+        1225,
+        1303
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [0, 0, 1260, 1316], \"label\": \"open the image in memo\"}\n]\n```",
+      "extracted_answer": [
+        0.0,
+        0.0,
+        1260.0,
+        1316.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open wechat",
+      "ground_truth": [
+        180,
+        3,
+        272,
+        72
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [207, 21, 248, 53], \"label\": \"open wechat\"}\n]\n```",
+      "extracted_answer": [
+        207.0,
+        21.0,
+        248.0,
+        53.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to device",
+      "ground_truth": [
+        198,
+        104,
+        385,
+        149
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [269, 108, 345, 140], \"label\": \"switch to device\"}\n]\n```",
+      "extracted_answer": [
+        269.0,
+        108.0,
+        345.0,
+        140.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust keyboard brightness",
+      "ground_truth": [
+        969,
+        250,
+        1098,
+        376
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [961, 253, 1084, 360], \"label\": \"adjust keyboard brightness\"}\n]\n```",
+      "extracted_answer": [
+        961.0,
+        253.0,
+        1084.0,
+        360.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_17bc1fc0-a71c-453d-a431-5ebcddeff38f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add the subtitle",
+      "ground_truth": [
+        560,
+        603,
+        1655,
+        806
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [958, 617, 1270, 654], \"label\": \"add the subtitle\"}\n]\n```",
+      "extracted_answer": [
+        958.0,
+        617.0,
+        1270.0,
+        654.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_vcud9k.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: insert a new slide",
+      "ground_truth": [
+        269,
+        127,
+        382,
+        259
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [314, 86, 359, 113], \"label\": \"insert a new slide\"}\n]\n```",
+      "extracted_answer": [
+        314.0,
+        86.0,
+        359.0,
+        113.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to documents",
+      "ground_truth": [
+        112,
+        2,
+        196,
+        44
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [120, 18, 187, 31], \"label\": \"switch to documents\"}\n]\n```",
+      "extracted_answer": [
+        120.0,
+        18.0,
+        187.0,
+        31.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: rotate left",
+      "ground_truth": [
+        962,
+        544,
+        1001,
+        588
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1003, 536, 1070, 584], \"label\": \"rotate left\"}\n]\n```",
+      "extracted_answer": [
+        1003.0,
+        536.0,
+        1070.0,
+        584.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_61beef4d-1a93-47b3-8aff-ba0f7774cb43.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: fill in red",
+      "ground_truth": [
+        605,
+        261,
+        622,
+        278
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [534, 138, 550, 156], \"label\": \"fill in red\"}\n]\n```",
+      "extracted_answer": [
+        534.0,
+        138.0,
+        550.0,
+        156.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a screenshot",
+      "ground_truth": [
+        580,
+        258,
+        703,
+        370
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [598, 263, 687, 361], \"label\": \"add a screenshot\"}\n]\n```",
+      "extracted_answer": [
+        598.0,
+        263.0,
+        687.0,
+        361.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_a8b0f843-7aaf-4369-ac2b-a121f1ccb024.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open settings",
+      "ground_truth": [
+        1,
+        30,
+        42,
+        69
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [16, 40, 32, 57], \"label\": \"open settings\"}\n]\n```",
+      "extracted_answer": [
+        16.0,
+        40.0,
+        32.0,
+        57.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click to choose shapes",
+      "ground_truth": [
+        283,
+        60,
+        325,
+        127
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [318, 56, 379, 140], \"label\": \"click to choose shapes\"}\n]\n```",
+      "extracted_answer": [
+        318.0,
+        56.0,
+        379.0,
+        140.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_45c2712a-337d-4b6b-a47b-37ca4d5bdddd.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the sleep mode",
+      "ground_truth": [
+        0,
+        354,
+        260,
+        396
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [10, 364, 257, 389], \"label\": \"open the sleep mode\"}\n]\n```",
+      "extracted_answer": [
+        10.0,
+        364.0,
+        257.0,
+        389.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_870d6da1-bc85-4e74-a1bd-ef6f975c2146.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the date and time menu",
+      "ground_truth": [
+        855,
+        495,
+        931,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [813, 456, 907, 498], \"label\": \"check the date and time menu\"}\n]\n```",
+      "extracted_answer": [
+        813.0,
+        456.0,
+        907.0,
+        498.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: next page",
+      "ground_truth": [
+        1917,
+        877,
+        1996,
+        1020
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1938, 900, 1995, 960], \"label\": \"next page\"}\n]\n```",
+      "extracted_answer": [
+        1938.0,
+        900.0,
+        1995.0,
+        960.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: jump to the spot that's clicked",
+      "ground_truth": [
+        502,
+        794,
+        925,
+        835
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [510, 806, 837, 834], \"label\": \"jump to the spot that's clicked\"}\n]\n```",
+      "extracted_answer": [
+        510.0,
+        806.0,
+        837.0,
+        834.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ad16765f-de52-4903-b406-fb5213b94db9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: network and internet settings",
+      "ground_truth": [
+        924,
+        496,
+        957,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [930, 501, 947, 526], \"label\": \"network and internet settings\"}\n]\n```",
+      "extracted_answer": [
+        930.0,
+        501.0,
+        947.0,
+        526.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5165f0b8-ea19-448e-bcfc-66de25666bb9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the menu",
+      "ground_truth": [
+        0,
+        26,
+        64,
+        91
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [14, 30, 65, 89], \"label\": \"open the menu\"}\n]\n```",
+      "extracted_answer": [
+        14.0,
+        30.0,
+        65.0,
+        89.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6f580940-6536-452e-9310-f9ebb87879eb.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: edit with paint 3d",
+      "ground_truth": [
+        613,
+        52,
+        686,
+        138
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [631, 65, 678, 124], \"label\": \"edit with paint 3d\"}\n]\n```",
+      "extracted_answer": [
+        631.0,
+        65.0,
+        678.0,
+        124.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to alerts mode",
+      "ground_truth": [
+        1024,
+        444,
+        1236,
+        630
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1098, 463, 1227, 578], \"label\": \"switch to alerts mode\"}\n]\n```",
+      "extracted_answer": [
+        1098.0,
+        463.0,
+        1227.0,
+        578.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cancel showing plots in tool windows",
+      "ground_truth": [
+        519,
+        139,
+        919,
+        207
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1310, 1345, 1426, 1373], \"label\": \"cancel showing plots in tool windows\"}\n]\n```",
+      "extracted_answer": [
+        1310.0,
+        1345.0,
+        1426.0,
+        1373.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ac2d2c5e-fe5a-4233-95b4-2de18ef76a9e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust the style",
+      "ground_truth": [
+        635,
+        360,
+        677,
+        423
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [637, 358, 660, 401], \"label\": \"adjust the style\"}\n]\n```",
+      "extracted_answer": [
+        637.0,
+        358.0,
+        660.0,
+        401.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust orientation",
+      "ground_truth": [
+        221,
+        131,
+        347,
+        251
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [230, 185, 340, 206], \"label\": \"adjust orientation\"}\n]\n```",
+      "extracted_answer": [
+        230.0,
+        185.0,
+        340.0,
+        206.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5a8a71e4-4c80-4b17-b724-a6b6d48a339f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check weather forecast",
+      "ground_truth": [
+        610,
+        499,
+        733,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [615, 498, 703, 527], \"label\": \"check weather forecast\"}\n]\n```",
+      "extracted_answer": [
+        615.0,
+        498.0,
+        703.0,
+        527.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the properties",
+      "ground_truth": [
+        347,
+        396,
+        540,
+        426
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [413, 398, 476, 415], \"label\": \"check the properties\"}\n]\n```",
+      "extracted_answer": [
+        413.0,
+        398.0,
+        476.0,
+        415.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: go to music app",
+      "ground_truth": [
+        683,
+        683,
+        1241,
+        808
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [795, 730, 864, 751], \"label\": \"go to music app\"}\n]\n```",
+      "extracted_answer": [
+        795.0,
+        730.0,
+        864.0,
+        751.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select input method",
+      "ground_truth": [
+        328,
+        1,
+        403,
+        67
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [641, 19, 670, 53], \"label\": \"select input method\"}\n]\n```",
+      "extracted_answer": [
+        641.0,
+        19.0,
+        670.0,
+        53.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_krzgko.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add current webpage to favourites",
+      "ground_truth": [
+        2262,
+        78,
+        2292,
+        106
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [2316, 54, 2337, 75], \"label\": \"add current webpage to favourites\"}\n]\n```",
+      "extracted_answer": [
+        2316.0,
+        54.0,
+        2337.0,
+        75.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dfd488a9-d3c6-4e00-844a-6d56834a367e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: set the screenshot option",
+      "ground_truth": [
+        145,
+        12,
+        209,
+        102
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [157, 19, 204, 63], \"label\": \"set the screenshot option\"}\n]\n```",
+      "extracted_answer": [
+        157.0,
+        19.0,
+        204.0,
+        63.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_bb73a431-c05e-47a8-bd27-8c7cbc2f7f23.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the file sorting method",
+      "ground_truth": [
+        116,
+        22,
+        342,
+        50
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [143, 6, 337, 40], \"label\": \"view the file sorting method\"}\n]\n```",
+      "extracted_answer": [
+        143.0,
+        6.0,
+        337.0,
+        40.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: create the new service",
+      "ground_truth": [
+        905,
+        711,
+        1052,
+        759
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [879, 736, 1024, 780], \"label\": \"create the new service\"}\n]\n```",
+      "extracted_answer": [
+        879.0,
+        736.0,
+        1024.0,
+        780.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_4ba904da-bd51-42ea-a96f-c5681c630058.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check hourly weather",
+      "ground_truth": [
+        232,
+        417,
+        320,
+        459
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [250, 423, 296, 441], \"label\": \"check hourly weather\"}\n]\n```",
+      "extracted_answer": [
+        250.0,
+        423.0,
+        296.0,
+        441.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: report a problem",
+      "ground_truth": [
+        346,
+        268,
+        473,
+        398
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [384, 340, 439, 356], \"label\": \"report a problem\"}\n]\n```",
+      "extracted_answer": [
+        384.0,
+        340.0,
+        439.0,
+        356.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search in activity monitor",
+      "ground_truth": [
+        1381,
+        17,
+        1467,
+        94
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1416, 37, 1445, 68], \"label\": \"search in activity monitor\"}\n]\n```",
+      "extracted_answer": [
+        1416.0,
+        37.0,
+        1445.0,
+        68.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: software update",
+      "ground_truth": [
+        39,
+        761,
+        150,
+        925
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [43, 780, 145, 896], \"label\": \"software update\"}\n]\n```",
+      "extracted_answer": [
+        43.0,
+        780.0,
+        145.0,
+        896.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_733fbb76-a188-4804-a2c6-788acf844d7c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: back to previous page",
+      "ground_truth": [
+        105,
+        47,
+        147,
+        80
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [119, 56, 137, 70], \"label\": \"back to previous page\"}\n]\n```",
+      "extracted_answer": [
+        119.0,
+        56.0,
+        137.0,
+        70.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select the interface in the bar",
+      "ground_truth": [
+        531,
+        569,
+        1047,
+        610
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [326, 509, 814, 547], \"label\": \"select the interface in the bar\"}\n]\n```",
+      "extracted_answer": [
+        326.0,
+        509.0,
+        814.0,
+        547.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_14fd6f5f-37d5-4b22-953e-626e11044f3e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Add a new shortcut to the toolbar",
+      "ground_truth": [
+        918,
+        336,
+        959,
+        382
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [924, 346, 937, 361], \"label\": \"Add a new shortcut to the toolbar\"}\n]\n```",
+      "extracted_answer": [
+        924.0,
+        346.0,
+        937.0,
+        361.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: log in using google account",
+      "ground_truth": [
+        6,
+        157,
+        435,
+        214
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [18, 179, 364, 209], \"label\": \"log in using google account\"}\n]\n```",
+      "extracted_answer": [
+        18.0,
+        179.0,
+        364.0,
+        209.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f317f992-32e1-4470-ab0b-31910a70bcd4.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add the title",
+      "ground_truth": [
+        561,
+        308,
+        1654,
+        597
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [809, 504, 1423, 586], \"label\": \"add the title\"}\n]\n```",
+      "extracted_answer": [
+        809.0,
+        504.0,
+        1423.0,
+        586.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the get organized tips",
+      "ground_truth": [
+        1099,
+        520,
+        1303,
+        747
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1095, 510, 1318, 760], \"label\": \"view the get organized tips\"}\n]\n```",
+      "extracted_answer": [
+        1095.0,
+        510.0,
+        1318.0,
+        760.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search in app store",
+      "ground_truth": [
+        18,
+        104,
+        423,
+        161
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [43, 115, 418, 160], \"label\": \"search in app store\"}\n]\n```",
+      "extracted_answer": [
+        43.0,
+        115.0,
+        418.0,
+        160.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ede36f9b-1154-4f76-b7f8-c15d7d3f9b6e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: close this window",
+      "ground_truth": [
+        910,
+        78,
+        954,
+        112
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [938, 84, 951, 100], \"label\": \"close this window\"}\n]\n```",
+      "extracted_answer": [
+        938.0,
+        84.0,
+        951.0,
+        100.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: debug",
+      "ground_truth": [
+        1511,
+        55,
+        1569,
+        113
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1978, 1530, 2014, 1546], \"label\": \"debug\"}\n]\n```",
+      "extracted_answer": [
+        1978.0,
+        1530.0,
+        2014.0,
+        1546.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: remove a network connected device",
+      "ground_truth": [
+        88,
+        1091,
+        141,
+        1142
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1034, 257, 1216, 290], \"label\": \"remove a network connected device\"}\n]\n```",
+      "extracted_answer": [
+        1034.0,
+        257.0,
+        1216.0,
+        290.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_o4nd16.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select all folders",
+      "ground_truth": [
+        707,
+        644,
+        896,
+        674
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [657, 618, 740, 669], \"label\": \"select all folders\"}\n]\n```",
+      "extracted_answer": [
+        657.0,
+        618.0,
+        740.0,
+        669.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ec8508be-641d-492a-bccc-a8279ae5bf9b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the shape option",
+      "ground_truth": [
+        78,
+        29,
+        125,
+        120
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [116, 34, 145, 70], \"label\": \"check the shape option\"}\n]\n```",
+      "extracted_answer": [
+        116.0,
+        34.0,
+        145.0,
+        70.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the file",
+      "ground_truth": [
+        1411,
+        804,
+        1563,
+        869
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1438, 816, 1557, 850], \"label\": \"open the file\"}\n]\n```",
+      "extracted_answer": [
+        1438.0,
+        816.0,
+        1557.0,
+        850.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust the left indent",
+      "ground_truth": [
+        884,
+        175,
+        1045,
+        219
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [768, 184, 830, 209], \"label\": \"adjust the left indent\"}\n]\n```",
+      "extracted_answer": [
+        768.0,
+        184.0,
+        830.0,
+        209.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: back to previous page",
+      "ground_truth": [
+        172,
+        15,
+        242,
+        90
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [198, 40, 213, 65], \"label\": \"back to previous page\"}\n]\n```",
+      "extracted_answer": [
+        198.0,
+        40.0,
+        213.0,
+        65.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open business categories",
+      "ground_truth": [
+        504,
+        250,
+        963,
+        346
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [598, 276, 730, 318], \"label\": \"open business categories\"}\n]\n```",
+      "extracted_answer": [
+        598.0,
+        276.0,
+        730.0,
+        318.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: turn on \"user apple watch to unlock\"",
+      "ground_truth": [
+        203,
+        400,
+        892,
+        456
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [19, 408, 356, 447], \"label\": \"turn on \\\"user apple watch to unlock\\\"\"}\n]\n```",
+      "extracted_answer": [
+        19.0,
+        408.0,
+        356.0,
+        447.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: show emoji & symbols",
+      "ground_truth": [
+        444,
+        184,
+        881,
+        240
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [543, 206, 813, 230], \"label\": \"show emoji & symbols\"}\n]\n```",
+      "extracted_answer": [
+        543.0,
+        206.0,
+        813.0,
+        230.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_fa28755f-aee4-48f3-a484-02e670a6ff8f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: create a new file",
+      "ground_truth": [
+        537,
+        127,
+        816,
+        152
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [538, 140, 576, 159], \"label\": \"create a new file\"}\n]\n```",
+      "extracted_answer": [
+        538.0,
+        140.0,
+        576.0,
+        159.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open synapse folder",
+      "ground_truth": [
+        542,
+        390,
+        675,
+        561
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [543, 406, 641, 507], \"label\": \"open synapse folder\"}\n]\n```",
+      "extracted_answer": [
+        543.0,
+        406.0,
+        641.0,
+        507.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: turn wifi off",
+      "ground_truth": [
+        995,
+        254,
+        1217,
+        298
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1038, 257, 1214, 290], \"label\": \"turn wifi off\"}\n]\n```",
+      "extracted_answer": [
+        1038.0,
+        257.0,
+        1214.0,
+        290.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2c6dc6ea-fd6f-4cbb-9954-2d6a68610a48.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view solitaire daily challenges",
+      "ground_truth": [
+        1477,
+        450,
+        1661,
+        680
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1483, 456, 1670, 692], \"label\": \"view solitaire daily challenges\"}\n]\n```",
+      "extracted_answer": [
+        1483.0,
+        456.0,
+        1670.0,
+        692.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click get start",
+      "ground_truth": [
+        560,
+        555,
+        680,
+        585
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [581, 567, 649, 587], \"label\": \"click get start\"}\n]\n```",
+      "extracted_answer": [
+        581.0,
+        567.0,
+        649.0,
+        587.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_92e1062b-0d4a-4e14-8b25-b79e4b6c9b55.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search for settings",
+      "ground_truth": [
+        392,
+        50,
+        733,
+        86
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [391, 54, 728, 86], \"label\": \"search for settings\"}\n]\n```",
+      "extracted_answer": [
+        391.0,
+        54.0,
+        728.0,
+        86.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_c69e46cd-d2a9-4dbf-8d0a-4532b750a691.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: start record",
+      "ground_truth": [
+        185,
+        1132,
+        307,
+        1244
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [773, 658, 1094, 680], \"label\": \"start record\"}\n]\n```",
+      "extracted_answer": [
+        773.0,
+        658.0,
+        1094.0,
+        680.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: sign up for free",
+      "ground_truth": [
+        393,
+        1087,
+        766,
+        1148
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [469, 1103, 678, 1130], \"label\": \"sign up for free\"}\n]\n```",
+      "extracted_answer": [
+        469.0,
+        1103.0,
+        678.0,
+        1130.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: hidden all shortcut",
+      "ground_truth": [
+        179,
+        169,
+        775,
+        247
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [204, 183, 775, 236], \"label\": \"hidden all shortcut\"}\n]\n```",
+      "extracted_answer": [
+        204.0,
+        183.0,
+        775.0,
+        236.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5da8f8cd-8ba2-490a-86e0-5c82421a9bee.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click to open the file",
+      "ground_truth": [
+        322,
+        67,
+        601,
+        93
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [354, 71, 390, 86], \"label\": \"click to open the file\"}\n]\n```",
+      "extracted_answer": [
+        354.0,
+        71.0,
+        390.0,
+        86.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view plugins",
+      "ground_truth": [
+        0,
+        282,
+        467,
+        327
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [53, 289, 170, 316], \"label\": \"view plugins\"}\n]\n```",
+      "extracted_answer": [
+        53.0,
+        289.0,
+        170.0,
+        316.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the pixelmator app",
+      "ground_truth": [
+        517,
+        323,
+        1216,
+        466
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [526, 348, 1007, 449], \"label\": \"view the pixelmator app\"}\n]\n```",
+      "extracted_answer": [
+        526.0,
+        348.0,
+        1007.0,
+        449.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: give feedback",
+      "ground_truth": [
+        924,
+        292,
+        1079,
+        347
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [968, 307, 1056, 324], \"label\": \"give feedback\"}\n]\n```",
+      "extracted_answer": [
+        968.0,
+        307.0,
+        1056.0,
+        324.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_58d89b93-10e2-41fe-8b6d-3532fd3bb832.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view windows settings",
+      "ground_truth": [
+        0,
+        407,
+        50,
+        452
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [15, 413, 36, 437], \"label\": \"view windows settings\"}\n]\n```",
+      "extracted_answer": [
+        15.0,
+        413.0,
+        36.0,
+        437.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_qao1zc.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open nac client ",
+      "ground_truth": [
+        1610,
+        800,
+        1773,
+        963
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1650, 813, 1749, 902], \"label\": \"open nac client \"}\n]\n```",
+      "extracted_answer": [
+        1650.0,
+        813.0,
+        1749.0,
+        902.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open bluetooth preferences for me",
+      "ground_truth": [
+        14,
+        539,
+        489,
+        607
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [41, 568, 463, 597], \"label\": \"open bluetooth preferences for me\"}\n]\n```",
+      "extracted_answer": [
+        41.0,
+        568.0,
+        463.0,
+        597.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: sign in",
+      "ground_truth": [
+        393,
+        1173,
+        771,
+        1234
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [527, 1190, 618, 1214], \"label\": \"sign in\"}\n]\n```",
+      "extracted_answer": [
+        527.0,
+        1190.0,
+        618.0,
+        1214.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the language & region settings",
+      "ground_truth": [
+        1018,
+        368,
+        1139,
+        515
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1026, 374, 1140, 518], \"label\": \"view the language & region settings\"}\n]\n```",
+      "extracted_answer": [
+        1026.0,
+        374.0,
+        1140.0,
+        518.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_80ab83db-da70-4a1d-b10e-a438a59b2197.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Adjust screen timeout",
+      "ground_truth": [
+        299,
+        175,
+        481,
+        209
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [296, 148, 487, 165], \"label\": \"Adjust screen timeout\"}\n]\n```",
+      "extracted_answer": [
+        296.0,
+        148.0,
+        487.0,
+        165.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f01bc231-56c4-4aba-9dd4-fd6271be0f8e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: show the files in list",
+      "ground_truth": [
+        475,
+        248,
+        722,
+        296
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [518, 174, 690, 243], \"label\": \"show the files in list\"}\n]\n```",
+      "extracted_answer": [
+        518.0,
+        174.0,
+        690.0,
+        243.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_z7ydq8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view more information about bomber",
+      "ground_truth": [
+        1466,
+        644,
+        1613,
+        780
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1530, 647, 1638, 780], \"label\": \"view more information about bomber\"}\n]\n```",
+      "extracted_answer": [
+        1530.0,
+        647.0,
+        1638.0,
+        780.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: minimize the debug panel",
+      "ground_truth": [
+        2192,
+        779,
+        2258,
+        834
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [3145, 820, 3170, 856], \"label\": \"minimize the debug panel\"}\n]\n```",
+      "extracted_answer": [
+        3145.0,
+        820.0,
+        3170.0,
+        856.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dzpr8m.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: empty the trash",
+      "ground_truth": [
+        1475,
+        473,
+        1571,
+        508
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1560, 478, 1603, 502], \"label\": \"empty the trash\"}\n]\n```",
+      "extracted_answer": [
+        1560.0,
+        478.0,
+        1603.0,
+        502.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: use the select tool",
+      "ground_truth": [
+        63,
+        58,
+        106,
+        128
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [103, 64, 157, 98], \"label\": \"use the select tool\"}\n]\n```",
+      "extracted_answer": [
+        103.0,
+        64.0,
+        157.0,
+        98.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check advanced setup",
+      "ground_truth": [
+        9,
+        396,
+        444,
+        443
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [98, 417, 165, 436], \"label\": \"check advanced setup\"}\n]\n```",
+      "extracted_answer": [
+        98.0,
+        417.0,
+        165.0,
+        436.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_js1st2.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click to restart the computer",
+      "ground_truth": [
+        2279,
+        397,
+        2546,
+        428
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [2486, 403, 2510, 420], \"label\": \"click to restart the computer\"}\n]\n```",
+      "extracted_answer": [
+        2486.0,
+        403.0,
+        2510.0,
+        420.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e650b1a7-a1e4-4cb4-a2f0-a50f04ce9925.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click the search bar",
+      "ground_truth": [
+        0,
+        498,
+        348,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1, 503, 264, 532], \"label\": \"click the search bar\"}\n]\n```",
+      "extracted_answer": [
+        1.0,
+        503.0,
+        264.0,
+        532.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e18b4420-34da-4d60-889e-924a76fb5094.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the favourites",
+      "ground_truth": [
+        840,
+        11,
+        882,
+        48
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [819, 19, 837, 36], \"label\": \"open the favourites\"}\n]\n```",
+      "extracted_answer": [
+        819.0,
+        19.0,
+        837.0,
+        36.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: download fantastical from icloud",
+      "ground_truth": [
+        1795,
+        1229,
+        1897,
+        1328
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1816, 1267, 1865, 1300], \"label\": \"download fantastical from icloud\"}\n]\n```",
+      "extracted_answer": [
+        1816.0,
+        1267.0,
+        1865.0,
+        1300.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: unlock to make changes",
+      "ground_truth": [
+        25,
+        887,
+        120,
+        979
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [120, 936, 458, 957], \"label\": \"unlock to make changes\"}\n]\n```",
+      "extracted_answer": [
+        120.0,
+        936.0,
+        458.0,
+        957.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_79377abe-731c-4d3b-ab04-b332c4054b81.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: dismiss the account protection",
+      "ground_truth": [
+        412,
+        326,
+        484,
+        371
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [421, 338, 467, 350], \"label\": \"dismiss the account protection\"}\n]\n```",
+      "extracted_answer": [
+        421.0,
+        338.0,
+        467.0,
+        350.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: empty recycle bin",
+      "ground_truth": [
+        2,
+        57,
+        65,
+        128
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [40, 61, 73, 98], \"label\": \"empty recycle bin\"}\n]\n```",
+      "extracted_answer": [
+        40.0,
+        61.0,
+        73.0,
+        98.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: drag the slider to adjust volume",
+      "ground_truth": [
+        26,
+        453,
+        582,
+        579
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [51, 523, 498, 560], \"label\": \"drag the slider to adjust volume\"}\n]\n```",
+      "extracted_answer": [
+        51.0,
+        523.0,
+        498.0,
+        560.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: delete this email",
+      "ground_truth": [
+        1284,
+        0,
+        1374,
+        106
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1338, 34, 1375, 69], \"label\": \"delete this email\"}\n]\n```",
+      "extracted_answer": [
+        1338.0,
+        34.0,
+        1375.0,
+        69.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust the volume",
+      "ground_truth": [
+        6,
+        397,
+        255,
+        436
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [48, 409, 135, 426], \"label\": \"adjust the volume\"}\n]\n```",
+      "extracted_answer": [
+        48.0,
+        409.0,
+        135.0,
+        426.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: insert 3d shapes item",
+      "ground_truth": [
+        338,
+        29,
+        409,
+        83
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [358, 34, 401, 67], \"label\": \"insert 3d shapes item\"}\n]\n```",
+      "extracted_answer": [
+        358.0,
+        34.0,
+        401.0,
+        67.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: connect wifi",
+      "ground_truth": [
+        509,
+        1,
+        576,
+        65
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [530, 18, 564, 47], \"label\": \"connect wifi\"}\n]\n```",
+      "extracted_answer": [
+        530.0,
+        18.0,
+        564.0,
+        47.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_gtda7d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open google drive",
+      "ground_truth": [
+        2425,
+        403,
+        2509,
+        482
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [2465, 319, 2507, 388], \"label\": \"open google drive\"}\n]\n```",
+      "extracted_answer": [
+        2465.0,
+        319.0,
+        2507.0,
+        388.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check python interpreter",
+      "ground_truth": [
+        0,
+        424,
+        467,
+        472
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [103, 435, 316, 460], \"label\": \"check python interpreter\"}\n]\n```",
+      "extracted_answer": [
+        103.0,
+        435.0,
+        316.0,
+        460.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_04d51f86-b324-4eb6-82f5-c8cd6cb3e79c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: chech visibility",
+      "ground_truth": [
+        568,
+        256,
+        650,
+        307
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [574, 258, 631, 270], \"label\": \"chech visibility\"}\n]\n```",
+      "extracted_answer": [
+        574.0,
+        258.0,
+        631.0,
+        270.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: insert a shape",
+      "ground_truth": [
+        95,
+        256,
+        202,
+        370
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [109, 304, 185, 360], \"label\": \"insert a shape\"}\n]\n```",
+      "extracted_answer": [
+        109.0,
+        304.0,
+        185.0,
+        360.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click the \"back to previous page\" button",
+      "ground_truth": [
+        4,
+        3,
+        45,
+        33
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [19, 10, 34, 25], \"label\": \"click the \\\" back to previous page\\\" button\"}\n]\n```",
+      "extracted_answer": [
+        19.0,
+        10.0,
+        34.0,
+        25.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to desktop settings",
+      "ground_truth": [
+        492,
+        141,
+        640,
+        184
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [490, 145, 578, 176], \"label\": \"switch to desktop settings\"}\n]\n```",
+      "extracted_answer": [
+        490.0,
+        145.0,
+        578.0,
+        176.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add images",
+      "ground_truth": [
+        1013,
+        19,
+        1113,
+        91
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1023, 35, 1094, 76], \"label\": \"add images\"}\n]\n```",
+      "extracted_answer": [
+        1023.0,
+        35.0,
+        1094.0,
+        76.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view firewall",
+      "ground_truth": [
+        675,
+        154,
+        814,
+        200
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [698, 163, 784, 189], \"label\": \"view firewall\"}\n]\n```",
+      "extracted_answer": [
+        698.0,
+        163.0,
+        784.0,
+        189.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f6eng1.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: play dance pop station music",
+      "ground_truth": [
+        702,
+        857,
+        1039,
+        1192
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [698, 853, 1047, 1224], \"label\": \"play dance pop station music\"}\n]\n```",
+      "extracted_answer": [
+        698.0,
+        853.0,
+        1047.0,
+        1224.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the setting of protection of pc",
+      "ground_truth": [
+        615,
+        229,
+        836,
+        448
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [615, 224, 839, 470], \"label\": \"view the setting of protection of pc\"}\n]\n```",
+      "extracted_answer": [
+        615.0,
+        224.0,
+        839.0,
+        470.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to dark mode",
+      "ground_truth": [
+        672,
+        145,
+        814,
+        279
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [678, 150, 984, 273], \"label\": \"switch to dark mode\"}\n]\n```",
+      "extracted_answer": [
+        678.0,
+        150.0,
+        984.0,
+        273.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: get the bear markdown notes app",
+      "ground_truth": [
+        1054,
+        211,
+        1210,
+        292
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [527, 216, 1083, 304], \"label\": \"get the bear markdown notes app\"}\n]\n```",
+      "extracted_answer": [
+        527.0,
+        216.0,
+        1083.0,
+        304.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_a2300b43-a1e0-4da9-aed4-3543b507d9a3.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the 2023 app store awards",
+      "ground_truth": [
+        518,
+        231,
+        1203,
+        872
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [521, 316, 1128, 354], \"label\": \"view the 2023 app store awards\"}\n]\n```",
+      "extracted_answer": [
+        521.0,
+        316.0,
+        1128.0,
+        354.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the google chrome app",
+      "ground_truth": [
+        1,
+        360,
+        1476,
+        411
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [108, 367, 254, 409], \"label\": \"check the google chrome app\"}\n]\n```",
+      "extracted_answer": [
+        108.0,
+        367.0,
+        254.0,
+        409.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the always allowed apps",
+      "ground_truth": [
+        1,
+        896,
+        396,
+        958
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [36, 915, 278, 944], \"label\": \"view the always allowed apps\"}\n]\n```",
+      "extracted_answer": [
+        36.0,
+        915.0,
+        278.0,
+        944.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click \"select all\"",
+      "ground_truth": [
+        962,
+        235,
+        1060,
+        298
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [960, 243, 1040, 287], \"label\": \"click \\\"select all\\\"\"}\n]\n```",
+      "extracted_answer": [
+        960.0,
+        243.0,
+        1040.0,
+        287.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_9237faf6-9f95-4157-9d0b-aafa67f7b675.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share throught airdrop",
+      "ground_truth": [
+        1103,
+        87,
+        1333,
+        145
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1143, 108, 1275, 136], \"label\": \"share throught airdrop\"}\n]\n```",
+      "extracted_answer": [
+        1143.0,
+        108.0,
+        1275.0,
+        136.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view attachment",
+      "ground_truth": [
+        561,
+        693,
+        651,
+        745
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [60, 34, 95, 71], \"label\": \"view attachment\"}\n]\n```",
+      "extracted_answer": [
+        60.0,
+        34.0,
+        95.0,
+        71.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_942d98d0-92d0-49ab-bc98-49a700c1822b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check weather on tuesday",
+      "ground_truth": [
+        552,
+        37,
+        710,
+        153
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [568, 47, 690, 153], \"label\": \"check weather on tuesday\"}\n]\n```",
+      "extracted_answer": [
+        568.0,
+        47.0,
+        690.0,
+        153.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_p4xo8z.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a new input method",
+      "ground_truth": [
+        1132,
+        403,
+        1724,
+        457
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1425, 423, 1467, 440], \"label\": \"add a new input method\"}\n]\n```",
+      "extracted_answer": [
+        1425.0,
+        423.0,
+        1467.0,
+        440.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3a625c5d-db8a-41fb-b533-16a7c8a4f345.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: refresh the page",
+      "ground_truth": [
+        887,
+        20,
+        924,
+        56
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [891, 30, 914, 51], \"label\": \"refresh the page\"}\n]\n```",
+      "extracted_answer": [
+        891.0,
+        30.0,
+        914.0,
+        51.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_d077a08e-e927-4daa-aaf1-2f2385eefa04.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: play the \"spider solitaire\"",
+      "ground_truth": [
+        227,
+        188,
+        415,
+        423
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [253, 186, 410, 417], \"label\": \"play the \\\"spider solitaire\\\"\"}\n]\n```",
+      "extracted_answer": [
+        253.0,
+        186.0,
+        410.0,
+        417.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_ecde084e-e461-4c7c-9ddc-bccabc874747.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: learn more",
+      "ground_truth": [
+        30,
+        399,
+        138,
+        436
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [108, 405, 136, 419], \"label\": \"learn more\"}\n]\n```",
+      "extracted_answer": [
+        108.0,
+        405.0,
+        136.0,
+        419.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a device",
+      "ground_truth": [
+        37,
+        1092,
+        88,
+        1139
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [53, 1096, 74, 1128], \"label\": \"add a device\"}\n]\n```",
+      "extracted_answer": [
+        53.0,
+        1096.0,
+        74.0,
+        1128.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_db6b6fa2-11cc-4b06-88cb-22c180f07a3b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: save the file",
+      "ground_truth": [
+        9,
+        0,
+        44,
+        31
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [874, 10, 883, 20], \"label\": \"save the file\"}\n]\n```",
+      "extracted_answer": [
+        874.0,
+        10.0,
+        883.0,
+        20.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: turn on low power mode",
+      "ground_truth": [
+        351,
+        457,
+        1049,
+        556
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [358, 467, 629, 494], \"label\": \"turn on low power mode\"}\n]\n```",
+      "extracted_answer": [
+        358.0,
+        467.0,
+        629.0,
+        494.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_5b1e5fe2-e063-463f-ab56-2b09d17b88a5.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open Samsung Printer Center",
+      "ground_truth": [
+        154,
+        352,
+        254,
+        451
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [153, 346, 253, 447], \"label\": \"open Samsung Printer Center\"}\n]\n```",
+      "extracted_answer": [
+        153.0,
+        346.0,
+        253.0,
+        447.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8834317b-7d08-40f1-9036-40743aba5d70.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open local disk E",
+      "ground_truth": [
+        204,
+        205,
+        290,
+        289
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [198, 214, 257, 260], \"label\": \"open local disk E\"}\n]\n```",
+      "extracted_answer": [
+        198.0,
+        214.0,
+        257.0,
+        260.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose the ken burns as screen saver",
+      "ground_truth": [
+        99,
+        425,
+        277,
+        572
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [100, 425, 303, 536], \"label\": \"choose the ken burns as screen saver\"}\n]\n```",
+      "extracted_answer": [
+        100.0,
+        425.0,
+        303.0,
+        536.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_drcjo3.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: download microsoft word from cloud",
+      "ground_truth": [
+        2691,
+        1569,
+        2772,
+        1635
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [2709, 1546, 2758, 1613], \"label\": \"download microsoft word from cloud\"}\n]\n```",
+      "extracted_answer": [
+        2709.0,
+        1546.0,
+        2758.0,
+        1613.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a new one",
+      "ground_truth": [
+        2,
+        2,
+        32,
+        32
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [13, 6, 24, 25], \"label\": \"add a new one\"}\n]\n```",
+      "extracted_answer": [
+        13.0,
+        6.0,
+        24.0,
+        25.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_9eebe928-6d8a-4de5-8212-039d0282b082.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: rotate title box",
+      "ground_truth": [
+        1316,
+        553,
+        1385,
+        613
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [743, 569, 1948, 1170], \"label\": \"rotate title box\"}\n]\n```",
+      "extracted_answer": [
+        743.0,
+        569.0,
+        1948.0,
+        1170.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust font size",
+      "ground_truth": [
+        808,
+        19,
+        892,
+        91
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [819, 37, 860, 65], \"label\": \"adjust font size\"}\n]\n```",
+      "extracted_answer": [
+        819.0,
+        37.0,
+        860.0,
+        65.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share the word file",
+      "ground_truth": [
+        1554,
+        66,
+        1696,
+        123
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1596, 87, 1674, 107], \"label\": \"share the word file\"}\n]\n```",
+      "extracted_answer": [
+        1596.0,
+        87.0,
+        1674.0,
+        107.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_uuhwlx.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the calculator",
+      "ground_truth": [
+        1309,
+        526,
+        1423,
+        658
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1965, 537, 2084, 650], \"label\": \"open the calculator\"}\n]\n```",
+      "extracted_answer": [
+        1965.0,
+        537.0,
+        2084.0,
+        650.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b2579d6f-b494-47e3-872a-5e42a43f251a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust screen size",
+      "ground_truth": [
+        782,
+        394,
+        928,
+        424
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [784, 395, 801, 412], \"label\": \"adjust screen size\"}\n]\n```",
+      "extracted_answer": [
+        784.0,
+        395.0,
+        801.0,
+        412.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dd51aeab-7e2c-40aa-82e6-0f870e49e6ba.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add equation ",
+      "ground_truth": [
+        605,
+        15,
+        666,
+        108
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [618, 23, 645, 50], \"label\": \"add equation \"}\n]\n```",
+      "extracted_answer": [
+        618.0,
+        23.0,
+        645.0,
+        50.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: choose standard mode",
+      "ground_truth": [
+        2,
+        120,
+        249,
+        155
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [50, 130, 124, 146], \"label\": \"choose standard mode\"}\n]\n```",
+      "extracted_answer": [
+        50.0,
+        130.0,
+        124.0,
+        146.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_daa34642-1973-424e-a752-3b309fa6512b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check for two unread messages",
+      "ground_truth": [
+        907,
+        499,
+        957,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [904, 503, 916, 522], \"label\": \"check for two unread messages\"}\n]\n```",
+      "extracted_answer": [
+        904.0,
+        503.0,
+        916.0,
+        522.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check bluetooth",
+      "ground_truth": [
+        701,
+        211,
+        890,
+        274
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [698, 214, 875, 263], \"label\": \"check bluetooth\"}\n]\n```",
+      "extracted_answer": [
+        698.0,
+        214.0,
+        875.0,
+        263.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check the date and time",
+      "ground_truth": [
+        837,
+        2,
+        1114,
+        59
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [849, 17, 1093, 45], \"label\": \"check the date and time\"}\n]\n```",
+      "extracted_answer": [
+        849.0,
+        17.0,
+        1093.0,
+        45.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_986f4ae9-9dd8-4c5c-b3d8-fb3fb5557d17.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: multiplicate",
+      "ground_truth": [
+        145,
+        13,
+        226,
+        69
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [176, 30, 194, 50], \"label\": \"multiplicate\"}\n]\n```",
+      "extracted_answer": [
+        176.0,
+        30.0,
+        194.0,
+        50.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: zoom in",
+      "ground_truth": [
+        1846,
+        1556,
+        1891,
+        1611
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1854, 1583, 1876, 1609], \"label\": \"zoom in\"}\n]\n```",
+      "extracted_answer": [
+        1854.0,
+        1583.0,
+        1876.0,
+        1609.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search in emails",
+      "ground_truth": [
+        872,
+        0,
+        970,
+        106
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [908, 35, 941, 67], \"label\": \"search in emails\"}\n]\n```",
+      "extracted_answer": [
+        908.0,
+        35.0,
+        941.0,
+        67.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8g2jf6.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust font color",
+      "ground_truth": [
+        797,
+        128,
+        847,
+        165
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [165, 134, 190, 157], \"label\": \"adjust font color\"}\n]\n```",
+      "extracted_answer": [
+        165.0,
+        134.0,
+        190.0,
+        157.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: detail information",
+      "ground_truth": [
+        640,
+        17,
+        710,
+        87
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [186, 1085, 1324, 1259], \"label\": \"detail information\"}\n]\n```",
+      "extracted_answer": [
+        186.0,
+        1085.0,
+        1324.0,
+        1259.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_4cb20510-1be3-4ef8-ac47-2b49f4463555.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the menu of windows",
+      "ground_truth": [
+        0,
+        498,
+        48,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [0, 501, 34, 532], \"label\": \"open the menu of windows\"}\n]\n```",
+      "extracted_answer": [
+        0.0,
+        501.0,
+        34.0,
+        532.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_nuyjna.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Add a wired connection device",
+      "ground_truth": [
+        1554,
+        391,
+        1602,
+        421
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [198, 304, 256, 317], \"label\": \"Add a wired connection device\"}\n]\n```",
+      "extracted_answer": [
+        198.0,
+        304.0,
+        256.0,
+        317.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: pause the debugger",
+      "ground_truth": [
+        38,
+        1009,
+        98,
+        1058
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [104, 1008, 137, 1056], \"label\": \"pause the debugger\"}\n]\n```",
+      "extracted_answer": [
+        104.0,
+        1008.0,
+        137.0,
+        1056.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view in youtube",
+      "ground_truth": [
+        515,
+        864,
+        581,
+        920
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [521, 860, 573, 904], \"label\": \"view in youtube\"}\n]\n```",
+      "extracted_answer": [
+        521.0,
+        860.0,
+        573.0,
+        904.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: switch to home",
+      "ground_truth": [
+        4,
+        54,
+        302,
+        91
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [16, 65, 84, 79], \"label\": \"switch to home\"}\n]\n```",
+      "extracted_answer": [
+        16.0,
+        65.0,
+        84.0,
+        79.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_bd6711e1-ddc1-4873-8cf1-19654285f4ea.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the personal account",
+      "ground_truth": [
+        0,
+        0,
+        40,
+        32
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [24, 0, 36, 15], \"label\": \"view the personal account\"}\n]\n```",
+      "extracted_answer": [
+        24.0,
+        0.0,
+        36.0,
+        15.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_eb0b756c-e471-40eb-bfaa-06b432094ac6.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open account protection",
+      "ground_truth": [
+        0,
+        105,
+        317,
+        145
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [610, 197, 774, 268], \"label\": \"open account protection\"}\n]\n```",
+      "extracted_answer": [
+        610.0,
+        197.0,
+        774.0,
+        268.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_2d42ba96-b43d-4f3f-81c1-80c8c107ca1c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search for files",
+      "ground_truth": [
+        8,
+        33,
+        297,
+        67
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [38, 40, 265, 61], \"label\": \"search for files\"}\n]\n```",
+      "extracted_answer": [
+        38.0,
+        40.0,
+        265.0,
+        61.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: zoom out",
+      "ground_truth": [
+        1800,
+        1558,
+        1844,
+        1610
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1826, 1584, 1850, 1607], \"label\": \"zoom out\"}\n]\n```",
+      "extracted_answer": [
+        1826.0,
+        1584.0,
+        1850.0,
+        1607.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: restore all items",
+      "ground_truth": [
+        138,
+        59,
+        187,
+        128
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [180, 75, 234, 96], \"label\": \"restore all items\"}\n]\n```",
+      "extracted_answer": [
+        180.0,
+        75.0,
+        234.0,
+        96.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select python interpreter",
+      "ground_truth": [
+        748,
+        158,
+        1705,
+        209
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [103, 456, 278, 490], \"label\": \"select python interpreter\"}\n]\n```",
+      "extracted_answer": [
+        103.0,
+        456.0,
+        278.0,
+        490.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_0c634288-11b9-498f-8fb6-582e26ea17c9.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: start playback",
+      "ground_truth": [
+        165,
+        467,
+        218,
+        519
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [180, 473, 210, 500], \"label\": \"start playback\"}\n]\n```",
+      "extracted_answer": [
+        180.0,
+        473.0,
+        210.0,
+        500.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: turn off airdrop",
+      "ground_truth": [
+        958,
+        98,
+        1040,
+        154
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [958, 107, 1030, 146], \"label\": \"turn off airdrop\"}\n]\n```",
+      "extracted_answer": [
+        958.0,
+        107.0,
+        1030.0,
+        146.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_445877f4-ba58-468b-97b6-e770b1a9f02a.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the file",
+      "ground_truth": [
+        77,
+        0,
+        359,
+        28
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [103, 24, 156, 47], \"label\": \"open the file\"}\n]\n```",
+      "extracted_answer": [
+        103.0,
+        24.0,
+        156.0,
+        47.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: bullets and numbering settings",
+      "ground_truth": [
+        1197,
+        572,
+        2098,
+        636
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1250, 589, 1603, 624], \"label\": \"bullets and numbering settings\"}\n]\n```",
+      "extracted_answer": [
+        1250.0,
+        589.0,
+        1603.0,
+        624.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a recipient",
+      "ground_truth": [
+        1025,
+        106,
+        1103,
+        162
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1045, 123, 1067, 148], \"label\": \"add a recipient\"}\n]\n```",
+      "extracted_answer": [
+        1045.0,
+        123.0,
+        1067.0,
+        148.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_133ac2cd-3eb3-4d45-be35-255a83831f97.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search for local files",
+      "ground_truth": [
+        607,
+        8,
+        956,
+        44
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [618, 15, 945, 40], \"label\": \"search for local files\"}\n]\n```",
+      "extracted_answer": [
+        618.0,
+        15.0,
+        945.0,
+        40.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: sign in",
+      "ground_truth": [
+        972,
+        32,
+        1136,
+        100
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [987, 65, 1043, 91], \"label\": \"sign in\"}\n]\n```",
+      "extracted_answer": [
+        987.0,
+        65.0,
+        1043.0,
+        91.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open siri",
+      "ground_truth": [
+        987,
+        13,
+        1047,
+        61
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1004, 25, 1036, 52], \"label\": \"open siri\"}\n]\n```",
+      "extracted_answer": [
+        1004.0,
+        25.0,
+        1036.0,
+        52.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view downloads files",
+      "ground_truth": [
+        19,
+        376,
+        238,
+        420
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [34, 385, 216, 409], \"label\": \"view downloads files\"}\n]\n```",
+      "extracted_answer": [
+        34.0,
+        385.0,
+        216.0,
+        409.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3b590e58-aab0-42c4-9b74-7d1a6b7f26fe.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enter the wegameapps folder",
+      "ground_truth": [
+        17,
+        52,
+        500,
+        88
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [10, 58, 16, 73], \"label\": \"enter the wegameapps folder\"}\n]\n```",
+      "extracted_answer": [
+        10.0,
+        58.0,
+        16.0,
+        73.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: set as contacts only",
+      "ground_truth": [
+        471,
+        176,
+        1065,
+        245
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [563, 198, 734, 225], \"label\": \"set as contacts only\"}\n]\n```",
+      "extracted_answer": [
+        563.0,
+        198.0,
+        734.0,
+        225.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_odcu20.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: search in this folder",
+      "ground_truth": [
+        2207,
+        76,
+        2854,
+        122
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [2218, 79, 2350, 124], \"label\": \"search in this folder\"}\n]\n```",
+      "extracted_answer": [
+        2218.0,
+        79.0,
+        2350.0,
+        124.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_suf989.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: do not save this file",
+      "ground_truth": [
+        996,
+        755,
+        1207,
+        805
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1089, 765, 1136, 784], \"label\": \"do not save this file\"}\n]\n```",
+      "extracted_answer": [
+        1089.0,
+        765.0,
+        1136.0,
+        784.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a new preferred language",
+      "ground_truth": [
+        78,
+        845,
+        131,
+        887
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [103, 854, 117, 869], \"label\": \"add a new preferred language\"}\n]\n```",
+      "extracted_answer": [
+        103.0,
+        854.0,
+        117.0,
+        869.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_9d04d927-2a44-4e0d-b752-57abf0a0522f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: back to the previous page",
+      "ground_truth": [
+        2,
+        23,
+        47,
+        65
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [15, 34, 40, 60], \"label\": \"back to the previous page\"}\n]\n```",
+      "extracted_answer": [
+        15.0,
+        34.0,
+        40.0,
+        60.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_8c0c6fa3-39d8-4633-aeb1-6544036c85bf.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: adjust the volume",
+      "ground_truth": [
+        913,
+        504,
+        943,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [875, 504, 891, 523], \"label\": \"adjust the volume\"}\n]\n```",
+      "extracted_answer": [
+        875.0,
+        504.0,
+        891.0,
+        523.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1inyhi.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open vscode",
+      "ground_truth": [
+        12,
+        433,
+        79,
+        497
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [15, 448, 60, 493], \"label\": \"open vscode\"}\n]\n```",
+      "extracted_answer": [
+        15.0,
+        448.0,
+        60.0,
+        493.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: advanced setting",
+      "ground_truth": [
+        1048,
+        982,
+        1233,
+        1026
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1098, 987, 1216, 1015], \"label\": \"advanced setting\"}\n]\n```",
+      "extracted_answer": [
+        1098.0,
+        987.0,
+        1216.0,
+        1015.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_pl3ry1.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: update all available apps",
+      "ground_truth": [
+        2632,
+        143,
+        2802,
+        202
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [2651, 158, 2794, 186], \"label\": \"update all available apps\"}\n]\n```",
+      "extracted_answer": [
+        2651.0,
+        158.0,
+        2794.0,
+        186.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_140cfa7d-6933-4591-ae0d-a1eadda2d7b5.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open videos folder",
+      "ground_truth": [
+        703,
+        51,
+        863,
+        124
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [730, 61, 819, 105], \"label\": \"open videos folder\"}\n]\n```",
+      "extracted_answer": [
+        730.0,
+        61.0,
+        819.0,
+        105.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b072d03a-51cb-4dd6-bdeb-152d3fd44e6b.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the Microsoft store",
+      "ground_truth": [
+        176,
+        202,
+        275,
+        303
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [174, 200, 273, 300], \"label\": \"open the Microsoft store\"}\n]\n```",
+      "extracted_answer": [
+        174.0,
+        200.0,
+        273.0,
+        300.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view world clock",
+      "ground_truth": [
+        4,
+        199,
+        276,
+        234
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [16, 209, 134, 227], \"label\": \"view world clock\"}\n]\n```",
+      "extracted_answer": [
+        16.0,
+        209.0,
+        134.0,
+        227.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: share the shortcut",
+      "ground_truth": [
+        1037,
+        13,
+        1118,
+        92
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1058, 36, 1090, 70], \"label\": \"share the shortcut\"}\n]\n```",
+      "extracted_answer": [
+        1058.0,
+        36.0,
+        1090.0,
+        70.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open anaconda",
+      "ground_truth": [
+        473,
+        701,
+        772,
+        987
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [518, 709, 763, 940], \"label\": \"open anaconda\"}\n]\n```",
+      "extracted_answer": [
+        518.0,
+        709.0,
+        763.0,
+        940.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_3f7ea28c-0425-4837-a540-dc5bb23449b8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: design option",
+      "ground_truth": [
+        48,
+        25,
+        106,
+        54
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [84, 31, 96, 45], \"label\": \"design option\"}\n]\n```",
+      "extracted_answer": [
+        84.0,
+        31.0,
+        96.0,
+        45.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: add a new account",
+      "ground_truth": [
+        36,
+        916,
+        92,
+        961
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [48, 957, 63, 978], \"label\": \"add a new account\"}\n]\n```",
+      "extracted_answer": [
+        48.0,
+        957.0,
+        63.0,
+        978.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_st4s1n.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view get more help",
+      "ground_truth": [
+        772,
+        755,
+        1077,
+        830
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [783, 764, 885, 779], \"label\": \"view get more help\"}\n]\n```",
+      "extracted_answer": [
+        783.0,
+        764.0,
+        885.0,
+        779.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_16d04f01-66a7-45df-a189-66c29fa935d7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open files",
+      "ground_truth": [
+        321,
+        482,
+        475,
+        519
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [351, 486, 420, 500], \"label\": \"open files\"}\n]\n```",
+      "extracted_answer": [
+        351.0,
+        486.0,
+        420.0,
+        500.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f656ce46-13af-4cd1-9126-f3c45a4e696c.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select the gzip file format",
+      "ground_truth": [
+        78,
+        603,
+        1124,
+        639
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [103, 598, 276, 634], \"label\": \"select the gzip file format\"}\n]\n```",
+      "extracted_answer": [
+        103.0,
+        598.0,
+        276.0,
+        634.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_54779155-8627-4cac-8ea6-98277cfe0647.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: access the personal account interface",
+      "ground_truth": [
+        778,
+        4,
+        816,
+        45
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [783, 14, 801, 35], \"label\": \"access the personal account interface\"}\n]\n```",
+      "extracted_answer": [
+        783.0,
+        14.0,
+        801.0,
+        35.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b5q1tt.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view battery usage of last 10 days",
+      "ground_truth": [
+        1547,
+        358,
+        1989,
+        403
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [1698, 365, 1854, 397], \"label\": \"view battery usage of last 10 days\"}\n]\n```",
+      "extracted_answer": [
+        1698.0,
+        365.0,
+        1854.0,
+        397.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarge font size",
+      "ground_truth": [
+        513,
+        134,
+        576,
+        191
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [530, 149, 567, 187], \"label\": \"enlarge font size\"}\n]\n```",
+      "extracted_answer": [
+        530.0,
+        149.0,
+        567.0,
+        187.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: need some help",
+      "ground_truth": [
+        925,
+        370,
+        1056,
+        393
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [971, 374, 1025, 389], \"label\": \"need some help\"}\n]\n```",
+      "extracted_answer": [
+        971.0,
+        374.0,
+        1025.0,
+        389.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_c8b036c3-da02-490e-a09b-0a42b8d9f344.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: personal account options",
+      "ground_truth": [
+        0,
+        391,
+        47,
+        433
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [16, 397, 34, 420], \"label\": \"personal account options\"}\n]\n```",
+      "extracted_answer": [
+        16.0,
+        397.0,
+        34.0,
+        420.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_580035fc-f55e-4817-b0c5-b741fb034cd0.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click the button to play previous track",
+      "ground_truth": [
+        441,
+        458,
+        473,
+        509
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [445, 468, 463, 487], \"label\": \"click the button to play previous track\"}\n]\n```",
+      "extracted_answer": [
+        445.0,
+        468.0,
+        463.0,
+        487.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_1ebb6beb-3187-45a6-a5a6-e50aa9a327e5.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open a new tab",
+      "ground_truth": [
+        813,
+        0,
+        847,
+        32
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [815, 6, 830, 27], \"label\": \"open a new tab\"}\n]\n```",
+      "extracted_answer": [
+        815.0,
+        6.0,
+        830.0,
+        27.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_221d3c5a-0a1b-456e-9676-7b5ff95cc1b1.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click the file processing menu",
+      "ground_truth": [
+        10,
+        84,
+        60,
+        123
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [21, 95, 43, 108], \"label\": \"click the file processing menu\"}\n]\n```",
+      "extracted_answer": [
+        21.0,
+        95.0,
+        43.0,
+        108.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cancel the calculator",
+      "ground_truth": [
+        179,
+        455,
+        1158,
+        497
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [198, 465, 223, 487], \"label\": \"cancel the calculator\"}\n]\n```",
+      "extracted_answer": [
+        198.0,
+        465.0,
+        223.0,
+        487.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open paper named flamingo",
+      "ground_truth": [
+        501,
+        124,
+        713,
+        370
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [546, 138, 709, 300], \"label\": \"open paper named flamingo\"}\n]\n```",
+      "extracted_answer": [
+        546.0,
+        138.0,
+        709.0,
+        300.0
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/screenspotv2_image/pc_aae370cb-9618-497e-8877-1a862725d28e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: click the colour 2 button",
+      "ground_truth": [
+        225,
+        139,
+        266,
+        208
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [258, 139, 287, 168], \"label\": \"click the colour 2 button\"}\n]\n```",
+      "extracted_answer": [
+        258.0,
+        139.0,
+        287.0,
+        168.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: check file colors",
+      "ground_truth": [
+        520,
+        349,
+        704,
+        399
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [560, 361, 667, 389], \"label\": \"check file colors\"}\n]\n```",
+      "extracted_answer": [
+        560.0,
+        361.0,
+        667.0,
+        389.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_f9867d85-5680-44ac-9bea-23acf5c9cc71.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the recycle bin",
+      "ground_truth": [
+        0,
+        0,
+        79,
+        84
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [16, 10, 54, 53], \"label\": \"open the recycle bin\"}\n]\n```",
+      "extracted_answer": [
+        16.0,
+        10.0,
+        54.0,
+        53.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_cefd90d7-4af2-4370-b71e-8d4d5954c21e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: number 5",
+      "ground_truth": [
+        620,
+        458,
+        702,
+        512
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [649, 467, 668, 488], \"label\": \"number 5\"}\n]\n```",
+      "extracted_answer": [
+        649.0,
+        467.0,
+        668.0,
+        488.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open microsoft edge",
+      "ground_truth": [
+        322,
+        154,
+        418,
+        250
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [351, 189, 407, 246], \"label\": \"open microsoft edge\"}\n]\n```",
+      "extracted_answer": [
+        351.0,
+        189.0,
+        407.0,
+        246.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: select a new size",
+      "ground_truth": [
+        368,
+        59,
+        410,
+        128
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [395, 60, 427, 128], \"label\": \"select a new size\"}\n]\n```",
+      "extracted_answer": [
+        395.0,
+        60.0,
+        427.0,
+        128.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: view the timer",
+      "ground_truth": [
+        5,
+        78,
+        277,
+        116
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [17, 89, 35, 106], \"label\": \"view the timer\"}\n]\n```",
+      "extracted_answer": [
+        17.0,
+        89.0,
+        35.0,
+        106.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_e618dc7e-8ffb-4a37-a317-9d3908c38395.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: input method toolbar",
+      "ground_truth": [
+        883,
+        496,
+        945,
+        540
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [675, 473, 951, 504], \"label\": \"input method toolbar\"}\n]\n```",
+      "extracted_answer": [
+        675.0,
+        473.0,
+        951.0,
+        504.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_88dde48f-6594-4f17-b117-3529b2bde02e.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: back to previous folder",
+      "ground_truth": [
+        7,
+        203,
+        35,
+        242
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [16, 208, 34, 225], \"label\": \"back to previous folder\"}\n]\n```",
+      "extracted_answer": [
+        16.0,
+        208.0,
+        34.0,
+        225.0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/screenspotv2_image/pc_u77zz1.png",
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: open the map app",
+      "ground_truth": [
+        553,
+        1688,
+        641,
+        1769
+      ],
+      "model_output": "```json\n[\n\t{\"bbox_2d\": [578, 1694, 636, 1750], \"label\": \"open the map app\"}\n]\n```",
+      "extracted_answer": [
+        578.0,
+        1694.0,
+        636.0,
+        1750.0
+      ],
+      "correct": 0
+    }
+  ]
+}
