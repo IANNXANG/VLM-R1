@@ -47,22 +47,22 @@ if rank == 0:
     print("Steps: ", steps)
 
 # 修改：使用ScreenSpot模型的路径
-RUN_NAME = "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop"
+RUN_NAME = "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click"
 
 if steps != 0:
     MODEL_PATH=f"/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output/{RUN_NAME}/checkpoint-{steps}" 
     # 新增：为log添加子目录
-    MODEL_LOG_DIR = f"screenspot-checkpoint-{steps}"
+    MODEL_LOG_DIR = f"screenspot-click-checkpoint-{steps}"
 else:
     MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
     # 新增：为log添加子目录
-    MODEL_LOG_DIR = "screenspot-original-model"
+    MODEL_LOG_DIR = "screenspot-click-original-model"
 # 修改：将日志存储在相应子目录中
 OUTPUT_PATH=f"./logs/{MODEL_LOG_DIR}/screenspot_results_{{DATASET}}_{{STEPS}}.json"
 
 BSZ=4
 # 修改：使用ScreenSpot数据路径
-DATA_ROOT = "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data"
+DATA_ROOT = "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click"
 
 # 修改：使用ScreenSpot测试数据集
 TEST_DATASETS = ['screenspot_desktop', 'screenspot_mobile', 'screenspot_web']
@@ -80,30 +80,24 @@ model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
 # default processer
 processor = AutoProcessor.from_pretrained(MODEL_PATH)
 
-def extract_bbox_answer(content):
-    # Try to find the bbox within <answer> tags, if can not find, return [0, 0, 0, 0]
+def extract_point_answer(content):
     answer_tag_pattern = r'<answer>(.*?)</answer>'
-    bbox_pattern = r'\{.*\[(\d+),\s*(\d+),\s*(\d+),\s*(\d+)]\s*.*\}'
+    point_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*\]'
+    
     content_answer_match = re.search(answer_tag_pattern, content, re.DOTALL)
     if content_answer_match:
         content_answer = content_answer_match.group(1).strip()
-        bbox_match = re.search(bbox_pattern, content_answer, re.DOTALL)
-        if bbox_match:
-            bbox = [int(bbox_match.group(1)), int(bbox_match.group(2)), int(bbox_match.group(3)), int(bbox_match.group(4))]
-            return bbox
-    return [0, 0, 0, 0]
+        point_match = re.search(point_pattern, content_answer)
+        if point_match:
+            point = [int(point_match.group(1)), int(point_match.group(2))]
+            return point
+    return [0, 0]
 
-def iou(box1, box2):
-    inter_x1 = max(box1[0], box2[0])
-    inter_y1 = max(box1[1], box2[1])
-    inter_x2 = min(box1[2]-1, box2[2]-1)
-    inter_y2 = min(box1[3]-1, box2[3]-1)
-    if inter_x1 < inter_x2 and inter_y1 < inter_y2:
-        inter = (inter_x2-inter_x1+1)*(inter_y2-inter_y1+1)
-    else:
-        inter = 0
-    union = (box1[2]-box1[0])*(box1[3]-box1[1]) + (box2[2]-box2[0])*(box2[3]-box2[1]) - inter
-    return float(inter)/union
+def point_in_bbox(point, bbox):
+    """检查点坐标是否在边界框内"""
+    x, y = point
+    x1, y1, x2, y2 = bbox
+    return x1 <= x <= x2 and y1 <= y <= y2
 
 # 不限制样本数量，使用全部ScreenSpot数据
 # 修复：使用足够大的整数值而不是无穷大
@@ -117,7 +111,18 @@ for ds in TEST_DATASETS:
     random.shuffle(data)
     data = data[:num_samples]
 
-    QUESTION_TEMPLATE = "{Question} First output the thinking process in <think> </think> tags and then output the final answer in <answer> </answer> tags. Output the final answer in JSON format."
+    # 系统提示词
+    SYSTEM_PROMPT = (
+        "You are a GUI agent assistant that helps users interact with graphical interfaces. "
+        "When asked to perform an action on the interface, you should provide the exact coordinates "
+        "where to click. Look at the image carefully, identify the correct element, and provide "
+        "the single most appropriate click point [x, y] that would allow the user to interact with "
+        "the element. Provide your reasoning within <think> </think> tags, and your final answer "
+        "with the coordinates in <answer> </answer> tags, using the format [x, y]."
+    )
+
+    # 使用点击任务的提示词模板
+    QUESTION_TEMPLATE = "{Question} Look at the image and identify where to click. First reason about the correct location in <think> </think> tags, then provide the exact [x, y] coordinates in <answer> </answer> tags."
 
     # Split data for distributed evaluation
     per_rank_data = len(data) // world_size
@@ -130,7 +135,7 @@ for ds in TEST_DATASETS:
     for x in rank_data:
         image_path = os.path.join(IMAGE_ROOT, x['image'])
         message = [
-            # {"role": "system", "content": [{"type": "text", "text": SYSTEM_PROMPT}]},
+            {"role": "system", "content": SYSTEM_PROMPT},
             {
             "role": "user",
             "content": [
@@ -204,16 +209,17 @@ for ds in TEST_DATASETS:
         for input_example, model_output in zip(data, all_outputs):
             original_output = model_output
             ground_truth = input_example['solution']
-            model_answer = extract_bbox_answer(original_output)
+            # 使用点提取函数代替边界框提取
+            model_answer = extract_point_answer(original_output)
             
-            # Count correct answers
+            # 评估点是否在真实边界框内
             correct = 0
             if model_answer is not None:
-                if iou(model_answer, ground_truth) > 0.5:
+                if point_in_bbox(model_answer, ground_truth):
                     correct = 1
             correct_number += correct
             
-            # Create a result dictionary for this example
+            # 创建结果字典
             result = {
                 'image': input_example['image'],
                 'question': input_example['problem'],
