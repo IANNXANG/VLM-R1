@@ -1,6 +1,6 @@
 #!/bin/bash
 # 评估多个模型在多个数据集上的性能 
-# 主要需要修改data_root和run_name
+# 主要需要修改data_root和run_name和启动的.py 文件
 
 # 设置环境
 cd /c22940/zy/code/VLM-R1
@@ -49,7 +49,7 @@ for model_config in "${BASELINE_MODELS[@]}"; do
   mkdir -p logs/baseline/$model_name
   
   # 运行评估脚本
-  torchrun --nproc_per_node=4 src/eval/test_rec_baseline.py \
+  torchrun --nproc_per_node=4 src/eval/test_rec_baseline_click.py \
     --model_path "$model_path" \
     --model_name "$model_name" \
     --data_root "$DATA_ROOT" \
@@ -83,7 +83,7 @@ for steps in "${CHECKPOINTS[@]}"; do
   mkdir -p logs/$MODEL_NAME
   
   # 运行评估脚本，显式指定checkpoint_dir路径
-  torchrun --nproc_per_node=4 src/eval/test_rec_r1.py \
+  torchrun --nproc_per_node=4 src/eval/test_rec_r1_click.py \
     --steps $steps \
     --run_name "$RUN_NAME" \
     --model_name "$MODEL_NAME" \

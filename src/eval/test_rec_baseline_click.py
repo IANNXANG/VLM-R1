@@ -75,16 +75,28 @@ model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
 processor = AutoProcessor.from_pretrained(MODEL_PATH)
 
 def extract_point_answer(content):
-    answer_tag_pattern = r'<answer>(.*?)</answer>'
+    # 首先尝试匹配二维点坐标
     point_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*\]'
+    point_match = re.search(point_pattern, content)
+    if point_match:
+        point = [int(point_match.group(1)), int(point_match.group(2))]
+        return point
     
-    content_answer_match = re.search(answer_tag_pattern, content, re.DOTALL)
-    if content_answer_match:
-        content_answer = content_answer_match.group(1).strip()
-        point_match = re.search(point_pattern, content_answer)
-        if point_match:
-            point = [int(point_match.group(1)), int(point_match.group(2))]
-            return point
+    # 如果没有找到二维点坐标，尝试匹配四维边界框坐标
+    bbox_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\]'
+    bbox_match = re.search(bbox_pattern, content)
+    if bbox_match:
+        # 提取边界框坐标
+        x1 = int(bbox_match.group(1))
+        y1 = int(bbox_match.group(2))
+        x2 = int(bbox_match.group(3))
+        y2 = int(bbox_match.group(4))
+        # 计算中点
+        center_x = (x1 + x2) // 2
+        center_y = (y1 + y2) // 2
+        return [center_x, center_y]
+    
+    # 如果都没有找到，返回默认值
     return [0, 0]
 
 def point_in_bbox(point, bbox):
@@ -117,15 +129,9 @@ for ds in TEST_DATASETS:
     
     # 使用点击任务的提示词模板
     SYSTEM_PROMPT = (
-        "You are a GUI agent assistant that helps users interact with graphical interfaces. "
-        "When asked to perform an action on the interface, you should provide the exact coordinates "
-        "where to click. Look at the image carefully, identify the correct element, and provide "
-        "the single most appropriate click point [x, y] that would allow the user to interact with "
-        "the element. Provide your reasoning within <think> </think> tags, and your final answer "
-        "with the coordinates in <answer> </answer> tags, using the format [x, y]."
+     "Identify the click position as a **2D point** (x, y). Provide exactly **one pair** of coordinates in the format [x, y]."
     )
-    
-    QUESTION_TEMPLATE = "{Question} Look at the image and identify where to click. First reason about the correct location in <think> </think> tags, then provide the exact [x, y] coordinates in <answer> </answer> tags."
+    QUESTION_TEMPLATE = "{Question}"
     
     # Split data for distributed evaluation
     per_rank_data = len(data) // world_size

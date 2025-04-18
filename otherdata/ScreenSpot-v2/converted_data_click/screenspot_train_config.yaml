@@ -1,8 +1,0 @@
-# ScreenSpot数据集配置文件
-datasets:
-  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click/screenspot_desktop.json
-    sampling_strategy: all
-  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click/screenspot_mobile.json
-    sampling_strategy: all
-  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click/screenspot_web.json
-    sampling_strategy: all
