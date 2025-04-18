@@ -18,25 +18,10 @@ import warnings
 
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers")
 
-# 解析命令行参数
+# 新增：解析命令行参数
 def parse_args():
-    parser = argparse.ArgumentParser(description="REC模型评估脚本")
+    parser = argparse.ArgumentParser(description="ScreenSpot模型评估脚本")
     parser.add_argument("--steps", type=int, default=0, help="检查点步数，0表示原始模型")
-    parser.add_argument("--run_name", type=str, default="Qwen2.5-VL-7B-GRPO-REC-lora",
-                        help="训练运行名称，用于构建检查点路径")
-    parser.add_argument("--model_name", type=str, default=None,
-                        help="模型名称，用于输出结果文件命名。如果不提供，将根据步数自动生成")
-    parser.add_argument("--base_model_path", type=str, default="/c22940/zy/model/Qwen2.5-VL-7B-Instruct",
-                        help="基础模型路径，当steps=0时使用")
-    parser.add_argument("--checkpoint_dir", type=str, default="/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output",
-                        help="检查点目录，会与run_name和steps结合构建完整路径")
-    parser.add_argument("--data_root", type=str, default="/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed",
-                        help="数据集根目录")
-    parser.add_argument("--image_root", type=str, default="/c22940/zy/code/VLM-R1/data/images",
-                        help="图像根目录")
-    parser.add_argument("--datasets", type=str, nargs='+', 
-                        default=['refcoco_val', 'refcocop_val', 'refcocog_val'],
-                        help="要评估的数据集列表")
     return parser.parse_args()
 
 def setup_distributed():
@@ -56,42 +41,33 @@ print(f"Process {rank} using {device}")
 
 # 解析命令行参数
 args = parse_args()
-# 设置评估的检查点步数和运行名称
+# 设置评估的检查点步数
 steps = args.steps
-RUN_NAME = args.run_name
-
 if rank == 0:
-    print(f"Evaluating {RUN_NAME}, steps: {steps}")
+    print("Steps: ", steps)
 
-# 构建模型路径和日志目录
+# 修改：使用ScreenSpot模型的路径
+RUN_NAME = "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click"
+
 if steps != 0:
-    MODEL_PATH = f"{args.checkpoint_dir}/{RUN_NAME}/checkpoint-{steps}" 
-    # 如果未提供模型名称，则根据运行名称和步数自动生成
-    MODEL_NAME = args.model_name if args.model_name else f"{RUN_NAME.lower()}-checkpoint-{steps}"
-    # 为日志设置子目录
-    MODEL_LOG_DIR = f"{MODEL_NAME}"
+    MODEL_PATH=f"/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output/{RUN_NAME}/checkpoint-{steps}" 
+    # 新增：为log添加子目录
+    MODEL_LOG_DIR = f"screenspot-click-checkpoint-{steps}"
 else:
-    MODEL_PATH = args.base_model_path
-    # 如果未提供模型名称，则设为"original-model"
-    MODEL_NAME = args.model_name if args.model_name else "original-model"
-    # 为日志设置子目录
-    MODEL_LOG_DIR = MODEL_NAME
+    MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
+    # 新增：为log添加子目录
+    MODEL_LOG_DIR = "screenspot-click-original-model"
+# 修改：将日志存储在相应子目录中
+OUTPUT_PATH=f"./logs/{MODEL_LOG_DIR}/screenspot_results_{{DATASET}}_{{STEPS}}.json"
 
-# 设置输出路径
-OUTPUT_PATH = f"./logs/{MODEL_LOG_DIR}/rec_results_{{DATASET}}.json"
+BSZ=4
+# 修改：使用ScreenSpot数据路径
+DATA_ROOT = "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click"
 
-# 设置数据集相关参数
-BSZ = 4
-DATA_ROOT = args.data_root
-TEST_DATASETS = args.datasets
-IMAGE_ROOT = args.image_root
-
-if rank == 0:
-    print(f"Model path: {MODEL_PATH}")
-    print(f"Datasets: {TEST_DATASETS}")
-    print(f"Data root: {DATA_ROOT}")
-    print(f"Image root: {IMAGE_ROOT}")
-    print(f"Output will be saved to: {OUTPUT_PATH.format(DATASET='<dataset>')}")
+# 修改：使用ScreenSpot测试数据集
+TEST_DATASETS = ['screenspot_desktop', 'screenspot_mobile', 'screenspot_web']
+# 修改：使用ScreenSpot图像路径
+IMAGE_ROOT = "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2"
 
 #We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
@@ -104,32 +80,28 @@ model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
 # default processer
 processor = AutoProcessor.from_pretrained(MODEL_PATH)
 
-def extract_bbox_answer(content):
-    # Try to find the bbox within <answer> tags, if can not find, return [0, 0, 0, 0]
+def extract_point_answer(content):
     answer_tag_pattern = r'<answer>(.*?)</answer>'
-    bbox_pattern = r'\{.*\[(\d+),\s*(\d+),\s*(\d+),\s*(\d+)]\s*.*\}'
+    point_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*\]'
+    
     content_answer_match = re.search(answer_tag_pattern, content, re.DOTALL)
     if content_answer_match:
         content_answer = content_answer_match.group(1).strip()
-        bbox_match = re.search(bbox_pattern, content_answer, re.DOTALL)
-        if bbox_match:
-            bbox = [int(bbox_match.group(1)), int(bbox_match.group(2)), int(bbox_match.group(3)), int(bbox_match.group(4))]
-            return bbox
-    return [0, 0, 0, 0]
+        point_match = re.search(point_pattern, content_answer)
+        if point_match:
+            point = [int(point_match.group(1)), int(point_match.group(2))]
+            return point
+    return [0, 0]
 
-def iou(box1, box2):
-    inter_x1 = max(box1[0], box2[0])
-    inter_y1 = max(box1[1], box2[1])
-    inter_x2 = min(box1[2]-1, box2[2]-1)
-    inter_y2 = min(box1[3]-1, box2[3]-1)
-    if inter_x1 < inter_x2 and inter_y1 < inter_y2:
-        inter = (inter_x2-inter_x1+1)*(inter_y2-inter_y1+1)
-    else:
-        inter = 0
-    union = (box1[2]-box1[0])*(box1[3]-box1[1]) + (box2[2]-box2[0])*(box2[3]-box2[1]) - inter
-    return float(inter)/union
+def point_in_bbox(point, bbox):
+    """检查点坐标是否在边界框内"""
+    x, y = point
+    x1, y1, x2, y2 = bbox
+    return x1 <= x <= x2 and y1 <= y <= y2
 
-num_samples = 2000
+# 不限制样本数量，使用全部ScreenSpot数据
+# 修复：使用足够大的整数值而不是无穷大
+num_samples = 100000
 for ds in TEST_DATASETS:
     if rank == 0:
         print(f"Processing {ds}...")
@@ -139,7 +111,18 @@ for ds in TEST_DATASETS:
     random.shuffle(data)
     data = data[:num_samples]
 
-    QUESTION_TEMPLATE = "{Question} First output the thinking process in <think> </think> tags and then output the final answer in <answer> </answer> tags. Output the final answer in JSON format."
+    # 系统提示词
+    SYSTEM_PROMPT = (
+        "You are a GUI agent assistant that helps users interact with graphical interfaces. "
+        "When asked to perform an action on the interface, you should provide the exact coordinates "
+        "where to click. Look at the image carefully, identify the correct element, and provide "
+        "the single most appropriate click point [x, y] that would allow the user to interact with "
+        "the element. Provide your reasoning within <think> </think> tags, and your final answer "
+        "with the coordinates in <answer> </answer> tags, using the format [x, y]."
+    )
+
+    # 使用点击任务的提示词模板
+    QUESTION_TEMPLATE = "{Question} Look at the image and identify where to click. First reason about the correct location in <think> </think> tags, then provide the exact [x, y] coordinates in <answer> </answer> tags."
 
     # Split data for distributed evaluation
     per_rank_data = len(data) // world_size
@@ -152,7 +135,7 @@ for ds in TEST_DATASETS:
     for x in rank_data:
         image_path = os.path.join(IMAGE_ROOT, x['image'])
         message = [
-            # {"role": "system", "content": [{"type": "text", "text": SYSTEM_PROMPT}]},
+            {"role": "system", "content": SYSTEM_PROMPT},
             {
             "role": "user",
             "content": [
@@ -226,16 +209,17 @@ for ds in TEST_DATASETS:
         for input_example, model_output in zip(data, all_outputs):
             original_output = model_output
             ground_truth = input_example['solution']
-            model_answer = extract_bbox_answer(original_output)
+            # 使用点提取函数代替边界框提取
+            model_answer = extract_point_answer(original_output)
             
-            # Count correct answers
+            # 评估点是否在真实边界框内
             correct = 0
             if model_answer is not None:
-                if iou(model_answer, ground_truth) > 0.5:
+                if point_in_bbox(model_answer, ground_truth):
                     correct = 1
             correct_number += correct
             
-            # Create a result dictionary for this example
+            # 创建结果字典
             result = {
                 'image': input_example['image'],
                 'question': input_example['problem'],
@@ -251,7 +235,7 @@ for ds in TEST_DATASETS:
         print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
 
         # Save results to a JSON file
-        output_path = OUTPUT_PATH.format(DATASET=ds)
+        output_path = OUTPUT_PATH.format(DATASET=ds, STEPS=steps)
         output_dir = os.path.dirname(output_path)
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
