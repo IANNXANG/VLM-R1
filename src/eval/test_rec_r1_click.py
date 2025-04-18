@@ -20,8 +20,23 @@ warnings.filterwarnings("ignore", category=UserWarning, module="transformers")
 
 # 新增：解析命令行参数
 def parse_args():
-    parser = argparse.ArgumentParser(description="ScreenSpot模型评估脚本")
+    parser = argparse.ArgumentParser(description="ScreenSpot-Click模型评估脚本")
     parser.add_argument("--steps", type=int, default=0, help="检查点步数，0表示原始模型")
+    parser.add_argument("--run_name", type=str, default="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click",
+                        help="训练运行名称，用于构建检查点路径")
+    parser.add_argument("--model_name", type=str, default=None,
+                        help="模型名称，用于输出结果文件命名。如果不提供，将根据步数自动生成")
+    parser.add_argument("--base_model_path", type=str, default="/c22940/zy/model/Qwen2.5-VL-7B-Instruct",
+                        help="基础模型路径，当steps=0时使用")
+    parser.add_argument("--checkpoint_dir", type=str, default="/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output",
+                        help="检查点目录，会与run_name和steps结合构建完整路径")
+    parser.add_argument("--data_root", type=str, default="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click",
+                        help="数据集根目录")
+    parser.add_argument("--image_root", type=str, default="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2",
+                        help="图像根目录")
+    parser.add_argument("--datasets", type=str, nargs='+', 
+                        default=['screenspot_desktop', 'screenspot_mobile', 'screenspot_web'],
+                        help="要评估的数据集列表")
     return parser.parse_args()
 
 def setup_distributed():
@@ -41,33 +56,42 @@ print(f"Process {rank} using {device}")
 
 # 解析命令行参数
 args = parse_args()
-# 设置评估的检查点步数
+# 设置评估的检查点步数和运行名称
 steps = args.steps
+RUN_NAME = args.run_name
+
 if rank == 0:
-    print("Steps: ", steps)
+    print(f"Evaluating {RUN_NAME}, steps: {steps}")
 
-# 修改：使用ScreenSpot模型的路径
-RUN_NAME = "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click"
-
+# 构建模型路径和日志目录
 if steps != 0:
-    MODEL_PATH=f"/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output/{RUN_NAME}/checkpoint-{steps}" 
-    # 新增：为log添加子目录
-    MODEL_LOG_DIR = f"screenspot-click-checkpoint-{steps}"
+    MODEL_PATH = f"{args.checkpoint_dir}/{RUN_NAME}/checkpoint-{steps}" 
+    # 如果未提供模型名称，则根据运行名称和步数自动生成
+    MODEL_NAME = args.model_name if args.model_name else f"{RUN_NAME.lower()}-checkpoint-{steps}"
+    # 为日志设置子目录
+    MODEL_LOG_DIR = f"{MODEL_NAME}"
 else:
-    MODEL_PATH = "/c22940/zy/model/Qwen2.5-VL-7B-Instruct"
-    # 新增：为log添加子目录
-    MODEL_LOG_DIR = "screenspot-click-original-model"
-# 修改：将日志存储在相应子目录中
-OUTPUT_PATH=f"./logs/{MODEL_LOG_DIR}/screenspot_results_{{DATASET}}_{{STEPS}}.json"
+    MODEL_PATH = args.base_model_path
+    # 如果未提供模型名称，则设为"original-model"
+    MODEL_NAME = args.model_name if args.model_name else "original-model"
+    # 为日志设置子目录
+    MODEL_LOG_DIR = MODEL_NAME
 
-BSZ=4
-# 修改：使用ScreenSpot数据路径
-DATA_ROOT = "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click"
+# 设置输出路径
+OUTPUT_PATH = f"./logs/{MODEL_LOG_DIR}/rec_click_results_{{DATASET}}.json"
 
-# 修改：使用ScreenSpot测试数据集
-TEST_DATASETS = ['screenspot_desktop', 'screenspot_mobile', 'screenspot_web']
-# 修改：使用ScreenSpot图像路径
-IMAGE_ROOT = "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2"
+# 使用命令行参数设置数据集相关参数
+BSZ = 4
+DATA_ROOT = args.data_root
+TEST_DATASETS = args.datasets
+IMAGE_ROOT = args.image_root
+
+if rank == 0:
+    print(f"Model path: {MODEL_PATH}")
+    print(f"Datasets: {TEST_DATASETS}")
+    print(f"Data root: {DATA_ROOT}")
+    print(f"Image root: {IMAGE_ROOT}")
+    print(f"Output will be saved to: {OUTPUT_PATH.format(DATASET='<dataset>')}")
 
 #We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
@@ -81,16 +105,35 @@ model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
 processor = AutoProcessor.from_pretrained(MODEL_PATH)
 
 def extract_point_answer(content):
+    # 在<answer>标签内查找坐标
     answer_tag_pattern = r'<answer>(.*?)</answer>'
-    point_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*\]'
-    
     content_answer_match = re.search(answer_tag_pattern, content, re.DOTALL)
+    
     if content_answer_match:
         content_answer = content_answer_match.group(1).strip()
+        
+        # 首先尝试匹配二维点坐标
+        point_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*\]'
         point_match = re.search(point_pattern, content_answer)
         if point_match:
             point = [int(point_match.group(1)), int(point_match.group(2))]
             return point
+        
+        # 如果没有找到二维点坐标，尝试匹配四维边界框坐标
+        bbox_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\]'
+        bbox_match = re.search(bbox_pattern, content_answer)
+        if bbox_match:
+            # 提取边界框坐标
+            x1 = int(bbox_match.group(1))
+            y1 = int(bbox_match.group(2))
+            x2 = int(bbox_match.group(3))
+            y2 = int(bbox_match.group(4))
+            # 计算中点
+            center_x = (x1 + x2) // 2
+            center_y = (y1 + y2) // 2
+            return [center_x, center_y]
+    
+    # 如果都没有找到，返回默认值
     return [0, 0]
 
 def point_in_bbox(point, bbox):
@@ -235,7 +278,7 @@ for ds in TEST_DATASETS:
         print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
 
         # Save results to a JSON file
-        output_path = OUTPUT_PATH.format(DATASET=ds, STEPS=steps)
+        output_path = OUTPUT_PATH.format(DATASET=ds)
         output_dir = os.path.dirname(output_path)
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)

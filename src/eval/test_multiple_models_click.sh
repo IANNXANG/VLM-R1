@@ -46,7 +46,7 @@ for model_config in "${BASELINE_MODELS[@]}"; do
   echo "======================================"
   
   # 为模型创建日志目录
-  mkdir -p logs/baseline/$model_name
+  mkdir -p logs/baseline/$RUN_NAME/$model_name
   
   # 运行评估脚本
   torchrun --nproc_per_node=4 src/eval/test_rec_baseline_click.py \
@@ -57,7 +57,7 @@ for model_config in "${BASELINE_MODELS[@]}"; do
     --datasets "${DATASETS[@]}"
   
   echo "基线模型 $model_name 评估完成"
-  echo "结果保存在: logs/baseline/$model_name/"
+  echo "结果保存在: logs/baseline/$RUN_NAME/$model_name/"
   echo "======================================"
   echo ""
   
@@ -80,7 +80,7 @@ for steps in "${CHECKPOINTS[@]}"; do
   echo "======================================"
   
   # 创建日志目录
-  mkdir -p logs/$MODEL_NAME
+  mkdir -p logs/$RUN_NAME/$MODEL_NAME
   
   # 运行评估脚本，显式指定checkpoint_dir路径
   torchrun --nproc_per_node=4 src/eval/test_rec_r1_click.py \
@@ -93,7 +93,7 @@ for steps in "${CHECKPOINTS[@]}"; do
     --datasets "${DATASETS[@]}"
   
   echo "检查点 $MODEL_NAME 评估完成"
-  echo "结果保存在: logs/$MODEL_NAME/"
+  echo "结果保存在: logs/$RUN_NAME/$MODEL_NAME/"
   echo "======================================"
   echo ""
   
@@ -115,7 +115,7 @@ for dataset in "${DATASETS[@]}"; do
   # 基线模型准确率
   for model_config in "${BASELINE_MODELS[@]}"; do
     IFS="|" read -r _ model_name <<< "$model_config"
-    result_file="logs/baseline/$model_name/rec_results_${dataset}_$model_name.json"
+    result_file="logs/baseline/$RUN_NAME/$model_name/rec_results_${dataset}_$model_name.json"
     
     if [ -f "$result_file" ]; then
       accuracy=$(grep -o '"accuracy": [0-9.]*' "$result_file" | cut -d' ' -f2)
@@ -133,7 +133,7 @@ for dataset in "${DATASETS[@]}"; do
       MODEL_NAME="${RUN_NAME,,}-checkpoint-$steps"
     fi
     
-    result_file="logs/$MODEL_NAME/rec_results_${dataset}.json"
+    result_file="logs/$RUN_NAME/$MODEL_NAME/rec_results_${dataset}.json"
     
     if [ -f "$result_file" ]; then
       accuracy=$(grep -o '"accuracy": [0-9.]*' "$result_file" | cut -d' ' -f2)
