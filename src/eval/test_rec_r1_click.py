@@ -78,7 +78,7 @@ else:
     MODEL_LOG_DIR = MODEL_NAME
 
 # 设置输出路径
-OUTPUT_PATH = f"./logs/{MODEL_LOG_DIR}/rec_click_results_{{DATASET}}.json"
+OUTPUT_PATH = f"./logs/{RUN_NAME}/{MODEL_LOG_DIR}/click_results_{{DATASET}}.json"
 
 # 使用命令行参数设置数据集相关参数
 BSZ = 4

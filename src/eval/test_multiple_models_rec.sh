@@ -52,6 +52,7 @@ for model_config in "${BASELINE_MODELS[@]}"; do
   torchrun --nproc_per_node=4 src/eval/test_rec_baseline.py \
     --model_path "$model_path" \
     --model_name "$model_name" \
+    --run_name "$RUN_NAME" \
     --data_root "$DATA_ROOT" \
     --image_root "$IMAGE_ROOT" \
     --datasets "${DATASETS[@]}"

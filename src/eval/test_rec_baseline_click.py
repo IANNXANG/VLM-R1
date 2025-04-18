@@ -24,6 +24,8 @@ def parse_args():
                         help="模型路径")
     parser.add_argument("--model_name", type=str, default="qwen2_5vl_7b_instruct_baseline",
                         help="模型名称，用于输出结果文件命名")
+    parser.add_argument("--run_name", type=str, default="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click",
+                        help="训练运行名称，用于构建日志目录路径")
     parser.add_argument("--data_root", type=str, default="/c22940/zy/code/VLM-R1/test_data/rec_jsons_processed",
                         help="数据集根目录")
     parser.add_argument("--image_root", type=str, default="/c22940/zy/code/VLM-R1/data/images",
@@ -54,12 +56,13 @@ args = parse_args()
 # 使用命令行参数
 MODEL_PATH = args.model_path
 MODEL_NAME = args.model_name
+RUN_NAME = args.run_name
 DATA_ROOT = args.data_root
 IMAGE_ROOT = args.image_root
 TEST_DATASETS = args.datasets
 
 # 设置输出路径
-OUTPUT_PATH = f"./logs/baseline/{MODEL_NAME}/rec_results_{{DATASET}}_{MODEL_NAME}.json"
+OUTPUT_PATH = f"./logs/{RUN_NAME}/{MODEL_NAME}/click_results_{{DATASET}}_{MODEL_NAME}.json"
 
 BSZ=4
 

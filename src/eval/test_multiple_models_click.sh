@@ -52,6 +52,7 @@ for model_config in "${BASELINE_MODELS[@]}"; do
   torchrun --nproc_per_node=4 src/eval/test_rec_baseline_click.py \
     --model_path "$model_path" \
     --model_name "$model_name" \
+    --run_name "$RUN_NAME" \
     --data_root "$DATA_ROOT" \
     --image_root "$IMAGE_ROOT" \
     --datasets "${DATASETS[@]}"
@@ -115,7 +116,7 @@ for dataset in "${DATASETS[@]}"; do
   # 基线模型准确率
   for model_config in "${BASELINE_MODELS[@]}"; do
     IFS="|" read -r _ model_name <<< "$model_config"
-    result_file="logs/$RUN_NAME/$model_name/rec_results_${dataset}_$model_name.json"
+    result_file="logs/$RUN_NAME/$model_name/click_results_${dataset}_$model_name.json"
     
     if [ -f "$result_file" ]; then
       accuracy=$(grep -o '"accuracy": [0-9.]*' "$result_file" | cut -d' ' -f2)
@@ -133,7 +134,7 @@ for dataset in "${DATASETS[@]}"; do
       MODEL_NAME="${RUN_NAME,,}-checkpoint-$steps"
     fi
     
-    result_file="logs/$RUN_NAME/$MODEL_NAME/rec_results_${dataset}.json"
+    result_file="logs/$RUN_NAME/$MODEL_NAME/click_results_${dataset}.json"
     
     if [ -f "$result_file" ]; then
       accuracy=$(grep -o '"accuracy": [0-9.]*' "$result_file" | cut -d' ' -f2)
