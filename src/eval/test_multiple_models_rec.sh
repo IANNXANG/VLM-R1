@@ -1,6 +1,6 @@
 #!/bin/bash
 # 评估多个模型在多个数据集上的性能 
-# 主要需要修改data_root和run_name
+# 主要需要修改data_root和run_name和启动的.py 文件
 
 # 设置环境
 cd /c22940/zy/code/VLM-R1
