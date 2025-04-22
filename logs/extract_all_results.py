@@ -9,6 +9,7 @@
 2. 自动识别数据集和模型检查点
 3. 生成每个类别的准确率摘要CSV文件
 4. 排序顺序: baseline -> original-model -> 按序号排序的checkpoints
+5. 自动调用plot_accuracy.py生成折线图
 """
 
 import os
@@ -16,6 +17,8 @@ import json
 import re
 import csv
 import glob
+import subprocess
+import sys
 from collections import defaultdict
 
 # 基础配置
@@ -34,6 +37,7 @@ OUTPUT_DIR = "logs"  # 输出CSV文件目录
 EXPERIMENT_TYPES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_results_",  # REC任务目录 -> REC结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_results_screenspot_",  # ScreenSpot桌面任务目录 -> ScreenSpot结果文件前缀
 
     # [添加新实验]
     # 添加格式: "logs中的目录名": "结果文件前缀_",
@@ -51,6 +55,7 @@ EXPERIMENT_TYPES = {
 EXPERIMENT_CSV_NAMES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_lora",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "screenspot_click",
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_screenspot_desktop",
 
     # [添加新实验的CSV输出文件命名]
     # 添加格式: "logs中的目录名": "输出CSV文件名前缀",
@@ -337,10 +342,30 @@ def write_csv(experiment_name, data):
             writer.writerow(row)
     
     print(f"结果已保存到 {csv_path}")
+    return csv_path
 
     # [如何自定义CSV输出格式]
     # 如果需要修改CSV格式，例如添加更多统计信息或自定义列，请修改此函数
     # 例如添加中位数、最高值等统计数据，或自定义列排序
+
+def generate_plots(csv_files):
+    """为所有生成的CSV文件创建折线图"""
+    # 检查plot_accuracy.py是否存在
+    plot_script = os.path.join(BASE_DIR, "plot_accuracy.py")
+    if not os.path.exists(plot_script):
+        print(f"图表生成脚本不存在: {plot_script}")
+        return
+    
+    try:
+        # 运行绘图脚本，一次性处理所有CSV文件
+        cmd = [sys.executable, plot_script] + csv_files
+        print(f"运行绘图命令: {' '.join(cmd)}")
+        result = subprocess.run(cmd, check=True, text=True)
+        print("图表生成成功!")
+    except subprocess.CalledProcessError as e:
+        print(f"图表生成失败: {e}")
+    except Exception as e:
+        print(f"运行绘图脚本出错: {e}")
 
 def main():
     """主函数：处理所有实验类型"""
@@ -348,14 +373,22 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     # 处理每种实验类型
+    csv_files = []
     for experiment_name, result_prefix in EXPERIMENT_TYPES.items():
         print(f"处理实验: {experiment_name} (前缀: {result_prefix})")
         data = process_experiment(experiment_name, result_prefix)
         if data:
-            write_csv(experiment_name, data)
+            csv_file = write_csv(experiment_name, data)
+            if csv_file:
+                csv_files.append(csv_file)
             print(f"成功处理实验: {experiment_name}")
         else:
             print(f"处理实验失败: {experiment_name}")
+    
+    # 生成所有实验的折线图
+    if csv_files:
+        print(f"正在为 {len(csv_files)} 个CSV文件生成折线图...")
+        generate_plots(csv_files)
     
     print("所有实验处理完毕！")
 
