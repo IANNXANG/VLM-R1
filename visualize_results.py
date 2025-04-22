@@ -65,18 +65,24 @@ def visualize_results(results_file, output_dir, sample_limit=None, thickness=3, 
             
             # 检查图像路径是否是绝对路径
             if not os.path.isabs(image_path):
-                # 尝试不同的基础路径
-                base_dirs = [
-                    "/c22940/zy/code/VLM-R1",
-                    "/c22940/zy/code/VLM-R1/data",
-                    "/c22940/zy/code/VLM-R1/otherdata"
-                ]
+                # 使用正确的图片路径
+                base_image_path = "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/images/screenspotv2_image"
+                image_filename = os.path.basename(image_path)
+                image_path = os.path.join(base_image_path, image_filename)
                 
-                for base_dir in base_dirs:
-                    test_path = os.path.join(base_dir, image_path)
-                    if os.path.exists(test_path):
-                        image_path = test_path
-                        break
+                # 如果上面的路径不存在，尝试其他可能的路径
+                if not os.path.exists(image_path):
+                    base_dirs = [
+                        "/c22940/zy/code/VLM-R1",
+                        "/c22940/zy/code/VLM-R1/otherdata",
+                        "/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2"
+                    ]
+                    
+                    for base_dir in base_dirs:
+                        test_path = os.path.join(base_dir, item['image'])
+                        if os.path.exists(test_path):
+                            image_path = test_path
+                            break
             
             # 读取图像
             img = cv2.imread(str(image_path))
