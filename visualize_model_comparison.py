@@ -47,7 +47,10 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
     print(f"Baseline模型样本总数: {len(baseline_results)}")
     
     # 创建映射以便根据图像路径快速查找baseline结果
-    baseline_map = {item['image']: item for item in baseline_results}
+    baseline_map = {}
+    for item in baseline_results:
+        key = (item['image'], item['question'])  # 使用图像路径和问题作为组合键
+        baseline_map[key] = item
     
     # 处理限制条件
     if correct_only and incorrect_only:
@@ -85,9 +88,9 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
             question = tuned_item['question']
             
             # 查找对应的baseline结果
-            baseline_item = baseline_map.get(image_path)
+            baseline_item = baseline_map.get((image_path, question))
             if not baseline_item:
-                print(f"警告: 在baseline结果中找不到图像 {image_path}")
+                print(f"警告: 在baseline结果中找不到图像 {image_path} 和问题 {question}")
                 continue
             
             # 检查图像路径是否是绝对路径
@@ -121,6 +124,12 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
             ground_truth = tuned_item['ground_truth']  # 真实标签（边界框）
             tuned_answer = tuned_item['extracted_answer']  # 训练后模型输出（点击坐标）
             baseline_answer = baseline_item['extracted_answer']  # baseline模型输出（点击坐标）
+            
+            # 注释掉调试输出
+            #print(f"处理图像 {image_path}:")
+            #print(f"  Ground Truth: {ground_truth}")
+            #print(f"  Tuned Model答案: {tuned_answer}")
+            #print(f"  Baseline答案: {baseline_answer}")
             
             tuned_correct = tuned_item['correct'] == 1  # 训练后模型是否正确
             baseline_correct = baseline_item['correct'] == 1  # baseline模型是否正确
@@ -159,12 +168,23 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
             
             # 添加文本标签
             font = cv2.FONT_HERSHEY_SIMPLEX
-            cv2.putText(img_with_bbox, "Ground Truth", (gt_x1, gt_y1 - 10), font, 0.5, (0, 255, 0), 2)
+            gt_coord_str = f"Ground Truth [{gt_x1},{gt_y1},{gt_x2},{gt_y2}]"
+            cv2.putText(img_with_bbox, gt_coord_str, (gt_x1, gt_y1 - 10), font, 0.5, (0, 255, 0), 2)
             
-            tuned_label = "Tuned Model (Correct)" if tuned_correct else "Tuned Model (Wrong)"
+            tuned_label = "Tuned Model"
+            if tuned_correct:
+                tuned_label += " (Correct)"
+            else:
+                tuned_label += " (Wrong)"
+            tuned_label += f" [{tuned_x},{tuned_y}]"
             cv2.putText(img_with_bbox, tuned_label, (tuned_x, tuned_y - 10), font, 0.5, (0, 0, 255), 2)
             
-            baseline_label = "Baseline (Correct)" if baseline_correct else "Baseline (Wrong)"
+            baseline_label = "Baseline"
+            if baseline_correct:
+                baseline_label += " (Correct)"
+            else:
+                baseline_label += " (Wrong)"
+            baseline_label += f" [{baseline_x},{baseline_y}]"
             cv2.putText(img_with_bbox, baseline_label, (baseline_x, baseline_y + 20), font, 0.5, (0, 165, 255), 2)
             
             # 在图像底部添加问题文本和准确率比较
