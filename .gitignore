@@ -220,3 +220,11 @@ Thumbs.db
 
 ## 特定源文件
 src/open-r1-multimodal/src/open_r1/grpo_jsonl_ocr.py
+
+# 忽略vis_results可视化结果目录
+vis_results/
+vis_results/*
+!vis_results/.gitkeep
+
+# 如果希望保留目录但忽略内容，可以取消下面这行的注释
+# !vis_results/
