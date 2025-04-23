@@ -1,0 +1,54 @@
+# ScreenSpot-Pro数据集配置文件
+datasets:
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_inventor_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_davinci_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_photoshop_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_linux_common_linux.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_pycharm_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_windows_common_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_matlab_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_autocad_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_powerpoint_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_origin_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_fruitloops_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_excel_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_macos_common_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_solidworks_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_vivado_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_vscode_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_vmware_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_quartus_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_android_studio_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_eviews_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_word_macos.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_illustrator_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_blender_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_premiere_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_unreal_engine_windows.json
+    sampling_strategy: all
+  - json_path: /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro/screenspot_pro_stata_windows.json
+    sampling_strategy: all

