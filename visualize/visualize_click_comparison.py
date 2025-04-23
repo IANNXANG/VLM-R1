@@ -250,7 +250,8 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
             else:
                 result_label = "baseline_better"
             
-            output_path = os.path.join(output_dir, f"{base_name}_{result_label}{ext}")
+            # 添加序号前缀到文件名
+            output_path = os.path.join(output_dir, f"{i+1:03d}_{base_name}_{result_label}{ext}")
             cv2.imwrite(output_path, extended_img)
             
             success_count += 1

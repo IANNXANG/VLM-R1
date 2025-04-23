@@ -1,7 +1,7 @@
 #!/bin/bash
 # ======================================================================
 # 模型比较可视化脚本
-# 此脚本用于运行visualize_model_comparison.py，比较两个模型在ScreenSpot任务上的表现
+# 此脚本用于运行visualize/visualize_click_comparison.py，比较两个模型在ScreenSpot任务上的表现
 # 作者：[您的名字]
 # 日期：2023-04-22
 # ======================================================================
@@ -16,9 +16,9 @@ TUNED_MODEL_PATH="logs/Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click/qwen2.5-vl-7b
 # Baseline模型结果路径
 BASELINE_MODEL_PATH="logs/Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click/qwen2_5vl_7b_instruct_baseline"
 # 输出目录
-OUTPUT_DIR="vis_results/model_comparison"
+OUTPUT_DIR="vis_results/click_comparison"
 # 样本限制（0表示处理所有样本）
-SAMPLE_LIMIT=20
+SAMPLE_LIMIT=0
 # 点半径大小
 POINT_RADIUS=5
 # 边界框线条粗细
@@ -78,10 +78,10 @@ function run_visualization {
     fi
     
     # 显示将要执行的命令
-    echo "执行命令: python visualize_model_comparison.py $cmd_args"
+    echo "执行命令: python visualize/visualize_click_comparison.py $cmd_args"
     
     # 执行命令
-    python visualize_model_comparison.py $cmd_args
+    python visualize/visualize_click_comparison.py $cmd_args
     
     # 检查命令执行结果
     if [ $? -eq 0 ]; then
@@ -146,8 +146,8 @@ fi
 cd "$BASE_PATH" || { echo "错误: 无法切换到目录 $BASE_PATH"; exit 1; }
 
 # 检查可视化脚本是否存在
-if [ ! -f "visualize_model_comparison.py" ]; then
-    echo "错误: visualize_model_comparison.py 文件不存在!"
+if [ ! -f "visualize/visualize_click_comparison.py" ]; then
+    echo "错误: visualize/visualize_click_comparison.py 文件不存在!"
     exit 1
 fi
 

@@ -158,15 +158,17 @@ def visualize_results(results_file, output_dir, sample_limit=None, thickness=3, 
             extended_img[:img_height, :] = img_with_bbox
             
             # 添加问题文本
-            for i, line in enumerate(question_lines):
-                y_pos = img_height + 30 + i * line_height
+            for j, line in enumerate(question_lines):
+                y_pos = img_height + 30 + j * line_height
                 cv2.putText(extended_img, line, (10, y_pos), font, font_scale, (255, 255, 255), font_thickness)
             
             # 保存图像
             image_filename = os.path.basename(str(image_path))
             base_name, ext = os.path.splitext(image_filename)
             result_label = "correct" if is_correct else "wrong"
-            output_path = os.path.join(output_dir, f"{base_name}_{result_label}{ext}")
+            
+            # 添加序号前缀到文件名
+            output_path = os.path.join(output_dir, f"{i+1:03d}_{base_name}_{result_label}{ext}")
             cv2.imwrite(output_path, extended_img)
             
             success_count += 1
@@ -185,7 +187,7 @@ def main():
     parser = argparse.ArgumentParser(description='可视化评估结果中的边界框')
     parser.add_argument('--results', type=str, required=True, 
                         help='评估结果JSON文件路径')
-    parser.add_argument('--output', type=str, default='visualized_results',
+    parser.add_argument('--output', type=str, default='vis_results/rec_comparison',
                         help='输出目录')
     parser.add_argument('--limit', type=int, default=None,
                         help='限制处理的样本数量')
@@ -223,8 +225,8 @@ def main():
     print(f"所有可视化图像已保存到: {os.path.abspath(args.output)}")
     print("\n用法示例:")
     print(f"1. 查看可视化图像: 打开 {os.path.abspath(args.output)} 文件夹")
-    print("2. 仅查看错误预测: python visualize_results.py --results <结果文件> --incorrect-only")
-    print("3. 限制处理样本数: python visualize_results.py --results <结果文件> --limit 20")
+    print("2. 仅查看错误预测: python visualize/visualize_rec_comparison.py --results <结果文件> --incorrect-only")
+    print("3. 限制处理样本数: python visualize/visualize_rec_comparison.py --results <结果文件> --limit 20")
 
 if __name__ == "__main__":
     main() 
