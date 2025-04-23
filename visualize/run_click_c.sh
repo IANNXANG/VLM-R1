@@ -29,6 +29,8 @@ ALPHA=0.3
 CORRECT_ONLY=false
 # 是否只处理训练后模型错误的样本 (true/false)
 INCORRECT_ONLY=false
+# 是否只处理至少有一个模型预测错误的样本 (true/false)
+AT_LEAST_ONE_WRONG=true
 
 # ======================================================================
 # 函数定义
@@ -42,6 +44,7 @@ function show_usage {
     echo "  -l, --limit        设置样本限制 [默认: $SAMPLE_LIMIT]"
     echo "  -c, --correct-only 仅处理训练后模型正确的样本 [默认: $CORRECT_ONLY]"
     echo "  -i, --incorrect-only 仅处理训练后模型错误的样本 [默认: $INCORRECT_ONLY]"
+    echo "  -w, --at-least-one-wrong 仅处理至少有一个模型预测错误的样本 [默认: $AT_LEAST_ONE_WRONG]"
     echo "  -o, --output-dir   指定输出目录 [默认: $OUTPUT_DIR]"
     echo ""
     echo "示例:"
@@ -75,6 +78,10 @@ function run_visualization {
     
     if [ "$INCORRECT_ONLY" = true ]; then
         cmd_args="$cmd_args --incorrect-only"
+    fi
+    
+    if [ "$AT_LEAST_ONE_WRONG" = true ]; then
+        cmd_args="$cmd_args --at-least-one-wrong"
     fi
     
     # 显示将要执行的命令
@@ -121,6 +128,10 @@ while [[ $# -gt 0 ]]; do
             INCORRECT_ONLY="$2"
             shift 2
             ;;
+        -w|--at-least-one-wrong)
+            AT_LEAST_ONE_WRONG="$2"
+            shift 2
+            ;;
         -o|--output-dir)
             OUTPUT_DIR="$2"
             shift 2
@@ -157,6 +168,7 @@ echo "平台: $PLATFORM"
 echo "样本限制: $SAMPLE_LIMIT"
 echo "只处理正确样本: $CORRECT_ONLY"
 echo "只处理错误样本: $INCORRECT_ONLY"
+echo "至少有一个模型预测错误: $AT_LEAST_ONE_WRONG"
 echo "输出目录: $OUTPUT_DIR"
 echo ""
 
