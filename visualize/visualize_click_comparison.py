@@ -8,7 +8,7 @@ import numpy as np
 import argparse
 from pathlib import Path
 
-def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, sample_limit=None, point_radius=5, thickness=3, alpha=0.3, correct_only=False, incorrect_only=False):
+def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, sample_limit=None, point_radius=5, thickness=3, alpha=0.3, correct_only=False, incorrect_only=False, at_least_one_wrong=False):
     """
     在图像上绘制不同模型的预测结果，并保存到新文件夹
     
@@ -22,6 +22,7 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
         alpha: 边界框填充区域的透明度
         correct_only: 仅处理正确预测的样本
         incorrect_only: 仅处理错误预测的样本
+        at_least_one_wrong: 仅处理至少有一个模型预测错误的样本
     """
     # 读取训练后模型JSON结果数据
     with open(tuned_results_file, 'r') as f:
@@ -58,6 +59,7 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
         correct_only = False
         incorrect_only = False
     
+    
     if correct_only:
         tuned_results = [r for r in tuned_results if r.get('correct') == 1]
         print(f"仅处理训练后模型正确预测样本，筛选后样本数: {len(tuned_results)}")
@@ -65,6 +67,23 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
     if incorrect_only:
         tuned_results = [r for r in tuned_results if r.get('correct') == 0]
         print(f"仅处理训练后模型错误预测样本，筛选后样本数: {len(tuned_results)}")
+        
+    if at_least_one_wrong:
+        # 创建筛选后的结果列表
+        filtered_results = []
+        for tuned_item in tuned_results:
+            image_path = tuned_item['image']
+            question = tuned_item['question']
+            key = (image_path, question)
+            
+            if key in baseline_map:
+                baseline_item = baseline_map[key]
+                # 如果至少有一个模型预测错误
+                if tuned_item['correct'] == 0 or baseline_item['correct'] == 0:
+                    filtered_results.append(tuned_item)
+        
+        tuned_results = filtered_results
+        print(f"仅处理至少有一个模型预测错误的样本，筛选后样本数: {len(tuned_results)}")
     
     # 限制样本数量
     if sample_limit is not None and sample_limit > 0:
@@ -213,13 +232,9 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
             if current_line:
                 question_lines.append(current_line)
             
-            # 添加准确率比较信息
-            accuracy_info = [
-                f"整体准确率比较: 训练后模型 {tuned_accuracy:.2f}% vs Baseline {baseline_accuracy:.2f}%"
-            ]
-            
-            # 计算需要的额外高度
-            extra_height = (len(question_lines) + len(accuracy_info) + 1) * line_height + 40  # 添加额外空间
+            # 移除准确率比较信息
+            # 计算需要的额外高度 (只包含问题文本)
+            extra_height = len(question_lines) * line_height + 40  # 添加额外空间
             extended_img = np.zeros((img_height + extra_height, img_width, 3), dtype=np.uint8)
             # 设置背景颜色为黑色
             extended_img[:] = (0, 0, 0)
@@ -229,11 +244,6 @@ def visualize_comparison(tuned_results_file, baseline_results_file, output_dir, 
             # 添加问题文本
             for j, line in enumerate(question_lines):
                 y_pos = img_height + 30 + j * line_height
-                cv2.putText(extended_img, line, (10, y_pos), font, font_scale, (255, 255, 255), font_thickness)
-            
-            # 添加准确率比较信息
-            for j, line in enumerate(accuracy_info):
-                y_pos = img_height + 30 + (len(question_lines) + 1 + j) * line_height
                 cv2.putText(extended_img, line, (10, y_pos), font, font_scale, (255, 255, 255), font_thickness)
             
             # 保存图像
@@ -287,6 +297,8 @@ def main():
                         help='仅处理训练后模型正确预测的样本')
     parser.add_argument('--incorrect-only', action='store_true',
                         help='仅处理训练后模型错误预测的样本')
+    parser.add_argument('--at-least-one-wrong', action='store_true',
+                        help='仅处理至少有一个模型预测错误的样本')
     args = parser.parse_args()
     
     # 验证输入文件
@@ -311,7 +323,8 @@ def main():
         args.thickness, 
         args.alpha,
         args.correct_only,
-        args.incorrect_only
+        args.incorrect_only,
+        args.at_least_one_wrong
     )
     
     print(f"\n总结:")
