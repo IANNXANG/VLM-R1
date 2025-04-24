@@ -37,7 +37,7 @@ OUTPUT_DIR = "logs"  # 输出CSV文件目录
 EXPERIMENT_TYPES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_results_",  # REC任务目录 -> REC结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
-    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_results_screenspot_",  # ScreenSpot桌面任务目录 -> ScreenSpot结果文件前缀
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_results_",  # ScreenSpot桌面任务目录 -> ScreenSpot结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Pro-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
 
     # [添加新实验]
