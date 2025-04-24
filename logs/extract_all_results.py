@@ -38,7 +38,7 @@ EXPERIMENT_TYPES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_results_",  # REC任务目录 -> REC结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_results_screenspot_",  # ScreenSpot桌面任务目录 -> ScreenSpot结果文件前缀
-    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Pro-Click": "click_results_screenspot_pro_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Pro-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
 
     # [添加新实验]
     # 添加格式: "logs中的目录名": "结果文件前缀_",
@@ -80,6 +80,33 @@ DATASET_MAPPING = {
     "screenspot_desktop_qwen2_5vl_7b_instruct_baseline": "screenspot_desktop",
     "screenspot_mobile_qwen2_5vl_7b_instruct_baseline": "screenspot_mobile", 
     "screenspot_web_qwen2_5vl_7b_instruct_baseline": "screenspot_web",
+    # ScreenSpot Pro标准数据集名称
+    "screenspot_pro_android_studio_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_android_studio_macos",
+    "screenspot_pro_autocad_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_autocad_windows",
+    "screenspot_pro_blender_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_blender_windows",
+    "screenspot_pro_davinci_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_davinci_macos", 
+    "screenspot_pro_excel_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_excel_macos",
+    "screenspot_pro_eviews_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_eviews_windows",
+    "screenspot_pro_fruitloops_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_fruitloops_windows",
+    "screenspot_pro_illustrator_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_illustrator_windows",
+    "screenspot_pro_inventor_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_inventor_windows",
+    "screenspot_pro_linux_common_linux_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_linux_common_linux",
+    "screenspot_pro_macos_common_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_macos_common_macos",
+    "screenspot_pro_matlab_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_matlab_macos",
+    "screenspot_pro_origin_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_origin_windows",
+    "screenspot_pro_photoshop_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_photoshop_windows",
+    "screenspot_pro_powerpoint_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_powerpoint_windows",
+    "screenspot_pro_premiere_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_premiere_windows",
+    "screenspot_pro_pycharm_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_pycharm_macos",
+    "screenspot_pro_quartus_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_quartus_windows",
+    "screenspot_pro_solidworks_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_solidworks_windows",
+    "screenspot_pro_stata_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_stata_windows",
+    "screenspot_pro_unreal_engine_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_unreal_engine_windows",
+    "screenspot_pro_vivado_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_vivado_windows",
+    "screenspot_pro_vmware_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_vmware_macos",
+    "screenspot_pro_vscode_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_vscode_macos",
+    "screenspot_pro_windows_common_windows_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_windows_common_windows",
+    "screenspot_pro_word_macos_qwen2_5vl_7b_instruct_baseline": "screenspot_pro_word_macos",
 
     # [添加新的数据集名称标准化映射]
     # 添加格式: "原始数据集名称": "标准化后的数据集名称",
