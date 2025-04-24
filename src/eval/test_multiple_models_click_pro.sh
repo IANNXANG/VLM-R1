@@ -88,7 +88,7 @@ BASELINE_MODELS=(
 # Checkpoint目录
 CHECKPOINT_DIR="/c22940/zy/code/VLM-R1/src/open-r1-multimodal/output"
 # 可能的训练名，注意根据实际情况调整
-RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Click"
+RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click"
 # 需要测试的检查点步数列表
 CHECKPOINTS=(334 50 100 150 200 250 300 0)  # 0表示原始模型，其他为检查点步数
 
