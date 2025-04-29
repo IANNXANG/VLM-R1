@@ -11,9 +11,10 @@ export CUDA_VISIBLE_DEVICES=2,3,4,5
 # 定义基础参数
 DATA_ROOT="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2/converted_data_click"
 IMAGE_ROOT="/c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2"
+NUM_GENERATIONS=16  # 每个样本的生成次数
 
 # 定义要评估的数据集 - 可以根据需要修改
-DATASETS=("screenspot_desktop" "screenspot_mobile" "screenspot_web")
+DATASETS=("screenspot_desktop")
 #DATASETS=("refcoco_val" "refcocop_val" "refcocog_val")
 # DATASETS=("lisa_test")  # 如果要评估LISA数据集，取消注释这行并注释上面一行
 
@@ -49,13 +50,14 @@ for model_config in "${BASELINE_MODELS[@]}"; do
   mkdir -p logs/$RUN_NAME/$model_name
   
   # 运行评估脚本
-  torchrun --nproc_per_node=4 src/eval/test_rec_baseline_click.py \
+  torchrun --nproc_per_node=4 src/eval/test_rec_baseline_click_maj.py \
     --model_path "$model_path" \
     --model_name "$model_name" \
     --run_name "$RUN_NAME" \
     --data_root "$DATA_ROOT" \
     --image_root "$IMAGE_ROOT" \
-    --datasets "${DATASETS[@]}"
+    --datasets "${DATASETS[@]}" \
+    --num_generations $NUM_GENERATIONS
   
   echo "基线模型 $model_name 评估完成"
   echo "结果保存在: logs/$RUN_NAME/$model_name/"
@@ -84,14 +86,15 @@ for steps in "${CHECKPOINTS[@]}"; do
   mkdir -p logs/$RUN_NAME/$MODEL_NAME
   
   # 运行评估脚本，显式指定checkpoint_dir路径
-  torchrun --nproc_per_node=4 src/eval/test_rec_r1_click.py \
+  torchrun --nproc_per_node=4 src/eval/test_rec_r1_click_maj.py \
     --steps $steps \
     --run_name "$RUN_NAME" \
     --model_name "$MODEL_NAME" \
     --data_root "$DATA_ROOT" \
     --image_root "$IMAGE_ROOT" \
     --checkpoint_dir "$CHECKPOINT_DIR" \
-    --datasets "${DATASETS[@]}"
+    --datasets "${DATASETS[@]}" \
+    --num_generations $NUM_GENERATIONS
   
   echo "检查点 $MODEL_NAME 评估完成"
   echo "结果保存在: logs/$RUN_NAME/$MODEL_NAME/"

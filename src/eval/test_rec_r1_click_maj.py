@@ -37,6 +37,8 @@ def parse_args():
     parser.add_argument("--datasets", type=str, nargs='+', 
                         default=['screenspot_desktop', 'screenspot_mobile', 'screenspot_web'],
                         help="要评估的数据集列表")
+    parser.add_argument("--num_generations", type=int, default=16,
+                        help="每个样本的生成次数")
     return parser.parse_args()
 
 def setup_distributed():
@@ -59,6 +61,7 @@ args = parse_args()
 # 设置评估的检查点步数和运行名称
 steps = args.steps
 RUN_NAME = args.run_name
+NUM_GENERATIONS = args.num_generations
 
 if rank == 0:
     print(f"Evaluating {RUN_NAME}, steps: {steps}")
@@ -216,25 +219,28 @@ for ds in TEST_DATASETS:
         inputs = inputs.to(device)
 
         # Inference: Generation of the output
-        generated_ids = model.generate(
-            **inputs, 
-            use_cache=True, 
-            max_new_tokens=256, 
-            do_sample=True,  # 改为True以生成不同输出
-            num_return_sequences=32,  # 每个输入生成32个输出
-            temperature=0.7  # 添加温度参数控制多样性
-        )
+        batch_outputs = []
+        for _ in range(NUM_GENERATIONS):  # 顺序生成多次
+            generated_ids = model.generate(
+                **inputs, 
+                use_cache=True, 
+                max_new_tokens=256, 
+                do_sample=True,  # 使用采样
+                temperature=0.5,  # 使用较低的温度，保持预测的稳定性
+            )
+            
+            generated_ids_trimmed = [
+                out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+            ]
+            batch_output_text = processor.batch_decode(
+                generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
+            )
+            batch_outputs.append(batch_output_text)
         
-        generated_ids_trimmed = [
-            out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
-        ]
-        batch_output_text = processor.batch_decode(
-            generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
-        )
-        
-        # 将32个输出组织成列表
-        batch_outputs = [batch_output_text[i:i+32] for i in range(0, len(batch_output_text), 32)]
-        rank_outputs.extend(batch_outputs)
+        # 将多次生成的输出组织成列表
+        for i in range(len(batch_outputs[0])):  # 对每个输入样本
+            sample_outputs = [batch_outputs[j][i] for j in range(NUM_GENERATIONS)]  # 收集所有生成的输出
+            rank_outputs.append(sample_outputs)
 
     print(f"Rank {rank} has finished processing {len(rank_outputs)} examples")
 
@@ -259,13 +265,13 @@ for ds in TEST_DATASETS:
         total_correct = 0
 
         for input_example, model_outputs in zip(data, all_outputs):
-            original_outputs = model_outputs  # 现在是一个包含32个输出的列表
+            original_outputs = model_outputs  # 现在是一个包含多个输出的列表
             ground_truth = input_example['solution']
             
-            # 提取32个坐标点
+            # 提取所有坐标点
             model_answers = [extract_point_answer(output) for output in original_outputs]
             
-            # 计算32次预测的平均正确率
+            # 计算多次预测的平均正确率
             correct_scores = []
             for answer in model_answers:
                 if answer is not None:
@@ -280,8 +286,8 @@ for ds in TEST_DATASETS:
                 'image': input_example['image'],
                 'question': input_example['problem'],
                 'ground_truth': ground_truth,
-                'model_outputs': original_outputs,  # 保存所有32个输出
-                'extracted_answers': model_answers,  # 保存所有32个坐标
+                'model_outputs': original_outputs,  # 保存所有输出
+                'extracted_answers': model_answers,  # 保存所有坐标
                 'correct_scores': correct_scores,  # 保存每次预测的正确性
                 'avg_correct': avg_correct  # 保存平均正确率
             }
@@ -300,7 +306,7 @@ for ds in TEST_DATASETS:
             json.dump({
                 'accuracy': accuracy,
                 'results': final_output,
-                'num_generations': 32  # 添加生成数量信息
+                'num_generations': NUM_GENERATIONS  # 使用全局参数
             }, f, indent=2)
 
         print(f"Results saved to {output_path}")
