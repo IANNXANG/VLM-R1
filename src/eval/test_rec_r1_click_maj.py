@@ -39,6 +39,8 @@ def parse_args():
                         help="要评估的数据集列表")
     parser.add_argument("--num_generations", type=int, default=16,
                         help="每个样本的生成次数")
+    parser.add_argument("--temperature", type=float, default=0.3,
+                        help="生成温度，控制采样随机性")
     return parser.parse_args()
 
 def setup_distributed():
@@ -62,9 +64,11 @@ args = parse_args()
 steps = args.steps
 RUN_NAME = args.run_name
 NUM_GENERATIONS = args.num_generations
+TEMPERATURE = args.temperature
 
 if rank == 0:
     print(f"Evaluating {RUN_NAME}, steps: {steps}")
+    print(f"Using temperature: {TEMPERATURE}")
 
 # 构建模型路径和日志目录
 if steps != 0:
@@ -80,8 +84,8 @@ else:
     # 为日志设置子目录
     MODEL_LOG_DIR = MODEL_NAME
 
-# 设置输出路径
-OUTPUT_PATH = f"./logs/{RUN_NAME}/{MODEL_LOG_DIR}/click_results_{{DATASET}}.json"
+# 设置输出路径，添加温度信息
+OUTPUT_PATH = f"./logs/{RUN_NAME}/{MODEL_LOG_DIR}/temp_{TEMPERATURE}/click_results_{{DATASET}}.json"
 
 # 使用命令行参数设置数据集相关参数
 BSZ = 4
@@ -226,7 +230,7 @@ for ds in TEST_DATASETS:
                 use_cache=True, 
                 max_new_tokens=256, 
                 do_sample=True,  # 使用采样
-                temperature=0.5,  # 使用较低的温度，保持预测的稳定性
+                temperature=TEMPERATURE,  # 使用命令行参数设置的温度
             )
             
             generated_ids_trimmed = [
@@ -295,7 +299,7 @@ for ds in TEST_DATASETS:
 
         # 计算总体准确率
         accuracy = (total_correct / len(data)) * 100
-        print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
+        print(f"\nAccuracy of {ds} with temperature {TEMPERATURE}: {accuracy:.2f}%")
 
         # 保存结果到JSON文件
         output_path = OUTPUT_PATH.format(DATASET=ds)
@@ -305,6 +309,7 @@ for ds in TEST_DATASETS:
         with open(output_path, "w") as f:
             json.dump({
                 'accuracy': accuracy,
+                'temperature': TEMPERATURE,  # 保存使用的温度值
                 'results': final_output,
                 'num_generations': NUM_GENERATIONS  # 使用全局参数
             }, f, indent=2)

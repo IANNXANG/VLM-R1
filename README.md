@@ -15,7 +15,7 @@
 
 Since the introduction of [Deepseek-R1](https://github.com/deepseek-ai/DeepSeek-R1), numerous works have emerged focusing on reproducing and improving upon it. In this project, we propose VLM-R1, a stable and generalizable R1-style Large Vision-Language Model.
 
-Specifically, for the task of Referring Expression Comprehension (REC), we trained [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) using both R1 and SFT approaches. The results reveal that, on the in-domain test data, the performance of the SFT model shows little change compared to that of the R1 model base model when the number of training steps is relatively small (100–600 steps), while the R1 model shows a steady improvement (as shown at the left of the figure below). More importantly, on the out-of-domain test data, the SFT model’s performance deteriorates slightly as the number of steps increases. Nevertheless, the RL model generalizes its reasoning ability to the out-of-domain data (as shown at the right of the figure below).
+Specifically, for the task of Referring Expression Comprehension (REC), we trained [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) using both R1 and SFT approaches. The results reveal that, on the in-domain test data, the performance of the SFT model shows little change compared to that of the R1 model base model when the number of training steps is relatively small (100–600 steps), while the R1 model shows a steady improvement (as shown at the left of the figure below). More importantly, on the out-of-domain test data, the SFT model's performance deteriorates slightly as the number of steps increases. Nevertheless, the RL model generalizes its reasoning ability to the out-of-domain data (as shown at the right of the figure below).
 
 ![image](./assets/performance3.png)
 \* *We found previous REC SFT exps used a mismatch pixel config. Therefore, we re-run the study with the correct config on a more complex out-of-domain data. See our [findings](https://om-ai-lab.github.io/2025_03_24.html) for details.*
@@ -272,4 +272,38 @@ If you find this project useful, welcome to cite us.
   note         = {Accessed: 2025-02-15},
   year         = {2025}
 }
+```
+
+## 主要文件
+
+- `/src/open-r1-multimodal/`: 包含训练多模态模型的代码
+- `/otherdata/`: 包含了用于训练和评估的图像和标注数据
+- `/src/eval/`: 包含了用于评估模型的脚本
+
+## 评估脚本
+
+主要评估脚本为 `src/eval/test_rec_r1_click_maj.py`，它评估模型预测屏幕区域点击目标的能力。
+
+### 参数说明
+
+- `--steps`: 检查点步数，0表示使用原始模型
+- `--run_name`: 训练运行名称，用于构建检查点路径
+- `--model_name`: 模型名称，用于结果文件命名，如不提供则自动生成
+- `--base_model_path`: 基础模型路径（当steps=0时使用）
+- `--checkpoint_dir`: 检查点目录
+- `--data_root`: 数据集根目录
+- `--image_root`: 图像根目录
+- `--datasets`: 要评估的数据集列表
+- `--num_generations`: 每个样本的生成次数
+- `--temperature`: 生成温度，控制采样随机性（默认值0.3）
+
+### 使用示例
+
+```bash
+python src/eval/test_rec_r1_click_maj.py \
+    --steps 3000 \
+    --run_name Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click \
+    --datasets screenspot_desktop \
+    --num_generations 16 \
+    --temperature 0.3
 ```
