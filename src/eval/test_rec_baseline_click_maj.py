@@ -33,6 +33,8 @@ def parse_args():
     parser.add_argument("--datasets", type=str, nargs='+', 
                         default=['refcoco_val', 'refcocop_val', 'refcocog_val'],
                         help="要评估的数据集列表")
+    parser.add_argument("--num_generations", type=int, default=16,
+                        help="每个样本的生成次数")
     return parser.parse_args()
 
 def setup_distributed():
@@ -60,6 +62,7 @@ RUN_NAME = args.run_name
 DATA_ROOT = args.data_root
 IMAGE_ROOT = args.image_root
 TEST_DATASETS = args.datasets
+NUM_GENERATIONS = args.num_generations
 
 # 设置输出路径
 OUTPUT_PATH = f"./logs/{RUN_NAME}/{MODEL_NAME}/click_results_{{DATASET}}_{MODEL_NAME}.json"
@@ -185,16 +188,28 @@ for ds in TEST_DATASETS:
         inputs = inputs.to(device)
 
         # Inference: Generation of the output
-        generated_ids = model.generate(**inputs, use_cache=True, max_new_tokens=256, do_sample=False)
+        batch_outputs = []
+        for _ in range(NUM_GENERATIONS):  # 顺序生成多次
+            generated_ids = model.generate(
+                **inputs, 
+                use_cache=True, 
+                max_new_tokens=256, 
+                do_sample=True,  # 使用采样
+                temperature=0.5,  # 使用较低的温度，保持预测的稳定性
+            )
+            
+            generated_ids_trimmed = [
+                out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+            ]
+            batch_output_text = processor.batch_decode(
+                generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
+            )
+            batch_outputs.append(batch_output_text)
         
-        generated_ids_trimmed = [
-            out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
-        ]
-        batch_output_text = processor.batch_decode(
-            generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
-        )
-        
-        rank_outputs.extend(batch_output_text)
+        # 将多次生成的输出组织成列表
+        for i in range(len(batch_outputs[0])):  # 对每个输入样本
+            sample_outputs = [batch_outputs[j][i] for j in range(NUM_GENERATIONS)]  # 收集所有生成的输出
+            rank_outputs.append(sample_outputs)
 
     print(f"Rank {rank} has finished processing {len(rank_outputs)} examples")
 
@@ -216,37 +231,42 @@ for ds in TEST_DATASETS:
         assert all_outputs[-1] is not None
 
         final_output = []
-        correct_number = 0
+        total_correct = 0
 
-        for input_example, model_output in zip(data, all_outputs):
-            original_output = model_output
+        for input_example, model_outputs in zip(data, all_outputs):
+            original_outputs = model_outputs  # 现在是一个包含多个输出的列表
             ground_truth = input_example['solution']
-            # 使用点提取而不是边界框
-            model_answer = extract_point_answer(original_output)
             
-            # 评估点是否在真实边界框内
-            correct = 0
-            if model_answer is not None:
-                if point_in_bbox(model_answer, ground_truth):
-                    correct = 1
-            correct_number += correct
+            # 提取所有坐标点
+            model_answers = [extract_point_answer(output) for output in original_outputs]
+            
+            # 计算多次预测的平均正确率
+            correct_scores = []
+            for answer in model_answers:
+                if answer is not None:
+                    correct_scores.append(1 if point_in_bbox(answer, ground_truth) else 0)
+                else:
+                    correct_scores.append(0)
+            avg_correct = sum(correct_scores) / len(correct_scores)
+            total_correct += avg_correct
             
             # 创建结果字典
             result = {
                 'image': input_example['image'],
                 'question': input_example['problem'],
                 'ground_truth': ground_truth,
-                'model_output': original_output,
-                'extracted_answer': model_answer,
-                'correct': correct
+                'model_outputs': original_outputs,  # 保存所有输出
+                'extracted_answers': model_answers,  # 保存所有坐标
+                'correct_scores': correct_scores,  # 保存每次预测的正确性
+                'avg_correct': avg_correct  # 保存平均正确率
             }
             final_output.append(result)
 
-        # Calculate and print accuracy
-        accuracy = correct_number / len(data) * 100
+        # 计算总体准确率
+        accuracy = (total_correct / len(data)) * 100
         print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
 
-        # Save results to a JSON file
+        # 保存结果到JSON文件
         output_path = OUTPUT_PATH.format(DATASET=ds)
         output_dir = os.path.dirname(output_path)
         if not os.path.exists(output_dir):
@@ -254,7 +274,8 @@ for ds in TEST_DATASETS:
         with open(output_path, "w") as f:
             json.dump({
                 'accuracy': accuracy,
-                'results': final_output
+                'results': final_output,
+                'num_generations': NUM_GENERATIONS  # 使用全局参数
             }, f, indent=2)
 
         print(f"Results saved to {output_path}")
