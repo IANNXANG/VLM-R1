@@ -216,14 +216,7 @@ for ds in TEST_DATASETS:
         inputs = inputs.to(device)
 
         # Inference: Generation of the output
-        generated_ids = model.generate(
-            **inputs, 
-            use_cache=True, 
-            max_new_tokens=256, 
-            do_sample=True,  # 改为True以生成不同输出
-            num_return_sequences=32,  # 每个输入生成32个输出
-            temperature=0.7  # 添加温度参数控制多样性
-        )
+        generated_ids = model.generate(**inputs, use_cache=True, max_new_tokens=256, do_sample=False)
         
         generated_ids_trimmed = [
             out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
@@ -232,9 +225,7 @@ for ds in TEST_DATASETS:
             generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
         )
         
-        # 将32个输出组织成列表
-        batch_outputs = [batch_output_text[i:i+32] for i in range(0, len(batch_output_text), 32)]
-        rank_outputs.extend(batch_outputs)
+        rank_outputs.extend(batch_output_text)
 
     print(f"Rank {rank} has finished processing {len(rank_outputs)} examples")
 
@@ -256,42 +247,37 @@ for ds in TEST_DATASETS:
         assert all_outputs[-1] is not None
 
         final_output = []
-        total_correct = 0
+        correct_number = 0
 
-        for input_example, model_outputs in zip(data, all_outputs):
-            original_outputs = model_outputs  # 现在是一个包含32个输出的列表
+        for input_example, model_output in zip(data, all_outputs):
+            original_output = model_output
             ground_truth = input_example['solution']
+            # 使用点提取函数代替边界框提取
+            model_answer = extract_point_answer(original_output)
             
-            # 提取32个坐标点
-            model_answers = [extract_point_answer(output) for output in original_outputs]
-            
-            # 计算32次预测的平均正确率
-            correct_scores = []
-            for answer in model_answers:
-                if answer is not None:
-                    correct_scores.append(1 if point_in_bbox(answer, ground_truth) else 0)
-                else:
-                    correct_scores.append(0)
-            avg_correct = sum(correct_scores) / len(correct_scores)
-            total_correct += avg_correct
+            # 评估点是否在真实边界框内
+            correct = 0
+            if model_answer is not None:
+                if point_in_bbox(model_answer, ground_truth):
+                    correct = 1
+            correct_number += correct
             
             # 创建结果字典
             result = {
                 'image': input_example['image'],
                 'question': input_example['problem'],
                 'ground_truth': ground_truth,
-                'model_outputs': original_outputs,  # 保存所有32个输出
-                'extracted_answers': model_answers,  # 保存所有32个坐标
-                'correct_scores': correct_scores,  # 保存每次预测的正确性
-                'avg_correct': avg_correct  # 保存平均正确率
+                'model_output': original_output,
+                'extracted_answer': model_answer,
+                'correct': correct
             }
             final_output.append(result)
 
-        # 计算总体准确率
-        accuracy = (total_correct / len(data)) * 100
+        # Calculate and print accuracy
+        accuracy = correct_number / len(data) * 100
         print(f"\nAccuracy of {ds}: {accuracy:.2f}%")
 
-        # 保存结果到JSON文件
+        # Save results to a JSON file
         output_path = OUTPUT_PATH.format(DATASET=ds)
         output_dir = os.path.dirname(output_path)
         if not os.path.exists(output_dir):
@@ -299,8 +285,7 @@ for ds in TEST_DATASETS:
         with open(output_path, "w") as f:
             json.dump({
                 'accuracy': accuracy,
-                'results': final_output,
-                'num_generations': 32  # 添加生成数量信息
+                'results': final_output
             }, f, indent=2)
 
         print(f"Results saved to {output_path}")
@@ -308,7 +293,6 @@ for ds in TEST_DATASETS:
 
     # Synchronize all processes
     dist.barrier()
-
 
 
 
