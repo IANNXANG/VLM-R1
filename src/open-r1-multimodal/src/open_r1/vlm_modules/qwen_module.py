@@ -186,3 +186,78 @@ class Qwen2VLModule(VLMBaseModule):
                     f.write(f"Content: {content}\n")
                     f.write(f"Solution (bbox): {sol}\n")
         return rewards
+
+    @staticmethod
+    def majority_click_reward(completions, **kwargs):
+        """
+        使用majority voting（聚类）生成伪标签并计算奖励。
+        奖励规则：属于最大簇的点获得1.0的奖励，其他点获得0.0的奖励。
+        """
+        import re
+        import os
+        import numpy as np
+        from datetime import datetime
+        from sklearn.cluster import DBSCAN
+        
+        def extract_point(content):
+            """从模型输出中提取点坐标"""
+            answer_tag_pattern = r'<answer>(.*?)</answer>'
+            point_pattern = r'\[\s*(\d+)\s*,\s*(\d+)\s*\]'
+            
+            try:
+                content_answer_match = re.search(answer_tag_pattern, content, re.DOTALL)
+                if content_answer_match:
+                    content_answer = content_answer_match.group(1).strip()
+                    point_match = re.search(point_pattern, content_answer)
+                    if point_match:
+                        return [int(point_match.group(1)), int(point_match.group(2))]
+            except Exception:
+                pass
+            return None
+            
+        contents = [completion[0]["content"] for completion in completions]
+        rewards = []
+        current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
+        
+        # 提取所有坐标点
+        points = []
+        for content in contents:
+            point = extract_point(content)
+            if point:
+                points.append(point)
+            else:
+                # 如果无法提取坐标，添加一个远离的点以保持数组大小一致
+                points.append([-999, -999])
+        
+        # 如果没有足够的有效点，返回全0奖励
+        if len([p for p in points if p[0] != -999]) < 2:
+            return [0.0] * len(contents)
+        
+        # 使用DBSCAN进行聚类
+        points_array = np.array(points)
+        eps = 40  # 聚类的最大距离，与visualize_reward_hit_rate.py中相同
+        dbscan = DBSCAN(eps=eps, min_samples=1).fit(points_array)
+        cluster_labels = dbscan.labels_
+        
+        # 找出最大的簇
+        label_counts = {}
+        for label in cluster_labels:
+            if label not in label_counts:
+                label_counts[label] = 0
+            label_counts[label] += 1
+        
+        largest_cluster_label = max(label_counts, key=label_counts.get) if label_counts else -1
+        
+        # 生成奖励：在最大簇中的点为1，其他为0
+        rewards = [1.0 if label == largest_cluster_label else 0.0 for label in cluster_labels]
+        
+        if os.getenv("DEBUG_MODE") == "true":
+            log_path = os.getenv("LOG_PATH")
+            with open(log_path, "a", encoding='utf-8') as f:
+                f.write(f"------------- {current_time} Majority Click Reward -------------\n")
+                f.write(f"Points: {points}\n")
+                f.write(f"Cluster labels: {cluster_labels}\n")
+                f.write(f"Largest cluster: {largest_cluster_label}\n")
+                f.write(f"Rewards: {rewards}\n")
+                
+        return rewards
