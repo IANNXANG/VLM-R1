@@ -53,12 +53,12 @@ class GRPOScriptArguments(ScriptArguments):
 
     Args:
         reward_funcs (`list[str]`):
-            List of reward functions. Possible values: 'click_accuracy', 'click_format'.
+            List of reward functions. Possible values: 'click_accuracy', 'click_format', 'majority_click'.
     """
 
     reward_funcs: list[str] = field(
         default_factory=lambda: ["click_accuracy", "click_format"],
-        metadata={"help": "List of reward functions. Possible values: 'click_accuracy', 'click_format'"},
+        metadata={"help": "List of reward functions. Possible values: 'click_accuracy', 'click_format', 'majority_click'"},
     )
     max_pixels: Optional[int] = field(
         default=12845056,
@@ -213,6 +213,7 @@ def main(script_args, training_args, model_args):
     reward_funcs_registry = {
         "click_accuracy": vlm_module_cls.click_reward,
         "click_format": vlm_module_cls.format_reward_click,
+        "majority_click": vlm_module_cls.majority_click_reward,
     }
     reward_funcs = [reward_funcs_registry[func] for func in script_args.reward_funcs]
     print("reward_funcs:", reward_funcs)

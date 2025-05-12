@@ -18,8 +18,8 @@ torchrun --nproc_per_node="4" \
     --dataset_name data_config/rec_with_screenspot_click.yaml \
     --image_root /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2 \
     --max_prompt_length 1024 \
-    --num_generations 4 \
-    --per_device_train_batch_size 1 \
+    --num_generations 16 \
+    --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 2 \
     --logging_steps 1 \
     --bf16 \

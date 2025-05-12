@@ -3,7 +3,7 @@ cd /c22940/zy/code/VLM-R1/src/open-r1-multimodal
 export DEBUG_MODE="true"
 export CUDA_VISIBLE_DEVICES=2,3,4,5
 
-RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-Maj"
+RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting"
 export LOG_PATH="./debug_log_$RUN_NAME.txt"
 
 torchrun --nproc_per_node="4" \
@@ -18,8 +18,8 @@ torchrun --nproc_per_node="4" \
     --dataset_name data_config/rec_with_screenspot_click.yaml \
     --image_root /c22940/zy/code/VLM-R1/otherdata/ScreenSpot-v2 \
     --max_prompt_length 1024 \
-    --num_generations 4 \
-    --per_device_train_batch_size 1 \
+    --num_generations 16 \
+    --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 2 \
     --logging_steps 1 \
     --bf16 \
@@ -38,4 +38,5 @@ torchrun --nproc_per_node="4" \
     --lora_alpha 128 \
     --lora_dropout 0.05 \
     --lora_task_type CAUSAL_LM \
-    --freeze_vision_modules true 
+    --freeze_vision_modules true \
+    --reward_funcs majority_click click_format 
