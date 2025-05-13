@@ -286,7 +286,7 @@ class Qwen2VLGRPOVLLMTrainer(Trainer):
         self.generation_config = GenerationConfig(
             max_new_tokens=self.max_completion_length,
             do_sample=True,
-            temperature=1,  # HACK
+            temperature=0.7,  # 原来是1.0，HACK
             num_return_sequences=self.num_generations,
             pad_token_id=pad_token_id,
         )

@@ -3,7 +3,7 @@ cd /c22940/zy/code/VLM-R1/src/open-r1-multimodal
 export DEBUG_MODE="true"
 export CUDA_VISIBLE_DEVICES=2,3,4,5
 
-RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting"
+RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.7"
 export LOG_PATH="./debug_log_$RUN_NAME.txt"
 
 torchrun --nproc_per_node="4" \
