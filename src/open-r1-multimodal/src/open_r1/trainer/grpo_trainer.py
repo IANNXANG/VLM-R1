@@ -362,10 +362,11 @@ class VLMGRPOTrainer(Trainer):
 
         self.max_completion_length = args.max_completion_length  # = |o_i| in the GRPO paper
         self.num_generations = args.num_generations  # = G in the GRPO paper
+        print("当前温度是temperature: "+str(args.temperature))
         self.generation_config = GenerationConfig(
             max_new_tokens=self.max_completion_length,
             do_sample=True,  
-            temperature=0.9,
+            temperature=args.temperature,
             pad_token_id=pad_token_id,
         )
         if hasattr(self.vlm_module, "get_eos_token_id"): # For InternVL

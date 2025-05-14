@@ -283,10 +283,11 @@ class Qwen2VLGRPOVLLMTrainer(Trainer):
             args.max_completion_length
         )  # = |o_i| in the GRPO paper
         self.num_generations = args.num_generations  # = G in the GRPO paper
+        print("当前温度是temperature（vllm）: "+str(args.temperature))
         self.generation_config = GenerationConfig(
             max_new_tokens=self.max_completion_length,
             do_sample=True,
-            temperature=0.9,  # 原来是1.0，HACK
+            temperature=args.temperature,
             num_return_sequences=self.num_generations,
             pad_token_id=pad_token_id,
         )
