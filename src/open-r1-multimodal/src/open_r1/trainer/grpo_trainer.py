@@ -365,8 +365,7 @@ class VLMGRPOTrainer(Trainer):
         self.generation_config = GenerationConfig(
             max_new_tokens=self.max_completion_length,
             do_sample=True,  
-            temperature=0.7,
-            # temperature=1  #原先是 1，现在改成 0.7
+            temperature=0.9,
             pad_token_id=pad_token_id,
         )
         if hasattr(self.vlm_module, "get_eos_token_id"): # For InternVL
