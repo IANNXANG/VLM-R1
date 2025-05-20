@@ -6,7 +6,7 @@
     "width": 960,
     "normal_caption": "close this window",
     "image": "images/screenspotv2_image/pc_ede36f9b-1154-4f76-b7f8-c15d7d3f9b6e.png",
-    "problem": "close this window",
+    "problem": "open the file New Microsoft Visio Drawing",
     "solution": [
       910,
       78,
@@ -27,7 +27,7 @@
     "width": 960,
     "normal_caption": "minimize this window",
     "image": "images/screenspotv2_image/pc_5e09e8e9-7ef6-44be-ad54-aeaeac151897.png",
-    "problem": "minimize this window",
+    "problem": "click the MEMORABILIA tab",
     "solution": [
       835,
       0,
@@ -48,7 +48,7 @@
     "width": 1920,
     "normal_caption": "view solitaire daily challenges",
     "image": "images/screenspotv2_image/pc_2c6dc6ea-fd6f-4cbb-9954-2d6a68610a48.png",
-    "problem": "view solitaire daily challenges",
+    "problem": "click the Play button under the Microsoft Solitaire Collection banner",
     "solution": [
       1477,
       450,
@@ -69,7 +69,7 @@
     "width": 960,
     "normal_caption": "open the Microsoft store",
     "image": "images/screenspotv2_image/pc_b072d03a-51cb-4dd6-bdeb-152d3fd44e6b.png",
-    "problem": "open the Microsoft store",
+    "problem": "open Microsoft Store",
     "solution": [
       176,
       202,
@@ -90,7 +90,7 @@
     "width": 960,
     "normal_caption": "adjust the style",
     "image": "images/screenspotv2_image/pc_ac2d2c5e-fe5a-4233-95b4-2de18ef76a9e.png",
-    "problem": "adjust the style",
+    "problem": "select the orange fill color option",
     "solution": [
       635,
       360,
@@ -111,7 +111,7 @@
     "width": 960,
     "normal_caption": "minimize calculator",
     "image": "images/screenspotv2_image/pc_f0122b91-3f8b-4510-9a6e-f0239d84b94e.png",
-    "problem": "minimize calculator",
+    "problem": "click the number 1 button",
     "solution": [
       697,
       63,
@@ -132,7 +132,7 @@
     "width": 960,
     "normal_caption": "open the download page",
     "image": "images/screenspotv2_image/pc_354a6cb2-3fe0-4cea-950c-d7f8e01fdf45.png",
-    "problem": "open the download page",
+    "problem": "click the Sign in button",
     "solution": [
       843,
       7,
@@ -153,7 +153,7 @@
     "width": 960,
     "normal_caption": "open the help menu",
     "image": "images/screenspotv2_image/pc_d6b09201-c944-4ad9-a0a2-ff78e8f056ce.png",
-    "problem": "open the help menu",
+    "problem": "click the Help icon",
     "solution": [
       1,
       434,
@@ -174,7 +174,7 @@
     "width": 960,
     "normal_caption": "save the file",
     "image": "images/screenspotv2_image/pc_db6b6fa2-11cc-4b06-88cb-22c180f07a3b.png",
-    "problem": "save the file",
+    "problem": "select the New Slide option from the Slides dropdown menu",
     "solution": [
       9,
       0,
@@ -195,7 +195,7 @@
     "width": 960,
     "normal_caption": "search for software ",
     "image": "images/screenspotv2_image/pc_6dfa677c-7772-46fb-8c83-14a33b0806b4.png",
-    "problem": "search for software ",
+    "problem": "click the purple square with the paintbrush icon",
     "solution": [
       316,
       0,
@@ -216,7 +216,7 @@
     "width": 960,
     "normal_caption": "add this page to favourites",
     "image": "images/screenspotv2_image/pc_bc9ed2f6-79c1-4a35-bcb5-4760bf4ed57d.png",
-    "problem": "add this page to favourites",
+    "problem": "click the MEMORABILIA link",
     "solution": [
       880,
       6,
@@ -237,7 +237,7 @@
     "width": 960,
     "normal_caption": "choose language for windows",
     "image": "images/screenspotv2_image/pc_2c56f301-8e71-4498-8e52-44b37ac1a298.png",
-    "problem": "choose language for windows",
+    "problem": "select the language option for Chinese (Simplified, China)",
     "solution": [
       458,
       133,
@@ -258,7 +258,7 @@
     "width": 960,
     "normal_caption": "input method toolbar",
     "image": "images/screenspotv2_image/pc_e618dc7e-8ffb-4a37-a317-9d3908c38395.png",
-    "problem": "input method toolbar",
+    "problem": "open the start menu",
     "solution": [
       883,
       496,
@@ -279,7 +279,7 @@
     "width": 960,
     "normal_caption": "access the personal account interface",
     "image": "images/screenspotv2_image/pc_54779155-8627-4cac-8ea6-98277cfe0647.png",
-    "problem": "access the personal account interface",
+    "problem": "view the holiday game streaming event details",
     "solution": [
       778,
       4,
@@ -300,7 +300,7 @@
     "width": 960,
     "normal_caption": "network and internet settings",
     "image": "images/screenspotv2_image/pc_ad16765f-de52-4903-b406-fb5213b94db9.png",
-    "problem": "network and internet settings",
+    "problem": "open the start menu",
     "solution": [
       924,
       496,
@@ -321,7 +321,7 @@
     "width": 960,
     "normal_caption": "open a new tab",
     "image": "images/screenspotv2_image/pc_1ebb6beb-3187-45a6-a5a6-e50aa9a327e5.png",
-    "problem": "open a new tab",
+    "problem": "follow Kai Havertz",
     "solution": [
       813,
       0,
@@ -342,7 +342,7 @@
     "width": 960,
     "normal_caption": "click the file processing menu",
     "image": "images/screenspotv2_image/pc_221d3c5a-0a1b-456e-9676-7b5ff95cc1b1.png",
-    "problem": "click the file processing menu",
+    "problem": "select the View menu option",
     "solution": [
       10,
       84,
@@ -363,7 +363,7 @@
     "width": 960,
     "normal_caption": "open settings",
     "image": "images/screenspotv2_image/pc_a8b0f843-7aaf-4369-ac2b-a121f1ccb024.png",
-    "problem": "open settings",
+    "problem": "click the gear icon to access settings",
     "solution": [
       1,
       30,
@@ -384,7 +384,7 @@
     "width": 960,
     "normal_caption": "open the music library",
     "image": "images/screenspotv2_image/pc_7f0b3e40-e5f5-462b-96c3-e8a97a3a504b.png",
-    "problem": "open the music library",
+    "problem": "select the Music library option",
     "solution": [
       2,
       48,
@@ -405,7 +405,7 @@
     "width": 960,
     "normal_caption": "copy the file",
     "image": "images/screenspotv2_image/pc_8f88d498-d49a-4ab5-8aa6-aafa1428c3b7.png",
-    "problem": "copy the file",
+    "problem": "select Properties from the context menu",
     "solution": [
       177,
       69,
@@ -426,7 +426,7 @@
     "width": 960,
     "normal_caption": "check the date and time menu",
     "image": "images/screenspotv2_image/pc_870d6da1-bc85-4e74-a1bd-ef6f975c2146.png",
-    "problem": "check the date and time menu",
+    "problem": "open the start menu",
     "solution": [
       855,
       495,
@@ -447,7 +447,7 @@
     "width": 960,
     "normal_caption": "open the sleep mode",
     "image": "images/screenspotv2_image/pc_45c2712a-337d-4b6b-a47b-37ca4d5bdddd.png",
-    "problem": "open the sleep mode",
+    "problem": "open the Microsoft Store application",
     "solution": [
       0,
       354,
@@ -468,7 +468,7 @@
     "width": 960,
     "normal_caption": "search for local files",
     "image": "images/screenspotv2_image/pc_133ac2cd-3eb3-4d45-be35-255a83831f97.png",
-    "problem": "search for local files",
+    "problem": "click the refresh icon next to the search bar",
     "solution": [
       607,
       8,
@@ -489,7 +489,7 @@
     "width": 960,
     "normal_caption": "view the personal account",
     "image": "images/screenspotv2_image/pc_bd6711e1-ddc1-4873-8cf1-19654285f4ea.png",
-    "problem": "view the personal account",
+    "problem": "click the Arsenal logo",
     "solution": [
       0,
       0,
@@ -510,7 +510,7 @@
     "width": 960,
     "normal_caption": "click the \"settings and more\" button",
     "image": "images/screenspotv2_image/pc_83462e63-b0cd-4921-9d19-8a534ed445c7.png",
-    "problem": "click the \"settings and more\" button",
+    "problem": "click the Sign in button",
     "solution": [
       916,
       13,
@@ -531,7 +531,7 @@
     "width": 960,
     "normal_caption": "full-screen display",
     "image": "images/screenspotv2_image/pc_2b40c066-2f8f-4389-8df8-e70e8dfc1309.png",
-    "problem": "full-screen display",
+    "problem": "click the Sign in button",
     "solution": [
       894,
       0,
@@ -552,7 +552,7 @@
     "width": 960,
     "normal_caption": "undo",
     "image": "images/screenspotv2_image/pc_1f371830-d909-41ac-a340-921a594f05b0.png",
-    "problem": "undo",
+    "problem": "select the Table option under the Insert tab",
     "solution": [
       2,
       0,
@@ -573,7 +573,7 @@
     "width": 960,
     "normal_caption": "Add a new shortcut to the toolbar",
     "image": "images/screenspotv2_image/pc_14fd6f5f-37d5-4b22-953e-626e11044f3e.png",
-    "problem": "Add a new shortcut to the toolbar",
+    "problem": "click the MEMORABILIA tab",
     "solution": [
       918,
       336,
@@ -594,7 +594,7 @@
     "width": 960,
     "normal_caption": "open local disk E",
     "image": "images/screenspotv2_image/pc_8834317b-7d08-40f1-9036-40743aba5d70.png",
-    "problem": "open local disk E",
+    "problem": "open the DVD Drive (H) folder",
     "solution": [
       204,
       205,
@@ -615,7 +615,7 @@
     "width": 960,
     "normal_caption": "create a new file",
     "image": "images/screenspotv2_image/pc_fa28755f-aee4-48f3-a484-02e670a6ff8f.png",
-    "problem": "create a new file",
+    "problem": "open the file",
     "solution": [
       537,
       127,
@@ -636,7 +636,7 @@
     "width": 960,
     "normal_caption": "open player settings",
     "image": "images/screenspotv2_image/pc_712496c8-6588-4b57-a89d-b17eaecc761b.png",
-    "problem": "open player settings",
+    "problem": "click the profile icon",
     "solution": [
       6,
       470,
@@ -657,7 +657,7 @@
     "width": 960,
     "normal_caption": "set up onedrive",
     "image": "images/screenspotv2_image/pc_b1f1df2a-6c3d-40f9-ac70-dea7925c85dc.png",
-    "problem": "set up onedrive",
+    "problem": "sign in",
     "solution": [
       296,
       157,
@@ -678,7 +678,7 @@
     "width": 960,
     "normal_caption": "fill in red",
     "image": "images/screenspotv2_image/pc_61beef4d-1a93-47b3-8aff-ba0f7774cb43.png",
-    "problem": "fill in red",
+    "problem": "select the orange square in the top-left corner of the blue shape",
     "solution": [
       605,
       261,
@@ -699,7 +699,7 @@
     "width": 960,
     "normal_caption": "open map",
     "image": "images/screenspotv2_image/pc_73f3744f-675f-44e3-8c55-ef34bdce0da9.png",
-    "problem": "open map",
+    "problem": "open the map for London",
     "solution": [
       420,
       121,
@@ -720,7 +720,7 @@
     "width": 960,
     "normal_caption": "maximize window",
     "image": "images/screenspotv2_image/pc_488287f0-9da5-4c6a-b236-109d3df56137.png",
-    "problem": "maximize window",
+    "problem": "open the file New Microsoft Visio Drawing",
     "solution": [
       875,
       253,
@@ -741,7 +741,7 @@
     "width": 960,
     "normal_caption": "open account protection",
     "image": "images/screenspotv2_image/pc_eb0b756c-e471-40eb-bfaa-06b432094ac6.png",
-    "problem": "open account protection",
+    "problem": "select the Sign in button under Account protection",
     "solution": [
       0,
       105,
@@ -762,7 +762,7 @@
     "width": 960,
     "normal_caption": "add equation ",
     "image": "images/screenspotv2_image/pc_dd51aeab-7e2c-40aa-82e6-0f870e49e6ba.png",
-    "problem": "add equation ",
+    "problem": "select the WordArt option from the Text group",
     "solution": [
       605,
       15,
@@ -783,7 +783,7 @@
     "width": 960,
     "normal_caption": "minimize the window",
     "image": "images/screenspotv2_image/pc_41efdca0-442c-471e-8188-45457f9287c3.png",
-    "problem": "minimize the window",
+    "problem": "click the High contrast settings link",
     "solution": [
       601,
       19,
@@ -804,7 +804,7 @@
     "width": 960,
     "normal_caption": "view the devices",
     "image": "images/screenspotv2_image/pc_8ce8a3b6-c2a9-4b69-986e-34b7d96e27ef.png",
-    "problem": "view the devices",
+    "problem": "link your Android, iPhone",
     "solution": [
       213,
       63,
@@ -825,7 +825,7 @@
     "width": 960,
     "normal_caption": "Adjust screen timeout",
     "image": "images/screenspotv2_image/pc_80ab83db-da70-4a1d-b10e-a438a59b2197.png",
-    "problem": "Adjust screen timeout",
+    "problem": "adjust the screen timeout setting",
     "solution": [
       299,
       175,
@@ -846,7 +846,7 @@
     "width": 960,
     "normal_caption": "start playback",
     "image": "images/screenspotv2_image/pc_0c634288-11b9-498f-8fb6-582e26ea17c9.png",
-    "problem": "start playback",
+    "problem": "select the play button",
     "solution": [
       165,
       467,
@@ -867,7 +867,7 @@
     "width": 960,
     "normal_caption": "set the screenshot option",
     "image": "images/screenspotv2_image/pc_dfd488a9-d3c6-4e00-844a-6d56834a367e.png",
-    "problem": "set the screenshot option",
+    "problem": "click the placeholder text Subtitle",
     "solution": [
       145,
       12,
@@ -888,7 +888,7 @@
     "width": 1920,
     "normal_caption": "add the subtitle",
     "image": "images/screenspotv2_image/pc_17bc1fc0-a71c-453d-a431-5ebcddeff38f.png",
-    "problem": "add the subtitle",
+    "problem": "the Click to add title text box",
     "solution": [
       560,
       603,
@@ -909,7 +909,7 @@
     "width": 960,
     "normal_caption": "adjust light rotation",
     "image": "images/screenspotv2_image/pc_05f0185e-a291-4e4c-a777-ffb2c46037c6.png",
-    "problem": "adjust light rotation",
+    "problem": "select the Light 1 option",
     "solution": [
       390,
       183,
@@ -930,7 +930,7 @@
     "width": 960,
     "normal_caption": "click the colour 2 button",
     "image": "images/screenspotv2_image/pc_aae370cb-9618-497e-8877-1a862725d28e.png",
-    "problem": "click the colour 2 button",
+    "problem": "select the hexagon shape tool",
     "solution": [
       225,
       139,
@@ -951,7 +951,7 @@
     "width": 1920,
     "normal_caption": "add the title",
     "image": "images/screenspotv2_image/pc_f317f992-32e1-4470-ab0b-31910a70bcd4.png",
-    "problem": "add the title",
+    "problem": "click the Click to add title placeholder",
     "solution": [
       561,
       308,
@@ -972,7 +972,7 @@
     "width": 960,
     "normal_caption": "refresh the page",
     "image": "images/screenspotv2_image/pc_776b1aa0-a892-4461-b03a-88253e628426.png",
-    "problem": "refresh the page",
+    "problem": "the Arsenal FC logo",
     "solution": [
       18,
       15,
@@ -993,7 +993,7 @@
     "width": 960,
     "normal_caption": "click the button to play previous track",
     "image": "images/screenspotv2_image/pc_580035fc-f55e-4817-b0c5-b741fb034cd0.png",
-    "problem": "click the button to play previous track",
+    "problem": "play the video",
     "solution": [
       441,
       458,
@@ -1014,7 +1014,7 @@
     "width": 960,
     "normal_caption": "pin to taskbar",
     "image": "images/screenspotv2_image/pc_ac6779f8-a188-4633-bfcc-ab05ada6848c.png",
-    "problem": "pin to taskbar",
+    "problem": "open the file labeled labels_my-project-name_2023-12-23-04-10-30.csv",
     "solution": [
       872,
       40,
@@ -1035,7 +1035,7 @@
     "width": 960,
     "normal_caption": "enter the wegameapps folder",
     "image": "images/screenspotv2_image/pc_3b590e58-aab0-42c4-9b74-7d1a6b7f26fe.png",
-    "problem": "enter the wegameapps folder",
+    "problem": "expand the WeGameApps folder",
     "solution": [
       17,
       52,
@@ -1056,7 +1056,7 @@
     "width": 960,
     "normal_caption": "check hourly weather",
     "image": "images/screenspotv2_image/pc_4ba904da-bd51-42ea-a96f-c5681c630058.png",
-    "problem": "check hourly weather",
+    "problem": "select the 3D icon to view the weather forecast in three-dimensional perspective",
     "solution": [
       232,
       417,
@@ -1077,7 +1077,7 @@
     "width": 960,
     "normal_caption": "open the menu of windows",
     "image": "images/screenspotv2_image/pc_4cb20510-1be3-4ef8-ac47-2b49f4463555.png",
-    "problem": "open the menu of windows",
+    "problem": "open the folder icon",
     "solution": [
       0,
       498,
@@ -1098,7 +1098,7 @@
     "width": 960,
     "normal_caption": "open the recycle bin",
     "image": "images/screenspotv2_image/pc_f9867d85-5680-44ac-9bea-23acf5c9cc71.png",
-    "problem": "open the recycle bin",
+    "problem": "open the WeGame application",
     "solution": [
       0,
       0,
@@ -1119,7 +1119,7 @@
     "width": 960,
     "normal_caption": "open settings",
     "image": "images/screenspotv2_image/pc_155fc26b-cddb-4a03-b636-322a45c054e6.png",
-    "problem": "open settings",
+    "problem": "search for tips",
     "solution": [
       912,
       8,
@@ -1140,7 +1140,7 @@
     "width": 960,
     "normal_caption": "check weather on tuesday",
     "image": "images/screenspotv2_image/pc_942d98d0-92d0-49ab-bc98-49a700c1822b.png",
-    "problem": "check weather on tuesday",
+    "problem": "select the weather icon for Tuesday, 26th",
     "solution": [
       552,
       37,
@@ -1161,7 +1161,7 @@
     "width": 960,
     "normal_caption": "open the playlists",
     "image": "images/screenspotv2_image/pc_aa124117-8877-4805-9c69-0ce80e1afc71.png",
-    "problem": "open the playlists",
+    "problem": "select the Music library option",
     "solution": [
       0,
       247,
@@ -1182,7 +1182,7 @@
     "width": 960,
     "normal_caption": "click the search bar",
     "image": "images/screenspotv2_image/pc_e650b1a7-a1e4-4cb4-a2f0-a50f04ce9925.png",
-    "problem": "click the search bar",
+    "problem": "open the Start menu",
     "solution": [
       0,
       498,
@@ -1203,7 +1203,7 @@
     "width": 960,
     "normal_caption": "back to previous folder",
     "image": "images/screenspotv2_image/pc_88dde48f-6594-4f17-b117-3529b2bde02e.png",
-    "problem": "back to previous folder",
+    "problem": "open the file New Microsoft Visio Drawing",
     "solution": [
       7,
       203,
@@ -1224,7 +1224,7 @@
     "width": 960,
     "normal_caption": "open Samsung Printer Center",
     "image": "images/screenspotv2_image/pc_5b1e5fe2-e063-463f-ab56-2b09d17b88a5.png",
-    "problem": "open Samsung Printer Center",
+    "problem": "open Microsoft Edge",
     "solution": [
       154,
       352,
@@ -1245,7 +1245,7 @@
     "width": 960,
     "normal_caption": "turn on the mixed reality",
     "image": "images/screenspotv2_image/pc_8ed762cb-06dd-493f-b770-7e02298433f8.png",
-    "problem": "turn on the mixed reality",
+    "problem": "select the lighting theme in the top row of the grid",
     "solution": [
       732,
       29,
@@ -1266,7 +1266,7 @@
     "width": 960,
     "normal_caption": "delete the downloaded file",
     "image": "images/screenspotv2_image/pc_56d9172e-1780-4fb7-8377-f9987b87508c.png",
-    "problem": "delete the downloaded file",
+    "problem": "select the Open file link for the desired CSV file",
     "solution": [
       894,
       126,
@@ -1308,7 +1308,7 @@
     "width": 960,
     "normal_caption": "switch to english",
     "image": "images/screenspotv2_image/pc_ecf34119-ce66-4699-a169-60e5279a650f.png",
-    "problem": "switch to english",
+    "problem": "select the US keyboard option",
     "solution": [
       660,
       401,
@@ -1350,7 +1350,7 @@
     "width": 960,
     "normal_caption": "search for settings",
     "image": "images/screenspotv2_image/pc_92e1062b-0d4a-4e14-8b25-b79e4b6c9b55.png",
-    "problem": "search for settings",
+    "problem": "select the System option",
     "solution": [
       392,
       50,
@@ -1371,7 +1371,7 @@
     "width": 960,
     "normal_caption": "gradient option",
     "image": "images/screenspotv2_image/pc_09e2a811-2e5f-4cfc-9d6c-97acda34edf7.png",
-    "problem": "gradient option",
+    "problem": "select the Fill option from the dropdown menu",
     "solution": [
       747,
       302,
@@ -1392,7 +1392,7 @@
     "width": 960,
     "normal_caption": "share the file",
     "image": "images/screenspotv2_image/pc_c7974702-d944-412f-83b2-61f92cf3c68c.png",
-    "problem": "share the file",
+    "problem": "click the Shape Fill dropdown menu",
     "solution": [
       872,
       12,
@@ -1413,7 +1413,7 @@
     "width": 960,
     "normal_caption": "chech visibility",
     "image": "images/screenspotv2_image/pc_04d51f86-b324-4eb6-82f5-c8cd6cb3e79c.png",
-    "problem": "chech visibility",
+    "problem": "select the More details tab",
     "solution": [
       568,
       256,
@@ -1434,7 +1434,7 @@
     "width": 960,
     "normal_caption": "refresh the page",
     "image": "images/screenspotv2_image/pc_3a625c5d-db8a-41fb-b533-16a7c8a4f345.png",
-    "problem": "refresh the page",
+    "problem": "open the Videos folder",
     "solution": [
       887,
       20,
@@ -1455,7 +1455,7 @@
     "width": 960,
     "normal_caption": "sign in",
     "image": "images/screenspotv2_image/pc_17904586-d58c-4f1d-8c1e-6a6697353b14.png",
-    "problem": "sign in",
+    "problem": "select the Freecell game option",
     "solution": [
       792,
       13,
@@ -1476,7 +1476,7 @@
     "width": 960,
     "normal_caption": "minimize the window.",
     "image": "images/screenspotv2_image/pc_25eca08c-57eb-45b0-8c0b-79ccec8400ff.png",
-    "problem": "minimize the window.",
+    "problem": "click the refresh icon next to the search bar",
     "solution": [
       901,
       0,
@@ -1497,7 +1497,7 @@
     "width": 960,
     "normal_caption": "number 5",
     "image": "images/screenspotv2_image/pc_cefd90d7-4af2-4370-b71e-8d4d5954c21e.png",
-    "problem": "number 5",
+    "problem": "click the C button to clear the calculator display",
     "solution": [
       620,
       458,
@@ -1518,7 +1518,7 @@
     "width": 960,
     "normal_caption": "view sound settings.",
     "image": "images/screenspotv2_image/pc_8fc42b3c-c8bc-4866-b787-aed98a86d614.png",
-    "problem": "view sound settings.",
+    "problem": "select the dropdown menu next to 30 minutes to change the sleep duration setting",
     "solution": [
       183,
       24,
@@ -1539,7 +1539,7 @@
     "width": 960,
     "normal_caption": "get help",
     "image": "images/screenspotv2_image/pc_a2b172fe-7e11-4795-8424-c18d5b65a009.png",
-    "problem": "get help",
+    "problem": "select the language option from the dropdown menu",
     "solution": [
       503,
       149,
@@ -1560,7 +1560,7 @@
     "width": 960,
     "normal_caption": "share the current page",
     "image": "images/screenspotv2_image/pc_07faaa86-6e6b-457b-9a51-9b30edff21da.png",
-    "problem": "share the current page",
+    "problem": "scroll down to view more matches",
     "solution": [
       916,
       455,
@@ -1581,7 +1581,7 @@
     "width": 960,
     "normal_caption": "check the shape option",
     "image": "images/screenspotv2_image/pc_ec8508be-641d-492a-bccc-a8279ae5bf9b.png",
-    "problem": "check the shape option",
+    "problem": "select the placeholder text December to edit it",
     "solution": [
       78,
       29,
@@ -1602,7 +1602,7 @@
     "width": 960,
     "normal_caption": "back to previous page",
     "image": "images/screenspotv2_image/pc_733fbb76-a188-4804-a2c6-788acf844d7c.png",
-    "problem": "back to previous page",
+    "problem": "select the System option",
     "solution": [
       105,
       47,
@@ -1623,7 +1623,7 @@
     "width": 960,
     "normal_caption": "search for files on disk e:",
     "image": "images/screenspotv2_image/pc_02a8e358-8282-498b-b82e-c0f2b1b8d26a.png",
-    "problem": "search for files on disk e:",
+    "problem": "click the refresh icon next to the search bar",
     "solution": [
       614,
       45,
@@ -1644,7 +1644,7 @@
     "width": 960,
     "normal_caption": "edit with paint 3d",
     "image": "images/screenspotv2_image/pc_6f580940-6536-452e-9310-f9ebb87879eb.png",
-    "problem": "edit with paint 3d",
+    "problem": "select the hexagon shape",
     "solution": [
       613,
       52,
@@ -1665,7 +1665,7 @@
     "width": 960,
     "normal_caption": "adjust the volume",
     "image": "images/screenspotv2_image/pc_8c0c6fa3-39d8-4633-aeb1-6544036c85bf.png",
-    "problem": "adjust the volume",
+    "problem": "open the language settings menu",
     "solution": [
       913,
       504,
@@ -1686,7 +1686,7 @@
     "width": 960,
     "normal_caption": "learn more",
     "image": "images/screenspotv2_image/pc_ecde084e-e461-4c7c-9ddc-bccabc874747.png",
-    "problem": "learn more",
+    "problem": "click the Get help button",
     "solution": [
       30,
       399,
@@ -1707,7 +1707,7 @@
     "width": 960,
     "normal_caption": "open videos folder",
     "image": "images/screenspotv2_image/pc_140cfa7d-6933-4591-ae0d-a1eadda2d7b5.png",
-    "problem": "open videos folder",
+    "problem": "open the folder named 12-23",
     "solution": [
       703,
       51,
@@ -1728,7 +1728,7 @@
     "width": 960,
     "normal_caption": "check weather forecast",
     "image": "images/screenspotv2_image/pc_5a8a71e4-4c80-4b17-b724-a6b6d48a339f.png",
-    "problem": "check weather forecast",
+    "problem": "maximize the window",
     "solution": [
       610,
       499,
@@ -1749,7 +1749,7 @@
     "width": 960,
     "normal_caption": "multiplicate",
     "image": "images/screenspotv2_image/pc_986f4ae9-9dd8-4c5c-b3d8-fb3fb5557d17.png",
-    "problem": "multiplicate",
+    "problem": "click the equals sign button",
     "solution": [
       145,
       13,
@@ -1770,7 +1770,7 @@
     "width": 960,
     "normal_caption": "see more information",
     "image": "images/screenspotv2_image/pc_6dfaf0c7-a3e5-4e71-8431-5eeb9fb8e493.png",
-    "problem": "see more information",
+    "problem": "open the file labeled labels_my-project-name_2023-12-23-04-10-30.csv",
     "solution": [
       527,
       243,
@@ -1791,7 +1791,7 @@
     "width": 960,
     "normal_caption": "adjust volume in the music player",
     "image": "images/screenspotv2_image/pc_89fc8216-3292-418c-864f-edcce3c34dc5.png",
-    "problem": "adjust volume in the music player",
+    "problem": "open the dropdown menu for file selection",
     "solution": [
       790,
       444,
@@ -1812,7 +1812,7 @@
     "width": 960,
     "normal_caption": "restart the computer",
     "image": "images/screenspotv2_image/pc_c00e575a-fa2d-47c7-83cc-9f4e99f15720.png",
-    "problem": "restart the computer",
+    "problem": "open the Microsoft Store application",
     "solution": [
       0,
       459,
@@ -1833,7 +1833,7 @@
     "width": 960,
     "normal_caption": "adjust screen size",
     "image": "images/screenspotv2_image/pc_b2579d6f-b494-47e3-872a-5e42a43f251a.png",
-    "problem": "adjust screen size",
+    "problem": "maximize the window",
     "solution": [
       782,
       394,
@@ -1854,7 +1854,7 @@
     "width": 960,
     "normal_caption": "go to the desktop",
     "image": "images/screenspotv2_image/pc_79eaf625-93f5-42a4-977e-71aba5418ff4.png",
-    "problem": "go to the desktop",
+    "problem": "expand the Desktop folder",
     "solution": [
       11,
       120,
@@ -1875,7 +1875,7 @@
     "width": 960,
     "normal_caption": "choose the pig",
     "image": "images/screenspotv2_image/pc_1f3eb0eb-2ab2-4e48-b278-de334846ee0d.png",
-    "problem": "choose the pig",
+    "problem": "select the pigs left ear",
     "solution": [
       406,
       81,
@@ -1896,7 +1896,7 @@
     "width": 1920,
     "normal_caption": "input a url",
     "image": "images/screenspotv2_image/pc_6a8d5384-ca12-4ae2-b14c-4c9dc08d4896.png",
-    "problem": "input a url",
+    "problem": "follow the match notifications",
     "solution": [
       97,
       33,
@@ -1917,7 +1917,7 @@
     "width": 960,
     "normal_caption": "go to the homepage",
     "image": "images/screenspotv2_image/pc_c0996a5a-3af1-487b-9060-7b1a6779e42f.png",
-    "problem": "go to the homepage",
+    "problem": "select the Speech option under Language settings",
     "solution": [
       59,
       92,
@@ -1938,7 +1938,7 @@
     "width": 960,
     "normal_caption": "open the favourites",
     "image": "images/screenspotv2_image/pc_e18b4420-34da-4d60-889e-924a76fb5094.png",
-    "problem": "open the favourites",
+    "problem": "click the play button on the video titled Liverpool vs Arsenal: Mikel Arteta press conference",
     "solution": [
       840,
       11,
@@ -1959,7 +1959,7 @@
     "width": 960,
     "normal_caption": "choose wechat",
     "image": "images/screenspotv2_image/pc_4c43fbd2-d84e-4bb4-8169-7a748530c1af.png",
-    "problem": "choose wechat",
+    "problem": "click the See details button",
     "solution": [
       56,
       393,
@@ -1980,7 +1980,7 @@
     "width": 960,
     "normal_caption": "check windows keyboard shortcuts",
     "image": "images/screenspotv2_image/pc_7e37689a-0657-4856-8adf-72a21ee640c9.png",
-    "problem": "check windows keyboard shortcuts",
+    "problem": "select the Create a family group option",
     "solution": [
       251,
       163,
@@ -2001,7 +2001,7 @@
     "width": 960,
     "normal_caption": "view the file sorting method",
     "image": "images/screenspotv2_image/pc_bb73a431-c05e-47a8-bd27-8c7cbc2f7f23.png",
-    "problem": "view the file sorting method",
+    "problem": "open the NVIDIA Control Panel",
     "solution": [
       116,
       22,
@@ -2022,7 +2022,7 @@
     "width": 960,
     "normal_caption": "open Microsoft edge",
     "image": "images/screenspotv2_image/pc_b4d4f0c2-5f8e-409e-ac20-b1a2c7d6f440.png",
-    "problem": "open Microsoft edge",
+    "problem": "open Microsoft Edge",
     "solution": [
       2,
       100,
@@ -2043,7 +2043,7 @@
     "width": 960,
     "normal_caption": "click to open the file",
     "image": "images/screenspotv2_image/pc_5da8f8cd-8ba2-490a-86e0-5c82421a9bee.png",
-    "problem": "click to open the file",
+    "problem": "open the file",
     "solution": [
       322,
       67,
@@ -2064,7 +2064,7 @@
     "width": 960,
     "normal_caption": "search for files",
     "image": "images/screenspotv2_image/pc_2d42ba96-b43d-4f3f-81c1-80c8c107ca1c.png",
-    "problem": "search for files",
+    "problem": "search for content",
     "solution": [
       8,
       33,
@@ -2085,7 +2085,7 @@
     "width": 960,
     "normal_caption": "set the second photo as wallpaper",
     "image": "images/screenspotv2_image/pc_4392332d-683f-4746-bbb2-e9287d9cdae0.png",
-    "problem": "set the second photo as wallpaper",
+    "problem": "select the third image in the Choose your picture section",
     "solution": [
       308,
       203,
@@ -2106,7 +2106,7 @@
     "width": 960,
     "normal_caption": "add a language",
     "image": "images/screenspotv2_image/pc_977de16a-870e-48f3-8a38-ec9e1efb9f77.png",
-    "problem": "add a language",
+    "problem": "select the Add a language button",
     "solution": [
       555,
       238,
@@ -2127,7 +2127,7 @@
     "width": 960,
     "normal_caption": "open files",
     "image": "images/screenspotv2_image/pc_16d04f01-66a7-45df-a189-66c29fa935d7.png",
-    "problem": "open files",
+    "problem": "open the dropdown menu next to Open file(s)",
     "solution": [
       321,
       482,
@@ -2148,7 +2148,7 @@
     "width": 960,
     "normal_caption": "play the \"spider solitaire\"",
     "image": "images/screenspotv2_image/pc_d077a08e-e927-4daa-aaf1-2f2385eefa04.png",
-    "problem": "play the \"spider solitaire\"",
+    "problem": "select the Spider game option",
     "solution": [
       227,
       188,
@@ -2169,7 +2169,7 @@
     "width": 960,
     "normal_caption": "view paste option",
     "image": "images/screenspotv2_image/pc_01c641cb-aa78-4bae-80ea-dda820dd00eb.png",
-    "problem": "view paste option",
+    "problem": "select the pink hexagon shape",
     "solution": [
       109,
       144,
@@ -2190,7 +2190,7 @@
     "width": 960,
     "normal_caption": "back to the previous page",
     "image": "images/screenspotv2_image/pc_9c3204c7-8a02-406a-8dee-5b363887258c.png",
-    "problem": "back to the previous page",
+    "problem": "the Arsenal FC logo",
     "solution": [
       0,
       21,
@@ -2211,7 +2211,7 @@
     "width": 960,
     "normal_caption": "click to play the next track",
     "image": "images/screenspotv2_image/pc_471e7c2d-8c16-4626-9b8e-7e0fd79e3a32.png",
-    "problem": "click to play the next track",
+    "problem": "click the play button to start the video",
     "solution": [
       181,
       448,
@@ -2232,7 +2232,7 @@
     "width": 960,
     "normal_caption": "review option",
     "image": "images/screenspotv2_image/pc_f92a83db-cb5b-4295-af83-3606639056be.png",
-    "problem": "review option",
+    "problem": "select the text box in the center of the slide",
     "solution": [
       273,
       26,
@@ -2253,7 +2253,7 @@
     "width": 960,
     "normal_caption": "check for two unread messages",
     "image": "images/screenspotv2_image/pc_daa34642-1973-424e-a752-3b309fa6512b.png",
-    "problem": "check for two unread messages",
+    "problem": "open the notification center",
     "solution": [
       907,
       499,
@@ -2274,7 +2274,7 @@
     "width": 960,
     "normal_caption": "view windows settings",
     "image": "images/screenspotv2_image/pc_58d89b93-10e2-41fe-8b6d-3532fd3bb832.png",
-    "problem": "view windows settings",
+    "problem": "open Microsoft Store",
     "solution": [
       0,
       407,
@@ -2295,7 +2295,7 @@
     "width": 960,
     "normal_caption": "dismiss the account protection",
     "image": "images/screenspotv2_image/pc_79377abe-731c-4d3b-ab04-b332c4054b81.png",
-    "problem": "dismiss the account protection",
+    "problem": "sign in",
     "solution": [
       412,
       326,
@@ -2316,7 +2316,7 @@
     "width": 960,
     "normal_caption": "back to the previous page",
     "image": "images/screenspotv2_image/pc_9d04d927-2a44-4e0d-b752-57abf0a0522f.png",
-    "problem": "back to the previous page",
+    "problem": "select the Protect your PC option",
     "solution": [
       2,
       23,
@@ -2337,7 +2337,7 @@
     "width": 960,
     "normal_caption": "personal account options",
     "image": "images/screenspotv2_image/pc_c8b036c3-da02-490e-a09b-0a42b8d9f344.png",
-    "problem": "personal account options",
+    "problem": "open Microsoft Edge",
     "solution": [
       0,
       391,
@@ -2358,7 +2358,7 @@
     "width": 960,
     "normal_caption": "design option",
     "image": "images/screenspotv2_image/pc_3f7ea28c-0425-4837-a540-dc5bb23449b8.png",
-    "problem": "design option",
+    "problem": "select the New Slide option from the Slides tab",
     "solution": [
       48,
       25,
@@ -2379,7 +2379,7 @@
     "width": 645,
     "normal_caption": "open paint 3d",
     "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
-    "problem": "open paint 3d",
+    "problem": "open Microsoft Edge",
     "solution": [
       52,
       79,
@@ -2400,7 +2400,7 @@
     "width": 645,
     "normal_caption": "open microsoft edge",
     "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
-    "problem": "open microsoft edge",
+    "problem": "open Microsoft Edge",
     "solution": [
       322,
       154,
@@ -2421,7 +2421,7 @@
     "width": 645,
     "normal_caption": "turn off the computer",
     "image": "images/screenspotv2_image/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
-    "problem": "turn off the computer",
+    "problem": "open Microsoft Edge",
     "solution": [
       1,
       593,
@@ -2442,7 +2442,7 @@
     "width": 1196,
     "normal_caption": "switch to home",
     "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
-    "problem": "switch to home",
+    "problem": "select the Samsung SCX-3200 Series (USB001) printer",
     "solution": [
       4,
       54,
@@ -2463,7 +2463,7 @@
     "width": 1196,
     "normal_caption": "click the \"back to previous page\" button",
     "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
-    "problem": "click the \"back to previous page\" button",
+    "problem": "select the Samsung SCX-3200 Series (USB001) printer",
     "solution": [
       4,
       3,
@@ -2484,7 +2484,7 @@
     "width": 1196,
     "normal_caption": "open fax option",
     "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
-    "problem": "open fax option",
+    "problem": "select the Samsung SCX-3200 Series (USB001) printer",
     "solution": [
       319,
       277,
@@ -2505,7 +2505,7 @@
     "width": 1196,
     "normal_caption": "need some help",
     "image": "images/screenspotv2_image/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
-    "problem": "need some help",
+    "problem": "select the Samsung SCX-3200 Series (USB001) printer",
     "solution": [
       925,
       370,
@@ -2526,7 +2526,7 @@
     "width": 780,
     "normal_caption": "check email and account",
     "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
-    "problem": "check email and account",
+    "problem": "open Microsoft Edge",
     "solution": [
       12,
       201,
@@ -2547,7 +2547,7 @@
     "width": 780,
     "normal_caption": "switch to documents",
     "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
-    "problem": "switch to documents",
+    "problem": "open Microsoft Edge",
     "solution": [
       112,
       2,
@@ -2568,7 +2568,7 @@
     "width": 780,
     "normal_caption": "view the game for me",
     "image": "images/screenspotv2_image/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
-    "problem": "view the game for me",
+    "problem": "open Microsoft Edge",
     "solution": [
       370,
       509,
@@ -2589,7 +2589,7 @@
     "width": 839,
     "normal_caption": "use pencil tool",
     "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
-    "problem": "use pencil tool",
+    "problem": "select the ellipse tool from the Tools section",
     "solution": [
       149,
       62,
@@ -2610,7 +2610,7 @@
     "width": 839,
     "normal_caption": "click to choose shapes",
     "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
-    "problem": "click to choose shapes",
+    "problem": "select the ellipse tool from the Tools section",
     "solution": [
       283,
       60,
@@ -2631,7 +2631,7 @@
     "width": 839,
     "normal_caption": "select a new size",
     "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
-    "problem": "select a new size",
+    "problem": "select the ellipse tool from the Tools section",
     "solution": [
       368,
       59,
@@ -2652,7 +2652,7 @@
     "width": 839,
     "normal_caption": "use the select tool",
     "image": "images/screenspotv2_image/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
-    "problem": "use the select tool",
+    "problem": "select the ellipse tool from the Tools section",
     "solution": [
       63,
       58,
@@ -2673,7 +2673,7 @@
     "width": 1920,
     "normal_caption": "view the setting of protection of pc",
     "image": "images/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
-    "problem": "view the setting of protection of pc",
+    "problem": "select the Improve PC performance option",
     "solution": [
       615,
       229,
@@ -2694,7 +2694,7 @@
     "width": 1920,
     "normal_caption": "view the get organized tips",
     "image": "images/screenspotv2_image/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
-    "problem": "view the get organized tips",
+    "problem": "select the Improve PC performance option",
     "solution": [
       1099,
       520,
@@ -2715,7 +2715,7 @@
     "width": 456,
     "normal_caption": "log in using google account",
     "image": "images/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
-    "problem": "log in using google account",
+    "problem": "select the Yahoo! option",
     "solution": [
       6,
       157,
@@ -2736,7 +2736,7 @@
     "width": 456,
     "normal_caption": "check advanced setup",
     "image": "images/screenspotv2_image/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
-    "problem": "check advanced setup",
+    "problem": "select the Yahoo! option",
     "solution": [
       9,
       396,
@@ -2757,7 +2757,7 @@
     "width": 1202,
     "normal_caption": "check the detail of uv index",
     "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
-    "problem": "check the detail of uv index",
+    "problem": "answer the weather quiz question",
     "solution": [
       185,
       432,
@@ -2778,7 +2778,7 @@
     "width": 1202,
     "normal_caption": "see full forecast",
     "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
-    "problem": "see full forecast",
+    "problem": "answer the weather quiz question",
     "solution": [
       624,
       263,
@@ -2799,7 +2799,7 @@
     "width": 1202,
     "normal_caption": "the internet icon",
     "image": "images/screenspotv2_image/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
-    "problem": "the internet icon",
+    "problem": "answer the weather quiz question",
     "solution": [
       0,
       181,
@@ -2820,7 +2820,7 @@
     "width": 1200,
     "normal_caption": "play the Klondike game",
     "image": "images/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
-    "problem": "play the Klondike game",
+    "problem": "select the FreeCell game option",
     "solution": [
       9,
       232,
@@ -2841,7 +2841,7 @@
     "width": 1200,
     "normal_caption": "sign in",
     "image": "images/screenspotv2_image/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
-    "problem": "sign in",
+    "problem": "select the FreeCell game option",
     "solution": [
       972,
       32,
@@ -2862,7 +2862,7 @@
     "width": 480,
     "normal_caption": "choose standard mode",
     "image": "images/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
-    "problem": "choose standard mode",
+    "problem": "select the Scientific option",
     "solution": [
       2,
       120,
@@ -2883,7 +2883,7 @@
     "width": 480,
     "normal_caption": "adjust the volume",
     "image": "images/screenspotv2_image/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
-    "problem": "adjust the volume",
+    "problem": "select the Scientific option",
     "solution": [
       6,
       397,
@@ -2904,7 +2904,7 @@
     "width": 362,
     "normal_caption": "add a new one",
     "image": "images/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
-    "problem": "add a new one",
+    "problem": "click the plus icon at the top left corner",
     "solution": [
       2,
       2,
@@ -2925,7 +2925,7 @@
     "width": 362,
     "normal_caption": "insert an image",
     "image": "images/screenspotv2_image/pc_639ab093-46ed-4332-9229-125647aad9da.png",
-    "problem": "insert an image",
+    "problem": "click the plus icon at the top left corner",
     "solution": [
       211,
       274,
@@ -2946,7 +2946,7 @@
     "width": 955,
     "normal_caption": "view the timer",
     "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
-    "problem": "view the timer",
+    "problem": "click the Get started button",
     "solution": [
       5,
       78,
@@ -2967,7 +2967,7 @@
     "width": 955,
     "normal_caption": "click get start",
     "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
-    "problem": "click get start",
+    "problem": "click the Get started button",
     "solution": [
       560,
       555,
@@ -2988,7 +2988,7 @@
     "width": 955,
     "normal_caption": "view world clock",
     "image": "images/screenspotv2_image/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
-    "problem": "view world clock",
+    "problem": "click the Get started button",
     "solution": [
       4,
       199,
@@ -3009,7 +3009,7 @@
     "width": 1198,
     "normal_caption": "insert 3d shapes item",
     "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
-    "problem": "insert 3d shapes item",
+    "problem": "select the red balloon",
     "solution": [
       338,
       29,
@@ -3030,7 +3030,7 @@
     "width": 1198,
     "normal_caption": "undo",
     "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
-    "problem": "undo",
+    "problem": "select the red balloon",
     "solution": [
       949,
       29,
@@ -3051,7 +3051,7 @@
     "width": 1198,
     "normal_caption": "click \"select all\"",
     "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
-    "problem": "click \"select all\"",
+    "problem": "select the red balloon",
     "solution": [
       962,
       235,
@@ -3072,7 +3072,7 @@
     "width": 1198,
     "normal_caption": "rotate left",
     "image": "images/screenspotv2_image/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
-    "problem": "rotate left",
+    "problem": "select the red balloon",
     "solution": [
       962,
       544,
@@ -3093,7 +3093,7 @@
     "width": 1202,
     "normal_caption": "check the updates",
     "image": "images/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
-    "problem": "check the updates",
+    "problem": "click the Updates icon at the bottom left corner",
     "solution": [
       3,
       845,
@@ -3114,7 +3114,7 @@
     "width": 1202,
     "normal_caption": "view in youtube",
     "image": "images/screenspotv2_image/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
-    "problem": "view in youtube",
+    "problem": "click the Updates icon at the bottom left corner",
     "solution": [
       515,
       864,
@@ -3135,7 +3135,7 @@
     "width": 853,
     "normal_caption": "empty recycle bin",
     "image": "images/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
-    "problem": "empty recycle bin",
+    "problem": "select the New folder item in the file list",
     "solution": [
       2,
       57,
@@ -3156,7 +3156,7 @@
     "width": 853,
     "normal_caption": "restore all items",
     "image": "images/screenspotv2_image/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
-    "problem": "restore all items",
+    "problem": "select the New folder item in the file list",
     "solution": [
       138,
       59,
@@ -3177,7 +3177,7 @@
     "width": 1203,
     "normal_caption": "check microphone permissions",
     "image": "images/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
-    "problem": "check microphone permissions",
+    "problem": "enable the toggle switch for Allow apps to use voice activation when this device is locked",
     "solution": [
       4,
       450,
@@ -3198,7 +3198,7 @@
     "width": 1203,
     "normal_caption": "give feedback",
     "image": "images/screenspotv2_image/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
-    "problem": "give feedback",
+    "problem": "enable the toggle switch for Allow apps to use voice activation when this device is locked",
     "solution": [
       924,
       292,
@@ -3219,7 +3219,7 @@
     "width": 1202,
     "normal_caption": "check the properties",
     "image": "images/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
-    "problem": "check the properties",
+    "problem": "the Properties button under Network status",
     "solution": [
       347,
       396,
@@ -3240,7 +3240,7 @@
     "width": 1202,
     "normal_caption": "change adapter options",
     "image": "images/screenspotv2_image/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
-    "problem": "change adapter options",
+    "problem": "the Properties button under Network status",
     "solution": [
       331,
       593,
@@ -3261,7 +3261,7 @@
     "width": 1199,
     "normal_caption": "report a problem",
     "image": "images/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
-    "problem": "report a problem",
+    "problem": "click the Report a problem button",
     "solution": [
       346,
       268,
@@ -3282,7 +3282,7 @@
     "width": 1199,
     "normal_caption": "switch to feedback",
     "image": "images/screenspotv2_image/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
-    "problem": "switch to feedback",
+    "problem": "click the Report a problem button",
     "solution": [
       2,
       161,
@@ -3303,7 +3303,7 @@
     "width": 399,
     "normal_caption": "check microphone",
     "image": "images/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
-    "problem": "check microphone",
+    "problem": "select the Realtek High Definition Audio under 线路输入",
     "solution": [
       23,
       96,
@@ -3324,7 +3324,7 @@
     "width": 399,
     "normal_caption": "switch to sounds",
     "image": "images/screenspotv2_image/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
-    "problem": "switch to sounds",
+    "problem": "select the Realtek High Definition Audio under 线路输入",
     "solution": [
       125,
       40,
@@ -3345,7 +3345,7 @@
     "width": 1338,
     "normal_caption": "check my apple id",
     "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
-    "problem": "check my apple id",
+    "problem": "the Apple ID option",
     "solution": [
       1025,
       141,
@@ -3366,7 +3366,7 @@
     "width": 1338,
     "normal_caption": "view the language & region settings",
     "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
-    "problem": "view the language & region settings",
+    "problem": "the Apple ID option",
     "solution": [
       1018,
       368,
@@ -3387,7 +3387,7 @@
     "width": 1338,
     "normal_caption": "open time machine",
     "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
-    "problem": "open time machine",
+    "problem": "the Apple ID option",
     "solution": [
       859,
       952,
@@ -3408,7 +3408,7 @@
     "width": 1338,
     "normal_caption": "check desplay settings",
     "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
-    "problem": "check desplay settings",
+    "problem": "the Apple ID option",
     "solution": [
       41,
       954,
@@ -3429,7 +3429,7 @@
     "width": 1338,
     "normal_caption": "software update",
     "image": "images/screenspotv2_image/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
-    "problem": "software update",
+    "problem": "the Apple ID option",
     "solution": [
       39,
       761,
@@ -3450,7 +3450,7 @@
     "width": 1340,
     "normal_caption": "switch to desktop settings",
     "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
-    "problem": "switch to desktop settings",
+    "problem": "select the Screen Saver Options... button",
     "solution": [
       492,
       141,
@@ -3471,7 +3471,7 @@
     "width": 1340,
     "normal_caption": "show screen saver after",
     "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
-    "problem": "show screen saver after",
+    "problem": "select the Screen Saver Options... button",
     "solution": [
       347,
       209,
@@ -3492,7 +3492,7 @@
     "width": 1340,
     "normal_caption": "choose the ken burns as screen saver",
     "image": "images/screenspotv2_image/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
-    "problem": "choose the ken burns as screen saver",
+    "problem": "select the Screen Saver Options... button",
     "solution": [
       99,
       425,
@@ -3513,7 +3513,7 @@
     "width": 1340,
     "normal_caption": "switch to dark mode",
     "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
-    "problem": "switch to dark mode",
+    "problem": "select the Dark appearance option",
     "solution": [
       672,
       145,
@@ -3534,7 +3534,7 @@
     "width": 1340,
     "normal_caption": "choose highlight color",
     "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
-    "problem": "choose highlight color",
+    "problem": "select the Dark appearance option",
     "solution": [
       499,
       396,
@@ -3555,7 +3555,7 @@
     "width": 1340,
     "normal_caption": "select default web browser",
     "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
-    "problem": "select default web browser",
+    "problem": "select the Dark appearance option",
     "solution": [
       500,
       891,
@@ -3576,7 +3576,7 @@
     "width": 1340,
     "normal_caption": "jump to the spot that's clicked",
     "image": "images/screenspotv2_image/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
-    "problem": "jump to the spot that's clicked",
+    "problem": "select the Dark appearance option",
     "solution": [
       502,
       794,
@@ -3597,7 +3597,7 @@
     "width": 1338,
     "normal_caption": "switch to apps",
     "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
-    "problem": "switch to apps",
+    "problem": "select the Advanced... button at the bottom of the screen",
     "solution": [
       681,
       243,
@@ -3618,7 +3618,7 @@
     "width": 1338,
     "normal_caption": "add a new preferred language",
     "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
-    "problem": "add a new preferred language",
+    "problem": "select the Advanced... button at the bottom of the screen",
     "solution": [
       78,
       845,
@@ -3639,7 +3639,7 @@
     "width": 1338,
     "normal_caption": "translation languages setting",
     "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
-    "problem": "translation languages setting",
+    "problem": "select the Apps tab",
     "solution": [
       335,
       982,
@@ -3660,7 +3660,7 @@
     "width": 1338,
     "normal_caption": "advanced setting",
     "image": "images/screenspotv2_image/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
-    "problem": "advanced setting",
+    "problem": "select the General tab",
     "solution": [
       1048,
       982,
@@ -3681,7 +3681,7 @@
     "width": 1316,
     "normal_caption": "check the battery",
     "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
-    "problem": "check the battery",
+    "problem": "open the folder named Auto-UI-main",
     "solution": [
       635,
       13,
@@ -3702,7 +3702,7 @@
     "width": 1316,
     "normal_caption": "open siri",
     "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
-    "problem": "open siri",
+    "problem": "open the folder named Auto-UI-main",
     "solution": [
       987,
       13,
@@ -3723,7 +3723,7 @@
     "width": 1316,
     "normal_caption": "open mind2web folder",
     "image": "images/screenspotv2_image/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
-    "problem": "open mind2web folder",
+    "problem": "open the folder named Auto-UI-main",
     "solution": [
       526,
       274,
@@ -3744,7 +3744,7 @@
     "width": 1272,
     "normal_caption": "switch on do not disturb mode",
     "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
-    "problem": "switch on do not disturb mode",
+    "problem": "toggle the Do Not Disturb mode",
     "solution": [
       969,
       105,
@@ -3765,7 +3765,7 @@
     "width": 1272,
     "normal_caption": "adjust keyboard brightness",
     "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
-    "problem": "adjust keyboard brightness",
+    "problem": "toggle the Do Not Disturb mode",
     "solution": [
       969,
       250,
@@ -3786,7 +3786,7 @@
     "width": 1272,
     "normal_caption": "go to music app",
     "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
-    "problem": "go to music app",
+    "problem": "toggle the Do Not Disturb mode",
     "solution": [
       683,
       683,
@@ -3807,7 +3807,7 @@
     "width": 1272,
     "normal_caption": "check bluetooth",
     "image": "images/screenspotv2_image/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
-    "problem": "check bluetooth",
+    "problem": "toggle the Do Not Disturb mode",
     "solution": [
       701,
       211,
@@ -3828,7 +3828,7 @@
     "width": 1600,
     "normal_caption": "view files from airdrop",
     "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
-    "problem": "view files from airdrop",
+    "problem": "open the Auto-UI-main folder",
     "solution": [
       20,
       150,
@@ -3849,7 +3849,7 @@
     "width": 1600,
     "normal_caption": "view downloads files",
     "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
-    "problem": "view downloads files",
+    "problem": "open the Auto-UI-main folder",
     "solution": [
       19,
       376,
@@ -3870,7 +3870,7 @@
     "width": 1600,
     "normal_caption": "open synapse folder",
     "image": "images/screenspotv2_image/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
-    "problem": "open synapse folder",
+    "problem": "open the Auto-UI-main folder",
     "solution": [
       542,
       390,
@@ -3891,7 +3891,7 @@
     "width": 2052,
     "normal_caption": "zoom out",
     "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
-    "problem": "zoom out",
+    "problem": "the Starbucks icon",
     "solution": [
       1800,
       1558,
@@ -3912,7 +3912,7 @@
     "width": 2052,
     "normal_caption": "zoom in",
     "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
-    "problem": "zoom in",
+    "problem": "the Starbucks icon",
     "solution": [
       1846,
       1556,
@@ -3933,7 +3933,7 @@
     "width": 2052,
     "normal_caption": "switch to device",
     "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
-    "problem": "switch to device",
+    "problem": "the Starbucks icon",
     "solution": [
       198,
       104,
@@ -3954,7 +3954,7 @@
     "width": 2052,
     "normal_caption": "share my location",
     "image": "images/screenspotv2_image/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
-    "problem": "share my location",
+    "problem": "the Starbucks icon",
     "solution": [
       33,
       1563,
@@ -3975,7 +3975,7 @@
     "width": 1116,
     "normal_caption": "check the date and time",
     "image": "images/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
-    "problem": "check the date and time",
+    "problem": "open the search bar",
     "solution": [
       837,
       2,
@@ -3996,7 +3996,7 @@
     "width": 1116,
     "normal_caption": "connect wifi",
     "image": "images/screenspotv2_image/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
-    "problem": "connect wifi",
+    "problem": "open the search bar",
     "solution": [
       509,
       1,
@@ -4017,7 +4017,7 @@
     "width": 606,
     "normal_caption": "drag the slider to adjust volume",
     "image": "images/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
-    "problem": "drag the slider to adjust volume",
+    "problem": "adjust the keyboard brightness slider",
     "solution": [
       26,
       453,
@@ -4038,7 +4038,7 @@
     "width": 606,
     "normal_caption": "use the screen mirroring",
     "image": "images/screenspotv2_image/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
-    "problem": "use the screen mirroring",
+    "problem": "adjust the keyboard brightness slider",
     "solution": [
       457,
       165,
@@ -4059,7 +4059,7 @@
     "width": 1098,
     "normal_caption": "turn off airdrop",
     "image": "images/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
-    "problem": "turn off airdrop",
+    "problem": "toggle the AirDrop switch off",
     "solution": [
       958,
       98,
@@ -4080,7 +4080,7 @@
     "width": 1098,
     "normal_caption": "set as contacts only",
     "image": "images/screenspotv2_image/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
-    "problem": "set as contacts only",
+    "problem": "toggle the AirDrop switch off",
     "solution": [
       471,
       176,
@@ -4101,7 +4101,7 @@
     "width": 1098,
     "normal_caption": "open work mode ",
     "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
-    "problem": "open work mode ",
+    "problem": "select the Do Not Disturb option",
     "solution": [
       470,
       351,
@@ -4122,7 +4122,7 @@
     "width": 1098,
     "normal_caption": "check focus preferences",
     "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
-    "problem": "check focus preferences",
+    "problem": "select the Do Not Disturb option",
     "solution": [
       469,
       494,
@@ -4143,7 +4143,7 @@
     "width": 1098,
     "normal_caption": "select input method",
     "image": "images/screenspotv2_image/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
-    "problem": "select input method",
+    "problem": "select the Do Not Disturb option",
     "solution": [
       328,
       1,
@@ -4164,7 +4164,7 @@
     "width": 1338,
     "normal_caption": "back to previous page",
     "image": "images/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
-    "problem": "back to previous page",
+    "problem": "select the MX Anywhere 2S device from the list",
     "solution": [
       181,
       20,
@@ -4185,7 +4185,7 @@
     "width": 1338,
     "normal_caption": "question about bluetooth",
     "image": "images/screenspotv2_image/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
-    "problem": "question about bluetooth",
+    "problem": "select the MX Anywhere 2S device from the list",
     "solution": [
       1245,
       801,
@@ -4206,7 +4206,7 @@
     "width": 790,
     "normal_caption": "share this guide to someone",
     "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
-    "problem": "share this guide to someone",
+    "problem": "click the Bluetooth icon at the top left corner of the screen",
     "solution": [
       646,
       3,
@@ -4227,7 +4227,7 @@
     "width": 790,
     "normal_caption": "search in macos user guide",
     "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
-    "problem": "search in macos user guide",
+    "problem": "click the Bluetooth icon at the top left corner of the screen",
     "solution": [
       720,
       3,
@@ -4248,7 +4248,7 @@
     "width": 790,
     "normal_caption": "open bluetooth preferences for me",
     "image": "images/screenspotv2_image/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
-    "problem": "open bluetooth preferences for me",
+    "problem": "click the Bluetooth icon at the top left corner of the screen",
     "solution": [
       14,
       539,
@@ -4269,7 +4269,7 @@
     "width": 1178,
     "normal_caption": "hidden all shortcut",
     "image": "images/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
-    "problem": "hidden all shortcut",
+    "problem": "select the hidden all option",
     "solution": [
       179,
       169,
@@ -4290,7 +4290,7 @@
     "width": 1178,
     "normal_caption": "open wechat",
     "image": "images/screenspotv2_image/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
-    "problem": "open wechat",
+    "problem": "select ignore update",
     "solution": [
       180,
       3,
@@ -4311,7 +4311,7 @@
     "width": 1332,
     "normal_caption": "turn wifi off",
     "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
-    "problem": "turn wifi off",
+    "problem": "select the Wi-Fi option from the left sidebar",
     "solution": [
       995,
       254,
@@ -4332,7 +4332,7 @@
     "width": 1332,
     "normal_caption": "add a device",
     "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
-    "problem": "add a device",
+    "problem": "select the Wi-Fi option from the left sidebar",
     "solution": [
       37,
       1092,
@@ -4353,7 +4353,7 @@
     "width": 1332,
     "normal_caption": "remove a network connected device",
     "image": "images/screenspotv2_image/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
-    "problem": "remove a network connected device",
+    "problem": "select the Wi-Fi option from the left sidebar",
     "solution": [
       88,
       1091,
@@ -4374,7 +4374,7 @@
     "width": 1338,
     "normal_caption": "select the interface in the bar",
     "image": "images/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
-    "problem": "select the interface in the bar",
+    "problem": "click the Create button",
     "solution": [
       531,
       569,
@@ -4395,7 +4395,7 @@
     "width": 1338,
     "normal_caption": "create the new service",
     "image": "images/screenspotv2_image/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
-    "problem": "create the new service",
+    "problem": "click the Create button",
     "solution": [
       905,
       711,
@@ -4416,7 +4416,7 @@
     "width": 1336,
     "normal_caption": "turn on low power mode",
     "image": "images/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
-    "problem": "turn on low power mode",
+    "problem": "select the Usage History option",
     "solution": [
       351,
       457,
@@ -4437,7 +4437,7 @@
     "width": 1336,
     "normal_caption": "check battery usage history",
     "image": "images/screenspotv2_image/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
-    "problem": "check battery usage history",
+    "problem": "select the Usage History option",
     "solution": [
       2,
       532,
@@ -4458,7 +4458,7 @@
     "width": 1246,
     "normal_caption": "show emoji & symbols",
     "image": "images/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
-    "problem": "show emoji & symbols",
+    "problem": "select the ABC input source",
     "solution": [
       444,
       184,
@@ -4479,7 +4479,7 @@
     "width": 1246,
     "normal_caption": "open keyboard preferences",
     "image": "images/screenspotv2_image/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
-    "problem": "open keyboard preferences",
+    "problem": "select the ABC input source",
     "solution": [
       445,
       360,
@@ -4500,7 +4500,7 @@
     "width": 1334,
     "normal_caption": "add a new account",
     "image": "images/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
-    "problem": "add a new account",
+    "problem": "select the 163 email account",
     "solution": [
       36,
       916,
@@ -4521,7 +4521,7 @@
     "width": 1334,
     "normal_caption": "search for account",
     "image": "images/screenspotv2_image/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
-    "problem": "search for account",
+    "problem": "select the 163 email account",
     "solution": [
       985,
       22,
@@ -4542,7 +4542,7 @@
     "width": 1336,
     "normal_caption": "cancel the calculator",
     "image": "images/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
-    "problem": "cancel the calculator",
+    "problem": "select the checkbox next to Applications",
     "solution": [
       179,
       455,
@@ -4563,7 +4563,7 @@
     "width": 1336,
     "normal_caption": "switch to privacy",
     "image": "images/screenspotv2_image/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
-    "problem": "switch to privacy",
+    "problem": "select the checkbox next to Applications",
     "solution": [
       707,
       245,
@@ -4584,7 +4584,7 @@
     "width": 1336,
     "normal_caption": "switch to alerts mode",
     "image": "images/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
-    "problem": "switch to alerts mode",
+    "problem": "select the Banners option for aoschat.apple.com.cn",
     "solution": [
       1024,
       444,
@@ -4605,7 +4605,7 @@
     "width": 1336,
     "normal_caption": "disable \"allow notifications\" setting",
     "image": "images/screenspotv2_image/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
-    "problem": "disable \"allow notifications\" setting",
+    "problem": "select the Banners option for aoschat.apple.com.cn",
     "solution": [
       585,
       329,
@@ -4626,7 +4626,7 @@
     "width": 1334,
     "normal_caption": "switch on do not disturb mode",
     "image": "images/screenspotv2_image/pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
-    "problem": "switch on do not disturb mode",
+    "problem": "toggle the Do Not Disturb switch",
     "solution": [
       529,
       267,
@@ -4647,7 +4647,7 @@
     "width": 1338,
     "normal_caption": "change user's password",
     "image": "images/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
-    "problem": "change user's password",
+    "problem": "click the lock icon at the bottom left corner",
     "solution": [
       965,
       226,
@@ -4668,7 +4668,7 @@
     "width": 1338,
     "normal_caption": "unlock to make changes",
     "image": "images/screenspotv2_image/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
-    "problem": "unlock to make changes",
+    "problem": "click the lock icon at the bottom left corner",
     "solution": [
       25,
       887,
@@ -4689,7 +4689,7 @@
     "width": 1338,
     "normal_caption": "check app limits",
     "image": "images/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
-    "problem": "check app limits",
+    "problem": "select the App Usage option",
     "solution": [
       1,
       766,
@@ -4710,7 +4710,7 @@
     "width": 1338,
     "normal_caption": "view the always allowed apps",
     "image": "images/screenspotv2_image/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
-    "problem": "view the always allowed apps",
+    "problem": "select the Turn On button to enable Screen Time for this Mac",
     "solution": [
       1,
       896,
@@ -4731,7 +4731,7 @@
     "width": 1334,
     "normal_caption": "turn on \"user apple watch to unlock\"",
     "image": "images/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
-    "problem": "turn on \"user apple watch to unlock\"",
+    "problem": "click the lock icon at the bottom left corner",
     "solution": [
       203,
       400,
@@ -4752,7 +4752,7 @@
     "width": 1334,
     "normal_caption": "view firewall",
     "image": "images/screenspotv2_image/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
-    "problem": "view firewall",
+    "problem": "click the lock icon at the bottom left corner",
     "solution": [
       675,
       154,
@@ -4773,7 +4773,7 @@
     "width": 1334,
     "normal_caption": "switch to time zone settings",
     "image": "images/screenspotv2_image/pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
-    "problem": "switch to time zone settings",
+    "problem": "click the lock icon at the bottom left corner",
     "solution": [
       672,
       149,
@@ -4794,7 +4794,7 @@
     "width": 2648,
     "normal_caption": "open pycharm",
     "image": "images/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
-    "problem": "open pycharm",
+    "problem": "open Microsoft PowerPoint",
     "solution": [
       1827,
       99,
@@ -4815,7 +4815,7 @@
     "width": 2648,
     "normal_caption": "open anaconda",
     "image": "images/screenspotv2_image/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
-    "problem": "open anaconda",
+    "problem": "open Microsoft PowerPoint",
     "solution": [
       473,
       701,
@@ -4836,7 +4836,7 @@
     "width": 1906,
     "normal_caption": "delete this email",
     "image": "images/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
-    "problem": "delete this email",
+    "problem": "view the email details",
     "solution": [
       1284,
       0,
@@ -4857,7 +4857,7 @@
     "width": 1906,
     "normal_caption": "forward email",
     "image": "images/screenspotv2_image/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
-    "problem": "forward email",
+    "problem": "view the email details",
     "solution": [
       1667,
       0,
@@ -4878,7 +4878,7 @@
     "width": 970,
     "normal_caption": "search in emails",
     "image": "images/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
-    "problem": "search in emails",
+    "problem": "view the submission details by clicking on the Details link",
     "solution": [
       872,
       0,
@@ -4899,7 +4899,7 @@
     "width": 970,
     "normal_caption": "view attachment",
     "image": "images/screenspotv2_image/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
-    "problem": "view attachment",
+    "problem": "view the submission details",
     "solution": [
       561,
       693,
@@ -4920,7 +4920,7 @@
     "width": 1130,
     "normal_caption": "add images",
     "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
-    "problem": "add images",
+    "problem": "click the paperclip icon",
     "solution": [
       1013,
       19,
@@ -4941,7 +4941,7 @@
     "width": 1130,
     "normal_caption": "add a recipient",
     "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
-    "problem": "add a recipient",
+    "problem": "click the paperclip icon",
     "solution": [
       1025,
       106,
@@ -4962,7 +4962,7 @@
     "width": 1130,
     "normal_caption": "adjust font size",
     "image": "images/screenspotv2_image/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
-    "problem": "adjust font size",
+    "problem": "click the paperclip icon",
     "solution": [
       808,
       19,
@@ -4983,7 +4983,7 @@
     "width": 1910,
     "normal_caption": "check junk emails",
     "image": "images/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
-    "problem": "check junk emails",
+    "problem": "open the email from Wenhai Wang about ICASSP 2024",
     "solution": [
       2,
       917,
@@ -5004,7 +5004,7 @@
     "width": 1910,
     "normal_caption": "open the first email from researchgate",
     "image": "images/screenspotv2_image/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
-    "problem": "open the first email from researchgate",
+    "problem": "open the email from Wenhai Wang about ICASSP 2024",
     "solution": [
       376,
       103,
@@ -5025,7 +5025,7 @@
     "width": 1268,
     "normal_caption": "open the image in memo",
     "image": "images/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
-    "problem": "open the image in memo",
+    "problem": "click the magnifying glass icon at the top right corner",
     "solution": [
       42,
       567,
@@ -5046,7 +5046,7 @@
     "width": 1268,
     "normal_caption": "lock the memo",
     "image": "images/screenspotv2_image/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
-    "problem": "lock the memo",
+    "problem": "open the document settings menu",
     "solution": [
       918,
       9,
@@ -5067,7 +5067,7 @@
     "width": 1336,
     "normal_caption": "share throught airdrop",
     "image": "images/screenspotv2_image/pc_9237faf6-9f95-4157-9d0b-aafa67f7b675.png",
-    "problem": "share throught airdrop",
+    "problem": "select the Mail option from the sharing menu",
     "solution": [
       1103,
       87,
@@ -5088,7 +5088,7 @@
     "width": 1996,
     "normal_caption": "search in app store",
     "image": "images/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
-    "problem": "search in app store",
+    "problem": "click the Discover button",
     "solution": [
       18,
       104,
@@ -5109,7 +5109,7 @@
     "width": 1996,
     "normal_caption": "next page",
     "image": "images/screenspotv2_image/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
-    "problem": "next page",
+    "problem": "click the Discover button",
     "solution": [
       1917,
       877,
@@ -5130,7 +5130,7 @@
     "width": 2000,
     "normal_caption": "share this page",
     "image": "images/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
-    "problem": "share this page",
+    "problem": "click the Macintosh HD tab",
     "solution": [
       1880,
       10,
@@ -5151,7 +5151,7 @@
     "width": 2000,
     "normal_caption": "back to previous page",
     "image": "images/screenspotv2_image/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
-    "problem": "back to previous page",
+    "problem": "click the Macintosh HD tab",
     "solution": [
       172,
       15,
@@ -5172,7 +5172,7 @@
     "width": 1998,
     "normal_caption": "get the bear markdown notes app",
     "image": "images/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
-    "problem": "get the bear markdown notes app",
+    "problem": "click the GET button next to Pixelmator Pro",
     "solution": [
       1054,
       211,
@@ -5193,7 +5193,7 @@
     "width": 1998,
     "normal_caption": "view the pixelmator app",
     "image": "images/screenspotv2_image/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
-    "problem": "view the pixelmator app",
+    "problem": "click the GET button next to Pixelmator Pro",
     "solution": [
       517,
       323,
@@ -5214,7 +5214,7 @@
     "width": 1998,
     "normal_caption": "open business categories",
     "image": "images/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
-    "problem": "open business categories",
+    "problem": "select the Education category",
     "solution": [
       504,
       250,
@@ -5235,7 +5235,7 @@
     "width": 1998,
     "normal_caption": "download fantastical from icloud",
     "image": "images/screenspotv2_image/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
-    "problem": "download fantastical from icloud",
+    "problem": "select the Education category",
     "solution": [
       1795,
       1229,
@@ -5256,7 +5256,7 @@
     "width": 2000,
     "normal_caption": "view the 2023 app store awards",
     "image": "images/screenspotv2_image/pc_a2300b43-a1e0-4da9-aed4-3543b507d9a3.png",
-    "problem": "view the 2023 app store awards",
+    "problem": "click the GET button next to BBEdit",
     "solution": [
       518,
       231,
@@ -5277,7 +5277,7 @@
     "width": 1598,
     "normal_caption": "back to previous folder",
     "image": "images/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
-    "problem": "back to previous folder",
+    "problem": "open the batch_transfers.txt file",
     "solution": [
       355,
       39,
@@ -5298,7 +5298,7 @@
     "width": 1598,
     "normal_caption": "open d1_one",
     "image": "images/screenspotv2_image/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
-    "problem": "open d1_one",
+    "problem": "select the batch_transfers.txt file",
     "solution": [
       886,
       175,
@@ -5319,7 +5319,7 @@
     "width": 1598,
     "normal_caption": "open the file",
     "image": "images/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
-    "problem": "open the file",
+    "problem": "open the download_files.sh file",
     "solution": [
       1411,
       804,
@@ -5340,7 +5340,7 @@
     "width": 1598,
     "normal_caption": "create a new document",
     "image": "images/screenspotv2_image/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
-    "problem": "create a new document",
+    "problem": "open the download_files.sh file",
     "solution": [
       354,
       809,
@@ -5361,7 +5361,7 @@
     "width": 1600,
     "normal_caption": "show the files in list",
     "image": "images/screenspotv2_image/pc_f01bc231-56c4-4aba-9dd4-fd6271be0f8e.png",
-    "problem": "show the files in list",
+    "problem": "select the List option from the dropdown menu",
     "solution": [
       475,
       248,
@@ -5382,7 +5382,7 @@
     "width": 2154,
     "normal_caption": "open a blank document",
     "image": "images/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
-    "problem": "open a blank document",
+    "problem": "select the Blank Document template",
     "solution": [
       307,
       192,
@@ -5403,7 +5403,7 @@
     "width": 2154,
     "normal_caption": "my account",
     "image": "images/screenspotv2_image/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
-    "problem": "my account",
+    "problem": "select the Blank Document template",
     "solution": [
       29,
       109,
@@ -5424,7 +5424,7 @@
     "width": 1710,
     "normal_caption": "enlarge font size",
     "image": "images/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
-    "problem": "enlarge font size",
+    "problem": "open the Quick Access Toolbar dropdown menu",
     "solution": [
       513,
       134,
@@ -5445,7 +5445,7 @@
     "width": 1710,
     "normal_caption": "save file",
     "image": "images/screenspotv2_image/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
-    "problem": "save file",
+    "problem": "click the Save button in the Quick Access Toolbar",
     "solution": [
       438,
       2,
@@ -5466,7 +5466,7 @@
     "width": 1714,
     "normal_caption": "add a new pen",
     "image": "images/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
-    "problem": "add a new pen",
+    "problem": "open the Quick Access Toolbar dropdown menu",
     "solution": [
       645,
       127,
@@ -5487,7 +5487,7 @@
     "width": 1714,
     "normal_caption": "choose the red pen",
     "image": "images/screenspotv2_image/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
-    "problem": "choose the red pen",
+    "problem": "click the downward arrow next to the Quick Access Toolbar button",
     "solution": [
       352,
       133,
@@ -5508,7 +5508,7 @@
     "width": 1712,
     "normal_caption": "adjust orientation",
     "image": "images/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
-    "problem": "adjust orientation",
+    "problem": "click the Save button in the Quick Access Toolbar",
     "solution": [
       221,
       131,
@@ -5529,7 +5529,7 @@
     "width": 1712,
     "normal_caption": "adjust the left indent",
     "image": "images/screenspotv2_image/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
-    "problem": "adjust the left indent",
+    "problem": "click the Save button in the Quick Access Toolbar",
     "solution": [
       884,
       175,
@@ -5550,7 +5550,7 @@
     "width": 1708,
     "normal_caption": "insert a shape",
     "image": "images/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
-    "problem": "insert a shape",
+    "problem": "click the File button in the Quick Access Toolbar",
     "solution": [
       95,
       256,
@@ -5571,7 +5571,7 @@
     "width": 1708,
     "normal_caption": "add a screenshot",
     "image": "images/screenspotv2_image/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
-    "problem": "add a screenshot",
+    "problem": "click the File button in the Quick Access Toolbar",
     "solution": [
       580,
       258,
@@ -5592,7 +5592,7 @@
     "width": 1710,
     "normal_caption": "add a sunburst chart",
     "image": "images/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
-    "problem": "add a sunburst chart",
+    "problem": "select the Hierarchy option from the dropdown menu",
     "solution": [
       879,
       797,
@@ -5613,7 +5613,7 @@
     "width": 1710,
     "normal_caption": "turn on auto save",
     "image": "images/screenspotv2_image/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
-    "problem": "turn on auto save",
+    "problem": "select the Hierarchy option from the dropdown menu",
     "solution": [
       283,
       0,
@@ -5634,7 +5634,7 @@
     "width": 1710,
     "normal_caption": "switch to 20 size font",
     "image": "images/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
-    "problem": "switch to 20 size font",
+    "problem": "select the font size 26 from the dropdown menu",
     "solution": [
       407,
       771,
@@ -5655,7 +5655,7 @@
     "width": 1710,
     "normal_caption": "share the word file",
     "image": "images/screenspotv2_image/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
-    "problem": "share the word file",
+    "problem": "select the font size 26 from the dropdown menu",
     "solution": [
       1554,
       66,
@@ -5676,7 +5676,7 @@
     "width": 1714,
     "normal_caption": "choose ms pgothic for heading",
     "image": "images/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
-    "problem": "choose ms pgothic for heading",
+    "problem": "select the Arial font from the dropdown menu",
     "solution": [
       205,
       420,
@@ -5697,7 +5697,7 @@
     "width": 1714,
     "normal_caption": "choose apple chancery",
     "image": "images/screenspotv2_image/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
-    "problem": "choose apple chancery",
+    "problem": "select the Arial font from the dropdown menu",
     "solution": [
       205,
       1342,
@@ -5718,7 +5718,7 @@
     "width": 2190,
     "normal_caption": "switch to design",
     "image": "images/screenspotv2_image/pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
-    "problem": "switch to design",
+    "problem": "the New Slide button",
     "solution": [
       358,
       65,
@@ -5739,7 +5739,7 @@
     "width": 2192,
     "normal_caption": "rotate title box",
     "image": "images/screenspotv2_image/pc_9eebe928-6d8a-4de5-8212-039d0282b082.png",
-    "problem": "rotate title box",
+    "problem": "click the my title text box",
     "solution": [
       1316,
       553,
@@ -5760,7 +5760,7 @@
     "width": 2190,
     "normal_caption": "bullets and numbering settings",
     "image": "images/screenspotv2_image/pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
-    "problem": "bullets and numbering settings",
+    "problem": "select the Bullets and Numbering... option",
     "solution": [
       1197,
       572,
@@ -5781,7 +5781,7 @@
     "width": 1158,
     "normal_caption": "sign up for free",
     "image": "images/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
-    "problem": "sign up for free",
+    "problem": "click the Sign up for free button",
     "solution": [
       393,
       1087,
@@ -5802,7 +5802,7 @@
     "width": 1158,
     "normal_caption": "sign in",
     "image": "images/screenspotv2_image/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
-    "problem": "sign in",
+    "problem": "click the Sign up for free button",
     "solution": [
       393,
       1173,
@@ -5823,7 +5823,7 @@
     "width": 1164,
     "normal_caption": "input the email address",
     "image": "images/screenspotv2_image/pc_18a939a5-8f77-4519-9c7a-d62b11e7b878.png",
-    "problem": "input the email address",
+    "problem": "click the Next button",
     "solution": [
       185,
       253,
@@ -5844,7 +5844,7 @@
     "width": 2300,
     "normal_caption": "debug",
     "image": "images/screenspotv2_image/pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
-    "problem": "debug",
+    "problem": "open the file reddit_state.json",
     "solution": [
       1511,
       55,
@@ -5865,7 +5865,7 @@
     "width": 1802,
     "normal_caption": "check file colors",
     "image": "images/screenspotv2_image/pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
-    "problem": "check file colors",
+    "problem": "expand the Appearance & Behavior section",
     "solution": [
       520,
       349,
@@ -5886,7 +5886,7 @@
     "width": 1800,
     "normal_caption": "check python interpreter",
     "image": "images/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
-    "problem": "check python interpreter",
+    "problem": "expand the Project: webarena section",
     "solution": [
       0,
       424,
@@ -5907,7 +5907,7 @@
     "width": 1800,
     "normal_caption": "view plugins",
     "image": "images/screenspotv2_image/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
-    "problem": "view plugins",
+    "problem": "expand the Project: webarena section",
     "solution": [
       0,
       282,
@@ -5928,7 +5928,7 @@
     "width": 1802,
     "normal_caption": "select python interpreter",
     "image": "images/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
-    "problem": "select python interpreter",
+    "problem": "select the Python interpreter dropdown menu",
     "solution": [
       748,
       158,
@@ -5949,7 +5949,7 @@
     "width": 1802,
     "normal_caption": "add a new package",
     "image": "images/screenspotv2_image/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
-    "problem": "add a new package",
+    "problem": "select the Python interpreter dropdown menu",
     "solution": [
       509,
       256,
@@ -5970,7 +5970,7 @@
     "width": 1802,
     "normal_caption": "cancel showing plots in tool windows",
     "image": "images/screenspotv2_image/pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
-    "problem": "cancel showing plots in tool windows",
+    "problem": "expand the Tasks section",
     "solution": [
       519,
       139,
@@ -5991,7 +5991,7 @@
     "width": 2292,
     "normal_caption": "pause the debugger",
     "image": "images/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
-    "problem": "pause the debugger",
+    "problem": "open the minimal_example.py file",
     "solution": [
       38,
       1009,
@@ -6012,7 +6012,7 @@
     "width": 2292,
     "normal_caption": "minimize the debug panel",
     "image": "images/screenspotv2_image/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
-    "problem": "minimize the debug panel",
+    "problem": "open the minimal_example.py file",
     "solution": [
       2192,
       779,
@@ -6033,7 +6033,7 @@
     "width": 1198,
     "normal_caption": "select the gzip file format",
     "image": "images/screenspotv2_image/pc_f656ce46-13af-4cd1-9126-f3c45a4e696c.png",
-    "problem": "select the gzip file format",
+    "problem": "select the checkbox next to 7-Zip Archive",
     "solution": [
       78,
       603,
@@ -6054,7 +6054,7 @@
     "width": 1462,
     "normal_caption": "hide menu icon",
     "image": "images/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
-    "problem": "hide menu icon",
+    "problem": "select the Hide menu icon checkbox",
     "solution": [
       473,
       190,
@@ -6075,7 +6075,7 @@
     "width": 1462,
     "normal_caption": "switch to display",
     "image": "images/screenspotv2_image/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
-    "problem": "switch to display",
+    "problem": "select the Hide menu icon checkbox",
     "solution": [
       685,
       55,
@@ -6096,7 +6096,7 @@
     "width": 1462,
     "normal_caption": "buy betterdisplay pro",
     "image": "images/screenspotv2_image/pc_ec085abc-591d-4dcc-830c-defddc958f47.png",
-    "problem": "buy betterdisplay pro",
+    "problem": "select the Already Have a License? option",
     "solution": [
       351,
       571,
@@ -6117,7 +6117,7 @@
     "width": 1574,
     "normal_caption": "start record",
     "image": "images/screenspotv2_image/pc_c69e46cd-d2a9-4dbf-8d0a-4532b750a691.png",
-    "problem": "start record",
+    "problem": "start recording a Voice Memo",
     "solution": [
       185,
       1132,
@@ -6138,7 +6138,7 @@
     "width": 1478,
     "normal_caption": "search in activity monitor",
     "image": "images/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
-    "problem": "search in activity monitor",
+    "problem": "select the Memory tab",
     "solution": [
       1381,
       17,
@@ -6159,7 +6159,7 @@
     "width": 1478,
     "normal_caption": "check the google chrome app",
     "image": "images/screenspotv2_image/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
-    "problem": "check the google chrome app",
+    "problem": "select the Memory tab",
     "solution": [
       1,
       360,
@@ -6180,7 +6180,7 @@
     "width": 1478,
     "normal_caption": "terminate this process",
     "image": "images/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
-    "problem": "terminate this process",
+    "problem": "select the Memory tab",
     "solution": [
       555,
       18,
@@ -6201,7 +6201,7 @@
     "width": 1478,
     "normal_caption": "detail information",
     "image": "images/screenspotv2_image/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
-    "problem": "detail information",
+    "problem": "select the Memory tab",
     "solution": [
       640,
       17,
@@ -6222,7 +6222,7 @@
     "width": 1658,
     "normal_caption": "add a shortcut",
     "image": "images/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
-    "problem": "add a shortcut",
+    "problem": "search for a shortcut by typing its name in the search bar",
     "solution": [
       1024,
       20,
@@ -6243,7 +6243,7 @@
     "width": 1658,
     "normal_caption": "open gallery",
     "image": "images/screenspotv2_image/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
-    "problem": "open gallery",
+    "problem": "search for a shortcut by typing its name in the search bar",
     "solution": [
       1,
       100,
@@ -6264,7 +6264,7 @@
     "width": 1776,
     "normal_caption": "switch to apps",
     "image": "images/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
-    "problem": "switch to apps",
+    "problem": "select the Categories tab",
     "solution": [
       1496,
       204,
@@ -6285,7 +6285,7 @@
     "width": 1776,
     "normal_caption": "add a send message action",
     "image": "images/screenspotv2_image/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
-    "problem": "add a send message action",
+    "problem": "select the Categories tab",
     "solution": [
       1254,
       628,
@@ -6306,7 +6306,7 @@
     "width": 1774,
     "normal_caption": "run the shortcut",
     "image": "images/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
-    "problem": "run the shortcut",
+    "problem": "click the Send Message button",
     "solution": [
       1144,
       16,
@@ -6327,7 +6327,7 @@
     "width": 1774,
     "normal_caption": "share the shortcut",
     "image": "images/screenspotv2_image/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
-    "problem": "share the shortcut",
+    "problem": "click the Send Message button",
     "solution": [
       1037,
       13,
@@ -6348,7 +6348,7 @@
     "width": 1524,
     "normal_caption": "open paper named flamingo",
     "image": "images/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
-    "problem": "open paper named flamingo",
+    "problem": "open the document titled BLIP-2-Bootstrap...dels.pdf",
     "solution": [
       501,
       124,
@@ -6369,7 +6369,7 @@
     "width": 1524,
     "normal_caption": "search in files",
     "image": "images/screenspotv2_image/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
-    "problem": "search in files",
+    "problem": "open the document titled BLIP-2-Bootstrap...dels.pdf",
     "solution": [
       1426,
       14,
@@ -6390,7 +6390,7 @@
     "width": 1380,
     "normal_caption": "enlarge the font",
     "image": "images/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
-    "problem": "enlarge the font",
+    "problem": "click the search bar to type a word for lookup",
     "solution": [
       746,
       19,
@@ -6411,7 +6411,7 @@
     "width": 1380,
     "normal_caption": "search in dictionary",
     "image": "images/screenspotv2_image/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
-    "problem": "search in dictionary",
+    "problem": "click the search bar to type a word for lookup",
     "solution": [
       836,
       19,
@@ -6432,7 +6432,7 @@
     "width": 2560,
     "normal_caption": "open vscode",
     "image": "images/screenspotv2_image/pc_1inyhi.png",
-    "problem": "open vscode",
+    "problem": "open the luyi1 folder",
     "solution": [
       12,
       433,
@@ -6453,7 +6453,7 @@
     "width": 2560,
     "normal_caption": "adjust font color",
     "image": "images/screenspotv2_image/pc_8g2jf6.png",
-    "problem": "adjust font color",
+    "problem": "select the black arrow icon from the Gallery panel",
     "solution": [
       797,
       128,
@@ -6474,7 +6474,7 @@
     "width": 2880,
     "normal_caption": "view battery usage of last 10 days",
     "image": "images/screenspotv2_image/pc_b5q1tt.png",
-    "problem": "view battery usage of last 10 days",
+    "problem": "click the Options... button",
     "solution": [
       1547,
       358,
@@ -6495,7 +6495,7 @@
     "width": 2880,
     "normal_caption": "download microsoft word from cloud",
     "image": "images/screenspotv2_image/pc_drcjo3.png",
-    "problem": "download microsoft word from cloud",
+    "problem": "click the Get button next to Microsoft Excel",
     "solution": [
       2691,
       1569,
@@ -6516,7 +6516,7 @@
     "width": 2560,
     "normal_caption": "adjust mouse speed",
     "image": "images/screenspotv2_image/pc_dyxzuj.png",
-    "problem": "adjust mouse speed",
+    "problem": "enable natural scrolling",
     "solution": [
       1337,
       275,
@@ -6537,7 +6537,7 @@
     "width": 2560,
     "normal_caption": "empty the trash",
     "image": "images/screenspotv2_image/pc_dzpr8m.png",
-    "problem": "empty the trash",
+    "problem": "restore the selected folder",
     "solution": [
       1475,
       473,
@@ -6558,7 +6558,7 @@
     "width": 2880,
     "normal_caption": "play dance pop station music",
     "image": "images/screenspotv2_image/pc_f6eng1.png",
-    "problem": "play dance pop station music",
+    "problem": "open the Recently Added section",
     "solution": [
       702,
       857,
@@ -6579,7 +6579,7 @@
     "width": 2560,
     "normal_caption": "open google drive",
     "image": "images/screenspotv2_image/pc_gtda7d.png",
-    "problem": "open google drive",
+    "problem": "click the Google search bar",
     "solution": [
       2425,
       403,
@@ -6600,7 +6600,7 @@
     "width": 2560,
     "normal_caption": "install LXD app",
     "image": "images/screenspotv2_image/pc_j6tmln.png",
-    "problem": "install LXD app",
+    "problem": "click the Install button",
     "solution": [
       906,
       181,
@@ -6621,7 +6621,7 @@
     "width": 2560,
     "normal_caption": "click to restart the computer",
     "image": "images/screenspotv2_image/pc_js1st2.png",
-    "problem": "click to restart the computer",
+    "problem": "open the Exit option from the menu",
     "solution": [
       2279,
       397,
@@ -6642,7 +6642,7 @@
     "width": 2560,
     "normal_caption": "add current webpage to favourites",
     "image": "images/screenspotv2_image/pc_krzgko.png",
-    "problem": "add current webpage to favourites",
+    "problem": "click the Go to Drive button",
     "solution": [
       2262,
       78,
@@ -6663,7 +6663,7 @@
     "width": 2560,
     "normal_caption": "Add a wired connection device",
     "image": "images/screenspotv2_image/pc_nuyjna.png",
-    "problem": "Add a wired connection device",
+    "problem": "close the Network settings window",
     "solution": [
       1554,
       391,
@@ -6684,7 +6684,7 @@
     "width": 2560,
     "normal_caption": "select all folders",
     "image": "images/screenspotv2_image/pc_o4nd16.png",
-    "problem": "select all folders",
+    "problem": "open the Desktop folder",
     "solution": [
       707,
       644,
@@ -6705,7 +6705,7 @@
     "width": 2880,
     "normal_caption": "search in this folder",
     "image": "images/screenspotv2_image/pc_odcu20.png",
-    "problem": "search in this folder",
+    "problem": "select the file named accessibility_elements.json",
     "solution": [
       2207,
       76,
@@ -6726,7 +6726,7 @@
     "width": 2560,
     "normal_caption": "center the selected text",
     "image": "images/screenspotv2_image/pc_oyo43s.png",
-    "problem": "center the selected text",
+    "problem": "click the red highlighted text To be or not to be",
     "solution": [
       927,
       130,
@@ -6747,7 +6747,7 @@
     "width": 2560,
     "normal_caption": "add a new input method",
     "image": "images/screenspotv2_image/pc_p4xo8z.png",
-    "problem": "add a new input method",
+    "problem": "click the Manage Installed Languages button",
     "solution": [
       1132,
       403,
@@ -6768,7 +6768,7 @@
     "width": 2880,
     "normal_caption": "update all available apps",
     "image": "images/screenspotv2_image/pc_pl3ry1.png",
-    "problem": "update all available apps",
+    "problem": "click the Update button next to iMovie",
     "solution": [
       2632,
       143,
@@ -6789,7 +6789,7 @@
     "width": 2560,
     "normal_caption": "open nac client ",
     "image": "images/screenspotv2_image/pc_qao1zc.png",
-    "problem": "open nac client ",
+    "problem": "open the Calendar application",
     "solution": [
       1610,
       800,
@@ -6810,7 +6810,7 @@
     "width": 2560,
     "normal_caption": "select a new time format",
     "image": "images/screenspotv2_image/pc_rvnx5q.png",
-    "problem": "select a new time format",
+    "problem": "enable the Automatic Time Zone setting",
     "solution": [
       1137,
       355,
@@ -6831,7 +6831,7 @@
     "width": 2560,
     "normal_caption": "view get more help",
     "image": "images/screenspotv2_image/pc_st4s1n.png",
-    "problem": "view get more help",
+    "problem": "click the Activities button in the top left corner",
     "solution": [
       772,
       755,
@@ -6852,7 +6852,7 @@
     "width": 2560,
     "normal_caption": "do not save this file",
     "image": "images/screenspotv2_image/pc_suf989.png",
-    "problem": "do not save this file",
+    "problem": "click the Save button in the dialog box",
     "solution": [
       996,
       755,
@@ -6873,7 +6873,7 @@
     "width": 2880,
     "normal_caption": "open the map app",
     "image": "images/screenspotv2_image/pc_u77zz1.png",
-    "problem": "open the map app",
+    "problem": "open the small_house folder",
     "solution": [
       553,
       1688,
@@ -6894,7 +6894,7 @@
     "width": 2560,
     "normal_caption": "switch to NAT network connections",
     "image": "images/screenspotv2_image/pc_umvv32.png",
-    "problem": "switch to NAT network connections",
+    "problem": "click the Save button",
     "solution": [
       962,
       740,
@@ -6915,7 +6915,7 @@
     "width": 2560,
     "normal_caption": "open the calculator",
     "image": "images/screenspotv2_image/pc_uuhwlx.png",
-    "problem": "open the calculator",
+    "problem": "open the Help application",
     "solution": [
       1309,
       526,
@@ -6936,7 +6936,7 @@
     "width": 2880,
     "normal_caption": "insert a new slide",
     "image": "images/screenspotv2_image/pc_vcud9k.png",
-    "problem": "insert a new slide",
+    "problem": "click the New Slide button",
     "solution": [
       269,
       127,
@@ -6957,7 +6957,7 @@
     "width": 2560,
     "normal_caption": "view more information about bomber",
     "image": "images/screenspotv2_image/pc_z7ydq8.png",
-    "problem": "view more information about bomber",
+    "problem": "click the Updates button",
     "solution": [
       1466,
       644,
@@ -6978,7 +6978,7 @@
     "width": 2880,
     "normal_caption": "adjust the options of  \"show previous\"",
     "image": "images/screenspotv2_image/pc_zuyj00.png",
-    "problem": "adjust the options of  \"show previous\"",
+    "problem": "enable notifications for the Calendar app",
     "solution": [
       1744,
       281,
@@ -6999,7 +6999,7 @@
     "width": 2560,
     "normal_caption": "enter my full name",
     "image": "images/screenspotv2_image/pc_aaaaaa.png",
-    "problem": "enter my full name",
+    "problem": "click the Continue button",
     "solution": [
       701,
       321,
