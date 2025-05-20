@@ -228,3 +228,4 @@ vis_results/*
 
 # 如果希望保留目录但忽略内容，可以取消下面这行的注释
 # !vis_results/
+core.*
