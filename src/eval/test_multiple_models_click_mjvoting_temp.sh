@@ -35,7 +35,7 @@ CHECKPOINTS=(0 334 100 200 300 10 20 30 40 50 60 70 80 90 110 120 130 140 150 16
 mkdir -p logs
 
 # 定义不同温度的模型名称
-TEMPERATURES=("0.9" "0.3" "0.5" "0.8")
+TEMPERATURES=("0.5" "0.8" "0.3")
 
 # 循环测试不同温度的模型
 for TEMP in "${TEMPERATURES[@]}"; do
