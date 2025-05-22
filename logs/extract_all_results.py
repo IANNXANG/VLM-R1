@@ -44,6 +44,7 @@ EXPERIMENT_TYPES = {
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.5": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.7": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8-wp": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.9": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
 
     # [添加新实验]
@@ -69,6 +70,7 @@ EXPERIMENT_CSV_NAMES = {
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.5": "click_mjvoting_temp0.5",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.7": "click_mjvoting_temp0.7",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8": "click_mjvoting_temp0.8",
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8-wp": "click_mjvoting_temp0.8_wp",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.9": "click_mjvoting_temp0.9",
 
     # [添加新实验的CSV输出文件命名]
