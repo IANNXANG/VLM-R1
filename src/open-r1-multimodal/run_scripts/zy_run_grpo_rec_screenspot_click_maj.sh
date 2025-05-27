@@ -1,5 +1,6 @@
 cd /c22940/zy/code/VLM-R1/src/open-r1-multimodal
 
+export PYTHONWARNINGS="ignore:None of the inputs have requires_grad=True. Gradients will be None:UserWarning"
 export DEBUG_MODE="true"
 export CUDA_VISIBLE_DEVICES=2,3,4,5
 
