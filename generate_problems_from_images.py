@@ -41,7 +41,7 @@ def parse_args():
     parser.add_argument('--temperature', type=float, default=0.2,
                         help='生成温度 (默认: 0.2)')
     parser.add_argument('--prompt', type=str, 
-                        default="Describe a task that requires clicking on a SINGLE, SPECIFIC element in this screenshot. Formulate your answer as a short imperative statement without mentioning clicking. The task must have only ONE correct location to interact with. Examples: 'close this window', 'minimize this window', 'view daily challenges', etc.",
+                        default="Generate 4 different tasks that require clicking on SINGLE, SPECIFIC elements in this screenshot. Each task should target a different clickable element and be formulated as a short imperative statement without mentioning clicking. Each task must have only ONE correct location to interact with. Format your response as: 1. [task1] 2. [task2] 3. [task3] 4. [task4]. Examples: '1. close this window 2. minimize this window 3. view daily challenges 4. open settings menu'",
                         help='发送给模型的提示词')
     return parser.parse_args()
 
@@ -84,8 +84,43 @@ def clean_problem_text(text):
     
     return text
 
-def generate_problem_from_image(image_path, api_url, model_name, prompt, temperature, retries=0):
-    """使用OpenAI客户端通过VLLM API生成problem描述"""
+def parse_four_problems(response_text):
+    """从模型响应中解析出四个不同的问题"""
+    problems = []
+    
+    # 尝试匹配编号格式：1. xxx 2. xxx 3. xxx 4. xxx
+    pattern = r'(\d+)\s*[.:]\s*([^\d]+?)(?=\s*\d+\s*[.:]|$)'
+    matches = re.findall(pattern, response_text, re.DOTALL)
+    
+    if len(matches) >= 4:
+        for i in range(4):
+            problem = clean_problem_text(matches[i][1])
+            if problem:
+                problems.append(problem)
+    
+    # 如果编号格式解析失败，尝试按行分割
+    if len(problems) < 4:
+        problems = []
+        lines = [line.strip() for line in response_text.split('\n') if line.strip()]
+        
+        for line in lines[:4]:  # 只取前4行
+            # 移除行首的编号
+            cleaned_line = re.sub(r'^\d+[.:]\s*', '', line)
+            problem = clean_problem_text(cleaned_line)
+            if problem:
+                problems.append(problem)
+    
+    # 如果仍然不足4个，用原始响应填充
+    while len(problems) < 4:
+        fallback_problem = clean_problem_text(response_text)
+        if not fallback_problem:
+            fallback_problem = "interact with interface element"
+        problems.append(f"{fallback_problem} (variant {len(problems)+1})")
+    
+    return problems[:4]  # 确保只返回4个
+
+def generate_problems_from_image(image_path, api_url, model_name, prompt, temperature, retries=0):
+    """使用OpenAI客户端通过VLLM API生成四个problem描述"""
     if retries >= MAX_RETRIES:
         print(f"达到最大重试次数 ({MAX_RETRIES})，跳过图片: {image_path}")
         return None
@@ -115,16 +150,16 @@ def generate_problem_from_image(image_path, api_url, model_name, prompt, tempera
                 }
             ],
             temperature=temperature,
-            max_tokens=50
+            max_tokens=200  # 增加token数量以容纳4个问题
         )
         
         # 解析响应
-        problem = response.choices[0].message.content.strip()
+        response_text = response.choices[0].message.content.strip()
         
-        # 清理和格式化问题文本
-        problem = clean_problem_text(problem)
+        # 解析出四个问题
+        problems = parse_four_problems(response_text)
         
-        return problem
+        return problems
     
     except Exception as e:
         print(f"API请求错误: {e}")
@@ -132,10 +167,10 @@ def generate_problem_from_image(image_path, api_url, model_name, prompt, tempera
         retry_time = RETRY_DELAY + random.uniform(0, 2)
         print(f"将在 {retry_time:.2f} 秒后重试 (尝试 {retries+1}/{MAX_RETRIES})")
         time.sleep(retry_time)
-        return generate_problem_from_image(image_path, api_url, model_name, prompt, temperature, retries + 1)
+        return generate_problems_from_image(image_path, api_url, model_name, prompt, temperature, retries + 1)
 
 def process_dataset(args):
-    """处理数据集，为每个图片生成problem"""
+    """处理数据集，为每个图片生成四个problem"""
     # 加载原始数据
     print(f"正在读取数据: {args.data_path}")
     with open(args.data_path, 'r', encoding='utf-8') as f:
@@ -150,6 +185,10 @@ def process_dataset(args):
         return
     
     print(f"共有 {total} 条数据，从索引 {start_index} 开始处理")
+    print(f"预计生成 {(total - start_index) * 4} 条新数据")
+    
+    # 新的数据列表，用于存储扩展后的数据
+    new_data = []
     
     try:
         # 处理每条数据
@@ -162,8 +201,8 @@ def process_dataset(args):
                 # 保存原始问题用于显示
                 original_problem = item['problem']
                 
-                # 生成新的问题
-                new_problem = generate_problem_from_image(
+                # 生成四个新的问题
+                new_problems = generate_problems_from_image(
                     image_path, 
                     args.api_url, 
                     args.model_name, 
@@ -171,12 +210,23 @@ def process_dataset(args):
                     args.temperature
                 )
                 
-                if new_problem:
-                    # 替换问题
-                    item['problem'] = new_problem
-                    print(f"[{current_index+1}/{total}] 原问题: '{original_problem}' -> 新问题: '{new_problem}'")
+                if new_problems and len(new_problems) == 4:
+                    # 为每个问题创建一个新的数据条目
+                    for j, problem in enumerate(new_problems):
+                        new_item = item.copy()  # 复制原始数据
+                        new_item['problem'] = problem
+                        # 可选：添加变体标识
+                        if 'id' in new_item:
+                            new_item['id'] = f"{new_item['id']}_v{j+1}"
+                        new_data.append(new_item)
+                    
+                    print(f"[{current_index+1}/{total}] 原问题: '{original_problem}'")
+                    for j, problem in enumerate(new_problems):
+                        print(f"  -> 新问题{j+1}: '{problem}'")
                 else:
-                    print(f"[{current_index+1}/{total}] 警告: 无法生成问题，保留原问题: '{original_problem}'")
+                    print(f"[{current_index+1}/{total}] 警告: 无法生成4个问题，跳过该图片")
+                    # 如果生成失败，可以选择保留原始数据或跳过
+                    # new_data.append(item)  # 取消注释以保留原始数据
                 
                 # 限制API请求频率
                 time.sleep(args.delay)
@@ -189,12 +239,14 @@ def process_dataset(args):
         print(f"\n处理出错: {e}")
     
     # 保存处理后的数据
-    print(f"正在保存处理后的数据到: {args.output_path}")
+    print(f"\n正在保存处理后的数据到: {args.output_path}")
+    print(f"原始数据量: {total}, 新数据量: {len(new_data)}")
+    
     with open(args.output_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(new_data, f, ensure_ascii=False, indent=2)
     
     print("处理完成!")
 
 if __name__ == "__main__":
     args = parse_args()
-    process_dataset(args) 
+    process_dataset(args)
