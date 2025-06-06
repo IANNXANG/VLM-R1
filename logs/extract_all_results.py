@@ -37,6 +37,7 @@ OUTPUT_DIR = "logs"  # 输出CSV文件目录
 EXPERIMENT_TYPES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_results_",  # REC任务目录 -> REC结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-Temp0.8": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_results_",  # ScreenSpot桌面任务目录 -> ScreenSpot结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Pro-Click": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
@@ -45,6 +46,7 @@ EXPERIMENT_TYPES = {
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.7": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8-wp": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8-wp4": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.9": "click_results_",  # ScreenSpot点击任务目录 -> 点击结果文件前缀
 
     # [添加新实验]
@@ -63,6 +65,7 @@ EXPERIMENT_TYPES = {
 EXPERIMENT_CSV_NAMES = {
     "Qwen2.5-VL-7B-GRPO-REC-lora": "rec_lora",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click": "screenspot_click",
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-Temp0.8": "screenspot_click-Temp0.8",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop": "rec_screenspot_desktop",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Pro-Click": "pro_click",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting": "click_mjvoting",
@@ -71,6 +74,7 @@ EXPERIMENT_CSV_NAMES = {
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.7": "click_mjvoting_temp0.7",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8": "click_mjvoting_temp0.8",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8-wp": "click_mjvoting_temp0.8_wp",
+    "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8-wp4": "click_mjvoting_temp0.8_wp4",
     "Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.9": "click_mjvoting_temp0.9",
 
     # [添加新实验的CSV输出文件命名]
