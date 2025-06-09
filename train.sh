@@ -1,0 +1,6 @@
+export WANDB_MODE=offline
+
+bash src/open-r1-multimodal/run_scripts/zy_run_grpo_rec_screenspot_click_maj.sh
+bash src/open-r1-multimodal/run_scripts/zy_run_grpo_rec_screenspot_click.sh
+bash src/open-r1-multimodal/run_scripts/zy_run_grpo_rec_screenspot_click_maj_wp.sh
+bash src/open-r1-multimodal/run_scripts/zy_run_grpo_rec_screenspot_click_maj_wp4.sh

@@ -829,8 +829,11 @@ class VLMGRPOTrainer(Trainer):
 
         model_card.save(os.path.join(self.args.output_dir, "README.md"))
 
-    def _get_train_sampler(self) -> Sampler:
+    def _get_train_sampler(self, train_dataset=None) -> Sampler:
         """Returns a sampler that ensures proper data sampling for GRPO training."""
+        if train_dataset is None:
+            train_dataset = self.train_dataset
+            
         effective_batch_size = (
             self.args.per_device_train_batch_size
             * self.accelerator.num_processes
@@ -838,7 +841,7 @@ class VLMGRPOTrainer(Trainer):
         )
         
         return RepeatRandomSampler(
-            data_source=self.train_dataset,
+            data_source=train_dataset,
             mini_repeat_count=self.num_generations,
             batch_size=effective_batch_size // self.num_generations,
             repeat_count=self.num_iterations,
