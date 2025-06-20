@@ -188,17 +188,31 @@ class Qwen2VLModule(VLMBaseModule):
         return rewards
 
     @staticmethod
-    def majority_click_reward(completions, **kwargs):
+    def majority_click_reward(completions, prompts=None, **kwargs):
         """
-        使用majority voting（聚类）生成伪标签并计算奖励。
-        奖励规则：属于最大簇的点获得1.0的奖励，其他点获得0.0的奖励。
+        Compute the majority click reward for a list of completions using global clustering across all processes.
+        
+        Args:
+            completions: List of completion strings
+            prompts: List of prompt strings (optional)
+            **kwargs: Additional keyword arguments (unused)
+            
+        Returns:
+            List of rewards (floats)
         """
         import re
         import os
         import numpy as np
+        import torch
+        import torch.distributed as dist
         from datetime import datetime
         from sklearn.cluster import DBSCAN
         
+        DEBUG_MODE = os.getenv("DEBUG_MODE") == "true"
+        
+        if DEBUG_MODE:
+            debug_file = "src/open-r1-multimodal/debug_log_Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.7.txt"
+            
         def extract_point(content):
             """从模型输出中提取点坐标"""
             answer_tag_pattern = r'<answer>(.*?)</answer>'
@@ -219,44 +233,164 @@ class Qwen2VLModule(VLMBaseModule):
         rewards = []
         current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
         
-        # 提取所有坐标点
-        points = []
+        # 获取分布式训练信息
+        is_distributed = dist.is_available() and dist.is_initialized()
+        local_rank = int(os.getenv("LOCAL_RANK", 0))
+        world_size = int(os.getenv("WORLD_SIZE", 1))
+        
+        # 提取当前进程的所有坐标点，并记录有效性
+        local_points = []
+        local_valid_mask = []  # 记录每个点是否有效
         for content in contents:
             point = extract_point(content)
             if point:
-                points.append(point)
+                local_points.append(point)
+                local_valid_mask.append(True)
             else:
-                # 如果无法提取坐标，添加一个远离的点以保持数组大小一致
-                points.append([-999, -999])
+                # 无效坐标不参与聚类，但需要在奖励中标记为0
+                local_points.append([-999, -999])  # 占位符，不会用于聚类
+                local_valid_mask.append(False)
         
-        # 如果没有足够的有效点，返回全0奖励
-        if len([p for p in points if p[0] != -999]) < 2:
-            return [0.0] * len(contents)
+        if is_distributed:
+            # 收集所有进程的有效点进行全局聚类
+            
+            # 获取当前设备
+            device = torch.cuda.current_device() if torch.cuda.is_available() else torch.device('cpu')
+            
+            # 收集所有进程的有效点
+            local_valid_points = [p for p, valid in zip(local_points, local_valid_mask) if valid]
+            
+            # 将有效点转换为tensor进行分布式收集
+            if local_valid_points:
+                local_valid_points_tensor = torch.tensor(local_valid_points, dtype=torch.float32, device=device)
+                local_valid_count = torch.tensor([len(local_valid_points)], dtype=torch.int32, device=device)
+            else:
+                local_valid_points_tensor = torch.empty((0, 2), dtype=torch.float32, device=device)
+                local_valid_count = torch.tensor([0], dtype=torch.int32, device=device)
+            
+            # 收集所有进程的有效点数量
+            all_valid_counts = [torch.zeros(1, dtype=torch.int32, device=device) for _ in range(world_size)]
+            dist.all_gather(all_valid_counts, local_valid_count)
+            all_valid_counts = [count.item() for count in all_valid_counts]
+            
+            # 收集所有进程的有效点
+            max_points = max(all_valid_counts) if all_valid_counts else 0
+            if max_points > 0:
+                # 将本地tensor填充到最大长度
+                if local_valid_points_tensor.size(0) < max_points:
+                    padding = torch.full((max_points - local_valid_points_tensor.size(0), 2), -999.0, dtype=torch.float32, device=device)
+                    local_valid_points_tensor = torch.cat([local_valid_points_tensor, padding], dim=0)
+                
+                # 收集所有进程的点
+                all_points_list = [torch.zeros((max_points, 2), dtype=torch.float32, device=device) for _ in range(world_size)]
+                dist.all_gather(all_points_list, local_valid_points_tensor)
+                
+                # 合并所有有效点
+                global_valid_points = []
+                for i, (points_tensor, count) in enumerate(zip(all_points_list, all_valid_counts)):
+                    if count > 0:
+                        valid_points_from_process = points_tensor[:count].cpu().numpy().tolist()
+                        global_valid_points.extend(valid_points_from_process)
+            else:
+                global_valid_points = []
+            
+            # 如果全局没有足够的有效点，返回全0奖励
+            if len(global_valid_points) < 2:
+                return [0.0] * len(contents)
+            
+            # 在所有进程上进行相同的全局聚类
+            global_valid_points_array = np.array(global_valid_points)
+            eps = 40  # 聚类的最大距离
+            dbscan = DBSCAN(eps=eps, min_samples=1).fit(global_valid_points_array)
+            global_cluster_labels = dbscan.labels_
+            
+            # 找出最大的簇
+            label_counts = {}
+            for label in global_cluster_labels:
+                if label not in label_counts:
+                    label_counts[label] = 0
+                label_counts[label] += 1
+            
+            largest_cluster_label = max(label_counts, key=label_counts.get) if label_counts else -1
+            
+            # 将全局聚类结果映射到当前进程的点
+            # 需要找到当前进程的有效点在全局列表中的位置
+            current_process_start = sum(all_valid_counts[:local_rank])
+            current_process_end = current_process_start + all_valid_counts[local_rank]
+            current_process_cluster_labels = global_cluster_labels[current_process_start:current_process_end]
+            
+        else:
+            # 非分布式训练，使用局部聚类
+            local_valid_points = [p for p, valid in zip(local_points, local_valid_mask) if valid]
+            
+            if len(local_valid_points) < 2:
+                return [0.0] * len(contents)
+            
+            valid_points_array = np.array(local_valid_points)
+            eps = 40
+            dbscan = DBSCAN(eps=eps, min_samples=1).fit(valid_points_array)
+            current_process_cluster_labels = dbscan.labels_
+            
+            label_counts = {}
+            for label in current_process_cluster_labels:
+                if label not in label_counts:
+                    label_counts[label] = 0
+                label_counts[label] += 1
+            
+            largest_cluster_label = max(label_counts, key=label_counts.get) if label_counts else -1
+            global_valid_points = local_valid_points
+            global_cluster_labels = current_process_cluster_labels
         
-        # 使用DBSCAN进行聚类
-        points_array = np.array(points)
-        eps = 40  # 聚类的最大距离，与visualize_reward_hit_rate.py中相同
-        dbscan = DBSCAN(eps=eps, min_samples=1).fit(points_array)
-        cluster_labels = dbscan.labels_
+        # 生成奖励：将聚类结果映射回原始序列
+        rewards = []
+        valid_idx = 0
+        for valid in local_valid_mask:
+            if valid:
+                # 有效点：根据聚类结果给奖励
+                cluster_label = current_process_cluster_labels[valid_idx]
+                rewards.append(1.0 if cluster_label == largest_cluster_label else 0.0)
+                valid_idx += 1
+            else:
+                # 无效点：直接给0奖励
+                rewards.append(0.0)
         
-        # 找出最大的簇
-        label_counts = {}
-        for label in cluster_labels:
-            if label not in label_counts:
-                label_counts[label] = 0
-            label_counts[label] += 1
+        # 重建cluster_labels用于调试输出（包含无效点标记）
+        cluster_labels = []
+        valid_idx = 0
+        for valid in local_valid_mask:
+            if valid:
+                cluster_labels.append(int(current_process_cluster_labels[valid_idx]))  # 转换为Python int
+                valid_idx += 1  
+            else:
+                cluster_labels.append(-2)  # 用-2标记无效点
         
-        largest_cluster_label = max(label_counts, key=label_counts.get) if label_counts else -1
-        
-        # 生成奖励：在最大簇中的点为1，其他为0
-        rewards = [1.0 if label == largest_cluster_label else 0.0 for label in cluster_labels]
-        
-        if os.getenv("DEBUG_MODE") == "true":
+        if DEBUG_MODE:
             log_path = os.getenv("LOG_PATH")
             with open(log_path, "a", encoding='utf-8') as f:
                 f.write(f"------------- {current_time} Majority Click Reward -------------\n")
-                f.write(f"Points: {points}\n")
-                f.write(f"Cluster labels: {cluster_labels}\n")
+                
+                # Log complete prompts and responses
+                if prompts:
+                    f.write(f"\n--- Complete Prompts ---\n")
+                    for i, prompt in enumerate(prompts):
+                        f.write(f"Prompt {i+1}: {prompt}\n")
+                
+                f.write(f"\n--- Complete Responses ---\n")
+                for i, content in enumerate(contents):
+                    f.write(f"Response {i+1}: {content}\n")
+                
+                f.write(f"\n--- Clustering Results ---\n")
+                f.write(f"Distributed Training: {is_distributed}\n")
+                f.write(f"Local Rank: {local_rank}, World Size: {world_size}\n")
+                f.write(f"Local Points: {local_points}\n")
+                f.write(f"Local Valid Mask: {local_valid_mask}\n")
+                if is_distributed:
+                    f.write(f"Global Valid Points (Total: {len(global_valid_points)}): {global_valid_points}\n")
+                    f.write(f"Global Cluster Labels: {global_cluster_labels.tolist()}\n")
+                    f.write(f"Current Process Cluster Labels: {current_process_cluster_labels.tolist()}\n")
+                else:
+                    f.write(f"Local Valid Points: {global_valid_points}\n")
+                f.write(f"Final Cluster labels: {cluster_labels}\n")
                 f.write(f"Largest cluster: {largest_cluster_label}\n")
                 f.write(f"Rewards: {rewards}\n")
                 

@@ -4,7 +4,7 @@ export PYTHONWARNINGS="ignore:None of the inputs have requires_grad=True. Gradie
 export DEBUG_MODE="true"
 export CUDA_VISIBLE_DEVICES=2,3,4,5
 
-RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.7"
+RUN_NAME="Qwen2.5-VL-7B-GRPO-ScreenSpot-Desktop-Click-MajorityVoting-Temp0.8"
 export LOG_PATH="./debug_log_$RUN_NAME.txt"
 
 torchrun --nproc_per_node="4" \
@@ -40,6 +40,6 @@ torchrun --nproc_per_node="4" \
     --lora_dropout 0.05 \
     --lora_task_type CAUSAL_LM \
     --freeze_vision_modules true \
-    --temperature 0.7 \
+    --temperature 0.8 \
     --reward_funcs majority_click click_format
     
