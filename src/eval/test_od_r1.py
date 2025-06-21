@@ -109,7 +109,7 @@ def eval_od_r1(
             inputs = inputs.to(device_map)
 
             # Inference: Generation of the output
-            generated_ids = model.generate(**inputs, use_cache=True, max_new_tokens=256, do_sample=False)
+            generated_ids = model.generate(**inputs, use_cache=True, max_new_tokens=256, do_sample=False, temperature=None)
 
             generated_ids_trimmed = [out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
             batch_output_text = processor.batch_decode(generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)

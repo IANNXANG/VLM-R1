@@ -185,7 +185,7 @@ for ds in TEST_DATASETS:
         inputs = inputs.to(device)
 
         # Inference: Generation of the output
-        generated_ids = model.generate(**inputs, use_cache=True, max_new_tokens=256, do_sample=False)
+        generated_ids = model.generate(**inputs, use_cache=True, max_new_tokens=256, do_sample=False, temperature=None)
         
         generated_ids_trimmed = [
             out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)

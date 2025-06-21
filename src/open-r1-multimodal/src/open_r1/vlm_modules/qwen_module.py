@@ -296,23 +296,23 @@ class Qwen2VLModule(VLMBaseModule):
             
             # 如果全局没有足够的有效点，返回全0奖励
             if len(global_valid_points) < 2:
-                return [0.0] * len(contents)
-            
+            return [0.0] * len(contents)
+        
             # 在所有进程上进行相同的全局聚类
             global_valid_points_array = np.array(global_valid_points)
             eps = 40  # 聚类的最大距离
             dbscan = DBSCAN(eps=eps, min_samples=1).fit(global_valid_points_array)
             global_cluster_labels = dbscan.labels_
-            
-            # 找出最大的簇
-            label_counts = {}
+        
+        # 找出最大的簇
+        label_counts = {}
             for label in global_cluster_labels:
-                if label not in label_counts:
-                    label_counts[label] = 0
-                label_counts[label] += 1
-            
-            largest_cluster_label = max(label_counts, key=label_counts.get) if label_counts else -1
-            
+            if label not in label_counts:
+                label_counts[label] = 0
+            label_counts[label] += 1
+        
+        largest_cluster_label = max(label_counts, key=label_counts.get) if label_counts else -1
+        
             # 将全局聚类结果映射到当前进程的点
             # 需要找到当前进程的有效点在全局列表中的位置
             current_process_start = sum(all_valid_counts[:local_rank])

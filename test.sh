@@ -1,0 +1,4 @@
+bash src/eval/test_multiple_models_click_mjvoting.sh
+bash src/eval/test_multiple_models_click.sh
+bash src/eval/test_multiple_models_click_mjvoting_wp.sh
+bash src/eval/test_multiple_models_click_mjvoting_wp4.sh
